@@ -1,5 +1,5 @@
 topic: #dsa/backtracking 
-
+Related: [[Backtracking]]
 ### basic info
 - source:  #leetcode 
 - serial no: #leetcode/131
