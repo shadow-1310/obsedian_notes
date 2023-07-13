@@ -17,9 +17,22 @@ topic: #dsa/backtracking
 - space complexity
 
 #### pseudo code
-
+- make a helper function to check if a string is palindrome or not given its start and end pointer/index
+- make backtrack helper function, it will take two arguments as input
+	- start, starting index
+	- curr, current subset
+- base case is if start >= len(s)
+- start a loop with end value in range (start, len(s))
+	- execute the following if s[start:end+1]  is palindrome
+		- so for first node string will be of 1 character, for second node it will be of 2 character starting from start position
+		- append the string to current subset 
+		- and call the backtrack function with start = end+1
+		- pop the last added string from current subset
+		- continue the loop 
+- end loop
 #### mistakes
-
+- be careful with the range in loop, it should be (start, len(s))
+- for the string to be appended take care *off by 1 error*, it should be s[start:end+1]
 #### code snippet
 ```python
 
