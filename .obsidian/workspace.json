@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8edba00ce32d10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "79-Word Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-13.md",
+                "file": "79-Word Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-13.md",
+                "file": "79-Word Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-13.md",
+                "file": "79-Word Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-13.md"
+                "file": "79-Word Search.md"
               }
             }
           }
@@ -208,12 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c2f9f9bc0db8935",
+  "active": "b8edba00ce32d10e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230713185542.png",
+    "daily-notes/2023-07-13.md",
+    "79-Word Search.md",
     "40-Combinations Sum-II.md",
     "DSA/Topics/Backtracking.md",
     "39-Combination_Sum.md",
-    "daily-notes/2023-07-13.md",
     "daily-notes/2023-07-11.md",
     "17- Letter Combinations of a Phone Number.md",
     "daily-notes/2023-07-10.md",
@@ -239,10 +253,8 @@
     "78-Subsets.md",
     "attachments/Pasted image 20230711235340.png",
     "DSA/Topics/DSA.md",
-    "46-Permutations.md",
     "attachments/Pasted image 20230711215841.png",
     "attachments",
-    "DSA/Topics/Heap.md",
     "Untitled.canvas",
     "DSA/Topics",
     "DSA",
