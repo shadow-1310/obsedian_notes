@@ -1,5 +1,6 @@
 tags: 
 ## Personal habits
+--- 
 
 - **wake up** :
 
@@ -14,6 +15,7 @@ tags:
 
 
 ## Work
+---
 
 Big Task Today 
 - 
@@ -24,6 +26,7 @@ Big Task Today
 - [ ] 2
 
 ## Learning
+--- 
 
 Big Task Today 
 - 
@@ -33,4 +36,5 @@ Big Task Today
 - [ ] 1
 - [ ] 2
 ## Entertainment / Personal interest
+---
 - 
