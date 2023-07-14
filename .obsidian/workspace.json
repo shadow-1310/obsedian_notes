@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01661970f19ce4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4af948082869475",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5901f246169e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resolute AI.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:OCR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,15 +209,20 @@
   },
   "active": "c4af948082869475",
   "lastOpenFiles": [
-    "daily-notes/2023-07-13.md",
+    "Resolute AI.md",
+    "OpenCV.md",
     "daily-notes/2023-07-14.md",
-    "templates/daily_activity.md",
+    "Shaft Defect Detection.md",
     "OCR for beverage client.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-07-15.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-07-13.md",
+    "templates/daily_activity.md",
     "daily-notes/2023-07-11.md",
     "daily-notes/2023-07-10.md",
     "daily-notes/2023-07-12.md",
     "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Backtracking.md",
     "131-Palindrome Partition.md",
     "22-Generate Parentheses.md",
@@ -233,13 +237,8 @@
     "Git-Github.md",
     "attachments/Pasted image 20230713133818.png",
     "daily-notes/2023-07-19.md",
-    "Linux.md",
-    "Strings.md",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
-    "templates/DSA_problem.md",
-    "Summer Analytics 2023.md",
-    "templates/Course.md",
     "attachments/11_4723879.jpg",
     "attachments/Pasted image 20230711235340.png",
     "attachments/Pasted image 20230711215841.png",

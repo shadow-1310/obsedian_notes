@@ -1,4 +1,4 @@
-tags: #projects/ocr #unfinished 
+tags: #projects/ocr #unfinished #poc
 people involved : [[Amit Sir]] , [[Pushpendra]], [[Bhargav-internmate]]
 
 ## Problem Statement
