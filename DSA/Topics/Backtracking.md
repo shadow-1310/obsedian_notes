@@ -23,5 +23,8 @@ tags: #dsa/backtracking #unfinished
 - [[46-Permutations]]
 - [[17- Letter Combinations of a Phone Number]]
 - [[131-Palindrome Partition]]
+- [[40-Combinations Sum-II]]
+- [[79-Word Search]]
+- [[22-Generate Parentheses]]
 
 

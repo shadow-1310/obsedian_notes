@@ -11,4 +11,4 @@
 - [[Tries]]
 - [[Heap]]
 - [[Backtracking]]
-- 
+- [[Dynamic Programming]]
