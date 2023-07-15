@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses - non-academic.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses - non-academic.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses - non-academic.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +163,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Courses - non-academic.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -186,7 +186,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6197661066632777,
+                  "scale": 0.3956885590696667,
                   "close": true
                 }
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses - non-academic.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           }
@@ -244,35 +244,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "056a48a4a611b5c6",
+  "active": "edbda6db19ba5d44",
   "lastOpenFiles": [
-    "Summer Analytics 2023.md",
+    "DSA/Topics/Backtracking.md",
+    "DSA/Topics/DSA.md",
+    "22-Generate Parentheses.md",
+    "daily-notes/2023-07-13.md",
+    "daily-notes/2023-07-14.md",
+    "Dynamic Programming.md",
+    "70- Climbing Stairs.md",
+    "70-Climbing Stairs.md",
+    "daily-notes/2023-07-15.md",
     "Courses - non-academic.md",
+    "Summer Analytics 2023.md",
     "Robotics101.md",
     "Robotics101-week1.md",
-    "daily-notes/2023-07-14.md",
-    "daily-notes/2023-07-15.md",
     "Resolute AI.md",
     "OpenCV.md",
     "Shaft Defect Detection.md",
     "OCR for beverage client.md",
-    "DSA/Topics/DSA.md",
     "Benchmarking of dimensionality Reduction technique.md",
-    "daily-notes/2023-07-13.md",
     "templates/daily_activity.md",
     "daily-notes/2023-07-11.md",
     "daily-notes/2023-07-10.md",
     "daily-notes/2023-07-12.md",
-    "Dynamic Programming.md",
-    "DSA/Topics/Backtracking.md",
     "131-Palindrome Partition.md",
-    "22-Generate Parentheses.md",
     "Teenage Dream.md",
     "79-Word Search.md",
     "attachments/Pasted image 20230713185542.png",
     "40-Combinations Sum-II.md",
-    "39-Combination_Sum.md",
-    "17- Letter Combinations of a Phone Number.md",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
