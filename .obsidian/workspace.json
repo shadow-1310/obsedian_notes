@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-14.md",
+                "file": "Summer Analytics 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8fd4b9c3a4dfc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "229a50e832f28d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics101-week1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "056a48a4a611b5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses - non-academic.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-14.md",
+                "file": "Courses - non-academic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-14.md",
+                "file": "Courses - non-academic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-14.md",
+                "file": "Courses - non-academic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-14.md"
+                "file": "Courses - non-academic.md"
               }
             }
           }
@@ -207,15 +244,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4af948082869475",
+  "active": "056a48a4a611b5c6",
   "lastOpenFiles": [
+    "Summer Analytics 2023.md",
+    "Courses - non-academic.md",
+    "Robotics101.md",
+    "Robotics101-week1.md",
+    "daily-notes/2023-07-14.md",
+    "daily-notes/2023-07-15.md",
     "Resolute AI.md",
     "OpenCV.md",
-    "daily-notes/2023-07-14.md",
     "Shaft Defect Detection.md",
     "OCR for beverage client.md",
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-07-15.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-07-13.md",
     "templates/daily_activity.md",
@@ -232,11 +273,7 @@
     "40-Combinations Sum-II.md",
     "39-Combination_Sum.md",
     "17- Letter Combinations of a Phone Number.md",
-    "77-Combinations.md",
-    "Obsidian.md",
-    "Git-Github.md",
     "attachments/Pasted image 20230713133818.png",
-    "daily-notes/2023-07-19.md",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
     "attachments/11_4723879.jpg",

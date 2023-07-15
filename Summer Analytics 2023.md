@@ -1,4 +1,4 @@
-tags: #unfinished  
+tags: #unfinished #course  
 People:
 
 ## Modules
