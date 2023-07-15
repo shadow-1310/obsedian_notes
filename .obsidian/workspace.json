@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4af948082869475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer Analytics 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8fd4b9c3a4dfc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "229a50e832f28d9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics101-week1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "056a48a4a611b5c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a5901f246169e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resolute AI.md",
-                "mode": "preview",
+                "file": "yolov5-pytorch.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:OCR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "yolov5-pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "yolov5-pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "yolov5-pytorch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +137,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3956885590696667,
+                  "scale": 0.5129226769816141,
                   "close": true
                 }
               }
@@ -209,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/DSA.md"
+                "file": "yolov5-pytorch.md"
               }
             }
           }
@@ -244,8 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edbda6db19ba5d44",
+  "active": "9a5901f246169e49",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230715223235.png",
+    "attachments/Pasted image 20230715222942.png",
+    "YOLO.md",
+    "Resolute AI.md",
+    "attachments/Pasted image 20230715222514.png",
+    "yolov5-pytorch.md",
+    "Shaft Defect Detection.md",
+    "daily-notes/2023-07-15.md",
+    "Summer Analytics 2023.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/DSA.md",
     "22-Generate Parentheses.md",
@@ -254,14 +214,10 @@
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",
-    "daily-notes/2023-07-15.md",
     "Courses - non-academic.md",
-    "Summer Analytics 2023.md",
     "Robotics101.md",
     "Robotics101-week1.md",
-    "Resolute AI.md",
     "OpenCV.md",
-    "Shaft Defect Detection.md",
     "OCR for beverage client.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "templates/daily_activity.md",
@@ -269,10 +225,7 @@
     "daily-notes/2023-07-10.md",
     "daily-notes/2023-07-12.md",
     "131-Palindrome Partition.md",
-    "Teenage Dream.md",
-    "79-Word Search.md",
     "attachments/Pasted image 20230713185542.png",
-    "40-Combinations Sum-II.md",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
