@@ -23,3 +23,8 @@ Test Video:
 
 Sumission:
 Submit the image and the necessary code in .txt format.
+
+
+## Solution
+
+vertices = (110, 359), (530, 359), (285, 150)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR for beverage client.md",
+                "file": "Robotics101-week1.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCR for beverage client.md",
+                "file": "Robotics101-week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OCR for beverage client.md",
+                "file": "Robotics101-week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OCR for beverage client.md",
+                "file": "Robotics101-week1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCR for beverage client.md"
+                "file": "Robotics101-week1.md"
               }
             }
           }
@@ -198,12 +197,13 @@
   },
   "active": "9a5901f246169e49",
   "lastOpenFiles": [
+    "Robotics101.md",
+    "daily-notes/2023-07-16.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "daily-notes/2023-07-14.md",
     "daily-notes/2023-07-15.md",
-    "daily-notes/2023-07-16.md",
     "daily-notes/2023-07-18.md",
     "yolov5-pytorch.md",
     "Linux.md",
@@ -222,7 +222,6 @@
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",
     "Courses - non-academic.md",
-    "Robotics101.md",
     "Robotics101-week1.md",
     "OpenCV.md",
     "OCR for beverage client.md",
@@ -233,7 +232,6 @@
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
-    "attachments/11_4723879.jpg",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
