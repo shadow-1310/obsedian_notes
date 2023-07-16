@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yolov5-pytorch.md",
-                "mode": "preview",
+                "file": "OCR for beverage client.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yolo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "OCR for beverage client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "OCR for beverage client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "OCR for beverage client.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yolov5-pytorch.md"
+                "file": "OCR for beverage client.md"
               }
             }
           }
@@ -198,10 +198,15 @@
   },
   "active": "9a5901f246169e49",
   "lastOpenFiles": [
-    "daily-notes/2023-07-15.md",
+    "attachments/val_batch1_pred.jpg",
+    "attachments/val_batch0_pred.jpg",
+    "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "daily-notes/2023-07-14.md",
-    "Linux.md",
+    "daily-notes/2023-07-15.md",
+    "daily-notes/2023-07-16.md",
+    "daily-notes/2023-07-18.md",
     "yolov5-pytorch.md",
+    "Linux.md",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
     "YOLO.md",
@@ -224,16 +229,11 @@
     "Benchmarking of dimensionality Reduction technique.md",
     "templates/daily_activity.md",
     "daily-notes/2023-07-11.md",
-    "daily-notes/2023-07-10.md",
-    "daily-notes/2023-07-12.md",
-    "131-Palindrome Partition.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
     "attachments/Pasted image 20230713014115.png",
     "attachments/11_4723879.jpg",
-    "attachments/Pasted image 20230711235340.png",
-    "attachments/Pasted image 20230711215841.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
