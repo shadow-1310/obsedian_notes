@@ -16,3 +16,12 @@ systemctl list-unit-files | grep <program-name>
 ```sh
 sudo systemctl disable <program-name>
 ```
+
+## Cool terminal apps
+- hollywood style hacking [here](https://www.tecmint.com/fake-hollywood-hacker-terminal/)
+
+```shell
+$ sudo apt-add-repository ppa:hollywood/ppa
+$ sudo apt-get update
+$ sudo apt-get install byobu hollywood
+```

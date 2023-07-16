@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "yolov5-pytorch.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5129226769816141,
+                  "scale": 0.6721188482336041,
                   "close": true
                 }
               }
@@ -197,20 +198,21 @@
   },
   "active": "9a5901f246169e49",
   "lastOpenFiles": [
+    "daily-notes/2023-07-15.md",
+    "daily-notes/2023-07-14.md",
+    "Linux.md",
+    "yolov5-pytorch.md",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
     "YOLO.md",
     "Resolute AI.md",
     "attachments/Pasted image 20230715222514.png",
-    "yolov5-pytorch.md",
     "Shaft Defect Detection.md",
-    "daily-notes/2023-07-15.md",
     "Summer Analytics 2023.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/DSA.md",
     "22-Generate Parentheses.md",
     "daily-notes/2023-07-13.md",
-    "daily-notes/2023-07-14.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",

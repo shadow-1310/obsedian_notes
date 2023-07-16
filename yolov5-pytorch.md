@@ -9,6 +9,11 @@ tags : #yolo
 #### data.yaml file
 - this file will contain about the directories of training and validation file along with the classes. A sample is shown below
 	- ![[Pasted image 20230715223235.png]]
-### flags for detect.py
+## Files generated after training
+- best.pt file
+	- best.pt is the checkpoint file that has the best validation loss during training. More details [here](https://github.com/ultralytics/yolov5/issues/8701)
+
+
+## flags for detect.py
 
 ![[Pasted image 20230715222514.png]]
