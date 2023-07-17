@@ -28,7 +28,7 @@ people involved : [[Amit Sir]] , [[Pushpendra]], [[Bhargav-internmate]]
 - Step 3- preprocess the image and place them in separate directory ^4570bb
 - step 4- inference the processed images with EasyOCR
 	- **plan-change** - inference the original images, not the processed ones. ^429ee9
-- step 5 - annotate the images using [[labelImg]] and then yolov5 model. Following are the results
+- step 5 - annotate the images using [[labelImg]] and then yolov5 model. Following are the results ^f4f197
 	- ![[Screenshot from 2023-07-16 01-22-00.png]]
 	- ![[val_batch0_pred.jpg]]
 	- ![[val_batch1_pred.jpg]]

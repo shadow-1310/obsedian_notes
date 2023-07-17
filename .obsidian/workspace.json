@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics101-week1.md",
+                "file": "daily-notes/2023-07-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics101-week1.md",
+                "file": "daily-notes/2023-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics101-week1.md",
+                "file": "daily-notes/2023-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,11 +114,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Robotics101-week1.md",
+                "file": "daily-notes/2023-07-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics101-week1.md"
+                "file": "daily-notes/2023-07-16.md"
               }
             }
           }
@@ -195,15 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a5901f246169e49",
+  "active": "edbda6db19ba5d44",
   "lastOpenFiles": [
-    "Robotics101.md",
+    "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
+    "daily-notes/2023-07-15.md",
+    "Robotics101-week1.md",
+    "Robotics101.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "daily-notes/2023-07-14.md",
-    "daily-notes/2023-07-15.md",
     "daily-notes/2023-07-18.md",
     "yolov5-pytorch.md",
     "Linux.md",
@@ -222,7 +224,6 @@
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",
     "Courses - non-academic.md",
-    "Robotics101-week1.md",
     "OpenCV.md",
     "OCR for beverage client.md",
     "Benchmarking of dimensionality Reduction technique.md",
