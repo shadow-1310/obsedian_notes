@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-16.md",
+                "file": "daily-notes/2023-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-16.md",
+                "file": "daily-notes/2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-16.md",
+                "file": "daily-notes/2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-16.md",
+                "file": "daily-notes/2023-07-18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-16.md"
+                "file": "daily-notes/2023-07-18.md"
               }
             }
           }
@@ -195,10 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edbda6db19ba5d44",
+  "active": "9a5901f246169e49",
   "lastOpenFiles": [
     "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
+    "OpenCV.md",
     "daily-notes/2023-07-15.md",
     "Robotics101-week1.md",
     "Robotics101.md",
@@ -224,7 +226,6 @@
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",
     "Courses - non-academic.md",
-    "OpenCV.md",
     "OCR for beverage client.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "templates/daily_activity.md",
