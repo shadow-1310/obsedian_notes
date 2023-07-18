@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adad6bee7905ed27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "746-Min Cost climbing stairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-18.md"
+                "file": "746-Min Cost climbing stairs.md"
               }
             }
           }
@@ -196,10 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a5901f246169e49",
+  "active": "adad6bee7905ed27",
   "lastOpenFiles": [
-    "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-18.md",
+    "746-Min Cost climbing stairs.md",
+    "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
     "OpenCV.md",
     "daily-notes/2023-07-15.md",
@@ -229,7 +242,6 @@
     "OCR for beverage client.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "templates/daily_activity.md",
-    "daily-notes/2023-07-11.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
