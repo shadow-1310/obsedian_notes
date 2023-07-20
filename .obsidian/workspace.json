@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
+                "file": "daily-notes/2023-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
+                "file": "daily-notes/2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
+                "file": "daily-notes/2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
+                "file": "daily-notes/2023-07-18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "746-Min Cost climbing stairs.md"
+                "file": "daily-notes/2023-07-18.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "adad6bee7905ed27",
   "lastOpenFiles": [
-    "daily-notes/2023-07-18.md",
     "746-Min Cost climbing stairs.md",
+    "daily-notes/2023-07-18.md",
     "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
     "OpenCV.md",
