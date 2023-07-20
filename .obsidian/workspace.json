@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "daily-notes/2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,20 +207,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adad6bee7905ed27",
+  "active": "9a5901f246169e49",
   "lastOpenFiles": [
-    "746-Min Cost climbing stairs.md",
+    "daily-notes/2023-07-20.md",
+    "daily-notes/2023-07-19.md",
     "daily-notes/2023-07-18.md",
     "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
-    "OpenCV.md",
     "daily-notes/2023-07-15.md",
+    "daily-notes/2023-07-14.md",
+    "746-Min Cost climbing stairs.md",
+    "OpenCV.md",
     "Robotics101-week1.md",
     "Robotics101.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
-    "daily-notes/2023-07-14.md",
     "yolov5-pytorch.md",
     "Linux.md",
     "attachments/Pasted image 20230715223235.png",
@@ -240,8 +241,6 @@
     "70-Climbing Stairs.md",
     "Courses - non-academic.md",
     "OCR for beverage client.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "templates/daily_activity.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
