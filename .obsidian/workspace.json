@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "yolov5-pytorch.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#yolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "yolov5-pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "yolov5-pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-18.md",
+                "file": "yolov5-pytorch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-18.md"
+                "file": "yolov5-pytorch.md"
               }
             }
           }
