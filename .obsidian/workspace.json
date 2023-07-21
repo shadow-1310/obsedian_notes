@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "daily-notes/2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "daily-notes/2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "daily-notes/2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "yolov5-pytorch.md",
+                "file": "daily-notes/2023-07-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yolov5-pytorch.md"
+                "file": "daily-notes/2023-07-20.md"
               }
             }
           }
@@ -210,8 +210,11 @@
   },
   "active": "9a5901f246169e49",
   "lastOpenFiles": [
-    "daily-notes/2023-07-20.md",
     "daily-notes/2023-07-19.md",
+    "daily-notes/2023-07-20.md",
+    "daily-notes/2023-07-21.md",
+    "daily-notes/2023-07-22.md",
+    "yolov5-pytorch.md",
     "daily-notes/2023-07-18.md",
     "daily-notes/2023-07-17.md",
     "daily-notes/2023-07-16.md",
@@ -224,7 +227,6 @@
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
-    "yolov5-pytorch.md",
     "Linux.md",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
@@ -240,8 +242,6 @@
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "70-Climbing Stairs.md",
-    "Courses - non-academic.md",
-    "OCR for beverage client.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
