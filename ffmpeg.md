@@ -1,0 +1,10 @@
+tags : #media
+
+### trimming video
+```sh
+
+ffmpeg -ss 00:01:00 -to 00:02:00 -i input.mp4 -c copy output.mp4
+
+```
+-  [documentation](https://trac.ffmpeg.org/wiki/Seeking#Cuttingsmallsections)
+- [Cutting the videos based on start and end time using ffmpeg - Stack Overflow](https://stackoverflow.com/questions/18444194/cutting-the-videos-based-on-start-and-end-time-using-ffmpeg)

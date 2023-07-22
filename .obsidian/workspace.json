@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-20.md",
+                "file": "Linux.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2db762ec3f6fdcc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-07-22.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#yolo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-20.md",
+                "file": "daily-notes/2023-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-20.md",
+                "file": "daily-notes/2023-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-20.md",
+                "file": "daily-notes/2023-07-22.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-20.md"
+                "file": "daily-notes/2023-07-22.md"
               }
             }
           }
@@ -208,12 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a5901f246169e49",
+  "active": "2db762ec3f6fdcc2",
   "lastOpenFiles": [
+    "ffmpeg.md",
+    "Linux.md",
+    "daily-notes/2023-07-22.md",
+    "daily-notes/2023-07-21.md",
     "daily-notes/2023-07-19.md",
     "daily-notes/2023-07-20.md",
-    "daily-notes/2023-07-21.md",
-    "daily-notes/2023-07-22.md",
     "yolov5-pytorch.md",
     "daily-notes/2023-07-18.md",
     "daily-notes/2023-07-17.md",
@@ -227,7 +241,6 @@
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
-    "Linux.md",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
     "YOLO.md",
@@ -241,7 +254,6 @@
     "daily-notes/2023-07-13.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
-    "70-Climbing Stairs.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
