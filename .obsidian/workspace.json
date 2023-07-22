@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1dd8e2ea8fdd171f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nvim.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "adad6bee7905ed27",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-22.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-22.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-22.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-22.md"
+                "file": "nvim.md"
               }
             }
           }
@@ -220,12 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db762ec3f6fdcc2",
+  "active": "1dd8e2ea8fdd171f",
   "lastOpenFiles": [
+    "daily-notes/2023-07-21.md",
+    "daily-notes/2023-07-22.md",
+    "nvim.md",
+    "attachments/Pasted image 20230722225636.png",
     "ffmpeg.md",
     "Linux.md",
-    "daily-notes/2023-07-22.md",
-    "daily-notes/2023-07-21.md",
     "daily-notes/2023-07-19.md",
     "daily-notes/2023-07-20.md",
     "yolov5-pytorch.md",
@@ -252,12 +267,9 @@
     "DSA/Topics/DSA.md",
     "22-Generate Parentheses.md",
     "daily-notes/2023-07-13.md",
-    "Dynamic Programming.md",
-    "70- Climbing Stairs.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",
-    "attachments/Pasted image 20230713014115.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
