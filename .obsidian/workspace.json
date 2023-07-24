@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-23.md",
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb40ceb819b371b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fzf.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:nvim",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-23.md",
+                "file": "fzf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-23.md",
+                "file": "fzf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-23.md",
+                "file": "fzf.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-23.md"
+                "file": "fzf.md"
               }
             }
           }
@@ -233,16 +245,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd8e2ea8fdd171f",
+  "active": "7fb40ceb819b371b",
   "lastOpenFiles": [
     "daily-notes/2023-07-24.md",
-    "daily-notes/2023-07-23.md",
+    "Linux.md",
     "nvim.md",
-    "daily-notes/2023-07-21.md",
     "daily-notes/2023-07-22.md",
+    "fzf.md",
+    "daily-notes/2023-07-23.md",
+    "daily-notes/2023-07-21.md",
     "attachments/Pasted image 20230722225636.png",
     "ffmpeg.md",
-    "Linux.md",
     "daily-notes/2023-07-19.md",
     "daily-notes/2023-07-20.md",
     "yolov5-pytorch.md",
@@ -267,7 +280,6 @@
     "Summer Analytics 2023.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/DSA.md",
-    "22-Generate Parentheses.md",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
     "attachments/Pasted image 20230713014803.png",

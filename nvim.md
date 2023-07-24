@@ -1,8 +1,10 @@
 tags : 
 ## configs
+---
 - config by Neural Nine [here](https://github.com/NeuralNine/config-files/blob/master/init.vim)
 
 ## Plugins
+---
 ### coc.nvm - autocompletion 
 [github-repo](https://github.com/neoclide/coc.nvim)
 #### setup
@@ -61,5 +63,11 @@ yarn build
 ```
 
 
+
+### fzf
+tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](https://www.youtube.com/watch?v=DpURGnb4Fyk)
+
+
 ## keyboard shortcuts
+---
 - indent lines [stackoverflow](https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
