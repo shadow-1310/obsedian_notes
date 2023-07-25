@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1143-Longest common subsequence.md",
+                "file": "daily-notes/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1143-Longest common subsequence.md",
+                "file": "daily-notes/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1143-Longest common subsequence.md",
+                "file": "daily-notes/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1143-Longest common subsequence.md",
+                "file": "daily-notes/2023-07-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1143-Longest common subsequence.md"
+                "file": "daily-notes/2023-07-24.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "024adfda252a04d7",
   "lastOpenFiles": [
+    "daily-notes/2023-07-25.md",
     "daily-notes/2023-07-24.md",
     "1143-Longest common subsequence.md",
-    "daily-notes/2023-07-25.md",
     "300-longest increasing subsequence.md",
     "647-palindromic substrings.md",
     "5-Longest Palindromic Substring.md",
