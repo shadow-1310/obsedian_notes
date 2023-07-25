@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-24.md",
+                "file": "daily-notes/2023-07-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b11f2b3110839bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-07-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-24.md",
+                "file": "daily-notes/2023-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-24.md",
+                "file": "daily-notes/2023-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-24.md",
+                "file": "daily-notes/2023-07-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-24.md"
+                "file": "daily-notes/2023-07-25.md"
               }
             }
           }
@@ -221,9 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b213dc64e00dbf76",
+  "active": "7b11f2b3110839bf",
   "lastOpenFiles": [
+    "416-Partition equal subset sum.md",
     "daily-notes/2023-07-25.md",
+    "daily-notes/2023-07-24.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "746-Min Cost climbing stairs.md",
@@ -234,7 +248,6 @@
     "daily-notes/2023-07-22.md",
     "daily-notes/2023-07-23.md",
     "1143-Longest common subsequence.md",
-    "daily-notes/2023-07-24.md",
     "300-longest increasing subsequence.md",
     "647-palindromic substrings.md",
     "5-Longest Palindromic Substring.md",
@@ -249,7 +262,6 @@
     "attachments/Pasted image 20230722225636.png",
     "ffmpeg.md",
     "yolov5-pytorch.md",
-    "daily-notes/2023-07-17.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
