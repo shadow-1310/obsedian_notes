@@ -16,5 +16,11 @@
 ## Related Problems
 - [[70- Climbing Stairs]]
 - [[198-House Robber]]
+- [[746-Min Cost climbing stairs]]
+- [[647-palindromic substrings]]
+- [[5-Longest Palindromic Substring]]
+- [[300-longest increasing subsequence]]
+- [[1143-Longest common subsequence]]
+- [[152-Maximum Product subarray]]
 
 

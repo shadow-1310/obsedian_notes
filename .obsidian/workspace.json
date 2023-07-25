@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "daily-notes/2023-07-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec1329066f5d85e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "152-Maximum Product subarray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b213dc64e00dbf76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily-notes/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvim",
+                "query": "robotics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,40 +221,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "024adfda252a04d7",
+  "active": "b213dc64e00dbf76",
   "lastOpenFiles": [
     "daily-notes/2023-07-25.md",
-    "daily-notes/2023-07-24.md",
+    "Dynamic Programming.md",
+    "70- Climbing Stairs.md",
+    "746-Min Cost climbing stairs.md",
+    "daily-notes/2023-07-18.md",
+    "daily-notes/2023-07-19.md",
+    "daily-notes/2023-07-20.md",
+    "daily-notes/2023-07-21.md",
+    "daily-notes/2023-07-22.md",
+    "daily-notes/2023-07-23.md",
     "1143-Longest common subsequence.md",
+    "daily-notes/2023-07-24.md",
     "300-longest increasing subsequence.md",
     "647-palindromic substrings.md",
     "5-Longest Palindromic Substring.md",
+    "152-Maximum Product subarray.md",
+    "Robotics101-week1.md",
+    "daily-notes/2023-07-16.md",
+    "Robotics101.md",
+    "Courses - non-academic.md",
     "nvim.md",
     "fzf.md",
     "Linux.md",
-    "daily-notes/2023-07-22.md",
-    "daily-notes/2023-07-23.md",
-    "daily-notes/2023-07-21.md",
     "attachments/Pasted image 20230722225636.png",
     "ffmpeg.md",
-    "daily-notes/2023-07-19.md",
-    "daily-notes/2023-07-20.md",
     "yolov5-pytorch.md",
-    "daily-notes/2023-07-18.md",
     "daily-notes/2023-07-17.md",
-    "daily-notes/2023-07-16.md",
-    "daily-notes/2023-07-15.md",
-    "daily-notes/2023-07-14.md",
-    "746-Min Cost climbing stairs.md",
-    "OpenCV.md",
-    "Robotics101-week1.md",
-    "Robotics101.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
-    "YOLO.md",
     "attachments/Pasted image 20230715222514.png",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
