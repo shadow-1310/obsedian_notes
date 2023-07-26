@@ -8,36 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "024adfda252a04d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-07-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec1329066f5d85e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "152-Maximum Product subarray.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b11f2b3110839bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily-notes/2023-07-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28d6bc3f79848850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS590.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8ee2d74c434482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-07-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cad40377a86d3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/class.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "robotics",
+                "query": "course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,11 +232,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b11f2b3110839bf",
+  "active": "ce8ee2d74c434482",
   "lastOpenFiles": [
-    "daily-notes/2023-07-25.md",
+    "CS590-class1.md",
+    "CS590.md",
     "daily-notes/2023-07-26.md",
+    "DA331-Class1.md",
+    "DA331.md",
+    "daily-notes/2023-07-25.md",
+    "templates/class.md",
+    "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-07-24.md",
+    "templates/Course.md",
+    "templates/daily_activity.md",
     "416-Partition equal subset sum.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
@@ -241,15 +260,7 @@
     "647-palindromic substrings.md",
     "5-Longest Palindromic Substring.md",
     "152-Maximum Product subarray.md",
-    "Robotics101-week1.md",
-    "daily-notes/2023-07-16.md",
-    "Robotics101.md",
-    "Courses - non-academic.md",
-    "nvim.md",
-    "fzf.md",
-    "Linux.md",
     "attachments/Pasted image 20230722225636.png",
-    "ffmpeg.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",

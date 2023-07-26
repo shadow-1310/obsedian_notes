@@ -6,7 +6,7 @@ tags:
 
 - **sleep** :
 
-- [ ] **exercise**:
+-  **exercise**:
 	- 
 
 -  **health**: 
@@ -14,27 +14,30 @@ tags:
 
 
 
-## Work
+## Internship 
 ---
-
-Big Task Today 
-- 
-
-
 **To-dos and done**
 - [ ] 1
 - [ ] 2
+
+## MTP - Project
+--- 
+To-dos and done
+- [ ] 
+
+
 
 ## Learning
---- 
-
-Big Task Today 
+---
+### DA331
 - 
 
+### CS590
+- 
 
-**To-dos and done**
-- [ ] 1
-- [ ] 2
+### Personal
+- 
+
 ## Entertainment / Personal interest
 ---
 - 
