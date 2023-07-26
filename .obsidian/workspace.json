@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "b213dc64e00dbf76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-07-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b11f2b3110839bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-25.md",
+                "file": "daily-notes/2023-07-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-25.md",
+                "file": "daily-notes/2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-25.md",
+                "file": "daily-notes/2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-25.md",
+                "file": "daily-notes/2023-07-26.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-25.md"
+                "file": "daily-notes/2023-07-26.md"
               }
             }
           }
@@ -235,8 +223,9 @@
   },
   "active": "7b11f2b3110839bf",
   "lastOpenFiles": [
-    "daily-notes/2023-07-24.md",
     "daily-notes/2023-07-25.md",
+    "daily-notes/2023-07-26.md",
+    "daily-notes/2023-07-24.md",
     "416-Partition equal subset sum.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
@@ -261,7 +250,6 @@
     "Linux.md",
     "attachments/Pasted image 20230722225636.png",
     "ffmpeg.md",
-    "yolov5-pytorch.md",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
