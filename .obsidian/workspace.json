@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-26.md",
+                "file": "46-Permutations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "course",
+                "query": "tag:#dsa/backtracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-26.md",
+                "file": "46-Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-26.md",
+                "file": "46-Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-26.md",
+                "file": "46-Permutations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-26.md"
+                "file": "46-Permutations.md"
               }
             }
           }
@@ -234,9 +235,14 @@
   },
   "active": "ce8ee2d74c434482",
   "lastOpenFiles": [
+    "DSA/Topics/Backtracking.md",
+    "77-Combinations.md",
+    "17- Letter Combinations of a Phone Number.md",
+    "daily-notes/2023-07-27.md",
+    "daily-notes/2023-07-26.md",
+    "22-Generate Parentheses.md",
     "CS590-class1.md",
     "CS590.md",
-    "daily-notes/2023-07-26.md",
     "DA331-Class1.md",
     "DA331.md",
     "daily-notes/2023-07-25.md",
@@ -255,11 +261,6 @@
     "daily-notes/2023-07-21.md",
     "daily-notes/2023-07-22.md",
     "daily-notes/2023-07-23.md",
-    "1143-Longest common subsequence.md",
-    "300-longest increasing subsequence.md",
-    "647-palindromic substrings.md",
-    "5-Longest Palindromic Substring.md",
-    "152-Maximum Product subarray.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",

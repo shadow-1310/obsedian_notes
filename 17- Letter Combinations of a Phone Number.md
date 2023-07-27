@@ -1,4 +1,4 @@
-topic: #dsa/backtracking 
+topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
 - source: #leetcode 

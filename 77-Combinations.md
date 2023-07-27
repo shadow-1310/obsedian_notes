@@ -3,7 +3,8 @@ topic: #dsa/backtracking [[Backtracking]]
 ### basic info
 - source: 
 - serial no: #leetcode/77
-- first_done: [[2023-07-11]]
+- 1st done: [[2023-07-11]]
+	- 2nd done: [[2023-07-26]]
 - last_revised:
 - difficulty:
 	- [ ] easy
@@ -24,8 +25,6 @@ topic: #dsa/backtracking [[Backtracking]]
 	- this loop will go till start becomes N
 - base case is len of curr becomes then we append curr to res and return 
 - another base case is if start > N *or* len(curr) > k
-#### mistakes
-- don't call the original function in a loop, we need to call it only once with backtrack(1, [])
 #### code snippet
 ```python
 from typing import List
@@ -53,3 +52,11 @@ class Solution:
 s = Solution()
 print(s.combine(4, 2))
 ```
+
+##  mistakes
+- don't call the original function in a loop, we need to call it only once with backtrack(1, [])
+- you can't call the dfs function like <code>dfs(j+1, subset.append(j))</code> because <code>subset.append(j)</code> argument will modify subset in place and will pass None as an argument to the function call.  ^d6d060
+	- Instead do the following inside the loop
+		-  append first 
+		- then call dfs 
+		- then pop
