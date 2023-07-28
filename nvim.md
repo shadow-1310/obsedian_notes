@@ -61,7 +61,10 @@ yarn build
 ```txt
 :CocInstall coc-python
 ```
-
+or for scala
+```
+:CocInstall coc-metals
+```
 
 
 ### fzf
