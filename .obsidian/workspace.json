@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
-                "mode": "preview",
+                "file": "131-Palindrome Partition.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "131-Palindrome Partition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "131-Palindrome Partition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "131-Palindrome Partition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "131-Palindrome Partition.md"
               }
             }
           }
@@ -210,13 +210,13 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
+    "DSA/Topics/Backtracking.md",
+    "17- Letter Combinations of a Phone Number.md",
     "daily-notes/2023-07-28.md",
     "nvim.md",
     "daily-notes/2023-07-22.md",
-    "DSA/Topics/Backtracking.md",
     "CS590.md",
     "CS590-class3.md",
-    "17- Letter Combinations of a Phone Number.md",
     "daily-notes/2023-07-27.md",
     "daily-notes/2023-07-26.md",
     "daily-notes/2023-07-25.md",
