@@ -28,6 +28,7 @@ topic: #dsa/backtracking [[Backtracking]]
 - pop the appended value and call the function on (i+1) index
 #### mistakes
 - don't forget to return res
+- don't try to use for loop here. use dual decision at each node concept
 #### code snippet
 ```python
 

@@ -4,6 +4,7 @@ topic: #dsa/backtracking
 - source: #leetcode 
 - serial no: #leetcode/78 
 - first_done: [[2023-07-10]]
+	- 2nd done: [[2023-07-28]]
 - last_revised: [[2023-07-10]]
 - difficulty:
 	- [ ] easy
@@ -26,6 +27,7 @@ topic: #dsa/backtracking
 	![[Pasted image 20230711235340.png]]
 #### mistakes
 -  append the copy of the subset not the original subset as it will change later
+- 
 #### code snippet
 ```python
 from typing import List

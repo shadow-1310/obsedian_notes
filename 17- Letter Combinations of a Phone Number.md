@@ -32,9 +32,12 @@ topic: #dsa/backtracking [[Backtracking]]
 	- continue the loop
 
 #### mistakes
+---
 - don't try to use a str datatype for storing the current subset, use a list and then convert it
 	- because string datatypes are immutable and we will have hard time removing the last element in O(1) like [[Strings#^489546|here]]
 - in converting remember to use ''.join(list) method
+- remember to include the edge case where input is empty string
+	- immediately return res
 
 #### code snippet
 ```python
