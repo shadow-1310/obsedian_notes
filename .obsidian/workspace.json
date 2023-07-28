@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "daily-notes/2023-07-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "daily-notes/2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "daily-notes/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "daily-notes/2023-07-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "131-Palindrome Partition.md"
+                "file": "daily-notes/2023-07-28.md"
               }
             }
           }
@@ -210,14 +210,14 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
+    "daily-notes/2023-07-27.md",
+    "daily-notes/2023-07-28.md",
     "DSA/Topics/Backtracking.md",
     "17- Letter Combinations of a Phone Number.md",
-    "daily-notes/2023-07-28.md",
     "nvim.md",
     "daily-notes/2023-07-22.md",
     "CS590.md",
     "CS590-class3.md",
-    "daily-notes/2023-07-27.md",
     "daily-notes/2023-07-26.md",
     "daily-notes/2023-07-25.md",
     "90-Subsets-II.md",
