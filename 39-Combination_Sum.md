@@ -4,6 +4,7 @@ topic: #dsa/backtracking [[Backtracking]]
 - source: #leetcode 
 - serial no: #leetcode/39
 - first_done: [[2023-07-11]]
+	- 2nd done: [[2023-07-27]]
 - last_revised:
 - difficulty: 
 	- [ ] easy
