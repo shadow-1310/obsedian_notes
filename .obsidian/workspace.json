@@ -11,8 +11,12 @@
             "id": "d8861ba0c000614d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "78-Subsets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:backtra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "78-Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "78-Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "78-Subsets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "78-Subsets.md"
+              }
             }
           }
         ],
@@ -189,17 +198,18 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
+    "DSA/Topics/Backtracking.md",
+    "40-Combinations Sum-II.md",
+    "daily-notes/2023-07-28.md",
     "daily-notes/2023-07-26.md",
-    "CS590.md",
     "daily-notes/2023-07-27.md",
+    "CS590.md",
     "39-Combination_Sum.md",
     "daily-notes/2023-07-11.md",
-    "DSA/Topics/Backtracking.md",
     "77-Combinations.md",
     "46-Permutations.md",
     "daily-notes/2023-07-25.md",
     "CS590-class1.md",
-    "daily-notes/2023-07-28.md",
     "17- Letter Combinations of a Phone Number.md",
     "22-Generate Parentheses.md",
     "DA331-Class1.md",
@@ -214,7 +224,6 @@
     "70- Climbing Stairs.md",
     "746-Min Cost climbing stairs.md",
     "daily-notes/2023-07-18.md",
-    "daily-notes/2023-07-19.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
