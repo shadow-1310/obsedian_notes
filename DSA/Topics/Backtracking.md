@@ -29,6 +29,6 @@ tags: #dsa/backtracking #unfinished
 - [[131-Palindrome Partition]] last_done: [[2023-07-29]]
 - [[40-Combinations Sum-II]] last_done: [[2023-07-28]] - similar to **subsets-II**
 - [[79-Word Search]]
-- [[22-Generate Parentheses]]
+- [[22-Generate Parentheses]] last done: [[2023-07-29]]
 
 

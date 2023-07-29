@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-Generate Parentheses.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "daily-notes/2023-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-Generate Parentheses.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22-Generate Parentheses.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "22-Generate Parentheses.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-Generate Parentheses.md"
+                "file": "DSA/Topics/Backtracking.md"
               }
             }
           }
@@ -210,13 +209,14 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
+    "daily-notes/2023-07-29.md",
     "DSA/Topics/Backtracking.md",
+    "22-Generate Parentheses.md",
     "131-Palindrome Partition.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "17- Letter Combinations of a Phone Number.md",
     "daily-notes/2023-07-28.md",
     "daily-notes/2023-07-27.md",
-    "daily-notes/2023-07-29.md",
     "nvim.md",
     "daily-notes/2023-07-22.md",
     "CS590.md",
@@ -231,7 +231,6 @@
     "77-Combinations.md",
     "46-Permutations.md",
     "CS590-class1.md",
-    "22-Generate Parentheses.md",
     "DA331-Class1.md",
     "DA331.md",
     "templates/class.md",
