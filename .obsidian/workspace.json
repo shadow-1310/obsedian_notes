@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-28.md",
+                "file": "daily-notes/2023-07-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-28.md"
+                "file": "daily-notes/2023-07-29.md"
               }
             }
           }
@@ -210,8 +210,9 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
-    "daily-notes/2023-07-27.md",
     "daily-notes/2023-07-28.md",
+    "daily-notes/2023-07-29.md",
+    "daily-notes/2023-07-27.md",
     "DSA/Topics/Backtracking.md",
     "17- Letter Combinations of a Phone Number.md",
     "nvim.md",
@@ -235,7 +236,6 @@
     "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-07-24.md",
     "templates/Course.md",
-    "templates/daily_activity.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
