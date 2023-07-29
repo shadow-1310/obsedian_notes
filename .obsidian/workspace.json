@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "22-Generate Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "22-Generate Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "22-Generate Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "22-Generate Parentheses.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-29.md"
+                "file": "22-Generate Parentheses.md"
               }
             }
           }
@@ -210,11 +210,13 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
-    "daily-notes/2023-07-28.md",
-    "daily-notes/2023-07-29.md",
-    "daily-notes/2023-07-27.md",
     "DSA/Topics/Backtracking.md",
+    "131-Palindrome Partition.md",
+    "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "17- Letter Combinations of a Phone Number.md",
+    "daily-notes/2023-07-28.md",
+    "daily-notes/2023-07-27.md",
+    "daily-notes/2023-07-29.md",
     "nvim.md",
     "daily-notes/2023-07-22.md",
     "CS590.md",
@@ -235,7 +237,6 @@
     "templates/class.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-07-24.md",
-    "templates/Course.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
@@ -245,7 +246,6 @@
     "attachments/Pasted image 20230715222514.png",
     "attachments/Pasted image 20230713185542.png",
     "attachments/Pasted image 20230713133818.png",
-    "attachments/Pasted image 20230713014803.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",

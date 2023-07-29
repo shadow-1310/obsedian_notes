@@ -4,6 +4,7 @@ Related: [[Backtracking]]
 - source:  #leetcode 
 - serial no: #leetcode/131
 - first_done: [[2023-07-13]]
+	- 2nd done: [[2023-07-29]]
 - last_revised:
 - difficulty:
 	- [ ] easy
@@ -17,6 +18,7 @@ Related: [[Backtracking]]
 - space complexity
 
 #### pseudo code
+![[Screenshot from 2023-07-29 13-19-56.png]]
 - make a helper function to check if a string is palindrome or not given its start and end pointer/index
 - make backtrack helper function, it will take two arguments as input
 	- start, starting index
