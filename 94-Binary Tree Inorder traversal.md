@@ -1,12 +1,12 @@
-topic:
+topic: #dsa/tree [[Tree]]
 
 ### basic info
-- source: 
-- serial no:
-- first_done:
-- last_revised:
+- source: #leetcode 
+- serial no: #leetcode/94
+- first_done: [[2023-06-13]]
+- last_revised: [[2023-07-30]]
 - difficulty:
-	- [ ] easy
+	- [x] easy
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=featured-list&envId=top-interview-questions
@@ -17,8 +17,15 @@ topic:
 - space complexity
 
 #### pseudo code
+- use a empty list to store the values.
+- use a helper dfs function which take one argument, the node
+- base case is if given node is None return
+- otherwise first call dfs(node.left)
+- then append current node value
+- after that dfs(node.right)
 
 #### mistakes
+- don't forget to return the res
 
 #### code snippet
 ```python
