@@ -25,11 +25,16 @@ topic: #dsa/backtracking [[Backtracking]]
 	- i is current index of the word we are searching
 - base case is <code>i == len(word)</code>
 	- return True
-- one more base case is r,c < 0 or <code>r,c >= len(word)</code> or (r,c) in already traveled path
+- one more base case is r,c < 0 or <code>r,c >= len(word)</code> or (r,c) in already traveled path or <code>board[r][c] !=word[index]</code> 
 	- return False
 - other wise append current cell index (r,c) to path then call backtrack function on surrounding 4 cells, up, down, left and right 
 - after call remove appended cell value (r, c)
 #### mistakes
+- never forget to include all the base cases
+	- r, c >= len(word)
+	- r, c < 0
+	- <code>board[r][c] !=word[index]</code> 
+	- (r,c) in path
 
 #### code snippet
 ```python

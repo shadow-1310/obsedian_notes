@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "104-Max depth of binary tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "104-Max depth of binary tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "104-Max depth of binary tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "104-Max depth of binary tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-29.md"
+                "file": "104-Max depth of binary tree.md"
               }
             }
           }
@@ -209,9 +209,14 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
-    "daily-notes/2023-07-30.md",
-    "daily-notes/2023-07-29.md",
+    "DSA/Topics/Heap.md",
+    "104-Max depth of binary tree.md",
+    "DSA/Topics/DSA.md",
+    "Dynamic Programming.md",
     "DSA/Topics/Backtracking.md",
+    "79-Word Search.md",
+    "daily-notes/2023-07-29.md",
+    "daily-notes/2023-07-30.md",
     "22-Generate Parentheses.md",
     "131-Palindrome Partition.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
@@ -231,11 +236,6 @@
     "39-Combination_Sum.md",
     "77-Combinations.md",
     "46-Permutations.md",
-    "CS590-class1.md",
-    "DA331-Class1.md",
-    "DA331.md",
-    "templates/class.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
