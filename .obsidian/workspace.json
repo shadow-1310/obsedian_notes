@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "daily-notes/2023-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "daily-notes/2023-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "daily-notes/2023-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "daily-notes/2023-07-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Backtracking.md"
+                "file": "daily-notes/2023-07-29.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "d8861ba0c000614d",
   "lastOpenFiles": [
-    "daily-notes/2023-07-29.md",
     "DSA/Topics/Backtracking.md",
+    "daily-notes/2023-07-29.md",
     "22-Generate Parentheses.md",
     "131-Palindrome Partition.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
