@@ -17,6 +17,9 @@ topic:
 - space complexity
 
 #### pseudo code
+- do a dfs till None node is reached
+- base condition is if it is null node return 0
+- otherwise return 1 + max of left and right 
 
 #### mistakes
 
