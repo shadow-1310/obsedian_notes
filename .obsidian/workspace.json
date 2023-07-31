@@ -57,8 +57,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-07-31.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-07-31.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "daily-notes/2023-07-31.md"
               }
             }
           }
