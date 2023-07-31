@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1bd57c6d5b9642a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-07-30.md",
+                "file": "100-Same Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-29.md",
+                "file": "226-Invert Binary Tree.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87bd477ebb0824a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-06-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-07-30.md",
+                "file": "100-Same Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-07-30.md",
+                "file": "100-Same Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-07-30.md",
+                "file": "100-Same Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-07-30.md"
+                "file": "100-Same Tree.md"
               }
             }
           }
@@ -220,12 +219,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1bd57c6d5b9642a",
+  "active": "d8861ba0c000614d",
   "lastOpenFiles": [
-    "98-validate binary search tree.md",
+    "2023-06-18.md",
+    "100-Same Tree.md",
     "DSA/Topics/Tree.md",
+    "110-Balanced Binary Tree.md",
+    "daily-notes/2023-07-31.md",
+    "226-Invert Binary Tree.md",
+    "daily-notes/2023-06-24.md",
+    "daily-notes/2023-06-18.md",
     "daily-notes/2023-07-30.md",
+    "daily-notes/2023-06-15.md",
     "144-Binary tree preorder traversal.md",
+    "daily-notes/2023-06-11.md",
+    "daily-notes/2023-07-29.md",
+    "98-validate binary search tree.md",
     "145-Binary Tree Postorder traversal.md",
     "94-Binary Tree Inorder traversal.md",
     "DSA/Topics/Backtracking.md",
@@ -234,21 +243,11 @@
     "104-Max depth of binary tree.md",
     "Dynamic Programming.md",
     "79-Word Search.md",
-    "daily-notes/2023-07-29.md",
     "22-Generate Parentheses.md",
     "131-Palindrome Partition.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "17- Letter Combinations of a Phone Number.md",
     "daily-notes/2023-07-28.md",
-    "daily-notes/2023-07-27.md",
-    "nvim.md",
-    "daily-notes/2023-07-22.md",
-    "CS590.md",
-    "CS590-class3.md",
-    "daily-notes/2023-07-26.md",
-    "daily-notes/2023-07-25.md",
-    "90-Subsets-II.md",
-    "daily-notes/2023-07-11.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
