@@ -66,7 +66,18 @@ or for scala
 :CocInstall coc-metals
 ```
 
+### select interpreter of virtual env
 
+^148240
+
+- <code>:CocCommand</code> then select <code>python.setInterpreter</code>
+### problems
+- when selecting a new python interpreter, it shows error 
+<code>cannot perform a user install, site packages are not visible in this virtual environment</code>
+- then manually install pylint in the environment first
+ ```python
+pip install -U pylint
+```
 ### fzf
 tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](https://www.youtube.com/watch?v=DpURGnb4Fyk)
 

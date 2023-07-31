@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8861ba0c000614d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-Same Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "594405272bfe5e02",
             "type": "leaf",
             "state": {
@@ -42,8 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa58b8e24a64748d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "080d808d3d048ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3e6acb13ccd2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nvim.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -72,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "neovim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-Same Tree.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-Same Tree.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100-Same Tree.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-Same Tree.md"
+                "file": "nvim.md"
               }
             }
           }
@@ -219,14 +241,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8861ba0c000614d",
+  "active": "ee3e6acb13ccd2bd",
   "lastOpenFiles": [
-    "2023-06-18.md",
+    "daily-notes/2023-07-31.md",
+    "nvim.md",
+    "pip.md",
+    "Python.md",
+    "226-Invert Binary Tree.md",
+    "22-Generate Parentheses.md",
     "100-Same Tree.md",
+    "2023-06-18.md",
     "DSA/Topics/Tree.md",
     "110-Balanced Binary Tree.md",
-    "daily-notes/2023-07-31.md",
-    "226-Invert Binary Tree.md",
     "daily-notes/2023-06-24.md",
     "daily-notes/2023-06-18.md",
     "daily-notes/2023-07-30.md",
@@ -243,11 +269,7 @@
     "104-Max depth of binary tree.md",
     "Dynamic Programming.md",
     "79-Word Search.md",
-    "22-Generate Parentheses.md",
-    "131-Palindrome Partition.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
-    "17- Letter Combinations of a Phone Number.md",
-    "daily-notes/2023-07-28.md",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
