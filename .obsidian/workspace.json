@@ -32,14 +32,6 @@
             }
           },
           {
-            "id": "fa58b8e24a64748d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "080d808d3d048ab6",
             "type": "leaf",
             "state": {
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neovim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,7 +232,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee3e6acb13ccd2bd",
+  "active": "14121646ec72c08c",
   "lastOpenFiles": [
     "daily-notes/2023-07-31.md",
     "nvim.md",
