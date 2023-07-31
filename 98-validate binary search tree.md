@@ -4,10 +4,10 @@ topic:
 - source: #leetcode  
 - serial no: #leetcode/98
 - first_done: [[2023-06-20]]
-- last_revised:
+- last_revised: [[2023-07-30]]
 - difficulty:
 	- [ ] easy
-	- [ ] medium
+	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/validate-binary-search-tree/description/
 - solution_link: https://www.youtube.com/watch?v=s6ATEkipzow
@@ -21,6 +21,7 @@ topic:
 #### mistakes
 - understand BST
 	- all right subtree values will be more not only the immediate child
+- think in terms of lower and upper bound of each node
 
 #### code snippet
 ```python

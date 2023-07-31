@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98-validate binary search tree.md",
+                "file": "daily-notes/2023-07-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98-validate binary search tree.md",
+                "file": "daily-notes/2023-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98-validate binary search tree.md",
+                "file": "daily-notes/2023-07-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "98-validate binary search tree.md",
+                "file": "daily-notes/2023-07-30.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98-validate binary search tree.md"
+                "file": "daily-notes/2023-07-30.md"
               }
             }
           }
@@ -222,8 +222,8 @@
   },
   "active": "a1bd57c6d5b9642a",
   "lastOpenFiles": [
-    "DSA/Topics/Tree.md",
     "98-validate binary search tree.md",
+    "DSA/Topics/Tree.md",
     "daily-notes/2023-07-30.md",
     "144-Binary tree preorder traversal.md",
     "145-Binary Tree Postorder traversal.md",
