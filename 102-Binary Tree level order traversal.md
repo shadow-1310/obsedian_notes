@@ -17,7 +17,9 @@ topic: #dsa/tree [[Tree]]
 - space complexity
 
 #### pseudo code
-
+- use a deque , deque contains all the nodes in that level, so extract them while also adding their child to the deque.
+- while going at each level find the number(N) of nodes in that level and run a for loop N times only to extract nodes , otherwise it will take elements from child
+- after the loop ends, it will be filled with child of next level
 #### mistakes
 
 #### code snippet

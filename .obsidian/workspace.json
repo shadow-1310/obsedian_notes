@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-31.md",
+                "file": "daily-notes/2023-08-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "102-Binary Tree level order traversal.md",
+                "file": "daily-notes/2023-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "102-Binary Tree level order traversal.md",
+                "file": "daily-notes/2023-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "102-Binary Tree level order traversal.md",
+                "file": "daily-notes/2023-08-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102-Binary Tree level order traversal.md"
+                "file": "daily-notes/2023-08-01.md"
               }
             }
           }
@@ -209,12 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2df2bcdee2e45d3f",
+  "active": "ee3e6acb13ccd2bd",
   "lastOpenFiles": [
-    "DSA/Topics/Tree.md",
-    "102-Binary Tree level order traversal.md",
-    "101-Symmetric Tree.md",
     "daily-notes/2023-07-31.md",
+    "102-Binary Tree level order traversal.md",
+    "DSA/Topics/Tree.md",
+    "101-Symmetric Tree.md",
     "100-Same Tree.md",
     "daily-notes/2023-08-01.md",
     "110-Balanced Binary Tree.md",
