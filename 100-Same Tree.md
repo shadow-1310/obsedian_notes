@@ -4,7 +4,7 @@ topic: #dsa/tree [[Tree]]
 - source: #leetcode 
 - serial no: #leetcode/100
 - first_done: [[2023-06-18]]
-- last_revised:
+- last_revised: [[2023-07-31]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
