@@ -49,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-07-31.md",
+                "file": "daily-notes/2023-08-01.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "72b904485ee9130e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           }
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "226-Invert Binary Tree.md",
+                "file": "daily-notes/2023-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "226-Invert Binary Tree.md",
+                "file": "daily-notes/2023-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "226-Invert Binary Tree.md",
+                "file": "daily-notes/2023-08-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "226-Invert Binary Tree.md"
+                "file": "daily-notes/2023-08-01.md"
               }
             }
           }
@@ -232,13 +242,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14121646ec72c08c",
+  "active": "ee3e6acb13ccd2bd",
   "lastOpenFiles": [
+    "YOLO.md",
     "daily-notes/2023-07-31.md",
     "nvim.md",
+    "daily-notes/2023-08-01.md",
+    "226-Invert Binary Tree.md",
     "pip.md",
     "Python.md",
-    "226-Invert Binary Tree.md",
     "22-Generate Parentheses.md",
     "100-Same Tree.md",
     "2023-06-18.md",
@@ -258,8 +270,6 @@
     "DSA/Topics/DSA.md",
     "DSA/Topics/Heap.md",
     "104-Max depth of binary tree.md",
-    "Dynamic Programming.md",
-    "79-Word Search.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",

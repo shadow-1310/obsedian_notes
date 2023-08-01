@@ -3,7 +3,5 @@
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "attachmentFolderPath": "attachments",
-  "spellcheckLanguages": [
-    "en-US"
-  ]
+  "spellcheckLanguages": null
 }

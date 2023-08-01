@@ -85,3 +85,5 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 ## keyboard shortcuts
 ---
 - indent lines [stackoverflow](https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
+- enclose in parenthesis [Enclosing in parentheses with Vim - Stack Overflow](https://stackoverflow.com/questions/8070892/enclosing-in-parentheses-with-vim) ^63e2b2
+- opening vertical window, [How to open files in vertically/horizontal split windows in Vim from the command line - Super User](https://superuser.com/questions/486532/how-to-open-files-in-vertically-horizontal-split-windows-in-vim-from-the-command) ^64fa21
