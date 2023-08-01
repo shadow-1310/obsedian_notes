@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-01.md",
+                "file": "DSA/Topics/Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "daily-notes/2023-08-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a48f85cae5784abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "103-Binary Tree Zigzag level order traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea9908d1e8b7822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "105-Construct Binary Tree from preorder and inorder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2df2bcdee2e45d3f",
+  "active": "a48f85cae5784abd",
   "lastOpenFiles": [
-    "DSA/Topics/Tree.md",
     "daily-notes/2023-08-01.md",
-    "daily-notes/2023-06-20.md",
+    "105-Construct Binary Tree from preorder and inorder.md",
+    "DSA/Topics/Tree.md",
     "103-Binary Tree Zigzag level order traversal.md",
+    "daily-notes/2023-06-20.md",
     "102-Binary Tree level order traversal.md",
     "daily-notes/2023-07-31.md",
     "101-Symmetric Tree.md",
@@ -236,7 +261,6 @@
     "144-Binary tree preorder traversal.md",
     "daily-notes/2023-06-11.md",
     "daily-notes/2023-07-29.md",
-    "98-validate binary search tree.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
