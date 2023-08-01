@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102-Binary Tree level order traversal.md",
+                "file": "103-Binary Tree Zigzag level order traversal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-01.md",
+                "file": "103-Binary Tree Zigzag level order traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-01.md",
+                "file": "103-Binary Tree Zigzag level order traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-01.md",
+                "file": "103-Binary Tree Zigzag level order traversal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-01.md"
+                "file": "103-Binary Tree Zigzag level order traversal.md"
               }
             }
           }
@@ -208,14 +209,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee3e6acb13ccd2bd",
+  "active": "2df2bcdee2e45d3f",
   "lastOpenFiles": [
-    "daily-notes/2023-07-31.md",
-    "102-Binary Tree level order traversal.md",
     "DSA/Topics/Tree.md",
+    "daily-notes/2023-08-01.md",
+    "daily-notes/2023-06-20.md",
+    "103-Binary Tree Zigzag level order traversal.md",
+    "102-Binary Tree level order traversal.md",
+    "daily-notes/2023-07-31.md",
     "101-Symmetric Tree.md",
     "100-Same Tree.md",
-    "daily-notes/2023-08-01.md",
     "110-Balanced Binary Tree.md",
     "DA331.md",
     "DA331-Class1.md",
@@ -234,8 +237,6 @@
     "daily-notes/2023-06-11.md",
     "daily-notes/2023-07-29.md",
     "98-validate binary search tree.md",
-    "145-Binary Tree Postorder traversal.md",
-    "94-Binary Tree Inorder traversal.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
