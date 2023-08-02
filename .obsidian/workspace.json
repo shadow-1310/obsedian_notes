@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6518d659a820f269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily-notes/2023-08-02.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,20 +245,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a48f85cae5784abd",
+  "active": "6518d659a820f269",
   "lastOpenFiles": [
-    "daily-notes/2023-08-01.md",
+    "apt.md",
+    "attachments/Screenshot from 2023-08-02 11-26-51.png",
+    "Linux.md",
+    "fzf.md",
+    "ffmpeg.md",
     "daily-notes/2023-08-02.md",
-    "103-Binary Tree Zigzag level order traversal.md",
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tree.md",
+    "DA331-Class4.md",
+    "DA331.md",
+    "daily-notes/2023-08-01.md",
+    "103-Binary Tree Zigzag level order traversal.md",
     "daily-notes/2023-06-20.md",
     "102-Binary Tree level order traversal.md",
     "daily-notes/2023-07-31.md",
     "101-Symmetric Tree.md",
     "100-Same Tree.md",
     "110-Balanced Binary Tree.md",
-    "DA331.md",
     "DA331-Class1.md",
     "YOLO.md",
     "nvim.md",
@@ -255,12 +273,6 @@
     "Python.md",
     "22-Generate Parentheses.md",
     "2023-06-18.md",
-    "daily-notes/2023-06-24.md",
-    "daily-notes/2023-06-18.md",
-    "daily-notes/2023-07-30.md",
-    "daily-notes/2023-06-15.md",
-    "144-Binary tree preorder traversal.md",
-    "daily-notes/2023-06-11.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
@@ -270,7 +282,6 @@
     "attachments/Pasted image 20230715222942.png",
     "attachments/Pasted image 20230715222514.png",
     "attachments/Pasted image 20230713185542.png",
-    "attachments/Pasted image 20230713133818.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
