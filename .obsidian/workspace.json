@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "2df2bcdee2e45d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48f85cae5784abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6518d659a820f269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-02.md",
+                "file": "CS590.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ea9908d1e8b7822",
+            "id": "17795c6762a4c270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "105-Construct Binary Tree from preorder and inorder.md",
+                "file": "CS590-class4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tree",
+                "query": "file:yolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-02.md",
+                "file": "CS590-class4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-02.md",
+                "file": "CS590-class4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-02.md",
+                "file": "CS590-class4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-02.md"
+                "file": "CS590-class4.md"
               }
             }
           }
@@ -245,15 +221,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6518d659a820f269",
+  "active": "17795c6762a4c270",
   "lastOpenFiles": [
+    "CS590.md",
+    "CS590-class4.md",
+    "daily-notes/2023-08-02.md",
+    "Robotics101.md",
+    "yolov5-pytorch.md",
+    "105-Construct Binary Tree from preorder and inorder.md",
     "apt.md",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
     "Linux.md",
     "fzf.md",
     "ffmpeg.md",
-    "daily-notes/2023-08-02.md",
-    "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tree.md",
     "DA331-Class4.md",
     "DA331.md",
@@ -270,9 +250,6 @@
     "nvim.md",
     "226-Invert Binary Tree.md",
     "pip.md",
-    "Python.md",
-    "22-Generate Parentheses.md",
-    "2023-06-18.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
