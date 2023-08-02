@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f43b56868eff01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cuda-cudnn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:yolo",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590-class4.md",
+                "file": "cuda-cudnn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590-class4.md",
+                "file": "cuda-cudnn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590-class4.md",
+                "file": "cuda-cudnn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590-class4.md"
+                "file": "cuda-cudnn.md"
               }
             }
           }
@@ -221,10 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17795c6762a4c270",
+  "active": "9f43b56868eff01a",
   "lastOpenFiles": [
-    "CS590.md",
+    "attachments/Pasted image 20230803001205.png",
+    "attachments/Pasted image 20230803000926.png",
     "CS590-class4.md",
+    "cuda-cudnn.md",
+    "CS590.md",
     "daily-notes/2023-08-02.md",
     "Robotics101.md",
     "yolov5-pytorch.md",
@@ -248,8 +263,6 @@
     "DA331-Class1.md",
     "YOLO.md",
     "nvim.md",
-    "226-Invert Binary Tree.md",
-    "pip.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
@@ -258,7 +271,6 @@
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
     "attachments/Pasted image 20230715222514.png",
-    "attachments/Pasted image 20230713185542.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
