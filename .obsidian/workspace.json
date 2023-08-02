@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "103-Binary Tree Zigzag level order traversal.md",
+                "file": "daily-notes/2023-08-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "103-Binary Tree Zigzag level order traversal.md",
+                "file": "daily-notes/2023-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "103-Binary Tree Zigzag level order traversal.md",
+                "file": "daily-notes/2023-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "103-Binary Tree Zigzag level order traversal.md",
+                "file": "daily-notes/2023-08-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "103-Binary Tree Zigzag level order traversal.md"
+                "file": "daily-notes/2023-08-02.md"
               }
             }
           }
@@ -236,9 +236,10 @@
   "active": "a48f85cae5784abd",
   "lastOpenFiles": [
     "daily-notes/2023-08-01.md",
+    "daily-notes/2023-08-02.md",
+    "103-Binary Tree Zigzag level order traversal.md",
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tree.md",
-    "103-Binary Tree Zigzag level order traversal.md",
     "daily-notes/2023-06-20.md",
     "102-Binary Tree level order traversal.md",
     "daily-notes/2023-07-31.md",
@@ -260,7 +261,6 @@
     "daily-notes/2023-06-15.md",
     "144-Binary tree preorder traversal.md",
     "daily-notes/2023-06-11.md",
-    "daily-notes/2023-07-29.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
