@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cuda-cudnn.md",
+                "file": "daily-notes/2023-08-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:tensor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cuda-cudnn.md",
+                "file": "daily-notes/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cuda-cudnn.md",
+                "file": "daily-notes/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cuda-cudnn.md",
+                "file": "daily-notes/2023-08-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cuda-cudnn.md"
+                "file": "daily-notes/2023-08-03.md"
               }
             }
           }
@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 573.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,10 +235,12 @@
   },
   "active": "9f43b56868eff01a",
   "lastOpenFiles": [
+    "cuda-cudnn.md",
+    "daily-notes/2023-08-03.md",
+    "tensorflow.md",
     "attachments/Pasted image 20230803001205.png",
     "attachments/Pasted image 20230803000926.png",
     "CS590-class4.md",
-    "cuda-cudnn.md",
     "CS590.md",
     "daily-notes/2023-08-02.md",
     "Robotics101.md",
@@ -262,7 +264,6 @@
     "110-Balanced Binary Tree.md",
     "DA331-Class1.md",
     "YOLO.md",
-    "nvim.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
@@ -270,7 +271,6 @@
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "attachments/Pasted image 20230715223235.png",
     "attachments/Pasted image 20230715222942.png",
-    "attachments/Pasted image 20230715222514.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
