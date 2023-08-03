@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA331-Lab1.md",
+                "file": "daily-notes/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA331-Lab1.md",
+                "file": "daily-notes/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA331-Lab1.md",
+                "file": "daily-notes/2023-08-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA331-Lab1.md"
+                "file": "daily-notes/2023-08-03.md"
               }
             }
           }
@@ -253,10 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfa0192518b67121",
+  "active": "9f43b56868eff01a",
   "lastOpenFiles": [
-    "DA331.md",
     "DA331-Lab1.md",
+    "DA331.md",
     "daily-notes/2023-08-03.md",
     "cuda-cudnn.md",
     "105-Construct Binary Tree from preorder and inorder.md",
