@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6518d659a820f269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17795c6762a4c270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590-class4.md",
+                "file": "105-Construct Binary Tree from preorder and inorder.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "551716cacff0b4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-08-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd0f9644ddc4167b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c03959855028823a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tensor",
+                "query": "cuda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,9 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f43b56868eff01a",
+  "active": "551716cacff0b4a6",
   "lastOpenFiles": [
     "cuda-cudnn.md",
+    "105-Construct Binary Tree from preorder and inorder.md",
+    "DSA/Topics/Tree.md",
+    "IIT Campus Placements.md",
+    "daily-notes/2023-07-30.md",
     "daily-notes/2023-08-03.md",
     "tensorflow.md",
     "attachments/Pasted image 20230803001205.png",
@@ -245,13 +257,11 @@
     "daily-notes/2023-08-02.md",
     "Robotics101.md",
     "yolov5-pytorch.md",
-    "105-Construct Binary Tree from preorder and inorder.md",
     "apt.md",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
     "Linux.md",
     "fzf.md",
     "ffmpeg.md",
-    "DSA/Topics/Tree.md",
     "DA331-Class4.md",
     "DA331.md",
     "daily-notes/2023-08-01.md",
@@ -262,8 +272,6 @@
     "101-Symmetric Tree.md",
     "100-Same Tree.md",
     "110-Balanced Binary Tree.md",
-    "DA331-Class1.md",
-    "YOLO.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",

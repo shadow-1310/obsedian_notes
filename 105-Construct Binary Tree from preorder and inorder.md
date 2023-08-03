@@ -1,4 +1,4 @@
-topic:
+topic: #dsa/tree [[Tree]]
 
 ### basic info
 - source: #leetcode 
@@ -9,8 +9,8 @@ topic:
 	- [ ] easy
 	- [x] medium
 	- [ ] hard
-- problem_link: 
-- solution_link:
+- problem_link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+- solution_link: https://www.youtube.com/watch?v=ihj4IQGZ2zc
 
 ### approach - 1
 - Time Complexity
