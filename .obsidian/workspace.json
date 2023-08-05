@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-04.md",
+                "file": "daily-notes/2023-08-05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-04.md"
+                "file": "daily-notes/2023-08-05.md"
               }
             }
           }
@@ -247,12 +247,13 @@
   },
   "active": "c03959855028823a",
   "lastOpenFiles": [
+    "daily-notes/2023-08-04.md",
+    "daily-notes/2023-08-05.md",
     "daily-notes/2023-08-03.md",
     "IIT Campus Placements.md",
     "DA331-Assignment1.md",
     "DA331-Lab1.md",
     "DA331.md",
-    "daily-notes/2023-08-04.md",
     "cuda-cudnn.md",
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tree.md",
@@ -275,7 +276,6 @@
     "103-Binary Tree Zigzag level order traversal.md",
     "daily-notes/2023-06-20.md",
     "102-Binary Tree level order traversal.md",
-    "daily-notes/2023-07-31.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
