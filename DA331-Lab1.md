@@ -1,5 +1,5 @@
 ## 2023-08-03 
-tags: #big_data
+tags: #big_data [[DA331]]
 
 ## What I learnt today
 - [[hadoop]] environment setup
