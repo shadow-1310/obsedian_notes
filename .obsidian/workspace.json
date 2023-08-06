@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-05.md",
+                "file": "daily-notes/2023-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Component of Hadoop.md",
-                "mode": "source",
+                "file": "Hadoop.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assign",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component of Hadoop.md",
+                "file": "DA331-Assignment1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Component of Hadoop.md",
+                "file": "DA331-Assignment1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Component of Hadoop.md",
+                "file": "DA331-Assignment1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Component of Hadoop.md"
+                "file": "DA331-Assignment1.md"
               }
             }
           }
@@ -245,22 +245,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "038c618d6411c846",
+  "active": "b1f89e02a38e0175",
   "lastOpenFiles": [
+    "Hadoop.md",
+    "daily-notes/2023-08-06.md",
+    "daily-notes/2023-08-05.md",
+    "Protein Sequence Analyser.md",
     "DA331-Assignment1.md",
-    "Component of Hadoop.md",
     "attachments/Pasted image 20230806153820.png",
     "attachments/Pasted image 20230806153505.png",
     "attachments/Pasted image 20230806153437.png",
     "Map-Reduce.md",
-    "daily-notes/2023-08-05.md",
-    "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-01.md",
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tree.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tries.md",
-    "Protein Sequence Analyser.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-08-04.md",
     "DA331-Lab2.md",

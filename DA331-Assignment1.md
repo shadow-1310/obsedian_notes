@@ -15,4 +15,5 @@ reference:
 #### approach 2: add damping factor
 reference: 
 ![[Pasted image 20230806153820.png]]
-- 
+
+#### approach 3: 
