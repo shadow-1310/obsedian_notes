@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map-Reduce.md",
+                "file": "DA331-Assignment1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "assign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map-Reduce.md",
+                "file": "DA331-Assignment1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map-Reduce.md",
+                "file": "DA331-Assignment1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Map-Reduce.md",
+                "file": "DA331-Assignment1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map-Reduce.md"
+                "file": "DA331-Assignment1.md"
               }
             }
           }
@@ -235,8 +235,11 @@
   },
   "active": "b1f89e02a38e0175",
   "lastOpenFiles": [
-    "daily-notes/2023-08-05.md",
+    "attachments/Pasted image 20230806153820.png",
+    "attachments/Pasted image 20230806153505.png",
+    "attachments/Pasted image 20230806153437.png",
     "Map-Reduce.md",
+    "daily-notes/2023-08-05.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-01.md",
     "105-Construct Binary Tree from preorder and inorder.md",
@@ -263,14 +266,11 @@
     "yolov5-pytorch.md",
     "apt.md",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
-    "Linux.md",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
     "attachments/Screenshot from 2023-07-16 01-22-00.png",
-    "attachments/Pasted image 20230715223235.png",
-    "attachments/Pasted image 20230715222942.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
