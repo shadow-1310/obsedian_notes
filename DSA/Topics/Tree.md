@@ -20,5 +20,5 @@ tags: #dsa/tree #unfinished
 - [[101-Symmetric Tree]] last done: [[2023-08-01]]
 - [[102-Binary Tree level order traversal]] last done: [[2023-08-01]]
 - [[103-Binary Tree Zigzag level order traversal]] last done: [[2023-08-01]]
-- [[105-Construct Binary Tree from preorder and inorder]]
+- [[105-Construct Binary Tree from preorder and inorder]] last done: [[2023-08-05]]
 - [[108-converted sorted arry to bst]]
