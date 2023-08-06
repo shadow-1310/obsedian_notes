@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "038c618d6411c846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Component of Hadoop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02eab0b300bea5d0",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Component of Hadoop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Component of Hadoop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Component of Hadoop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA331-Assignment1.md"
+                "file": "Component of Hadoop.md"
               }
             }
           }
@@ -233,8 +245,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1f89e02a38e0175",
+  "active": "038c618d6411c846",
   "lastOpenFiles": [
+    "DA331-Assignment1.md",
+    "Component of Hadoop.md",
     "attachments/Pasted image 20230806153820.png",
     "attachments/Pasted image 20230806153505.png",
     "attachments/Pasted image 20230806153437.png",
@@ -253,7 +267,6 @@
     "DA331.md",
     "DA331-Lab1.md",
     "daily-notes/2023-08-03.md",
-    "DA331-Assignment1.md",
     "cuda-cudnn.md",
     "daily-notes/2023-07-30.md",
     "tensorflow.md",
@@ -270,7 +283,6 @@
     "attachments/Pasted image 20230722225636.png",
     "attachments/val_batch1_pred.jpg",
     "attachments/val_batch0_pred.jpg",
-    "attachments/Screenshot from 2023-07-16 01-22-00.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
