@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "973-K closest points to origin.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidia",
+                "query": "file:dimen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "973-K closest points to origin.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "973-K closest points to origin.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "973-K closest points to origin.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "973-K closest points to origin.md"
+                "file": "Benchmarking of dimensionality Reduction technique.md"
               }
             }
           }
@@ -235,10 +235,11 @@
   },
   "active": "be784ed7cd9fc092",
   "lastOpenFiles": [
+    "daily-notes/2023-08-07.md",
+    "973-K closest points to origin.md",
     "DA331-Assignment1.md",
     "daily-notes/2023-07-07.md",
     "Protein Sequence Analyser.md",
-    "973-K closest points to origin.md",
     "DSA/Topics/Heap.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
@@ -263,7 +264,6 @@
     "DA331-Lab1.md",
     "daily-notes/2023-08-03.md",
     "cuda-cudnn.md",
-    "daily-notes/2023-07-30.md",
     "attachments/Pasted image 20230803001205.png",
     "attachments/Pasted image 20230803000926.png",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
