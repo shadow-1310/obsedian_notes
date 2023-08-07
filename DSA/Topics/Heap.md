@@ -10,7 +10,9 @@ tags: #dsa/heap #unfinished
 #### code
 
 ## Related Problems
-
+---
+-  [[1405-Longest Happy String]]
+- [[973-K closest points to origin]]
 
 
 
