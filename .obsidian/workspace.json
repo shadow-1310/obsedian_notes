@@ -44,12 +44,36 @@
             }
           },
           {
-            "id": "be784ed7cd9fc092",
+            "id": "b754e9fab3b1f159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1046-Last stone weight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d3def5f86cff925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Benchmarking of dimensionality Reduction technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be784ed7cd9fc092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "1046-Last stone weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "1046-Last stone weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "1046-Last stone weight.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "1046-Last stone weight.md"
               }
             }
           }
@@ -233,14 +257,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be784ed7cd9fc092",
+  "active": "b754e9fab3b1f159",
   "lastOpenFiles": [
-    "daily-notes/2023-08-07.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "1046-Last stone weight.md",
+    "daily-notes/2023-07-06.md",
+    "DSA/Topics/Heap.md",
     "973-K closest points to origin.md",
+    "daily-notes/2023-08-06.md",
+    "daily-notes/2023-08-07.md",
     "DA331-Assignment1.md",
     "daily-notes/2023-07-07.md",
     "Protein Sequence Analyser.md",
-    "DSA/Topics/Heap.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
     "1405-Longest Happy String.md",
@@ -248,7 +276,6 @@
     "108-converted sorted arry to bst.md",
     "daily-notes/2023-06-27.md",
     "daily-notes/2023-08-05.md",
-    "daily-notes/2023-08-06.md",
     "Hadoop.md",
     "attachments/Pasted image 20230806153820.png",
     "attachments/Pasted image 20230806153505.png",
@@ -261,9 +288,6 @@
     "daily-notes/2023-08-04.md",
     "DA331-Lab2.md",
     "DA331.md",
-    "DA331-Lab1.md",
-    "daily-notes/2023-08-03.md",
-    "cuda-cudnn.md",
     "attachments/Pasted image 20230803001205.png",
     "attachments/Pasted image 20230803000926.png",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",

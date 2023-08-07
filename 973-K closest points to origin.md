@@ -1,11 +1,11 @@
-topic: #dsa/heap 
+topic: #dsa/heap [[Heap]]
 
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/973
 - first_done: [[2023-07-07]]
 	- 1st revised:[[2023-07-17]]
-- last_revised: 
+- last_revised: [[2023-08-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -18,7 +18,10 @@ topic: #dsa/heap
 - space complexity
 
 #### pseudo code
-
+- iterate through the given points list and replace each point with a tuple having (dist, [x,y])
+- now heapify this whole list
+- again iterate through the heap(min heap) and pop the top element and append to the *res*.
+- break the loop when len(res) == k
 #### mistakes
 
 #### code snippet

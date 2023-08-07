@@ -12,7 +12,9 @@ tags: #dsa/heap #unfinished
 ## Related Problems
 ---
 -  [[1405-Longest Happy String]]
-- [[973-K closest points to origin]]
+- [[973-K closest points to origin]] - last done: [[2023-08-06]]
+- [[1046-Last stone weight]]
+- 
 
 
 
