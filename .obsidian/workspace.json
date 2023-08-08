@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Benchmarking of dimensionality Reduction technique.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -62,13 +62,13 @@
               "type": "markdown",
               "state": {
                 "file": "daily-notes/2023-08-08.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA331-Assignment1.md"
+                "file": "Benchmarking of dimensionality Reduction technique.md"
               }
             }
           }
@@ -245,14 +245,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b754e9fab3b1f159",
+  "active": "3d3def5f86cff925",
   "lastOpenFiles": [
-    "DSA/Topics/Heap.md",
-    "Benchmarking of dimensionality Reduction technique.md",
+    "attachments/Pasted image 20230808165441.png",
     "daily-notes/2023-08-08.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "DA331-Assignment1.md",
+    "DSA/Topics/Heap.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-08-06.md",
-    "DA331-Assignment1.md",
     "daily-notes/2023-08-07.md",
     "daily-notes/2023-07-07.md",
     "1046-Last stone weight.md",
@@ -275,7 +276,6 @@
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tries.md",
     "daily-notes/2023-08-04.md",
-    "DA331-Lab2.md",
     "attachments/Pasted image 20230803001205.png",
     "attachments/Pasted image 20230803000926.png",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
