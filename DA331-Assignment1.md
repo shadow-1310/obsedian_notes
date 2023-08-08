@@ -11,6 +11,9 @@ reference:
 ![[Pasted image 20230806153437.png]]
 - first consider all nodes have equal importance
 - then in 2nd iteration recalculate page rank based on the summation of  input link
+#### **approach 1- errors**:
+- getting the error
+	- INFO mapreduce.job: Job job_local_756262378_001 failed with state FAILED due to: NA
 
 #### approach 2: add damping factor
 reference: 

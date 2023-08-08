@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a877e81b300b05f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd0f9644ddc4167b",
             "type": "leaf",
             "state": {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "DA331-Assignment1.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,19 +56,19 @@
             }
           },
           {
-            "id": "be784ed7cd9fc092",
+            "id": "4e1746e875a56220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-06.md",
-                "mode": "source",
+                "file": "daily-notes/2023-08-08.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "DA331-Assignment1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "DA331-Assignment1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "DA331-Assignment1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-08.md"
+                "file": "DA331-Assignment1.md"
               }
             }
           }
@@ -259,16 +247,17 @@
   },
   "active": "b754e9fab3b1f159",
   "lastOpenFiles": [
-    "daily-notes/2023-08-07.md",
-    "daily-notes/2023-08-08.md",
-    "daily-notes/2023-07-07.md",
-    "1046-Last stone weight.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "daily-notes/2023-07-06.md",
     "DSA/Topics/Heap.md",
-    "973-K closest points to origin.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-08-08.md",
+    "IIT Campus Placements.md",
     "daily-notes/2023-08-06.md",
     "DA331-Assignment1.md",
+    "daily-notes/2023-08-07.md",
+    "daily-notes/2023-07-07.md",
+    "1046-Last stone weight.md",
+    "daily-notes/2023-07-06.md",
+    "973-K closest points to origin.md",
     "Protein Sequence Analyser.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
@@ -285,7 +274,6 @@
     "daily-notes/2023-08-01.md",
     "105-Construct Binary Tree from preorder and inorder.md",
     "DSA/Topics/Tries.md",
-    "IIT Campus Placements.md",
     "daily-notes/2023-08-04.md",
     "DA331-Lab2.md",
     "attachments/Pasted image 20230803001205.png",
