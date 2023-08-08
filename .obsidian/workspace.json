@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DA331-Assignment1.md",
+                "file": "Sapling Count with Drone Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-08-08.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dimen",
+                "query": "count sapli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Sapling Count with Drone Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Sapling Count with Drone Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Sapling Count with Drone Image.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "Sapling Count with Drone Image.md"
               }
             }
           }
@@ -233,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 636.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,12 +247,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d3def5f86cff925",
+  "active": "b754e9fab3b1f159",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230808165441.png",
-    "daily-notes/2023-08-08.md",
-    "Benchmarking of dimensionality Reduction technique.md",
+    "attachments/Screenshot from 2023-08-09 00-09-56.png",
+    "attachments/Pasted image 20230809001652.png",
+    "daily-notes/2023-07-19.md",
+    "Sapling Count with Drone Image.md",
     "DA331-Assignment1.md",
+    "daily-notes/2023-08-08.md",
+    "attachments/Pasted image 20230808165441.png",
+    "Benchmarking of dimensionality Reduction technique.md",
     "DSA/Topics/Heap.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-08-06.md",
@@ -274,15 +280,11 @@
     "Map-Reduce.md",
     "daily-notes/2023-08-01.md",
     "105-Construct Binary Tree from preorder and inorder.md",
-    "DSA/Topics/Tries.md",
-    "daily-notes/2023-08-04.md",
     "attachments/Pasted image 20230803001205.png",
     "attachments/Pasted image 20230803000926.png",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments/Pasted image 20230722225636.png",
-    "attachments/val_batch1_pred.jpg",
-    "attachments/val_batch0_pred.jpg",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
