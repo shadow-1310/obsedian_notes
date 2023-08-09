@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e1746e875a56220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Benchmarking of dimensionality Reduction technique.md",
                 "mode": "source",
                 "source": false
@@ -49,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-08.md",
+                "file": "daily-notes/2023-06-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e96a6dfc020731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "215- kth largest element in an array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a048a4de4bab51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1046-Last stone weight.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bench",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -233,24 +246,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e1746e875a56220",
+  "active": "a0755712167034f4",
   "lastOpenFiles": [
-    "daily-notes/2023-08-08.md",
+    "215- kth largest element in an array.md",
+    "1046-Last stone weight.md",
+    "daily-notes/2023-06-01.md",
     "daily-notes/2023-08-09.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "daily-notes/2023-07-18.md",
+    "DSA/Topics/Heap.md",
+    "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
+    "daily-notes/2023-08-08.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "attachments/Pasted image 20230809173526.png",
+    "attachments/Pasted image 20230809172754.png",
+    "attachments/Pasted image 20230809172035.png",
+    "attachments/Pasted image 20230809171855.png",
+    "attachments/Pasted image 20230809170640.png",
+    "attachments/Pasted image 20230809165327.png",
+    "daily-notes/2023-07-18.md",
     "Sapling Count with Drone Image.md",
     "daily-notes/2023-07-19.md",
     "attachments/Screenshot from 2023-08-09 00-09-56.png",
     "attachments/Pasted image 20230809001652.png",
     "DA331-Assignment1.md",
     "attachments/Pasted image 20230808165441.png",
-    "DSA/Topics/Heap.md",
     "IIT Campus Placements.md",
-    "daily-notes/2023-08-06.md",
     "daily-notes/2023-07-07.md",
-    "1046-Last stone weight.md",
     "daily-notes/2023-07-06.md",
     "973-K closest points to origin.md",
     "Protein Sequence Analyser.md",
@@ -263,14 +284,6 @@
     "daily-notes/2023-08-05.md",
     "Hadoop.md",
     "attachments/Pasted image 20230806153820.png",
-    "attachments/Pasted image 20230806153505.png",
-    "attachments/Pasted image 20230806153437.png",
-    "Map-Reduce.md",
-    "daily-notes/2023-08-01.md",
-    "attachments/Pasted image 20230803001205.png",
-    "attachments/Pasted image 20230803000926.png",
-    "attachments/Screenshot from 2023-08-02 11-26-51.png",
-    "attachments/Screenshot from 2023-07-29 13-19-56.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
