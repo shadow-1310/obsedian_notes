@@ -12,6 +12,16 @@
 [[2023-08-08]]
 To-do ^64f549
 ### Find papers to justify methodology procedure - 
+- conversion of image matrix to array
+	- [comparison of ML vs DL](https://iopscience.iop.org/article/10.1088/1742-6596/1314/1/012148/pdf)
+		- ![[Pasted image 20230809215316.png]]
+	- [Frontiers | Image-Based Cardiac Diagnosis With Machine Learning: A Review](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00001/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cardiovascular_Medicine&id=509311)
+		- ![[Pasted image 20230809220546.png]]
+	- [feature extraction and then feed to model](https://www.idosi.org/mejsr/mejsr23(9)15/17.pdf)
+		- ![[Pasted image 20230809221646.png]]
+	- [Brain Tumor Detection and Classification Using Convolutional Neural Network and Deep Neural Network | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9132874)
+		- ![[img-to-array.gif]]
+	- 
 - crossvalidation with PCA reference
 	- [Paper using PCA separately with train and test data](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11252/1125217/Incorporating-machine-learning-with-Raman-spectroscopy-to-differentiate-bone-types/10.1117/12.2546463.full?SSO=1)
 		- ![[Pasted image 20230808165441.png]]
