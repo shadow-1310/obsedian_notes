@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapling Count with Drone Image.md",
+                "file": "daily-notes/2023-08-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sapling Count with Drone Image.md",
+                "file": "daily-notes/2023-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sapling Count with Drone Image.md",
+                "file": "daily-notes/2023-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sapling Count with Drone Image.md",
+                "file": "daily-notes/2023-08-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sapling Count with Drone Image.md"
+                "file": "daily-notes/2023-08-09.md"
               }
             }
           }
@@ -249,10 +249,11 @@
   },
   "active": "b754e9fab3b1f159",
   "lastOpenFiles": [
+    "Sapling Count with Drone Image.md",
+    "daily-notes/2023-08-09.md",
     "attachments/Screenshot from 2023-08-09 00-09-56.png",
     "attachments/Pasted image 20230809001652.png",
     "daily-notes/2023-07-19.md",
-    "Sapling Count with Drone Image.md",
     "DA331-Assignment1.md",
     "daily-notes/2023-08-08.md",
     "attachments/Pasted image 20230808165441.png",
@@ -284,7 +285,6 @@
     "attachments/Pasted image 20230803000926.png",
     "attachments/Screenshot from 2023-08-02 11-26-51.png",
     "attachments/Screenshot from 2023-07-29 13-19-56.png",
-    "attachments/Pasted image 20230722225636.png",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",
