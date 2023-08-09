@@ -20,3 +20,4 @@ approach 2
 	- here we can see camera pitch, yaw and roll is given. 
 - refrences - [python - Get lat/long given current point, distance and bearing - Stack Overflow](https://stackoverflow.com/questions/7222382/get-lat-long-given-current-point-distance-and-bearing)
 	- ![[Screenshot from 2023-08-09 00-09-56.png]]
+	- [photography - How should I interpret the exif data from an image taken by a drone? - Drones and Model Aircraft Stack Exchange](https://drones.stackexchange.com/questions/2140/how-should-i-interpret-the-exif-data-from-an-image-taken-by-a-drone)

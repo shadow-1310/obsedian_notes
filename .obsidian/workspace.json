@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "482c6e32a57890a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5971f20a28de23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0f9644ddc4167b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fb9ce7c1faea71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e1746e875a56220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ade6433a58b6b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-08-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96992d263a630a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d389f260a9f9f664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14121646ec72c08c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0755712167034f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bench",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "991088fe1fabff05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "f2a5a304ba87d87e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f889ac0c04457f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3854ee68070eb86e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9883931606ffe515",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edbda6db19ba5d44",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6721188482336041,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "3cc170531ec3fa26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62f809255c562f28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ec3370a6dcc7246c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a02699d58490554",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e1746e875a56220",
+  "lastOpenFiles": [
+    "daily-notes/2023-08-08.md",
+    "daily-notes/2023-08-09.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-07-18.md",
+    "daily-notes/2023-08-07.md",
+    "Sapling Count with Drone Image.md",
+    "daily-notes/2023-07-19.md",
+    "attachments/Screenshot from 2023-08-09 00-09-56.png",
+    "attachments/Pasted image 20230809001652.png",
+    "DA331-Assignment1.md",
+    "attachments/Pasted image 20230808165441.png",
+    "DSA/Topics/Heap.md",
+    "IIT Campus Placements.md",
+    "daily-notes/2023-08-06.md",
+    "daily-notes/2023-07-07.md",
+    "1046-Last stone weight.md",
+    "daily-notes/2023-07-06.md",
+    "973-K closest points to origin.md",
+    "Protein Sequence Analyser.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Tree.md",
+    "1405-Longest Happy String.md",
+    "Obsidian.md",
+    "108-converted sorted arry to bst.md",
+    "daily-notes/2023-06-27.md",
+    "daily-notes/2023-08-05.md",
+    "Hadoop.md",
+    "attachments/Pasted image 20230806153820.png",
+    "attachments/Pasted image 20230806153505.png",
+    "attachments/Pasted image 20230806153437.png",
+    "Map-Reduce.md",
+    "daily-notes/2023-08-01.md",
+    "attachments/Pasted image 20230803001205.png",
+    "attachments/Pasted image 20230803000926.png",
+    "attachments/Screenshot from 2023-08-02 11-26-51.png",
+    "attachments/Screenshot from 2023-07-29 13-19-56.png",
+    "attachments",
+    "Untitled.canvas",
+    "DSA/Topics",
+    "DSA",
+    "daily-notes",
+    "templates"
+  ]
+}
