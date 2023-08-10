@@ -11,6 +11,9 @@
 
 [[2023-08-08]]
 To-do ^64f549
+[[2023-08-10]]
+To-do
+- generate supplement plots for t-SNE, FA with different parameter value
 ### Find papers to justify methodology procedure - 
 - conversion of image matrix to array
 	- [comparison of ML vs DL](https://iopscience.iop.org/article/10.1088/1742-6596/1314/1/012148/pdf)
@@ -21,7 +24,11 @@ To-do ^64f549
 		- ![[Pasted image 20230809221646.png]]
 	- [Brain Tumor Detection and Classification Using Convolutional Neural Network and Deep Neural Network | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9132874)
 		- ![[img-to-array.gif]]
-	- 
+- reconstruction of the images - 
+	- [paper having reconstruction formula](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-4-3-519&id=2689)
+		- ![[Pasted image 20230810164028.png]]
+	- [stack-exchange explaining image reconstruction](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com)
+		- ![[Pasted image 20230810164204.png]]
 - crossvalidation with PCA reference
 	- [Paper using PCA separately with train and test data](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11252/1125217/Incorporating-machine-learning-with-Raman-spectroscopy-to-differentiate-bone-types/10.1117/12.2546463.full?SSO=1)
 		- ![[Pasted image 20230808165441.png]]
