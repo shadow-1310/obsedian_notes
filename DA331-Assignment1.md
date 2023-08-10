@@ -1,3 +1,4 @@
+[[DA331]]
 ## Questions - to be done using Hadoop map-reduce architecture
 ---
 ### **Q1 - Implement Simple page rank** -  A Page Ranking System on normal inward link summation strategy
