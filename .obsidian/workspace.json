@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "703-Kth largest in a stream.md",
+                "file": "daily-notes/2023-08-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "621-Task Scheduler.md",
+                "file": "DSA/Topics/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "18d3e887e6ad108b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "DSA/Topics/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "DSA/Topics/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "DSA/Topics/Heap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "DSA/Topics/Heap.md"
               }
             }
           }
@@ -245,57 +233,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "539b04e22fbcb0f0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "65349263e178aef1",
-        "type": "window",
-        "children": [
-          {
-            "id": "22aa87b225a4fea3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "636381f5ab6df3fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Benchmarking of dimensionality Reduction technique.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 153,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "636381f5ab6df3fd",
+  "active": "302a7a1b80aed9b1",
   "lastOpenFiles": [
+    "daily-notes/2023-08-10.md",
+    "DSA/Topics/Heap.md",
+    "621-Task Scheduler.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "703-Kth largest in a stream.md",
     "attachments/Pasted image 20230810164204.png",
     "attachments/Pasted image 20230810164102.png",
     "attachments/Pasted image 20230810164028.png",
-    "703-Kth largest in a stream.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "DSA/Topics/Heap.md",
     "215- kth largest element in an array.md",
     "378-Kth smallest element in a sorted matrix.md",
     "daily-notes/2023-08-09.md",
-    "daily-notes/2023-08-10.md",
     "DA331.md",
-    "621-Task Scheduler.md",
     "daily-notes/2023-07-09.md",
     "DA331-Assignment2.md",
     "DA331-Assignment1.md",
@@ -312,7 +263,6 @@
     "attachments/Pasted image 20230809173526.png",
     "attachments/Pasted image 20230809172754.png",
     "attachments/Pasted image 20230809172035.png",
-    "attachments/Pasted image 20230809171855.png",
     "daily-notes/2023-07-18.md",
     "Sapling Count with Drone Image.md",
     "daily-notes/2023-07-19.md",
