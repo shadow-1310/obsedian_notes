@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eece782b7b878e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL.md",
+                "file": "daily-notes/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL.md",
+                "file": "daily-notes/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MySQL.md",
+                "file": "daily-notes/2023-08-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,26 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL.md"
+                "file": "daily-notes/2023-08-08.md"
               }
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "ec3370a6dcc7246c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a02699d58490554",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -245,10 +219,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eece782b7b878e1c",
+  "active": "edbda6db19ba5d44",
   "lastOpenFiles": [
-    "daily-notes/2023-08-08.md",
+    "Untitled.canvas",
     "MySQL.md",
+    "attachments/Pasted image 20230811021004.png",
+    "attachments/Pasted image 20230811020848.png",
+    "attachments/Pasted image 20230811015505.png",
+    "daily-notes/2023-08-11.md",
+    "daily-notes/2023-08-08.md",
     "DA331.md",
     "DSA/Topics/Heap.md",
     "daily-notes/2023-08-10.md",
@@ -273,18 +252,12 @@
     "daily-notes/2023-06-01.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
-    "attachments/Pasted image 20230809173526.png",
-    "attachments/Pasted image 20230809172754.png",
-    "attachments/Pasted image 20230809172035.png",
     "daily-notes/2023-07-18.md",
     "Sapling Count with Drone Image.md",
     "daily-notes/2023-07-19.md",
     "daily-notes/2023-07-07.md",
     "daily-notes/2023-07-06.md",
-    "973-K closest points to origin.md",
-    "Protein Sequence Analyser.md",
     "attachments",
-    "Untitled.canvas",
     "DSA/Topics",
     "DSA",
     "daily-notes",
