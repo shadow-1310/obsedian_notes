@@ -4,7 +4,8 @@ topic: [[Heap]] #dsa/heap
 - source: #leetcode 
 - serial no: #leetcode/215
 - first_done: [[2023-06-01]]
-- last_revised: 
+	- 1st revision: 
+- last_revised: [[2023-08-10]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -17,7 +18,12 @@ topic: [[Heap]] #dsa/heap
 - space complexity
 
 #### pseudo code
-
+- make each number -ve in the given list and store in place using list comprehension
+- heapify the list
+- initialize a counter with 0
+- iterate through the heap and pop element and store it and for each iteration increase counter variable
+	- when counter == k; break the loop
+- return the last popped element
 #### mistakes
 
 #### code snippet
