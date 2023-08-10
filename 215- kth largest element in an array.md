@@ -1,4 +1,4 @@
-topic:
+topic: [[Heap]] #dsa/heap 
 
 ### basic info
 - source: #leetcode 

@@ -20,36 +20,36 @@
             }
           },
           {
-            "id": "1fb9ce7c1faea71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "38e96a6dfc020731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215- kth largest element in an array.md",
+                "file": "daily-notes/2023-08-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23a048a4de4bab51",
+            "id": "4b941774e377b8ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1046-Last stone weight.md",
+                "file": "378-Kth smallest element in a sorted matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302a7a1b80aed9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "621-Task Scheduler.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-09.md",
+                "file": "daily-notes/2023-08-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-09.md",
+                "file": "daily-notes/2023-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-09.md",
+                "file": "daily-notes/2023-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-09.md",
+                "file": "daily-notes/2023-08-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-09.md"
+                "file": "daily-notes/2023-08-10.md"
               }
             }
           }
@@ -257,8 +257,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18d3e887e6ad108b",
+  "active": "38e96a6dfc020731",
   "lastOpenFiles": [
+    "daily-notes/2023-08-10.md",
+    "378-Kth smallest element in a sorted matrix.md",
+    "DSA/Topics/Heap.md",
+    "621-Task Scheduler.md",
+    "daily-notes/2023-07-09.md",
+    "703-Kth largest in a stream.md",
+    "215- kth largest element in an array.md",
+    "daily-notes/2023-08-09.md",
     "DA331-Assignment2.md",
     "DA331.md",
     "DA331-Assignment1.md",
@@ -268,12 +276,9 @@
     "attachments/Pasted image 20230809220546.png",
     "attachments/Pasted image 20230809215316.png",
     "attachments/img-to-array.gif",
-    "daily-notes/2023-08-09.md",
     "IIT Campus Placements.md",
-    "215- kth largest element in an array.md",
     "1046-Last stone weight.md",
     "daily-notes/2023-06-01.md",
-    "DSA/Topics/Heap.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
     "attachments/Pasted image 20230809173526.png",
@@ -290,11 +295,6 @@
     "973-K closest points to origin.md",
     "Protein Sequence Analyser.md",
     "DSA/Topics/DSA.md",
-    "DSA/Topics/Tree.md",
-    "1405-Longest Happy String.md",
-    "Obsidian.md",
-    "108-converted sorted arry to bst.md",
-    "daily-notes/2023-06-27.md",
     "attachments",
     "Untitled.canvas",
     "DSA/Topics",

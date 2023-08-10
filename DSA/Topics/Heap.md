@@ -15,7 +15,9 @@ tags: #dsa/heap #unfinished
 - [[973-K closest points to origin]] - last done: [[2023-08-06]]
 - [[1046-Last stone weight]] - last done: [[2023-08-07]]
 - [[215- kth largest element in an array]]
-- [[]]
+- [[703-Kth largest in a stream]]
+- [[621-Task Scheduler]]
+- [[378-Kth smallest element in a sorted matrix]]
 
 
 
