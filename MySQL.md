@@ -1,6 +1,7 @@
 ## manuals
 - [How to Disable Secure\_file\_priv option in MySQL - Linux - Techglimpse](https://techglimpse.com/secure_file_priv-mysql-option/)
 - [MySQL :: MySQL 8.0 Reference Manual :: 3.3.3 Loading Data into a Table](https://dev.mysql.com/doc/refman/8.0/en/loading-tables.html)
+- [MySQL :: MySQL 8.0 Reference Manual :: 13.2.9 LOAD DATA Statement](https://dev.mysql.com/doc/refman/8.0/en/load-data.html)
 ## errors
 ### error code: 3948  and then 2098- loading local data is disabled
 - References
@@ -26,3 +27,7 @@
 			SET GLOBAL local_infile = true;
 			```
 	- Now we have to edit /
+
+import while having mismatched columns
+- [csv - MySQL - Multiple set on LOAD DATA INFILE - Stack Overflow](https://stackoverflow.com/questions/12530971/mysql-multiple-set-on-load-data-infile)
+- [CSV Load Data into mySQL with mismatched and skipped columns - Stack Overflow](https://stackoverflow.com/questions/53464816/csv-load-data-into-mysql-with-mismatched-and-skipped-columns)
