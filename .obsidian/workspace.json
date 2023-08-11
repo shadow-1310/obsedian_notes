@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4b941774e377b8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "302a7a1b80aed9b1",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           },
           {
-            "id": "20abe8b3fb9c0ad4",
+            "id": "432dab44aaa77cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +44,19 @@
             }
           },
           {
-            "id": "432dab44aaa77cf6",
+            "id": "8e84d7b79d741432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "MySQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bench",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,11 +233,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "432dab44aaa77cf6",
+  "floating": {
+    "id": "49e9085bc749b6bb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2bb3524b226880ab",
+        "type": "window",
+        "children": [
+          {
+            "id": "49785a4de9701ec3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20abe8b3fb9c0ad4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Benchmarking of dimensionality Reduction technique.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 660,
+        "y": 253,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "20abe8b3fb9c0ad4",
   "lastOpenFiles": [
+    "daily-notes/2023-08-10.md",
     "daily-notes/2023-08-11.md",
     "MySQL.md",
-    "daily-notes/2023-08-10.md",
+    "DSA/Topics/Heap.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "attachments/Pasted image 20230811160507.png",
+    "attachments/Pasted image 20230811160446.png",
+    "attachments/Pasted image 20230811160349.png",
     "IIT Campus Placements.md",
     "Untitled.canvas",
     "attachments/Pasted image 20230811021004.png",
@@ -257,9 +287,7 @@
     "attachments/Pasted image 20230811015505.png",
     "daily-notes/2023-08-08.md",
     "DA331.md",
-    "DSA/Topics/Heap.md",
     "621-Task Scheduler.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "703-Kth largest in a stream.md",
     "attachments/Pasted image 20230810164204.png",
     "attachments/Pasted image 20230810164102.png",
@@ -271,9 +299,6 @@
     "DA331-Assignment2.md",
     "DA331-Assignment1.md",
     "attachments/Pasted image 20230809221646.png",
-    "attachments/Pasted image 20230809220546.png",
-    "attachments/Pasted image 20230809215316.png",
-    "attachments/img-to-array.gif",
     "1046-Last stone weight.md",
     "daily-notes/2023-06-01.md",
     "daily-notes/2023-08-06.md",

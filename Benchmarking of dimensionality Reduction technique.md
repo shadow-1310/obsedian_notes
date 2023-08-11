@@ -16,6 +16,14 @@ To-do
 - generate supplement plots for t-SNE, FA with different parameter value
 	- TSNE references
 		- https://lvdmaaten.github.io/tsne/
+			- ![[Pasted image 20230811160349.png]]
+			- ![[Pasted image 20230811160507.png]]
+			- ![[Pasted image 20230811160446.png]]
+			- 
+			- 
+		- https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+		- https://lvdmaaten.github.io/publications/papers/JMLR_2014.pdf
+		- [t-SNE for single-cell transcriptomics | Nature Communications](https://www.nature.com/articles/s41467-019-13056-x)
 		- https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 		- https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html
 ### Find papers to justify methodology procedure - 
