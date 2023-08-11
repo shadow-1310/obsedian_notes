@@ -14,6 +14,10 @@ To-do ^64f549
 [[2023-08-10]]
 To-do
 - generate supplement plots for t-SNE, FA with different parameter value
+	- TSNE references
+		- https://lvdmaaten.github.io/tsne/
+		- https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+		- https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html
 ### Find papers to justify methodology procedure - 
 - conversion of image matrix to array
 	- [comparison of ML vs DL](https://iopscience.iop.org/article/10.1088/1742-6596/1314/1/012148/pdf)
