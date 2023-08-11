@@ -28,6 +28,9 @@
 			```
 	- Now we have to edit /
 
-import while having mismatched columns
+### import while having mismatched columns
 - [csv - MySQL - Multiple set on LOAD DATA INFILE - Stack Overflow](https://stackoverflow.com/questions/12530971/mysql-multiple-set-on-load-data-infile)
 - [CSV Load Data into mySQL with mismatched and skipped columns - Stack Overflow](https://stackoverflow.com/questions/53464816/csv-load-data-into-mysql-with-mismatched-and-skipped-columns)
+
+### column values have 'comma'(,) in them and some enclosed by ""
+- [csv - MySQL "LOAD DATA INFILE" and Missing Double Quotes - Stack Overflow](https://stackoverflow.com/questions/5904909/mysql-load-data-infile-and-missing-double-quotes)

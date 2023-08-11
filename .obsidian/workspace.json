@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "daily-notes/2023-08-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-10.md",
+                "file": "MySQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-10.md"
+                "file": "MySQL.md"
               }
             }
           }
@@ -233,11 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "432dab44aaa77cf6",
+  "active": "8e84d7b79d741432",
   "lastOpenFiles": [
+    "daily-notes/2023-08-11.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-08-10.md",
-    "daily-notes/2023-08-11.md",
     "MySQL.md",
     "DSA/Topics/Heap.md",
     "attachments/Pasted image 20230811160507.png",
