@@ -25,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "432dab44aaa77cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e84d7b79d741432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL.md",
+                "file": "Recommender System - Book.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL.md",
+                "file": "Recommender System - Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL.md",
+                "file": "Recommender System - Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MySQL.md",
+                "file": "Recommender System - Book.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL.md"
+                "file": "Recommender System - Book.md"
               }
             }
           }
@@ -233,44 +209,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e84d7b79d741432",
+  "active": "302a7a1b80aed9b1",
   "lastOpenFiles": [
-    "daily-notes/2023-08-11.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "daily-notes/2023-08-10.md",
-    "MySQL.md",
+    "attachments/Pasted image 20230812160217.png",
+    "attachments/Pasted image 20230812154845.png",
     "DSA/Topics/Heap.md",
-    "attachments/Pasted image 20230811160507.png",
-    "attachments/Pasted image 20230811160446.png",
-    "attachments/Pasted image 20230811160349.png",
+    "Untitled.md",
+    "daily-notes/2023-08-11.md",
+    "Recommender System - Book.md",
+    "attachments/Pasted image 20230812153948.png",
+    "attachments/Pasted image 20230812151815.png",
+    "attachments/Screenshot from 2023-08-12 14-53-00.png",
+    "attachments/Pasted image 20230812144336.png",
+    "attachments/Pasted image 20230812142256.png",
+    "attachments/Pasted image 20230812142249.png",
+    "attachments/Pasted image 20230812142111.png",
+    "attachments/q2.png",
+    "attachments/q1.png",
+    "daily-notes/2023-08-10.md",
+    "daily-notes/2023-08-12.md",
+    "MySQL.md",
+    "Benchmarking of dimensionality Reduction technique.md",
     "IIT Campus Placements.md",
     "Untitled.canvas",
-    "attachments/Pasted image 20230811021004.png",
-    "attachments/Pasted image 20230811020848.png",
-    "attachments/Pasted image 20230811015505.png",
     "daily-notes/2023-08-08.md",
     "DA331.md",
     "621-Task Scheduler.md",
     "703-Kth largest in a stream.md",
-    "attachments/Pasted image 20230810164204.png",
-    "attachments/Pasted image 20230810164102.png",
-    "attachments/Pasted image 20230810164028.png",
     "215- kth largest element in an array.md",
     "378-Kth smallest element in a sorted matrix.md",
     "daily-notes/2023-08-09.md",
     "daily-notes/2023-07-09.md",
     "DA331-Assignment2.md",
     "DA331-Assignment1.md",
-    "attachments/Pasted image 20230809221646.png",
     "1046-Last stone weight.md",
     "daily-notes/2023-06-01.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
     "daily-notes/2023-07-18.md",
     "Sapling Count with Drone Image.md",
-    "daily-notes/2023-07-19.md",
-    "daily-notes/2023-07-07.md",
-    "daily-notes/2023-07-06.md",
     "attachments",
     "DSA/Topics",
     "DSA",
