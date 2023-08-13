@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "302a7a1b80aed9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7920f7b3f904301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git-Github.md",
+                "file": "daily-notes/2023-08-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-Github.md",
+                "file": "daily-notes/2023-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-Github.md",
+                "file": "daily-notes/2023-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git-Github.md",
+                "file": "daily-notes/2023-08-13.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git-Github.md"
+                "file": "daily-notes/2023-08-13.md"
               }
             }
           }
@@ -223,13 +211,17 @@
   },
   "active": "e7920f7b3f904301",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "daily-notes/2023-08-10.md",
+    "daily-notes/2023-08-11.md",
     "daily-notes/2023-08-12.md",
+    "daily-notes/2023-08-13.md",
+    "Git-Github.md",
     "Recommender System - Book.md",
     "attachments/Pasted image 20230812160217.png",
     "attachments/Pasted image 20230812154845.png",
     "DSA/Topics/Heap.md",
     "Untitled.md",
-    "daily-notes/2023-08-11.md",
     "attachments/Pasted image 20230812153948.png",
     "attachments/Pasted image 20230812151815.png",
     "attachments/Screenshot from 2023-08-12 14-53-00.png",
@@ -238,10 +230,8 @@
     "attachments/Pasted image 20230812142249.png",
     "attachments/Pasted image 20230812142111.png",
     "attachments/q2.png",
-    "daily-notes/2023-08-10.md",
     "MySQL.md",
     "Benchmarking of dimensionality Reduction technique.md",
-    "IIT Campus Placements.md",
     "Untitled.canvas",
     "daily-notes/2023-08-08.md",
     "DA331.md",
@@ -258,7 +248,6 @@
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
     "daily-notes/2023-07-18.md",
-    "Sapling Count with Drone Image.md",
     "attachments",
     "DSA/Topics",
     "DSA",
