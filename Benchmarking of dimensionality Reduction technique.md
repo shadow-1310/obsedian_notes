@@ -57,3 +57,11 @@ To-do
 			- ![[Pasted image 20230809173526.png]]
 - interesting papers found
 	- [PCA vs SVD](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7960038)
+
+## find why PCA failed?
+- [Shlens-  A Tutorial on Principal Component Analysis](https://arxiv.org/abs/1404.1100)
+	- here the author says that non gaussian distribution of the dataset might cause PCA to fail, so we should check kurtois test for non-gaussiansity of the dataset
+	- ![[Pasted image 20230814125317.png]]
+- [Why does PCA assume Gaussian Distribution? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/25789/why-does-pca-assume-gaussian-distribution)
+	- ![[Pasted image 20230814125116.png]]
+		- 

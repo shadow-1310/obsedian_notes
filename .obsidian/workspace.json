@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ASSIGNMENT 2",
+                "query": "file:bench",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-12.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-12.md"
+                "file": "Benchmarking of dimensionality Reduction technique.md"
               }
             }
           }
@@ -211,8 +211,10 @@
   },
   "active": "e7920f7b3f904301",
   "lastOpenFiles": [
-    "daily-notes/2023-08-13.md",
+    "attachments/Pasted image 20230814125317.png",
+    "attachments/Pasted image 20230814125116.png",
     "daily-notes/2023-08-14.md",
+    "daily-notes/2023-08-13.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
     "daily-notes/2023-08-08.md",
@@ -237,7 +239,6 @@
     "attachments/Pasted image 20230812142256.png",
     "attachments/Pasted image 20230812142249.png",
     "attachments/Pasted image 20230812142111.png",
-    "attachments/q2.png",
     "MySQL.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "Untitled.canvas",
@@ -247,7 +248,6 @@
     "378-Kth smallest element in a sorted matrix.md",
     "daily-notes/2023-07-09.md",
     "1046-Last stone weight.md",
-    "daily-notes/2023-06-01.md",
     "attachments",
     "DSA/Topics",
     "DSA",
