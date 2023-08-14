@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-13.md",
+                "file": "DA331-Assignment1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "ASSIGNMENT 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-13.md",
+                "file": "DA331-Assignment1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-13.md",
+                "file": "DA331-Assignment1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-13.md",
+                "file": "DA331-Assignment1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-13.md"
+                "file": "DA331-Assignment1.md"
               }
             }
           }
@@ -211,11 +211,13 @@
   },
   "active": "e7920f7b3f904301",
   "lastOpenFiles": [
+    "DA331.md",
+    "DA331-Assignment2.md",
+    "daily-notes/2023-08-13.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-08-10.md",
     "daily-notes/2023-08-11.md",
     "daily-notes/2023-08-12.md",
-    "daily-notes/2023-08-13.md",
     "Git-Github.md",
     "Recommender System - Book.md",
     "attachments/Pasted image 20230812160217.png",
@@ -234,14 +236,12 @@
     "Benchmarking of dimensionality Reduction technique.md",
     "Untitled.canvas",
     "daily-notes/2023-08-08.md",
-    "DA331.md",
     "621-Task Scheduler.md",
     "703-Kth largest in a stream.md",
     "215- kth largest element in an array.md",
     "378-Kth smallest element in a sorted matrix.md",
     "daily-notes/2023-08-09.md",
     "daily-notes/2023-07-09.md",
-    "DA331-Assignment2.md",
     "DA331-Assignment1.md",
     "1046-Last stone weight.md",
     "daily-notes/2023-06-01.md",
