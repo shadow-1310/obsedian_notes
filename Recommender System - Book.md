@@ -35,3 +35,53 @@
 	- 
 - Q6: Findin duplicate entries where it has Name, Authors and Publisher field same value
 	- ![[Pasted image 20230812144336.png]]
+
+## Modular Coding
+### create the directory structure
+- make a template.py and define the directory structure there
+	- j
+### make logger and exception handler
+- make the logger file in src/recSys/__init__.py
+- we can later call the logger by <code>from recSys import logger</code>
+
+	```python
+	import os
+	import sys
+	import logging
+	
+	logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
+	
+	log_dir = "logs"
+	log_filepath = os.path.join(log_dir,"running_logs.log")
+	os.makedirs(log_dir, exist_ok=True)
+	
+	
+	logging.basicConfig(
+	    level= logging.INFO,
+	    format= logging_str,
+	
+	    handlers=[
+	        logging.FileHandler(log_filepath),
+	        logging.StreamHandler(sys.stdout)
+	    ]
+	)
+	
+	logger = logging.getLogger("recSysLogger")
+	
+	 ```
+## update .yaml files
+- update config.yaml
+- update schema.yaml
+- update params.yaml
+### updating entities
+- update the entities in src/recSys/entity/config_entity.py
+### update configuration manager
+- update src/config/configuration.py
+### update the components
+- update src/components/data_ingestion.py
+- update src/components/data_validation.py
+### update pipeline
+- add each components process in serial order in pipeline
+	- l
+### update main.py
+

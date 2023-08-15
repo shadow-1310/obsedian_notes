@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
-                "mode": "source",
+                "file": "Recommender System - Book.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "Recommender System - Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "Recommender System - Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "Recommender System - Book.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "Recommender System - Book.md"
               }
             }
           }
@@ -212,6 +212,8 @@
   "active": "e7920f7b3f904301",
   "lastOpenFiles": [
     "daily-notes/2023-08-14.md",
+    "daily-notes/2023-08-15.md",
+    "nvim.md",
     "attachments/Pasted image 20230814125317.png",
     "attachments/Pasted image 20230814125116.png",
     "daily-notes/2023-08-13.md",
@@ -246,7 +248,6 @@
     "215- kth largest element in an array.md",
     "378-Kth smallest element in a sorted matrix.md",
     "daily-notes/2023-07-09.md",
-    "1046-Last stone weight.md",
     "attachments",
     "DSA/Topics",
     "DSA",
