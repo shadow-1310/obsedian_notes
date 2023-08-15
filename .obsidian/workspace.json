@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:bench",
+                "query": "new env",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "nvim.md"
               }
             }
           }
@@ -211,9 +211,9 @@
   },
   "active": "e7920f7b3f904301",
   "lastOpenFiles": [
+    "daily-notes/2023-08-14.md",
     "attachments/Pasted image 20230814125317.png",
     "attachments/Pasted image 20230814125116.png",
-    "daily-notes/2023-08-14.md",
     "daily-notes/2023-08-13.md",
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
@@ -238,7 +238,6 @@
     "attachments/Pasted image 20230812144336.png",
     "attachments/Pasted image 20230812142256.png",
     "attachments/Pasted image 20230812142249.png",
-    "attachments/Pasted image 20230812142111.png",
     "MySQL.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "Untitled.canvas",
