@@ -26,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Recommender System - Book.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82bd51ffb920738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-08-16.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "daily-notes/2023-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "daily-notes/2023-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "daily-notes/2023-08-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "daily-notes/2023-08-16.md"
               }
             }
           }
@@ -235,12 +223,13 @@
   },
   "active": "f9fd7251b5838767",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230816212126.png",
+    "Recommender System - Book.md",
     "daily-notes/2023-08-16.md",
     "daily-notes/2023-08-14.md",
     "daily-notes/2023-08-13.md",
     "daily-notes/2023-08-12.md",
     "daily-notes/2023-08-15.md",
-    "Recommender System - Book.md",
     "nvim.md",
     "attachments/Pasted image 20230814125317.png",
     "attachments/Pasted image 20230814125116.png",
@@ -271,7 +260,6 @@
     "621-Task Scheduler.md",
     "703-Kth largest in a stream.md",
     "215- kth largest element in an array.md",
-    "378-Kth smallest element in a sorted matrix.md",
     "attachments",
     "DSA/Topics",
     "DSA",

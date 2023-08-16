@@ -84,4 +84,9 @@
 - add each components process in serial order in pipeline
 	- l
 ### update main.py
+## Mistakes
+### dataclass
+- don't use ''='' to define variable, use ':' ^27b55c
+
+
 
