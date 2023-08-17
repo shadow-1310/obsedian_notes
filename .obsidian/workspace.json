@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-16.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-08-17.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,10 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db4ade9145dcb3b",
+  "active": "f9fd7251b5838767",
   "lastOpenFiles": [
-    "daily-notes/2023-08-16.md",
     "daily-notes/2023-08-17.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-08-16.md",
     "attachments/Pasted image 20230816212126.png",
     "Recommender System - Book.md",
     "daily-notes/2023-08-14.md",
@@ -267,7 +268,6 @@
     "attachments/Pasted image 20230812144336.png",
     "attachments/Pasted image 20230812142256.png",
     "MySQL.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "Untitled.canvas",
     "621-Task Scheduler.md",
     "703-Kth largest in a stream.md",
