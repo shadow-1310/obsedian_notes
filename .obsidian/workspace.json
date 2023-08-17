@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2db4ade9145dcb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-16.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-16.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-16.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-16.md"
+                "file": "Benchmarking of dimensionality Reduction technique.md"
               }
             }
           }
@@ -221,11 +233,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9fd7251b5838767",
+  "active": "2db4ade9145dcb3b",
   "lastOpenFiles": [
+    "daily-notes/2023-08-16.md",
+    "daily-notes/2023-08-17.md",
     "attachments/Pasted image 20230816212126.png",
     "Recommender System - Book.md",
-    "daily-notes/2023-08-16.md",
     "daily-notes/2023-08-14.md",
     "daily-notes/2023-08-13.md",
     "daily-notes/2023-08-12.md",
@@ -253,7 +266,6 @@
     "attachments/Screenshot from 2023-08-12 14-53-00.png",
     "attachments/Pasted image 20230812144336.png",
     "attachments/Pasted image 20230812142256.png",
-    "attachments/Pasted image 20230812142249.png",
     "MySQL.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "Untitled.canvas",
