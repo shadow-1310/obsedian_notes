@@ -1,3 +1,7 @@
+### understand before placement
+- [How Recommender Systems Work (Netflix/Amazon) - YouTube](https://www.youtube.com/watch?v=n3RKsY2H-NE&t=11s)
+- [Collaborative Filtering : Data Science Concepts - YouTube](https://www.youtube.com/watch?v=Fmtorg_dmM0)
+- [How does Netflix recommend movies? Matrix Factorization - YouTube](https://www.youtube.com/watch?v=ZspR5PZemcs)
 # Datasets used
 - [Kaggle - Goodreads Books dataset with user rating: 2M](https://www.kaggle.com/datasets/b2dde9353c9d10c36e4d6b593a74c109dbaca6393a1ca0f2c7abafeba7633641)
 ## Exploration with SQL
@@ -91,3 +95,7 @@
 - don't use ''='' to define variable, use ':' ^27b55c
 ### ensure_annotation
 - don't give return type as None
+
+## work to be done later
+### retrieve image link for each book by using goodreads api and update to the data source
+- [API - explore this API later](https://www.goodreads.com/api/index#search.books)

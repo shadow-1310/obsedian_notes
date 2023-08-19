@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Recommender System - Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Recommender System - Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Recommender System - Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Recommender System - Book.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "Recommender System - Book.md"
               }
             }
           }
@@ -223,10 +223,11 @@
   },
   "active": "2db4ade9145dcb3b",
   "lastOpenFiles": [
+    "daily-notes/2023-08-19.md",
+    "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-08-17.md",
     "daily-notes/2023-08-18.md",
     "Recommender System - Book.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-08-16.md",
     "attachments/Pasted image 20230816212126.png",
     "daily-notes/2023-08-14.md",
@@ -259,7 +260,6 @@
     "MySQL.md",
     "Untitled.canvas",
     "621-Task Scheduler.md",
-    "703-Kth largest in a stream.md",
     "attachments",
     "DSA/Topics",
     "DSA",
