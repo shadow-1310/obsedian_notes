@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bench",
+                "query": "recommender",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,11 +223,12 @@
   },
   "active": "2db4ade9145dcb3b",
   "lastOpenFiles": [
+    "daily-notes/2023-08-20.md",
+    "Recommender System - Book.md",
     "daily-notes/2023-08-19.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "daily-notes/2023-08-17.md",
     "daily-notes/2023-08-18.md",
-    "Recommender System - Book.md",
     "daily-notes/2023-08-16.md",
     "attachments/Pasted image 20230816212126.png",
     "daily-notes/2023-08-14.md",
@@ -259,7 +260,6 @@
     "attachments/Pasted image 20230812142256.png",
     "MySQL.md",
     "Untitled.canvas",
-    "621-Task Scheduler.md",
     "attachments",
     "DSA/Topics",
     "DSA",

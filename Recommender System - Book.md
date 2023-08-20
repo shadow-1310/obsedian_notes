@@ -4,7 +4,7 @@
 - [How does Netflix recommend movies? Matrix Factorization - YouTube](https://www.youtube.com/watch?v=ZspR5PZemcs)
 # Datasets used
 - [Kaggle - Goodreads Books dataset with user rating: 2M](https://www.kaggle.com/datasets/b2dde9353c9d10c36e4d6b593a74c109dbaca6393a1ca0f2c7abafeba7633641)
-## Exploration with SQL
+## Exploration with SQL - for 1.3GB data
 ---
 - Q1. Finding total records
 	- Q1.1: Find total number of records in books table
@@ -39,7 +39,22 @@
 	- 
 - Q6: Findin duplicate entries where it has Name, Authors and Publisher field same value
 	- ![[Pasted image 20230812144336.png]]
-
+## Exploration with SQL for goodreads10k data
+### data cleaning
+- Q1- finding total records in all tables
+	- q1.1 - all records in books table
+		- image
+	- q1.2 - all records in ratings table
+		- image
+- Q2 - finding and cleaning missing values for all the columns in all tables
+	- q2.1 - for books table
+		- q2.1.1 - check for title column
+			- image
+- Q3. check for duplicate entry in all tables
+	- q3.1 - check for books table
+		- image
+### data exploration
+- 
 ## Modular Coding
 ### create the directory structure
 - make a template.py and define the directory structure there
