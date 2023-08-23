@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "Git-Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "daily-notes/2023-08-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f88e3f1c7a9dcff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mlflo",
+                "query": "file:git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Git-Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Git-Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "file": "Git-Github.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarking of dimensionality Reduction technique.md"
+                "file": "Git-Github.md"
               }
             }
           }
@@ -233,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,15 +257,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cabaaf77493e4c95",
+  "active": "cd0f9644ddc4167b",
   "lastOpenFiles": [
     "IIT Campus Placements.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-08-23.md",
     "daily-notes/2023-08-22.md",
     "Obsidian.md",
     "Jupyter Notebook.md",
     "MLflow.md",
-    "daily-notes/2023-08-23.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "End to end Commodity Price Prediction.md",
     "daily-notes/2023-08-21.md",
     "Recommender System - Book.md",
