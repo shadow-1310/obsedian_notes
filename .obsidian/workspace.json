@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-08-24.md",
+                "file": "daily-notes/2023-08-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ff5836cce4e5556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmarking of dimensionality Reduction technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9a58e62b5a9131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "license plate recognition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "streamli",
+                "query": "lice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-08-24.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-08-24.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-08-24.md",
+                "file": "Benchmarking of dimensionality Reduction technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-08-24.md"
+                "file": "Benchmarking of dimensionality Reduction technique.md"
               }
             }
           }
@@ -196,25 +221,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "014da6d7bf271376",
+  "active": "8ff5836cce4e5556",
   "lastOpenFiles": [
     "license plate recognition.md",
-    "Untitled.canvas",
-    "daily-notes/2023-08-22.md",
-    "daily-notes/2023-08-23.md",
+    "daily-notes/2023-08-18.md",
+    "daily-notes/2023-08-19.md",
+    "daily-notes/2023-08-20.md",
+    "daily-notes/2023-08-21.md",
     "daily-notes/2023-08-24.md",
+    "daily-notes/2023-08-23.md",
+    "daily-notes/2023-08-22.md",
+    "Benchmarking of dimensionality Reduction technique.md",
+    "daily-notes/2023-08-25.md",
+    "Untitled.canvas",
     "End to end Commodity Price Prediction.md",
     "Jupyter Notebook.md",
     "MLflow.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "IIT Campus Placements.md",
     "Obsidian.md",
-    "daily-notes/2023-08-21.md",
     "Recommender System - Book.md",
-    "daily-notes/2023-08-20.md",
-    "daily-notes/2023-08-19.md",
     "daily-notes/2023-08-17.md",
-    "daily-notes/2023-08-18.md",
     "daily-notes/2023-08-16.md",
     "attachments/Pasted image 20230816212126.png",
     "daily-notes/2023-08-14.md",
@@ -227,7 +253,6 @@
     "daily-notes/2023-08-06.md",
     "daily-notes/2023-08-07.md",
     "daily-notes/2023-08-08.md",
-    "daily-notes/2023-08-09.md",
     "attachments/Pasted image 20230812160217.png",
     "attachments/Pasted image 20230812154845.png",
     "attachments/Pasted image 20230812153948.png",
