@@ -4,7 +4,7 @@ topic: #dsa/heap [[Heap]]
 - source: #leetcode 
 - serial no: #leetcode/378
 - first_done: [[2023-07-09]]
-- last_revised:
+- last_revised: [[2023-08-29]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic: #dsa/heap [[Heap]]
 #### pseudo code
 
 #### mistakes
-
+- don't take the matrix elements in a list and then heapify, instead directly iterate through the elements and heappush it.
 #### code snippet
 ```python
 

@@ -4,7 +4,8 @@ topic: #dsa/heap
 - source: #leetcode 
 - serial no: 1405
 - first_done: [[2023-07-10]]
-- last_revised: [[2023-07-10]]
+	- first_revised: [[2023-07-10]]
+- last_revised: [[2023-08-29]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -22,11 +23,13 @@ topic: #dsa/heap
 - iterate through the heap till it is empty
 	- heappop first element and add the char to *res* only if previous two instances is not char
 	- else pop the second element (count2, char2) also and add char2 to *res*
-		- increment count2+1 and heapop it if it is non zero, we are doing +1 because original counts are -ve  
-	- now heappush *count* if it is non zero
+		- increment count2+1 and heapop it if it is non zero, we are doing +1 because original counts are -ve. 
+	- now heappush *count* if it is non zero.
 - return *res*
 #### mistakes
 - only heappush count/count2 if it is non-zero
+- check res[-1] == res[2] == char only if len(res) > 1
+- recheck if the heap became empty before popping the second element, if it is empty break the loop.
 
 #### code snippet
 ```python

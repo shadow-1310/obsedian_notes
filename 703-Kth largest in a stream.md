@@ -4,7 +4,7 @@ topic: #dsa/heap [[Heap]]
 - source: #leetcode 
 - serial no: #leetcode/703
 - first_done: [[2023-07-06]]
-- last_revised:
+- last_revised: [[2023-08-29]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic: #dsa/heap [[Heap]]
 #### pseudo code
 
 #### mistakes
-
+- no need to make heap of -ve numbers, make a minheap
 #### code snippet
 ```python
 
