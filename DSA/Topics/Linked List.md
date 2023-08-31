@@ -11,7 +11,7 @@ tags: #dsa/linked-list #unfinished
 - [[141- Linked List Cycle]] last done: [[2023-08-29]]
 - [[160-intersection of two linked list]] last done: [[2023-08-29]]
 - [[203-delete linked list elements]] last done: [[2023-08-29]]
-- [[206-reverse linked list]]
+- [[206-reverse linked list]] last done: [[2023-08-30]]
 - [[234-palindrome linked list]]
 - [[2-Add two numbers]]
 - [[19- Remove Nth Node from linked list]]

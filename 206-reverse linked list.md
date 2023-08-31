@@ -4,7 +4,7 @@ topic:
 - source: #leetcode 
 - serial no: #leetcode/206
 - first_done:
-- last_revised:
+- last_revised: [[2023-08-30]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -17,9 +17,11 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- maintain two pointers `curr` and `prev`
+- iterate through the linked list and change `curr.next](<http://curr.next>) = prev` but before that save curr.next in other variavle and use this variable to chage curr
 #### mistakes
-
+- don’t return the head as after the last loop it will become None
+    - return the prev or tail
 #### code snippet
 ```python
 

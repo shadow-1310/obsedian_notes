@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "234-palindrome linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "daily-notes/2023-08-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "234-palindrome linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "234-palindrome linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "234-palindrome linked list.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Campus Placements.md"
+                "file": "234-palindrome linked list.md"
               }
             }
           }
@@ -245,12 +244,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97dfed29c4464bd8",
+  "active": "9ef860e89fb88962",
   "lastOpenFiles": [
+    "DSA/Topics/Linked List.md",
+    "206-reverse linked list.md",
+    "daily-notes/2023-08-30.md",
+    "daily-notes/2023-08-31.md",
+    "IIT Campus Placements.md",
     "19- Remove Nth Node from linked list.md",
     "2-Add two numbers.md",
     "143-Reorder List.md",
-    "DSA/Topics/Linked List.md",
     "146-LRU cache.md",
     "138-Copy list with random pointer.md",
     "203-delete linked list elements.md",
@@ -259,7 +262,6 @@
     "160-intersection of two linked list.md",
     "141- Linked List Cycle.md",
     "21 - Merge two sorted list.md",
-    "206-reverse linked list.md",
     "378-Kth smallest element in a sorted matrix.md",
     "DSA/Topics/Tree.md",
     "DSA/Topics/Binary Search.md",
@@ -270,9 +272,6 @@
     "703-Kth largest in a stream.md",
     "daily-notes/2023-08-29.md",
     "daily-notes/2023-08-25.md",
-    "621-Task Scheduler.md",
-    "1405-Longest Happy String.md",
-    "Benchmarking of dimensionality Reduction technique.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
