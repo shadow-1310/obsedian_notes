@@ -4,7 +4,7 @@ topic:
 - source: #leetcode 
 - serial no: #leetcode/203
 - first_done: 
-- last_revised:
+- last_revised: [[2023-08-29]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- use a while loop inside instead of a if condition
 #### code snippet
 ```python
 

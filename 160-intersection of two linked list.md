@@ -4,7 +4,7 @@ topic: #dsa/linked-list [[Linked List]]
 - source: #leetcode 
 - serial no: #leetcode/160
 - first_done:
-- last_revised:
+- last_revised: [[2023-08-29]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -19,7 +19,7 @@ topic: #dsa/linked-list [[Linked List]]
 #### pseudo code
 
 #### mistakes
-
+- instead of dict, use a set for storing the nodes of first list
 #### code snippet
 ```python
 
