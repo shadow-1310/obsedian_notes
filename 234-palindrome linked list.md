@@ -1,10 +1,10 @@
-topic:
+topic: #dsa/linked-list [[Linked List]]
 
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/234
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-02]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -19,6 +19,8 @@ topic:
 #### pseudo code
 
 #### mistakes
+ - keep in mind that after finding the mid with slow and fast, slow will be the first element of right half .
+	 - so for the next loop while reversing we can directly take slow pointer as head
 
 #### code snippet
 ```python

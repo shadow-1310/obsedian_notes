@@ -18,7 +18,7 @@ topic:
 
 #### pseudo code
 - maintain two pointers `curr` and `prev`
-- iterate through the linked list and change `curr.next](<http://curr.next>) = prev` but before that save curr.next in other variavle and use this variable to chage curr
+- iterate through the linked list and change `curr.next](<http://curr.next>) = prev` but before that save curr.next in other variable and use this variable to chage curr
 #### mistakes
 - don’t return the head as after the last loop it will become None
     - return the prev or tail
