@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "19- Remove Nth Node from linked list.md",
+                "file": "daily-notes/2023-09-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "19- Remove Nth Node from linked list.md",
+                "file": "daily-notes/2023-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "19- Remove Nth Node from linked list.md",
+                "file": "daily-notes/2023-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "19- Remove Nth Node from linked list.md",
+                "file": "daily-notes/2023-09-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "19- Remove Nth Node from linked list.md"
+                "file": "daily-notes/2023-09-02.md"
               }
             }
           }
@@ -208,17 +209,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef860e89fb88962",
+  "active": "d8b85f61e90cb02a",
   "lastOpenFiles": [
-    "DSA/Topics/Linked List.md",
+    "daily-notes/2023-09-03.md",
     "19- Remove Nth Node from linked list.md",
+    "DSA/Topics/Linked List.md",
     "2-Add two numbers.md",
     "234-palindrome linked list.md",
     "daily-notes/2023-09-02.md",
     "206-reverse linked list.md",
     "138-Copy list with random pointer.md",
     "143-Reorder List.md",
-    "daily-notes/2023-09-03.md",
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
     "IIT Campus Placements.md",
