@@ -1,4 +1,4 @@
-topic:
+topic: #dsa/linked-list [[Linked List]]
 
 ### basic info
 - source: #leetcode 

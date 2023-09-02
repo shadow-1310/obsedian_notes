@@ -23,9 +23,11 @@
             "id": "d8b85f61e90cb02a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "daily-notes/2023-09-02.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,50 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "143-Reorder List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3d8c96ba8a8fb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "138-Copy list with random pointer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af954ae37eab0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19- Remove Nth Node from linked list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97dfed29c4464bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-08-31.md",
+                "file": "206-reverse linked list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "234-palindrome linked list.md",
+                "file": "206-reverse linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "234-palindrome linked list.md",
+                "file": "206-reverse linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "234-palindrome linked list.md",
+                "file": "206-reverse linked list.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "234-palindrome linked list.md"
+                "file": "206-reverse linked list.md"
               }
             }
           }
@@ -255,21 +221,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8b85f61e90cb02a",
+  "active": "e5862de39b25351e",
   "lastOpenFiles": [
     "DSA/Topics/Linked List.md",
+    "234-palindrome linked list.md",
+    "138-Copy list with random pointer.md",
+    "143-Reorder List.md",
+    "daily-notes/2023-09-02.md",
+    "daily-notes/2023-09-03.md",
     "206-reverse linked list.md",
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
     "IIT Campus Placements.md",
     "19- Remove Nth Node from linked list.md",
     "2-Add two numbers.md",
-    "143-Reorder List.md",
     "146-LRU cache.md",
-    "138-Copy list with random pointer.md",
     "203-delete linked list elements.md",
     "DSA/Topics/DSA.md",
-    "234-palindrome linked list.md",
     "160-intersection of two linked list.md",
     "141- Linked List Cycle.md",
     "21 - Merge two sorted list.md",
@@ -281,8 +249,6 @@
     "DSA/Topics/Two Pointers.md",
     "DSA/Topics/Heap.md",
     "703-Kth largest in a stream.md",
-    "daily-notes/2023-08-29.md",
-    "daily-notes/2023-08-25.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
