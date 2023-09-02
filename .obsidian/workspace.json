@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d8b85f61e90cb02a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "e5862de39b25351e",
             "type": "leaf",
             "state": {
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +255,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef860e89fb88962",
+  "active": "d8b85f61e90cb02a",
   "lastOpenFiles": [
     "DSA/Topics/Linked List.md",
     "206-reverse linked list.md",
