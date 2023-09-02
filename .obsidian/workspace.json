@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "138-Copy list with random pointer.md",
+                "file": "143-Reorder List.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "138-Copy list with random pointer.md",
+                "file": "143-Reorder List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "138-Copy list with random pointer.md",
+                "file": "143-Reorder List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "138-Copy list with random pointer.md",
+                "file": "143-Reorder List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "138-Copy list with random pointer.md"
+                "file": "143-Reorder List.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   "active": "efc1d061be0056da",
   "lastOpenFiles": [
     "DSA/Topics/Linked List.md",
+    "138-Copy list with random pointer.md",
     "19- Remove Nth Node from linked list.md",
     "daily-notes/2023-09-03.md",
     "DSA/Topics/DSA.md",
@@ -206,7 +207,6 @@
     "2-Add two numbers.md",
     "234-palindrome linked list.md",
     "206-reverse linked list.md",
-    "138-Copy list with random pointer.md",
     "143-Reorder List.md",
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
