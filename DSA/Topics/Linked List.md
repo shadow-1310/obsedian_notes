@@ -14,7 +14,7 @@ tags: #dsa/linked-list #unfinished
 - [[206-reverse linked list]] last done: [[2023-08-30]]
 - [[234-palindrome linked list]] last done [[2023-09-02]]
 - [[2-Add two numbers]] last done : [[2023-08-29]]
-- [[19- Remove Nth Node from linked list]]
+- [[19- Remove Nth Node from linked list]] last done [[2023-09-02]]
 - [[138-Copy list with random pointer]]
 - [[143-Reorder List]]
 - [[146-LRU cache]]

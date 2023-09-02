@@ -1,10 +1,10 @@
-topic:
+topic: #dsa/linked-list [[Linked List]]
 
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/19
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-02]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -19,7 +19,10 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- maintain two pointers, 
+	- head -  which will reach end and 
+	- tail - which will be one behind the Nth node from the end
+- donot forget to create a dummy node at the beginning
 #### code snippet
 ```python
 
