@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "143-Reorder List.md",
+                "file": "daily-notes/2023-09-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "143-Reorder List.md",
+                "file": "daily-notes/2023-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "143-Reorder List.md",
+                "file": "daily-notes/2023-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "143-Reorder List.md",
+                "file": "daily-notes/2023-09-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "143-Reorder List.md"
+                "file": "daily-notes/2023-09-03.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   "active": "efc1d061be0056da",
   "lastOpenFiles": [
     "DSA/Topics/Linked List.md",
+    "143-Reorder List.md",
     "138-Copy list with random pointer.md",
     "19- Remove Nth Node from linked list.md",
     "daily-notes/2023-09-03.md",
@@ -207,7 +208,6 @@
     "2-Add two numbers.md",
     "234-palindrome linked list.md",
     "206-reverse linked list.md",
-    "143-Reorder List.md",
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
     "IIT Campus Placements.md",

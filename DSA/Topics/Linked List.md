@@ -16,7 +16,7 @@ tags: #dsa/linked-list #unfinished
 - [[2-Add two numbers]] last done : [[2023-08-29]]
 - [[19- Remove Nth Node from linked list]] last done [[2023-09-02]]
 - [[138-Copy list with random pointer]] last done [[2023-09-02]]
-- [[143-Reorder List]]
+- [[143-Reorder List]] last done [[2023-09-02]]
 - [[146-LRU cache]]
 
 

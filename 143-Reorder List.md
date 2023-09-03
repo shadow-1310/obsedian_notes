@@ -4,7 +4,7 @@ topic: #dsa/linked-list [[Linked List]]
 - source: #leetcode 
 - serial no: #leetcode/143
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-02]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,9 @@ topic: #dsa/linked-list [[Linked List]]
 #### pseudo code
 
 #### mistakes
-
+- don't initialize slow and fast pointer in same position, otherwise it will lead to cycle in case of even list
+	- slow=head
+	- fast = head.next
 #### code snippet
 ```python
 
