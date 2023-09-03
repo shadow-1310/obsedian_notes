@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc06e5f25fb37453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a24c2b0f410732fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb5984ae2882dc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ff21e08c8bac50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baa5d0f56ebb02ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMEX IITBHU number operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-09-03.md",
+                "file": "AMEX IITBHU number operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-09-03.md",
+                "file": "AMEX IITBHU number operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-09-03.md",
+                "file": "AMEX IITBHU number operation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-09-03.md"
+                "file": "AMEX IITBHU number operation.md"
               }
             }
           }
@@ -196,21 +257,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efc1d061be0056da",
+  "active": "baa5d0f56ebb02ef",
   "lastOpenFiles": [
+    "AMEX.md",
+    "AMEX IITBHU number operation.md",
+    "attachments/amex_iitbhu_2.2 1.png",
+    "Misc.md",
+    "DSA/Topics/DSA.md",
+    "attachments/amex_iitbhu_2.2.png",
+    "attachments/amex_iitbhu_2.1.png",
+    "IIT Campus Placements.md",
+    "daily-notes/2023-09-03.md",
     "DSA/Topics/Linked List.md",
     "143-Reorder List.md",
     "138-Copy list with random pointer.md",
     "19- Remove Nth Node from linked list.md",
-    "daily-notes/2023-09-03.md",
-    "DSA/Topics/DSA.md",
     "daily-notes/2023-09-02.md",
     "2-Add two numbers.md",
     "234-palindrome linked list.md",
     "206-reverse linked list.md",
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
-    "IIT Campus Placements.md",
     "146-LRU cache.md",
     "203-delete linked list elements.md",
     "160-intersection of two linked list.md",
@@ -220,10 +287,6 @@
     "DSA/Topics/Tree.md",
     "DSA/Topics/Binary Search.md",
     "DSA/Topics/Stack.md",
-    "DSA/Topics/Sliding Window.md",
-    "DSA/Topics/Two Pointers.md",
-    "DSA/Topics/Heap.md",
-    "703-Kth largest in a stream.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
@@ -232,9 +295,6 @@
     "attachments/Pasted image 20230812160217.png",
     "attachments/Pasted image 20230812154845.png",
     "attachments/Pasted image 20230812153948.png",
-    "attachments/Pasted image 20230812151815.png",
-    "attachments/Screenshot from 2023-08-12 14-53-00.png",
-    "attachments/Pasted image 20230812144336.png",
     "attachments",
     "DSA/Topics",
     "DSA",

@@ -2,6 +2,7 @@
 ## Topics
 
 - [[Array]]
+- [[Misc]]
 - [[Two Pointers]]
 - [[Sliding Window]]
 - [[Stack]]
