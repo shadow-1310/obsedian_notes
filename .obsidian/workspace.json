@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-03.md",
+                "file": "daily-notes/2023-09-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,57 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a24c2b0f410732fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb5984ae2882dc95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10ff21e08c8bac50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baa5d0f56ebb02ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMEX IITBHU number operation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMEX IITBHU number operation.md",
+                "file": "daily-notes/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMEX IITBHU number operation.md",
+                "file": "daily-notes/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AMEX IITBHU number operation.md",
+                "file": "daily-notes/2023-09-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMEX IITBHU number operation.md"
+                "file": "daily-notes/2023-09-04.md"
               }
             }
           }
@@ -257,18 +208,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baa5d0f56ebb02ef",
+  "active": "efc1d061be0056da",
   "lastOpenFiles": [
+    "350-Intersection of two array II.md",
+    "daily-notes/2023-09-04.md",
+    "DSA/Topics/Two Pointers.md",
+    "125-Valid Palindrome.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-09-03.md",
+    "2023-W37.md",
+    "15-Three Sum.md",
+    "167-Two Sum II.md",
+    "88-Merge sorted array without extra space.md",
+    "DSA/Topics/Linked List.md",
+    "DSA/Topics/Tree.md",
+    "IIT Campus Placements.md",
     "AMEX.md",
+    "Misc.md",
     "AMEX IITBHU number operation.md",
     "attachments/amex_iitbhu_2.2 1.png",
-    "Misc.md",
-    "DSA/Topics/DSA.md",
     "attachments/amex_iitbhu_2.2.png",
     "attachments/amex_iitbhu_2.1.png",
-    "IIT Campus Placements.md",
-    "daily-notes/2023-09-03.md",
-    "DSA/Topics/Linked List.md",
     "143-Reorder List.md",
     "138-Copy list with random pointer.md",
     "19- Remove Nth Node from linked list.md",
@@ -279,14 +239,6 @@
     "daily-notes/2023-08-30.md",
     "daily-notes/2023-08-31.md",
     "146-LRU cache.md",
-    "203-delete linked list elements.md",
-    "160-intersection of two linked list.md",
-    "141- Linked List Cycle.md",
-    "21 - Merge two sorted list.md",
-    "378-Kth smallest element in a sorted matrix.md",
-    "DSA/Topics/Tree.md",
-    "DSA/Topics/Binary Search.md",
-    "DSA/Topics/Stack.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
