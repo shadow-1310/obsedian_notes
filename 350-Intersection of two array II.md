@@ -1,12 +1,12 @@
 topic:
 
 ### basic info
-- source: 
-- serial no:
+- source: #leetcode
+- serial no: #leetcode/350
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-03]]
 - difficulty:
-	- [ ] easy
+	- [x] easy
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- keep in mind that in the hashmap, value to the correspondin key should be greater than 0.
 #### code snippet
 ```python
 
