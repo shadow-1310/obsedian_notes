@@ -2,15 +2,15 @@ topic:
 
 ### basic info
 - source: 
-- serial no: #leetcode/88
+- serial no: #leetcode/11
 - first_done:
 - last_revised: [[2023-09-04]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/merge-sorted-array/
-- solution_link: https://www.youtube.com/watch?v=P1Ic85RarKY
+- problem_link: https://leetcode.com/problems/container-with-most-water/description/
+- solution_link:
 
 ### approach - 1
 - Time Complexity
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-- keep the breaking condition as left >= 0 not left > 0
+
 #### code snippet
 ```python
 

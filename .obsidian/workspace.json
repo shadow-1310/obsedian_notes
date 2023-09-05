@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efc1d061be0056da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc06e5f25fb37453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IIT Campus Placements.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a25e3b9f3a5801c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "88-Merge sorted array without extra space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "88-Merge sorted array without extra space.md",
+                "file": "IIT Campus Placements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "88-Merge sorted array without extra space.md",
+                "file": "IIT Campus Placements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "88-Merge sorted array without extra space.md",
+                "file": "IIT Campus Placements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "88-Merge sorted array without extra space.md"
+                "file": "IIT Campus Placements.md"
               }
             }
           }
@@ -221,15 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a25e3b9f3a5801c9",
+  "active": "cc06e5f25fb37453",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230905010406.png",
+    "Dynamic Programming.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Array.md",
+    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Two Pointers.md",
+    "11-Container with most water.md",
+    "88-Merge sorted array without extra space.md",
     "15-Three Sum.md",
     "167-Two Sum II.md",
     "350-Intersection of two array II.md",
-    "88-Merge sorted array without extra space.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Sliding Window.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-09-03.md",
     "daily-notes/2023-09-04.md",
@@ -248,10 +227,6 @@
     "19- Remove Nth Node from linked list.md",
     "daily-notes/2023-09-02.md",
     "2-Add two numbers.md",
-    "234-palindrome linked list.md",
-    "206-reverse linked list.md",
-    "daily-notes/2023-08-30.md",
-    "daily-notes/2023-08-31.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
