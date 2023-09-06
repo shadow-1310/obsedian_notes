@@ -8,5 +8,7 @@ tags: #dsa/sliding-window #unfinished
 
 ## Related Problems
 ---
-- 
-
+- [[121-best time to Buy and sell stock]]
+- [[3-Longest Substring Without Repeating Characters]]
+- [[424-Repeating Character Replacement]]
+- [[567-permutation in string]]
