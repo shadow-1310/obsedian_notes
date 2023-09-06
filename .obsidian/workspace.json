@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "daily-notes/2023-09-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7475b7564addbf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Campus Placements.md"
+                "file": "DSA/Topics/Sliding Window.md"
               }
             }
           }
@@ -196,11 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc06e5f25fb37453",
+  "active": "7475b7564addbf3b",
   "lastOpenFiles": [
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-09-05.md",
+    "IIT Campus Placements.md",
     "attachments/Pasted image 20230905010406.png",
     "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
     "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Two Pointers.md",
@@ -209,7 +224,6 @@
     "15-Three Sum.md",
     "167-Two Sum II.md",
     "350-Intersection of two array II.md",
-    "IIT Campus Placements.md",
     "daily-notes/2023-09-03.md",
     "daily-notes/2023-09-04.md",
     "125-Valid Palindrome.md",
@@ -234,7 +248,6 @@
     "attachments/Pasted image 20230814125116.png",
     "attachments/Pasted image 20230812160217.png",
     "attachments/Pasted image 20230812154845.png",
-    "attachments/Pasted image 20230812153948.png",
     "attachments",
     "DSA/Topics",
     "DSA",
