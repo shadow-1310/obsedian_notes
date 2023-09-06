@@ -14,4 +14,4 @@
 - [Rearrange positive and negative numbers with constant extra space](https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/)
 
 #### IIT BHU
-	![[Pasted image 20230905010406.png]]
+- ![[Pasted image 20230905010406.png]]

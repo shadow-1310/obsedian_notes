@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc06e5f25fb37453",
+            "id": "7475b7564addbf3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-05.md",
+                "file": "daily-notes/2023-09-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7475b7564addbf3b",
+            "id": "7888aed13496811b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
-                "mode": "source",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f7fb08e50dc3729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c4ec5a337ad461c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ffmpeg.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: dsa",
+                "query": "file:  ffmpe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "ffmpeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "ffmpeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "ffmpeg.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md"
+                "file": "ffmpeg.md"
               }
             }
           }
@@ -209,15 +233,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7475b7564addbf3b",
+  "active": "8c4ec5a337ad461c",
   "lastOpenFiles": [
-    "DSA/Topics/DSA.md",
-    "daily-notes/2023-09-05.md",
     "IIT Campus Placements.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-09-06.md",
+    "daily-notes/2023-09-05.md",
+    "DSA/Topics/Sliding Window.md",
     "attachments/Pasted image 20230905010406.png",
     "Dynamic Programming.md",
     "DSA/Topics/Array.md",
-    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Two Pointers.md",
     "11-Container with most water.md",
     "88-Merge sorted array without extra space.md",
@@ -240,7 +265,6 @@
     "138-Copy list with random pointer.md",
     "19- Remove Nth Node from linked list.md",
     "daily-notes/2023-09-02.md",
-    "2-Add two numbers.md",
     "attachments/Pasted image 20230827180344.png",
     "Untitled.canvas",
     "attachments/Pasted image 20230816212126.png",
