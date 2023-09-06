@@ -3,11 +3,12 @@ topic:
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/3
-- first_done:
-- last_revised:
+- first_done: [[2023-05-30]]
+	- first_revised: [[2023-06-02]]
+- last_revised: [[2023-09-06]]
 - difficulty:
 	- [ ] easy
-	- [ ] medium
+	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 - solution_link:
@@ -17,9 +18,12 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- initialize a dictionary `seen_map` and two pointer `left` and `right`
+- iterate through the string and store the index of each character to the dictionary
+- if the current char is found in the dictionary and it is towards the right of the left pointer, then move the left pointer to `seen_map[char] + 1`
+- after each iteration count length of current sequence by `right - left + 1` and compare it with `max_count`, if found more update `max_count`
 #### mistakes
-
+- put the breaking condition of encountering previously seen character as index >= left instead left > index
 #### code snippet
 ```python
 
