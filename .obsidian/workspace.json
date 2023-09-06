@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7475b7564addbf3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7888aed13496811b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f3dcb646582abf1",
             "type": "leaf",
             "state": {
@@ -54,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2be6e5165fbe9c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Longest Substring Without Repeating Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:  ffmpe",
+                "query": "file:  dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-09-06.md",
+                "file": "3-Longest Substring Without Repeating Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-09-06.md",
+                "file": "3-Longest Substring Without Repeating Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-09-06.md",
+                "file": "3-Longest Substring Without Repeating Characters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-09-06.md"
+                "file": "3-Longest Substring Without Repeating Characters.md"
               }
             }
           }
@@ -233,12 +221,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f7fb08e50dc3729",
+  "active": "2be6e5165fbe9c1e",
   "lastOpenFiles": [
-    "ffmpeg.md",
-    "875-Koko eating bananas.md",
-    "DSA/Topics/Binary Search.md",
+    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/DSA.md",
+    "DSA/Topics/Binary Search.md",
+    "69-Sqare Root.md",
+    "74-Search 2D matrix.md",
+    "240-Search 2D matrix II.md",
+    "162-find peak element.md",
+    "153-Find minimum in rotated sorted array.md",
+    "875-Koko eating bananas.md",
+    "daily-notes/2023-09-06.md",
+    "ffmpeg.md",
     "DSA/Topics/Array.md",
     "283-Moving zeros.md",
     "169-majority element.md",
@@ -249,18 +244,11 @@
     "34-Search Range.md",
     "36-valid Sudoku.md",
     "49-Group Anagram.md",
-    "DSA/Topics/Sliding Window.md",
     "3-Longest Substring Without Repeating Characters.md",
     "128-Longest Consecutive Sequence.md",
     "347-Top K frequent elements.md",
     "238-Product of Array Except Self.md",
     "1-Two Sum.md",
-    "268-Missing Number.md",
-    "26-remove duplicates.md",
-    "118-Pascal Triangle.md",
-    "136-Single Number.md",
-    "202-Happy Number.md",
-    "567-permutation in string.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",
