@@ -4,7 +4,7 @@ topic:
 - source: #leetcode 
 - serial no: #leetcode/424
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- don't forget to put the equal sign in loop condition left <= right
 #### code snippet
 ```python
 
