@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "347-Top K frequent elements.md"
+                "file": "128-Longest Consecutive Sequence.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   "active": "3702187736e022e8",
   "lastOpenFiles": [
     "DSA/Topics/Array.md",
+    "347-Top K frequent elements.md",
     "daily-notes/2023-09-07.md",
     "238-Product of Array Except Self.md",
     "125-Valid Palindrome.md",
@@ -236,7 +237,6 @@
     "240-Search 2D matrix II.md",
     "162-find peak element.md",
     "153-Find minimum in rotated sorted array.md",
-    "ffmpeg.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",
