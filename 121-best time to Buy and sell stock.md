@@ -3,8 +3,8 @@ topic:
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/121
-- first_done:
-- last_revised:
+- first_done:[[2023-05-22]]
+- last_revised: [[2023-09-07]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -17,9 +17,10 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- maintain a sliding window and update max_profit at each iteration
+- jump the left pointer to the position of right pointer whenever value of right pointer is less
 #### mistakes
-
+- 
 #### code snippet
 ```python
 

@@ -1,12 +1,12 @@
-topic:
+topic: #dsa/hash  
 
 ### basic info
-- source: 
-- serial no:
+- source: #leetcode 
+- serial no: #leetcode/1
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-07]]
 - difficulty:
-	- [ ] easy
+	- [x] easy
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/two-sum/
@@ -17,7 +17,7 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- store the required diff for each number in a hashmap, at each point we'll check the hashmap if find itself then return
 #### mistakes
 
 #### code snippet
