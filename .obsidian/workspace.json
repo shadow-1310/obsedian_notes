@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "567-permutation in string.md",
+                "file": "daily-notes/2023-09-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "567-permutation in string.md",
+                "file": "daily-notes/2023-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "567-permutation in string.md",
+                "file": "daily-notes/2023-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "567-permutation in string.md",
+                "file": "daily-notes/2023-09-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "567-permutation in string.md"
+                "file": "daily-notes/2023-09-07.md"
               }
             }
           }
@@ -210,6 +210,8 @@
   },
   "active": "7f3dcb646582abf1",
   "lastOpenFiles": [
+    "567-permutation in string.md",
+    "daily-notes/2023-09-07.md",
     "DSA/Topics/Sliding Window.md",
     "DSA/Topics/DSA.md",
     "875-Koko eating bananas.md",
@@ -234,8 +236,6 @@
     "33-Search in Rotated Sorted Array.md",
     "34-Search Range.md",
     "36-valid Sudoku.md",
-    "49-Group Anagram.md",
-    "128-Longest Consecutive Sequence.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",
