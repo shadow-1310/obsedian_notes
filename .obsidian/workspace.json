@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f3dcb646582abf1",
+            "id": "ca51a18e8faca49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3702187736e022e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-08.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-09-08.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-09-08.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-09-08.md",
+                "file": "128-Longest Consecutive Sequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-09-08.md"
+                "file": "128-Longest Consecutive Sequence.md"
               }
             }
           }
@@ -208,20 +196,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f3dcb646582abf1",
+  "active": "ca51a18e8faca49a",
   "lastOpenFiles": [
-    "daily-notes/2023-09-08.md",
-    "128-Longest Consecutive Sequence.md",
     "DSA/Topics/Array.md",
-    "347-Top K frequent elements.md",
+    "128-Longest Consecutive Sequence.md",
     "daily-notes/2023-09-07.md",
+    "daily-notes/2023-09-08.md",
+    "daily-notes/2023-09-09.md",
+    "daily-notes/2023-08-09.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Sliding Window.md",
+    "347-Top K frequent elements.md",
     "238-Product of Array Except Self.md",
     "125-Valid Palindrome.md",
     "268-Missing Number.md",
     "1-Two Sum.md",
     "3-Longest Substring Without Repeating Characters.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Sliding Window.md",
     "121-best time to Buy and sell stock.md",
     "daily-notes/2023-05-22.md",
     "567-permutation in string.md",
@@ -234,8 +224,6 @@
     "DSA/Topics/Binary Search.md",
     "69-Sqare Root.md",
     "74-Search 2D matrix.md",
-    "240-Search 2D matrix II.md",
-    "162-find peak element.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",

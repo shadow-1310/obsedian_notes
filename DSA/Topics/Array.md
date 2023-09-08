@@ -16,7 +16,7 @@ tags: #dsa/array #unfinished
 - [[1-Two Sum]] last done: [[2023-09-07]]
 - [[238-Product of Array Except Self]] last_done: [[2023-09-07]]
 - [[347-Top K frequent elements]] last_done: [[2023-09-07]]
-- [[128-Longest Consecutive Sequence]]
+- [[128-Longest Consecutive Sequence]] last done: [[2023-09-08]]
 - [[49-Group Anagram]]
 - [[36-valid Sudoku]]
 - [[169-majority element]]
