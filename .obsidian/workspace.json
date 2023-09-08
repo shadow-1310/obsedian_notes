@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-07.md",
+                "file": "daily-notes/2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "128-Longest Consecutive Sequence.md",
+                "file": "daily-notes/2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "128-Longest Consecutive Sequence.md",
+                "file": "daily-notes/2023-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "128-Longest Consecutive Sequence.md",
+                "file": "daily-notes/2023-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "128-Longest Consecutive Sequence.md",
+                "file": "daily-notes/2023-09-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "128-Longest Consecutive Sequence.md"
+                "file": "daily-notes/2023-09-08.md"
               }
             }
           }
@@ -209,11 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3702187736e022e8",
+  "active": "7f3dcb646582abf1",
   "lastOpenFiles": [
+    "daily-notes/2023-09-08.md",
+    "128-Longest Consecutive Sequence.md",
     "DSA/Topics/Array.md",
     "347-Top K frequent elements.md",
-    "128-Longest Consecutive Sequence.md",
     "daily-notes/2023-09-07.md",
     "238-Product of Array Except Self.md",
     "125-Valid Palindrome.md",
@@ -236,7 +236,6 @@
     "74-Search 2D matrix.md",
     "240-Search 2D matrix II.md",
     "162-find peak element.md",
-    "153-Find minimum in rotated sorted array.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",
