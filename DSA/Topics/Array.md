@@ -22,6 +22,6 @@ tags: #dsa/array #unfinished
 - [[36-valid Sudoku]] last done: [[2023-09-10]]
 - [[169-majority element]] last done: [[2023-09-10]]
 - [[283-Moving zeros]] last done: [[2023-09-10]]
-- [[75-Sort Colors]]
+- [[75-Sort Colors]] last done: [[2023-09-10]]
 - [[count inversion]]
 - [[count pairs with given sum]]

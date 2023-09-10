@@ -11,3 +11,8 @@ A webapp which can take a directory containing FASTA files an then parse the ami
 ### Next
 - implement proper directory structure taking help from the Krish Naik mlflow video
 - implement logger and exception handler
+
+## to do
+- download FASTA file through ncbi API 
+	- https://www.rcsb.org/docs/programmatic-access/file-download-services
+	- 

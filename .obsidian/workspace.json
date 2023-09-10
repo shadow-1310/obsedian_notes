@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75-sort colors.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,16 @@
             "id": "8dd4c874eafc95dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Protein Sequence Analyser.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "amin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75-sort colors.md",
+                "file": "Protein Sequence Analyser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75-sort colors.md",
+                "file": "Protein Sequence Analyser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "75-sort colors.md",
+                "file": "Protein Sequence Analyser.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75-sort colors.md"
+                "file": "Protein Sequence Analyser.md"
               }
             }
           }
@@ -216,14 +221,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7b5322f591b192d",
+  "active": "8dd4c874eafc95dd",
   "lastOpenFiles": [
     "DSA/Topics/Array.md",
+    "283-Moving zeros.md",
+    "75-sort colors.md",
+    "daily-notes/2023-02-18.md",
+    "daily-notes/2023-01-30.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
     "263-Ugly Number.md",
-    "75-sort colors.md",
-    "283-Moving zeros.md",
     "169-majority element.md",
     "36-valid Sudoku.md",
     "daily-notes/2023-05-24.md",
@@ -242,8 +249,6 @@
     "fzf.md",
     "ffmpeg.md",
     "termdown.md",
-    "daily-notes/2023-07-22.md",
-    "daily-notes/2023-09-10.md",
     "attachments/Pasted image 20230905010406.png",
     "attachments/amex_iitbhu_2.2 1.png",
     "attachments/amex_iitbhu_2.2.png",
