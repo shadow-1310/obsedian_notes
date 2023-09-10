@@ -3,8 +3,8 @@ topic:
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/202
-- first_done:
-- last_revised:
+- first_done: [[2023-06-02]]
+- last_revised: [[2023-09-10]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -19,7 +19,8 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- to check for the endless loop use a set which stores all the previously encountered numbers, don't just check with the last number
+- don't just add the digits, add the square of digits
 #### code snippet
 ```python
 

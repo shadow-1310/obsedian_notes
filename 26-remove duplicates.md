@@ -2,9 +2,9 @@ topic:
 
 ### basic info
 - source: 
-- serial no:
+- serial no: #leetcode/26
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-10]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -17,9 +17,12 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- how this code work
+    - uses a pointer in a while loop
+    - it checks whether the value is same as value in previous position, if yes then pops the value.
 #### mistakes
-
+- first of all we cannot use a iterator (for loop) as the iterator itself is changing, so we have to use a while loop
+- we also cannot use sorted() method as it will create a new array which is restricted in the question
 #### code snippet
 ```python
 
