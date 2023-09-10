@@ -1,4 +1,4 @@
-tags : #media
+tags : #tool/media
 
 ### trimming video
 ```sh

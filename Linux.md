@@ -5,6 +5,7 @@ tags : #linux
 - [[fzf]]
 - evince - Document Viewer
 - [[apt]]
+- [[termdown]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)
