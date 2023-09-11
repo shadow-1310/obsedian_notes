@@ -7,10 +7,11 @@
 - [ ] Simplification & approximation
 - [x] Time and Work
 - [x] Pipe and cistern
-- [x] TSD
+- [x] Time, speed and distance
 - [x] Mixture-Allegations
 - [x] Profit-loss
 - [x] SI-CI
+- [ ] Number system
 - [ ] Partnership
 - [ ] Problem on Ages
 - [ ] Sequence Series
