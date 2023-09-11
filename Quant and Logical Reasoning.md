@@ -12,6 +12,8 @@
 - [x] Profit-loss
 - [x] SI-CI
 - [ ] Number system
+- [ ] probability
+- [ ] Permutation and Combinations
 - [ ] Partnership
 - [ ] Problem on Ages
 - [ ] Sequence Series

@@ -1,15 +1,15 @@
 topic:
 
 ### basic info
-- source: 
-- serial no: #leetcode/70
+- source: #gfg 
+- serial no:
 - first_done:
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [x] medium
+	- [ ] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/climbing-stairs/
+- problem_link: https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1
 - solution_link:
 
 ### approach - 1

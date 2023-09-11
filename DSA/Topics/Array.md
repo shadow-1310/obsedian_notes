@@ -23,5 +23,8 @@ tags: #dsa/array #unfinished
 - [[169-majority element]] last done: [[2023-09-10]]
 - [[283-Moving zeros]] last done: [[2023-09-10]]
 - [[75-Sort Colors]] last done: [[2023-09-10]]
+- [[453-Minimum moves to equal array elements]]
+- [[53-Max subarray]]
+- [[Arrange array]] last done: [[2023-09-11]]
 - [[count inversion]]
 - [[count pairs with given sum]]

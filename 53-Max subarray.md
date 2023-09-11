@@ -2,14 +2,14 @@ topic:
 
 ### basic info
 - source: 
-- serial no: #leetcode/70
+- serial no:
 - first_done:
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [x] medium
+	- [ ] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/climbing-stairs/
+- problem_link: https://leetcode.com/problems/maximum-subarray/description/
 - solution_link:
 
 ### approach - 1

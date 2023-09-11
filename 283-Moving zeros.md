@@ -10,7 +10,7 @@ topic:
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/move-zeroes/description/
-- solution_link:
+- solution_link: 
 
 ### approach - 1
 - Time Complexity

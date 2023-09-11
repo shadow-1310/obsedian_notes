@@ -1,16 +1,16 @@
-topic:
+topic: #dsa/DP 
 
 ### basic info
 - source: 
-- serial no: #leetcode/70
+- serial no:
 - first_done:
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [x] medium
+	- [ ] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/climbing-stairs/
-- solution_link:
+- problem_link: 
+- solution_link: https://www.geeksforgeeks.org/count-minimum-number-of-fountains-to-be-activated-to-cover-the-entire-garden/
 
 ### approach - 1
 - Time Complexity

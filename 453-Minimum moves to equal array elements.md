@@ -1,15 +1,15 @@
 topic:
 
 ### basic info
-- source: 
-- serial no: #leetcode/70
+- source: #leetcode 
+- serial no: #leetcode/453
 - first_done:
 - last_revised:
 - difficulty:
 	- [ ] easy
 	- [x] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/climbing-stairs/
+- problem_link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
 - solution_link:
 
 ### approach - 1

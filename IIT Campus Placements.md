@@ -18,7 +18,39 @@
 - similar to [coin combination I](https://cses.fi/problemset/task/1635/)
 - [Find total ways to reach n’th stair with at-most `m` steps](https://www.techiedelight.com/find-total-ways-reach-nth-stair-with-atmost-m-steps/)
 - [Row wise sorting in 2D array](https://www.geeksforgeeks.org/row-wise-sorting-2d-array/)
-- [Rearrange positive and negative numbers with constant extra space](https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/)
+- [[Arrange array]]
 
 #### IIT BHU
 - ![[Pasted image 20230905010406.png]]
+
+### AbinBev
+- ![[Pasted image 20230911155240.png]]
+- [[Mars Stone]]
+
+### EXL Analytics
+- ![[Pasted image 20230911161125.png]]
+
+
+
+
+### Micron
+- ![[Pasted image 20230911161431.png]]
+- ![[Pasted image 20230911161649.png]]
+- ![[Pasted image 20230911161723.png]]
+
+
+### Tiger Analytics
+- put more focus on
+	- permutations and combinations
+	- probability
+	- 
+- ![[Pasted image 20230911162100.png]]
+
+### Cred
+- ![[Pasted image 20230911163437.png]]
+
+### AiDash
+- ![[Pasted image 20230911165103.png]]
+- ![[Pasted image 20230911170419.png]]
+- [[300-longest increasing subsequence]]
+- [[453-Minimum moves to equal array elements]]

@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "daily-notes/2023-09-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "424698bdaa730332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "624374e583874e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Quant and Logical Reasoning.md",
                 "mode": "source",
                 "source": false
@@ -20,18 +44,31 @@
             }
           },
           {
-            "id": "0981883f0bdda350",
+            "id": "72a183daa67ef718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-11.md",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72108b4463a4adc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1448-Counting Good Nodes in Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "placemen",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           }
@@ -208,45 +245,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9617a4300b2ffb4",
+  "active": "72a183daa67ef718",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "70- Climbing Stairs.md",
+    "746-Min Cost climbing stairs.md",
+    "647-palindromic substrings.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Tree.md",
+    "IIT Campus Placements.md",
     "daily-notes/2023-09-11.md",
     "Quant and Logical Reasoning.md",
-    "daily-notes/2023-09-10.md",
-    "IIT Campus Placements.md",
-    "Syllogism.md",
-    "Protein Sequence Analyser.md",
+    "1448-Counting Good Nodes in Binary Tree.md",
+    "daily-notes/2023-06-26.md",
     "DSA/Topics/Array.md",
-    "283-Moving zeros.md",
-    "75-sort colors.md",
-    "daily-notes/2023-02-18.md",
-    "daily-notes/2023-01-30.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Binary Search.md",
-    "263-Ugly Number.md",
-    "169-majority element.md",
-    "36-valid Sudoku.md",
-    "daily-notes/2023-05-24.md",
-    "202-Happy Number.md",
-    "136-Single Number.md",
-    "daily-notes/2023-05-17.md",
-    "49-Group Anagram.md",
+    "53-Max subarray.md",
+    "DSA/Topics/Two Pointers.md",
+    "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/Stack.md",
+    "Misc.md",
+    "Minimum Fountains.md",
+    "453-Minimum moves to equal array elements.md",
+    "LCM of array.md",
+    "GCD of array.md",
+    "GCD of two number.md",
+    "300-longest increasing subsequence.md",
+    "attachments/Pasted image 20230911170419.png",
     "128-Longest Consecutive Sequence.md",
-    "347-Top K frequent elements.md",
-    "238-Product of Array Except Self.md",
-    "1-Two Sum.md",
-    "268-Missing Number.md",
-    "attachments/Pasted image 20230905010406.png",
-    "attachments/amex_iitbhu_2.2 1.png",
-    "attachments/amex_iitbhu_2.2.png",
-    "attachments/amex_iitbhu_2.1.png",
-    "attachments/Pasted image 20230827180344.png",
+    "DSA/Topics/Backtracking.md",
+    "attachments/Pasted image 20230911165103.png",
+    "DSA/Topics/Linked List.md",
+    "attachments/Pasted image 20230911163437.png",
+    "attachments/Pasted image 20230911162100.png",
+    "attachments/Pasted image 20230911161723.png",
+    "attachments/Pasted image 20230911161649.png",
+    "attachments/Pasted image 20230911161431.png",
+    "attachments/Pasted image 20230911161125.png",
+    "attachments/Pasted image 20230911155314.png",
+    "attachments/Pasted image 20230911155240.png",
     "Untitled.canvas",
-    "attachments/Pasted image 20230816212126.png",
-    "attachments/Pasted image 20230814125317.png",
-    "attachments/Pasted image 20230814125116.png",
-    "attachments/Pasted image 20230812160217.png",
-    "attachments/Pasted image 20230812154845.png",
     "attachments",
     "DSA/Topics",
     "DSA",
