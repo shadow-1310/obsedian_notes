@@ -1,6 +1,13 @@
 
+### Apti round
+- [[Quant and Logical Reasoning]]
 ## scenerio based questions
 - https://www.kaggle.com/discussions/general/231361
+
+### case studies
+- https://github.com/chiphuyen/machine-learning-systems-design/blob/master/content/case-studies.md
+- https://skills.workera.ai/resources/machine-learning-case-study-interview/
+
 ## Companies
 ---
 ### AMEX
