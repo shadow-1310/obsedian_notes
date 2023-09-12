@@ -1,6 +1,8 @@
 ## Topics
 ---
-
+## PYQ
+---
+- https://www.youtube.com/watch?v=zlJXqEcV848
 ### Quants
 
 - [x] Percentage

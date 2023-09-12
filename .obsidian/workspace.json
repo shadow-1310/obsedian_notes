@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31e9ff5041ace117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "Quant and Logical Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "Quant and Logical Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "Quant and Logical Reasoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Array.md"
+                "file": "Quant and Logical Reasoning.md"
               }
             }
           },
@@ -219,36 +231,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf49f47d9de45ce",
+  "active": "31e9ff5041ace117",
   "lastOpenFiles": [
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-09-12.md",
-    "Syllogism.md",
     "Quant and Logical Reasoning.md",
-    "attachments/Pasted image 20230912104817.png",
-    "attachments/Pasted image 20230912103544.png",
-    "daily-notes/2023-09-11.md",
     "IIT Campus Placements.md",
-    "1448-Counting Good Nodes in Binary Tree.md",
-    "Git-Github.md",
+    "DSA/Topics/Backtracking.md",
     "Dynamic Programming.md",
+    "300-longest increasing subsequence.md",
     "70- Climbing Stairs.md",
     "746-Min Cost climbing stairs.md",
-    "647-palindromic substrings.md",
-    "DSA/Topics/Tree.md",
-    "daily-notes/2023-06-26.md",
-    "DSA/Topics/Array.md",
-    "53-Max subarray.md",
-    "DSA/Topics/Two Pointers.md",
-    "DSA/Topics/Sliding Window.md",
-    "DSA/Topics/Stack.md",
+    "DSA/Topics/Binary Search.md",
     "Misc.md",
-    "Minimum Fountains.md",
-    "453-Minimum moves to equal array elements.md",
+    "DSA/Topics/Heap.md",
     "LCM of array.md",
     "GCD of array.md",
+    "daily-notes/2023-02-20.md",
+    "daily-notes/2023-01-22.md",
     "GCD of two number.md",
-    "300-longest increasing subsequence.md",
+    "daily-notes/2023-01-23.md",
+    "DSA/Topics/Array.md",
+    "count inversion.md",
+    "count pairs with given sum.md",
+    "daily-notes/2023-02-12.md",
+    "daily-notes/2023-01-27.md",
+    "53-Max subarray.md",
+    "daily-notes/2023-02-21.md",
+    "daily-notes/2023-02-06.md",
+    "daily-notes/2023-01-17.md",
+    "attachments/Pasted image 20230912104817.png",
+    "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
     "attachments/Pasted image 20230911165103.png",
     "attachments/Pasted image 20230911163437.png",

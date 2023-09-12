@@ -4,9 +4,9 @@ topic:
 - source: #gfg 
 - serial no:
 - first_done:
-- last_revised:
+- last_revised: [[2023-09-12]]
 - difficulty:
-	- [ ] easy
+	- [x] easy
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://practice.geeksforgeeks.org/problems/lcm-of-given-array-elements3919/1
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- not working for all the testcases on GFG
 #### code snippet
 ```python
 
