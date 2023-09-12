@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "624374e583874e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Quant and Logical Reasoning.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           },
           {
-            "id": "72a183daa67ef718",
+            "id": "2bf49f47d9de45ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72108b4463a4adc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1448-Counting Good Nodes in Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Quant and Logical Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Quant and Logical Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Quant and Logical Reasoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/DSA.md"
+                "file": "Quant and Logical Reasoning.md"
               }
             }
           }
@@ -245,18 +221,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a183daa67ef718",
+  "active": "424698bdaa730332",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "DSA/Topics/DSA.md",
+    "1448-Counting Good Nodes in Binary Tree.md",
+    "Quant and Logical Reasoning.md",
+    "Git-Github.md",
+    "daily-notes/2023-09-11.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "746-Min Cost climbing stairs.md",
     "647-palindromic substrings.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
-    "IIT Campus Placements.md",
-    "daily-notes/2023-09-11.md",
-    "Quant and Logical Reasoning.md",
-    "1448-Counting Good Nodes in Binary Tree.md",
     "daily-notes/2023-06-26.md",
     "DSA/Topics/Array.md",
     "53-Max subarray.md",
@@ -274,7 +251,6 @@
     "128-Longest Consecutive Sequence.md",
     "DSA/Topics/Backtracking.md",
     "attachments/Pasted image 20230911165103.png",
-    "DSA/Topics/Linked List.md",
     "attachments/Pasted image 20230911163437.png",
     "attachments/Pasted image 20230911162100.png",
     "attachments/Pasted image 20230911161723.png",
