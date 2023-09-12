@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "424698bdaa730332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "198bd1e77e2aed21",
             "type": "leaf",
             "state": {
@@ -37,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "DSA/Topics/Array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "DSA/Topics/Array.md"
               }
             }
           },
@@ -230,13 +219,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "424698bdaa730332",
+  "active": "2bf49f47d9de45ce",
   "lastOpenFiles": [
-    "daily-notes/2023-09-12.md",
-    "daily-notes/2023-09-11.md",
-    "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
     "DSA/Topics/DSA.md",
+    "daily-notes/2023-09-12.md",
+    "Syllogism.md",
+    "Quant and Logical Reasoning.md",
+    "attachments/Pasted image 20230912104817.png",
+    "attachments/Pasted image 20230912103544.png",
+    "daily-notes/2023-09-11.md",
+    "IIT Campus Placements.md",
     "1448-Counting Good Nodes in Binary Tree.md",
     "Git-Github.md",
     "Dynamic Programming.md",
@@ -258,7 +250,6 @@
     "GCD of two number.md",
     "300-longest increasing subsequence.md",
     "attachments/Pasted image 20230911170419.png",
-    "128-Longest Consecutive Sequence.md",
     "attachments/Pasted image 20230911165103.png",
     "attachments/Pasted image 20230911163437.png",
     "attachments/Pasted image 20230911162100.png",
@@ -266,8 +257,6 @@
     "attachments/Pasted image 20230911161649.png",
     "attachments/Pasted image 20230911161431.png",
     "attachments/Pasted image 20230911161125.png",
-    "attachments/Pasted image 20230911155314.png",
-    "attachments/Pasted image 20230911155240.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",
