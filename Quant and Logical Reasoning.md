@@ -13,7 +13,7 @@
 - [x] Mixture-Allegations
 - [x] Profit-loss
 - [x] SI-CI
-- [ ] Number system
+- [x] Number system
 - [ ] probability
 - [ ] Permutation and Combinations
 - [ ] Partnership

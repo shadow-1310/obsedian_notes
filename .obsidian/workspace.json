@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "preview",
+                "file": "70- Climbing Stairs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "70- Climbing Stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "70- Climbing Stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "70- Climbing Stairs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "70- Climbing Stairs.md"
               }
             }
           },
@@ -231,15 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e9ff5041ace117",
+  "active": "2bf49f47d9de45ce",
   "lastOpenFiles": [
-    "DSA/Topics/DSA.md",
-    "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
-    "DSA/Topics/Backtracking.md",
-    "Dynamic Programming.md",
-    "300-longest increasing subsequence.md",
+    "daily-notes/2023-09-12.md",
     "70- Climbing Stairs.md",
+    "Dynamic Programming.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Backtracking.md",
+    "DSA/Topics/Linked List.md",
+    "IIT Campus Placements.md",
+    "Quant and Logical Reasoning.md",
+    "300-longest increasing subsequence.md",
     "746-Min Cost climbing stairs.md",
     "DSA/Topics/Binary Search.md",
     "Misc.md",
@@ -257,8 +259,6 @@
     "daily-notes/2023-01-27.md",
     "53-Max subarray.md",
     "daily-notes/2023-02-21.md",
-    "daily-notes/2023-02-06.md",
-    "daily-notes/2023-01-17.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
