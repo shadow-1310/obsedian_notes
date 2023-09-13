@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "198bd1e77e2aed21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2bf49f47d9de45ce",
             "type": "leaf",
             "state": {
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8b12ea60db28784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file: cs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70- Climbing Stairs.md",
+                "file": "Quant and Logical Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70- Climbing Stairs.md",
+                "file": "Quant and Logical Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "70- Climbing Stairs.md",
+                "file": "Quant and Logical Reasoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70- Climbing Stairs.md"
+                "file": "Quant and Logical Reasoning.md"
               }
             }
           },
@@ -243,17 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7552eb3f8685623b",
+  "active": "d8b12ea60db28784",
   "lastOpenFiles": [
+    "CS590 group project.md",
+    "CS590.md",
+    "Quant and Logical Reasoning.md",
     "daily-notes/2023-09-13.md",
-    "Dynamic Programming.md",
     "IIT Campus Placements.md",
+    "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "daily-notes/2023-09-12.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/Linked List.md",
-    "Quant and Logical Reasoning.md",
     "300-longest increasing subsequence.md",
     "746-Min Cost climbing stairs.md",
     "DSA/Topics/Binary Search.md",
@@ -269,8 +271,6 @@
     "count inversion.md",
     "count pairs with given sum.md",
     "daily-notes/2023-02-12.md",
-    "daily-notes/2023-01-27.md",
-    "53-Max subarray.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
