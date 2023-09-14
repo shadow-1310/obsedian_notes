@@ -59,8 +59,12 @@
             "id": "e02df386ed7382fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS590 group project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cs590",
+                "query": "file:cs590",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS590 group project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS590 group project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CS590 group project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS590 group project.md"
+              }
             }
           },
           {
@@ -246,7 +255,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0755712167034f4",
+  "active": "e02df386ed7382fd",
   "lastOpenFiles": [
     "Quant and Logical Reasoning.md",
     "Probability.md",
