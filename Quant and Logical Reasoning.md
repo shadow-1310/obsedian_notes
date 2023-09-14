@@ -14,7 +14,7 @@
 - [x] Profit-loss
 - [x] SI-CI
 - [x] Number system
-- [ ] probability
+- [x] probability
 - [ ] Permutation and Combinations
 - [ ] Partnership
 - [ ] Problem on Ages
