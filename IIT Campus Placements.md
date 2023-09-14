@@ -2,6 +2,9 @@
 ### Apti round
 - [[Quant and Logical Reasoning]]
 
+## Coding Round
+- [[DSA]]
+
 ## ML questions
 - [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
 ## scenerio based questions

@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7552eb3f8685623b",
+            "id": "31e9ff5041ace117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-13.md",
+                "file": "daily-notes/2023-09-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31e9ff5041ace117",
+            "id": "b3720cef69fae09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "746-Min Cost climbing stairs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc00f7d4b6f3854e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: linux",
+                "query": "file: plac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "746-Min Cost climbing stairs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "746-Min Cost climbing stairs.md"
               }
             }
           },
@@ -219,8 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e9ff5041ace117",
+  "active": "b3720cef69fae09e",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-09-14.md",
     "Linux.md",
@@ -230,10 +244,8 @@
     "CS590 group project.md",
     "CS590.md",
     "daily-notes/2023-09-13.md",
-    "Dynamic Programming.md",
     "70- Climbing Stairs.md",
     "daily-notes/2023-09-12.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/Linked List.md",
     "300-longest increasing subsequence.md",
