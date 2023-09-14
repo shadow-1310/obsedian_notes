@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-09-14.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,14 +37,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "Quant and Logical Reasoning.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cf50f44fb216a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e02df386ed7382fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: plac",
+                "query": "cs590",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "746-Min Cost climbing stairs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "746-Min Cost climbing stairs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,16 +246,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3720cef69fae09e",
+  "active": "a0755712167034f4",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
+    "Quant and Logical Reasoning.md",
+    "Probability.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-09-14.md",
+    "Dynamic Programming.md",
+    "DSA/Topics/DSA.md",
     "Linux.md",
     "vifm.md",
     "fzf.md",
-    "Quant and Logical Reasoning.md",
     "CS590 group project.md",
     "CS590.md",
     "daily-notes/2023-09-13.md",
@@ -258,7 +274,6 @@
     "daily-notes/2023-02-20.md",
     "daily-notes/2023-01-22.md",
     "GCD of two number.md",
-    "daily-notes/2023-01-23.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
