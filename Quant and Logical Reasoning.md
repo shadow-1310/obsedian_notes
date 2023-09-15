@@ -35,7 +35,7 @@
 - [ ] analogies
 
 ***Non-verbal***
-- [ ] cubes and dice
+- [ ] [[Cube and DIce]]
 - [ ] series
 - [ ] pattern completion
 - [ ] mirror images
