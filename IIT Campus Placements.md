@@ -6,7 +6,8 @@
 - [[DSA]]
 
 ## ML questions
-- [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
+
+- [[ML theory]]
 ## scenerio based questions
 - https://www.kaggle.com/discussions/general/231361
 

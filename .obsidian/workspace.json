@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f219b3e07508d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "Probability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e02df386ed7382fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590 group project.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Probability.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590 group project.md"
+                "file": "Probability.md"
               }
             }
           },
@@ -255,18 +255,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02df386ed7382fd",
+  "active": "3cf50f44fb216a42",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "ML theory.md",
     "Quant and Logical Reasoning.md",
     "Probability.md",
-    "IIT Campus Placements.md",
+    "CS590 group project.md",
     "daily-notes/2023-09-14.md",
     "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
     "Linux.md",
     "vifm.md",
     "fzf.md",
-    "CS590 group project.md",
     "CS590.md",
     "daily-notes/2023-09-13.md",
     "70- Climbing Stairs.md",
@@ -282,7 +283,6 @@
     "GCD of array.md",
     "daily-notes/2023-02-20.md",
     "daily-notes/2023-01-22.md",
-    "GCD of two number.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
