@@ -36,4 +36,18 @@
 
 ***Non-verbal***
 - [ ] cubes and dice
-- [ ] pattern recognition
+- [ ] series
+- [ ] pattern completion
+- [ ] mirror images
+- [ ] water images
+- [ ] classification
+- [ ] embedded image
+- [ ] figure matrix
+- [ ] paper cutting
+- [ ] paper folding
+- [ ] grouping of images
+- [ ] shape construction
+- [ ] Analogy
+- [ ] rule detection
+- [ ] dot situation
+- [ ] image analysis
