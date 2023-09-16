@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7665de63b12f0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "1143-Longest common subsequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "1143-Longest common subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "1143-Longest common subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "1143-Longest common subsequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-longest increasing subsequence.md"
+                "file": "1143-Longest common subsequence.md"
               }
             }
           },
@@ -251,12 +238,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7665de63b12f0f4",
+  "active": "dc00f7d4b6f3854e",
   "lastOpenFiles": [
-    "Longest Subsequence st diff is 0 or 1.md",
-    "IIT Campus Placements.md",
     "Dynamic Programming.md",
+    "Longest Subsequence st diff is 0 or 1.md",
     "300-longest increasing subsequence.md",
+    "334-Increasing Triplet Subsequence.md",
+    "IIT Campus Placements.md",
     "Quant and Logical Reasoning.md",
     "Cube and DIce.md",
     "5-Longest Palindromic Substring.md",
@@ -278,7 +266,6 @@
     "daily-notes/2023-09-12.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/Linked List.md",
-    "DSA/Topics/Binary Search.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",

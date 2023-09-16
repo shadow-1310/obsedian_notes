@@ -1,9 +1,9 @@
 topic:
 companies: 
 ### basic info
-- source: 
+- source: #gfg 
 - serial no:
-- first_done:
+- first_done: [[2023-09-16]]
 - last_revised:
 - difficulty:
 	- [ ] easy
