@@ -4,7 +4,7 @@ topic: [[Dynamic Programming]]
 - source: #leetcode  
 - serial no: #leetcode/647 
 - first_done: [[2023-07-24]]
-- last_revised:
+- last_revised: [[2023-09-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -25,7 +25,7 @@ topic: [[Dynamic Programming]]
 - run the loop till left >= 0 and right < len(s) and s[left] == s[right]
 - and increase count by 1 each time
 #### mistakes
-
+- use 2 for loops for odd and even separately as it will be easy.
 #### code snippet
 ```python
 

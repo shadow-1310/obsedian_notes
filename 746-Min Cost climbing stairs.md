@@ -4,7 +4,7 @@ topic: #dsa/DP [[Dynamic Programming]]
 - source: #leetcode 
 - serial no: #leetcode/746
 - first_done: [[2023-07-18]]
-- last_revised:
+- last_revised: [[2023-09-16]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -21,7 +21,8 @@ topic: #dsa/DP [[Dynamic Programming]]
 - min cost to go from a ith step will be min of next step and next to next step
 
 #### mistakes
-
+- append a 0 at the end, as last step is not the goal
+- start from 3rd element from last.
 #### code snippet
 ```python
 

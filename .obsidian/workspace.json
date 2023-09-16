@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7665de63b12f0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-longest increasing subsequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cube and DIce.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbac0f3c099c4dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,15 +56,11 @@
             }
           },
           {
-            "id": "d1076c9a5687434f",
+            "id": "070995b29120e221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -97,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dimen",
+                "query": "tag:#leetcode/1143",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cube and DIce.md",
+                "file": "300-longest increasing subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cube and DIce.md",
+                "file": "300-longest increasing subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cube and DIce.md",
+                "file": "300-longest increasing subsequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cube and DIce.md"
+                "file": "300-longest increasing subsequence.md"
               }
             }
           },
@@ -255,16 +251,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea71fc54255973e",
+  "active": "c7665de63b12f0f4",
   "lastOpenFiles": [
+    "Longest Subsequence st diff is 0 or 1.md",
+    "IIT Campus Placements.md",
+    "Dynamic Programming.md",
+    "300-longest increasing subsequence.md",
     "Quant and Logical Reasoning.md",
     "Cube and DIce.md",
-    "Dynamic Programming.md",
+    "5-Longest Palindromic Substring.md",
+    "647-palindromic substrings.md",
+    "DSA/Topics/DSA.md",
     "746-Min Cost climbing stairs.md",
-    "IIT Campus Placements.md",
+    "daily-notes/2023-09-16.md",
     "daily-notes/2023-09-15.md",
     "CS590 group project.md",
-    "DSA/Topics/DSA.md",
     "ML theory.md",
     "Probability.md",
     "daily-notes/2023-09-14.md",
@@ -277,12 +278,7 @@
     "daily-notes/2023-09-12.md",
     "DSA/Topics/Backtracking.md",
     "DSA/Topics/Linked List.md",
-    "300-longest increasing subsequence.md",
     "DSA/Topics/Binary Search.md",
-    "Misc.md",
-    "DSA/Topics/Heap.md",
-    "LCM of array.md",
-    "GCD of array.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",

@@ -11,6 +11,7 @@ topic: [[Dynamic Programming]]
 	- [ ] hard
 - problem_link: [here](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - solution_link: [Longest Palindromic Substring - Python - Leetcode 5 - YouTube](https://www.youtube.com/watch?v=XYQecbcd6_c)
+	- [my solution in github](https://github.com/shadow-1310/DSA_practice/blob/master/LeetCode/top_interview/1DP/5-longest_palindromic_substring.py#L35-L75)
 
 ### approach - 1
 - Time Complexity: $$TC = O(N^2)$$
@@ -27,7 +28,8 @@ topic: [[Dynamic Programming]]
 - for even number of characters 
 <code>left = i, right = i+1</code>
 #### mistakes
-
+- if you are doing by using count variable, then initialize count as 0 in starting of odd numbers loop and count as 1 for even number loop
+- increment count by 2 each time condition is met both for odd and even loop.
 #### code snippet
 ```python
 
