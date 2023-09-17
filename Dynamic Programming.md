@@ -14,16 +14,30 @@
 - #dsa/DP/palindromes
 
 ## Related Problems
+
+### Fibonacci Numbers
 - [[70- Climbing Stairs]] last done: [[2023-09-12]]
 - [[198-House Robber]]
 - [[746-Min Cost climbing stairs]] last done: [[2023-09-16]]
-- [[647-palindromic substrings]] last done: [[2023-09-16]]
-- [[5-Longest Palindromic Substring]] last done: [[2023-09-16]]
+
+### LIS
 - [[300-longest increasing subsequence]] last done: [[2023-09-16]]
 - [[334-Increasing Triplet Subsequence]] last done: [[2023-09-16]]
-- [[1143-Longest common subsequence]]
-- [[152-Maximum Product subarray]]
 - [[Longest Subsequence st diff is 0 or 1]] last done: [[2023-09-16]]
+### 0/1 knapsack
+- [[416-Partition equal subset sum]]
+
+### Unbounded Knapsack
+- [[322-Coin Change]]
+
+### LCS
+- [[1143-Longest common subsequence]] last done: [[2023-09-16]]
+
+### Palindromes
+- [[647-palindromic substrings]] last done: [[2023-09-16]]
+- [[5-Longest Palindromic Substring]] last done: [[2023-09-16]]
+- [[152-Maximum Product subarray]]
+
 - 
 
 

@@ -8,9 +8,13 @@
 ## ML questions
 
 - [[ML theory]]
-## scenerio based questions
-- https://www.kaggle.com/discussions/general/231361
 
+## Interview
+### scenerio based questions
+- https://www.kaggle.com/discussions/general/231361
+### AWS questions and material
+- [basics roadmap](https://www.youtube.com/watch?v=LTH9m4HkeYY)
+- [roadmap](https://coggle.it/diagram/ZNyWdlpO0W45uyGP/t/star-fundamental-aws-concepts-star/e32b8f30645ef1e3ac58b95a70c8eeeff3d0f53796c601930f3752cae1f959e6)
 ### case studies
 - https://github.com/chiphuyen/machine-learning-systems-design/blob/master/content/case-studies.md
 - https://skills.workera.ai/resources/machine-learning-case-study-interview/

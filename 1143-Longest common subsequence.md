@@ -4,7 +4,7 @@ topic: [[Dynamic Programming]]
 - source: #leetcode 
 - serial no: #leetcode/1143 
 - first_done: [[2023-07-24]]
-- last_revised:
+- last_revised: [[2023-09-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -20,7 +20,7 @@ topic: [[Dynamic Programming]]
 - make a 2d matrix
 
 #### mistakes
-
+- remember the order of traversal, in outer loop it will be text2 and inner loop it will be text1
 #### code snippet
 ```python
 
