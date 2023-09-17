@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "389d90ba8403c555",
+            "id": "127a620fa3d0e4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS590 group project.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3cd4db76135998f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c37409146e1589e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "directional sense.md",
+                "file": "DA331.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file:da33",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directional sense.md",
+                "file": "DA331.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directional sense.md",
+                "file": "DA331.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "directional sense.md",
+                "file": "DA331.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directional sense.md"
+                "file": "DA331.md"
               }
             }
           },
@@ -255,13 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c37409146e1589e7",
+  "active": "127a620fa3d0e4af",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
+    "daily-notes/2023-09-17.md",
+    "CS590 group project.md",
     "directional sense.md",
+    "Quant and Logical Reasoning.md",
     "IIT Campus Placements.md",
     "Dynamic Programming.md",
-    "daily-notes/2023-09-17.md",
     "Data Sufficiency.md",
     "416-Partition equal subset sum.md",
     "1143-Longest common subsequence.md",
@@ -275,7 +252,6 @@
     "746-Min Cost climbing stairs.md",
     "daily-notes/2023-09-16.md",
     "daily-notes/2023-09-15.md",
-    "CS590 group project.md",
     "ML theory.md",
     "Probability.md",
     "daily-notes/2023-09-14.md",
