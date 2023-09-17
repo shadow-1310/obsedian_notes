@@ -31,7 +31,7 @@
 - [ ] data sufficiency
 - [ ] blood relation
 - [ ] seating arrangement
-- [ ] directional sense
+- [ ] [[directional sense]]
 - [ ] logical sequence
 - [ ] analogies
 

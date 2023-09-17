@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3cd4db76135998f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37409146e1589e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "directional sense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#leetcode/1143",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "directional sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "directional sense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "directional sense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "directional sense.md"
               }
             }
           },
@@ -231,12 +255,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea71fc54255973e",
+  "active": "c37409146e1589e7",
   "lastOpenFiles": [
-    "Data Sufficiency.md",
     "Quant and Logical Reasoning.md",
+    "directional sense.md",
     "IIT Campus Placements.md",
     "Dynamic Programming.md",
+    "daily-notes/2023-09-17.md",
+    "Data Sufficiency.md",
     "416-Partition equal subset sum.md",
     "1143-Longest common subsequence.md",
     "Longest Subsequence st diff is 0 or 1.md",
@@ -257,8 +283,6 @@
     "vifm.md",
     "fzf.md",
     "CS590.md",
-    "daily-notes/2023-09-13.md",
-    "70- Climbing Stairs.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
