@@ -9,7 +9,7 @@ topic: [[Dynamic Programming]]
 	- [ ] easy
 	- [x] medium
 	- [ ] hard
-- problem_link: https://leetcode.com/problems/partition-equal-subset-sum/submissions/
+- problem_link: https://leetcode.com/problems/partition-equal-subset-sum/description/
 - solution_link: [Partition Equal Subset Sum - Dynamic Programming - Leetcode 416 - Python - YouTube](https://www.youtube.com/watch?v=IsvocB5BJhw)
 
 ### approach - 1

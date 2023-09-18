@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
-                "mode": "preview",
+                "file": "416-Partition equal subset sum.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "416-Partition equal subset sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "416-Partition equal subset sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "416-Partition equal subset sum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Binary Search.md"
+                "file": "416-Partition equal subset sum.md"
               }
             }
           },
@@ -257,12 +257,12 @@
   },
   "active": "668fa27413a5b4ea",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
     "DSA/Topics/Stack.md",
     "IIT Campus Placements.md",
     "attachments/Pasted image 20230918181041.png",
-    "Dynamic Programming.md",
     "daily-notes/2023-09-18.md",
     "Quant and Logical Reasoning.md",
     "Permutation and Combinations.md",
