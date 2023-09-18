@@ -20,49 +20,49 @@
             }
           },
           {
-            "id": "bea71fc54255973e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127a620fa3d0e4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DA331.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aebfa841fea1d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d646ba1389ad05ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alacritty.md",
+                "file": "daily-notes/2023-09-18.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3fc765f4a8a24e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permutation and Combinations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eefb68ae101579c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "668fa27413a5b4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Binary Search.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alacritty.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alacritty.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "alacritty.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alacritty.md"
+                "file": "DSA/Topics/Binary Search.md"
               }
             }
           },
@@ -255,17 +255,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d646ba1389ad05ba",
+  "active": "668fa27413a5b4ea",
   "lastOpenFiles": [
-    "Linux.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Binary Search.md",
+    "DSA/Topics/Stack.md",
+    "IIT Campus Placements.md",
+    "attachments/Pasted image 20230918181041.png",
+    "Dynamic Programming.md",
+    "daily-notes/2023-09-18.md",
+    "Quant and Logical Reasoning.md",
+    "Permutation and Combinations.md",
     "alacritty.md",
+    "Linux.md",
     "DA331.md",
     "daily-notes/2023-09-17.md",
     "CS590 group project.md",
     "directional sense.md",
-    "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
-    "Dynamic Programming.md",
     "Data Sufficiency.md",
     "416-Partition equal subset sum.md",
     "1143-Longest common subsequence.md",
@@ -275,14 +281,9 @@
     "Cube and DIce.md",
     "5-Longest Palindromic Substring.md",
     "647-palindromic substrings.md",
-    "DSA/Topics/DSA.md",
     "746-Min Cost climbing stairs.md",
     "daily-notes/2023-09-16.md",
     "daily-notes/2023-09-15.md",
-    "ML theory.md",
-    "Probability.md",
-    "daily-notes/2023-09-14.md",
-    "vifm.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
@@ -292,7 +293,6 @@
     "attachments/Pasted image 20230911161723.png",
     "attachments/Pasted image 20230911161649.png",
     "attachments/Pasted image 20230911161431.png",
-    "attachments/Pasted image 20230911161125.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",

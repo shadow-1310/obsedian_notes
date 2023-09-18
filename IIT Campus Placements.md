@@ -72,4 +72,18 @@
 - [[300-longest increasing subsequence]]
 - [[453-Minimum moves to equal array elements]]
 - [Longest subsequence such that diff is 0 or 1](https://www.geeksforgeeks.org/longest-subsequence-such-that-difference-between-adjacents-is-one/)
-- 
+
+### Walmart Labs
+- [Given a binary string find the length of maximum subsequ0ence (NOT substring) which matches the regex 0*1*0*1*](https://leetcode.com/discuss/interview-question/412580/Walmart-labs-or-Longest-subsequence-which-matches-the-regex-0*1*0*1*)
+- [# Length of the smallest sub-string consisting of maximum distinct characters](https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1)
+- [MCQs](https://imgur.com/a/Z7h58m0)
+- [# XOR of all the elements in the given range [L, R]](https://www.geeksforgeeks.org/xor-of-all-the-elements-in-the-given-range-l-r/)
+- MCQs path - /home/shekhar/interview_preparation/wallmart
+
+### Corgoport
+- [[5-Longest Palindromic Substring]]
+
+### Sprinklr
+
+### Honda Japan
+- ![[Pasted image 20230918181041.png]]
