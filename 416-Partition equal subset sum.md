@@ -4,7 +4,7 @@ topic: [[Dynamic Programming]]
 - source: #leetcode 
 - serial no: #leetcode/416
 - first_done: [[2023-07-25]]
-- last_revised:
+- last_revised: [[2023-09-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -20,7 +20,8 @@ topic: [[Dynamic Programming]]
 - initialize a set which will store all the possible combination sum till now
 - iterate through the given nums from backwards
 #### mistakes
-
+- don't try to append the curr_sum to the set, because we are iterating through that set
+- instead create a temp set and store all the values in it, after the loop of the original set ends, assign this temp set to original set
 #### code snippet
 ```python
 

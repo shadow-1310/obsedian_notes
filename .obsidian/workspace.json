@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "416-Partition equal subset sum.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "416-Partition equal subset sum.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "416-Partition equal subset sum.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "416-Partition equal subset sum.md",
+                "file": "Dynamic Programming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "416-Partition equal subset sum.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -257,6 +257,7 @@
   },
   "active": "668fa27413a5b4ea",
   "lastOpenFiles": [
+    "416-Partition equal subset sum.md",
     "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
@@ -273,7 +274,6 @@
     "CS590 group project.md",
     "directional sense.md",
     "Data Sufficiency.md",
-    "416-Partition equal subset sum.md",
     "1143-Longest common subsequence.md",
     "Longest Subsequence st diff is 0 or 1.md",
     "300-longest increasing subsequence.md",
