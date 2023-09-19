@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "d646ba1389ad05ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3fc765f4a8a24e1",
             "type": "leaf",
             "state": {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "ML theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-09-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "ML theory.md"
               }
             }
           },
@@ -255,14 +243,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "668fa27413a5b4ea",
+  "active": "eefb68ae101579c8",
   "lastOpenFiles": [
-    "416-Partition equal subset sum.md",
+    "IIT Campus Placements.md",
+    "daily-notes/2023-09-19.md",
     "Dynamic Programming.md",
+    "416-Partition equal subset sum.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
     "DSA/Topics/Stack.md",
-    "IIT Campus Placements.md",
     "attachments/Pasted image 20230918181041.png",
     "daily-notes/2023-09-18.md",
     "Quant and Logical Reasoning.md",
@@ -283,7 +272,6 @@
     "647-palindromic substrings.md",
     "746-Min Cost climbing stairs.md",
     "daily-notes/2023-09-16.md",
-    "daily-notes/2023-09-15.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
