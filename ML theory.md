@@ -1,5 +1,10 @@
 ### PYQ questions
 - [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
+	- Week 1: done
+	- Week 2: done
+		- ID3, decision tree
+		- calculate entropy, decision tree
+		- why not multiway split in DT instead of binary split
 	- ![[Pasted image 20230919112453.png]]
 	- ![[Pasted image 20230919112934.png]]
 - 

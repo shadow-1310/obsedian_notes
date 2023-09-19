@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "322-Coin Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,26 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "718f79b107df566c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Accenture Japan.md",
+                "file": "company-Walmart Labs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "322-Coin Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "322-Coin Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "322-Coin Change.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Campus Placements.md"
+                "file": "322-Coin Change.md"
               }
             }
           },
@@ -255,15 +241,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4d0fc13fdac388e",
+  "active": "dc00f7d4b6f3854e",
   "lastOpenFiles": [
-    "company-Accenture Japan.md",
+    "Dynamic Programming.md",
+    "322-Coin Change.md",
+    "ML theory.md",
+    "DSA/Topics/DSA.md",
+    "Misc.md",
+    "Angry Cyborg.md",
+    "company-Walmart Labs.md",
     "IIT Campus Placements.md",
+    "company-Accenture Japan.md",
     "company-AMEX.md",
     "company-AbinBev.md",
     "company-Fractal Analytics.md",
     "company-EXL Analytics.md",
-    "ML theory.md",
     "compay-Micron.md",
     "company- Honda Japan.md",
     "company-Corgoport.md",
@@ -271,21 +263,15 @@
     "company-Tiger Analytics.md",
     "company-AiDash.md",
     "daily-notes/2023-09-19.md",
-    "company-Walmart Labs.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
-    "Dynamic Programming.md",
     "416-Partition equal subset sum.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
     "DSA/Topics/Stack.md",
     "attachments/Pasted image 20230918181041.png",
     "daily-notes/2023-09-18.md",
     "Quant and Logical Reasoning.md",
     "Permutation and Combinations.md",
-    "alacritty.md",
-    "Linux.md",
-    "DA331.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",

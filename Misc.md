@@ -6,3 +6,4 @@
 - [[GCD of two number]] last done: [[2023-09-12]]
 - [[GCD of array]] last done: [[2023-09-12]]
 - [[LCM of array]] last tried : [[2023-09-12]]
+- [[Angry Cyborg]]
