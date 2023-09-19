@@ -1,16 +1,16 @@
-topic:
+topic: 
 
 ### basic info
-- source: 
-- serial no:
+- source: #leetcode 
+- serial no: #leetcode/322
 - first_done:
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [ ] medium
+	- [x] medium
 	- [ ] hard
-- problem_link: 
-- solution_link:
+- problem_link: https://leetcode.com/problems/coin-change/
+- solution_link: https://www.youtube.com/watch?v=H9bfqozjoqs
 
 ### approach - 1
 - Time Complexity

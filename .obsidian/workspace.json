@@ -32,25 +32,13 @@
             }
           },
           {
-            "id": "eefb68ae101579c8",
+            "id": "9baf96ab83ae76ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4d0fc13fdac388e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Walmart Labs.md",
-                "mode": "source",
+                "file": "IIT Campus Placements.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -84,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,14 +232,15 @@
   },
   "active": "dc00f7d4b6f3854e",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
-    "322-Coin Change.md",
+    "IIT Campus Placements.md",
+    "Permutation and Combinations.md",
     "ML theory.md",
+    "company-Walmart Labs.md",
+    "322-Coin Change.md",
+    "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
     "Misc.md",
     "Angry Cyborg.md",
-    "company-Walmart Labs.md",
-    "IIT Campus Placements.md",
     "company-Accenture Japan.md",
     "company-AMEX.md",
     "company-AbinBev.md",
@@ -271,7 +261,6 @@
     "attachments/Pasted image 20230918181041.png",
     "daily-notes/2023-09-18.md",
     "Quant and Logical Reasoning.md",
-    "Permutation and Combinations.md",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
