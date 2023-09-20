@@ -15,9 +15,9 @@
 - [x] SI-CI
 - [x] Number system
 - [x] [[Probability]]
-- [ ] [[Permutation and Combinations]]
+- [x] [[Permutation and Combinations]]
 - [ ] Partnership
-- [ ] Problem on Ages
+- [ ] [[Problem on Ages]]
 - [ ] Sequence Series
 - [ ] Mensuration
 - [ ] DI
