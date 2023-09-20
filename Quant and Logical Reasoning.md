@@ -21,6 +21,10 @@
 - [ ] Sequence Series
 - [ ] Mensuration
 - [ ] DI
+	- [ ] Table
+	- [ ] Pie 
+	- [ ] Bar
+	- [ ] Line
 
 
 ### Logical Reasoning

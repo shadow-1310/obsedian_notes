@@ -1,5 +1,9 @@
 tags : #linux
 
+### using nvidia
+- https://support.system76.com/articles/graphics-switch-ubuntu/
+
+
 ## Packages
 - [[ffmpeg]]
 - [[fzf]]

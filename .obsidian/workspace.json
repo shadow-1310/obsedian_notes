@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,8 +245,11 @@
   },
   "active": "26c015337540011a",
   "lastOpenFiles": [
+    "Linux.md",
+    "alacritty.md",
     "Quant and Logical Reasoning.md",
     "Problem on Ages.md",
+    "vifm.md",
     "Permutation and Combinations.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-09-20.md",
@@ -268,11 +271,8 @@
     "company-CRED.md",
     "company-Tiger Analytics.md",
     "company-AiDash.md",
-    "daily-notes/2023-09-19.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
-    "416-Partition equal subset sum.md",
-    "DSA/Topics/Binary Search.md",
     "attachments/Pasted image 20230918181041.png",
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",

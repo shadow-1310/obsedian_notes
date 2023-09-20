@@ -11,3 +11,7 @@
                 
 	nnoremap <c-f> :FZFfind<cr>
 	```
+
+## use image previews with uberzug
+- https://www.youtube.com/watch?v=qgxsduCO1pE
+- https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/vifm/scripts
