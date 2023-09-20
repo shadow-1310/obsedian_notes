@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permutation and Combinations.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9baf96ab83ae76ae",
+            "id": "b515e74264c9ca09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "152-Maximum Product subarray.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem on Ages.md",
+                "file": "152-Maximum Product subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem on Ages.md",
+                "file": "152-Maximum Product subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Problem on Ages.md",
+                "file": "152-Maximum Product subarray.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem on Ages.md"
+                "file": "152-Maximum Product subarray.md"
               }
             }
           },
@@ -243,21 +243,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c015337540011a",
+  "active": "b515e74264c9ca09",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "494-Target Sum.md",
+    "Quant and Logical Reasoning.md",
+    "Data Interpretation.md",
+    "322-Coin Change.md",
+    "DSA/Topics/DSA.md",
+    "IIT Campus Placements.md",
+    "Permutation and Combinations.md",
+    "Problem on Ages.md",
     "Linux.md",
     "alacritty.md",
-    "Quant and Logical Reasoning.md",
-    "Problem on Ages.md",
     "vifm.md",
-    "Permutation and Combinations.md",
-    "IIT Campus Placements.md",
     "daily-notes/2023-09-20.md",
-    "322-Coin Change.md",
     "ML theory.md",
     "company-Walmart Labs.md",
-    "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
     "Misc.md",
     "Angry Cyborg.md",
     "company-Accenture Japan.md",
@@ -269,8 +271,6 @@
     "company- Honda Japan.md",
     "company-Corgoport.md",
     "company-CRED.md",
-    "company-Tiger Analytics.md",
-    "company-AiDash.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

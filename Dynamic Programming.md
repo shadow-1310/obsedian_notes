@@ -24,12 +24,14 @@
 - [[300-longest increasing subsequence]] last done: [[2023-09-16]]
 - [[334-Increasing Triplet Subsequence]] last done: [[2023-09-16]]
 - [[Longest Subsequence st diff is 0 or 1]] last done: [[2023-09-16]]
+
 ### 0/1 knapsack
 [LC article](https://leetcode.com/discuss/study-guide/1200320/Thief-with-a-knapsack-a-series-of-crimes)
 - [[416-Partition equal subset sum]] last done: [[2023-09-18]]
+- [[494-Target Sum]] last done: [[2023-09-20]]
 
 ### Unbounded Knapsack
-- [[322-Coin Change]]
+- [[322-Coin Change]] last done: [[2023-09-20]]
 
 ### LCS
 - [[1143-Longest common subsequence]] last done: [[2023-09-16]]

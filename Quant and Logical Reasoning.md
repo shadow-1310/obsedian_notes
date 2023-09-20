@@ -20,11 +20,8 @@
 - [ ] [[Problem on Ages]]
 - [ ] Sequence Series
 - [ ] Mensuration
-- [ ] DI
-	- [ ] Table
-	- [ ] Pie 
-	- [ ] Bar
-	- [ ] Line
+- [ ] [[Data Interpretation]]
+
 
 
 ### Logical Reasoning
