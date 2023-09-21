@@ -5,3 +5,9 @@
 ### use Nvidia
 - https://github.com/alacritty/alacritty/issues/3587#issuecomment-1173064091
 - https://github.com/alacritty/alacritty/issues/3587#issuecomment-753647734
+
+### issues
+- lagging issue
+	- https://github.com/alacritty/alacritty/issues/2704
+	- https://github.com/alacritty/alacritty/issues/2217
+	- https://github.com/alacritty/alacritty/pull/2438

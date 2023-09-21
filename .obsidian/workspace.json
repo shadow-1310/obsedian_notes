@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "739-Daily Temperature.md",
+                "file": "150-Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:nv",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "739-Daily Temperature.md",
+                "file": "150-Reverse Polish Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "739-Daily Temperature.md",
+                "file": "150-Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "739-Daily Temperature.md",
+                "file": "150-Reverse Polish Notation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "739-Daily Temperature.md"
+                "file": "150-Reverse Polish Notation.md"
               }
             }
           },
@@ -221,10 +221,12 @@
   "active": "c076d964b78fe7dd",
   "lastOpenFiles": [
     "DSA/Topics/Stack.md",
-    "853-Car Fleet.md",
     "739-Daily Temperature.md",
     "daily-notes/2023-09-21.md",
     "Linux.md",
+    "Mesa.md",
+    "alacritty.md",
+    "853-Car Fleet.md",
     "daily-notes/2023-06-06.md",
     "150-Reverse Polish Notation.md",
     "2023-06-06.md",
@@ -244,8 +246,6 @@
     "Quant and Logical Reasoning.md",
     "Data Interpretation.md",
     "322-Coin Change.md",
-    "IIT Campus Placements.md",
-    "Permutation and Combinations.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

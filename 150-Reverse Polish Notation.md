@@ -17,9 +17,14 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- use an stack 
+- then iterate through the tokens
+	- if we encounter a non operator/digit, append it to to the stack
+	- if we encounter a operator, pop the last 2 digit of the stack and perform the operation to get a new value. Then append the new value to the stack
+- return only remaining element in stack
 #### mistakes
-
+- don't use floor division operator for <code>'/'</code>, as for -ve numbers it gives wrong results.
+- use an predefined set having (+, -, *, ''/'') to identify if the encountered element is operator or digit. it will be faster than using a list
 #### code snippet
 ```python
 
