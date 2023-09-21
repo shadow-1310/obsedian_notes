@@ -17,7 +17,7 @@
 
 ### Fibonacci Numbers
 - [[70- Climbing Stairs]] last done: [[2023-09-12]]
-- [[198-House Robber]]
+- [[198-House Robber]] last done: [[2023-09-20]]
 - [[746-Min Cost climbing stairs]] last done: [[2023-09-16]]
 
 ### LIS

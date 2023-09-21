@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc00f7d4b6f3854e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3fc765f4a8a24e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "198-House Robber.md",
+                "file": "daily-notes/2023-09-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b515e74264c9ca09",
+            "id": "c076d964b78fe7dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "152-Maximum Product subarray.md",
+                "file": "DSA/Topics/Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f114efd50878e515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "853-Car Fleet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "198-House Robber.md",
+                "file": "853-Car Fleet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "198-House Robber.md",
+                "file": "853-Car Fleet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "198-House Robber.md",
+                "file": "853-Car Fleet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "198-House Robber.md"
+                "file": "853-Car Fleet.md"
               }
             }
           },
@@ -231,34 +231,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3fc765f4a8a24e1",
+  "active": "f114efd50878e515",
   "lastOpenFiles": [
-    "daily-notes/2023-07-22.md",
-    "198-House Robber.md",
-    "Dynamic Programming.md",
+    "DSA/Topics/Stack.md",
+    "853-Car Fleet.md",
+    "739-Daily Temperature.md",
+    "daily-notes/2023-06-06.md",
+    "150-Reverse Polish Notation.md",
+    "2023-06-06.md",
+    "templates/DSA_topics.md",
     "152-Maximum Product subarray.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/Two Pointers.md",
+    "Dynamic Programming.md",
+    "DSA/Topics/Array.md",
+    "Arrange array.md",
+    "Misc.md",
+    "daily-notes/2023-09-21.md",
+    "198-House Robber.md",
+    "daily-notes/2023-07-22.md",
     "Problem on Ages.md",
     "494-Target Sum.md",
     "Quant and Logical Reasoning.md",
     "Data Interpretation.md",
     "322-Coin Change.md",
-    "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
     "Permutation and Combinations.md",
     "Linux.md",
-    "alacritty.md",
-    "vifm.md",
-    "daily-notes/2023-09-20.md",
-    "ML theory.md",
-    "company-Walmart Labs.md",
-    "Misc.md",
-    "Angry Cyborg.md",
-    "company-Accenture Japan.md",
-    "company-AMEX.md",
-    "company-AbinBev.md",
-    "company-Fractal Analytics.md",
-    "company-EXL Analytics.md",
-    "compay-Micron.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
