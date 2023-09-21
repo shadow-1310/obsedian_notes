@@ -85,5 +85,15 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 ## keyboard shortcuts
 ---
 - indent lines [stackoverflow](https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)
+- leader key
+	- https://stackoverflow.com/questions/1764263/what-is-the-leader-in-a-vimrc-file
 - enclose in parenthesis [Enclosing in parentheses with Vim - Stack Overflow](https://stackoverflow.com/questions/8070892/enclosing-in-parentheses-with-vim) ^63e2b2
 - opening vertical window, [How to open files in vertically/horizontal split windows in Vim from the command line - Super User](https://superuser.com/questions/486532/how-to-open-files-in-vertically-horizontal-split-windows-in-vim-from-the-command) ^64fa21
+- find and replace
+	- https://stackoverflow.com/questions/25684559/what-is-the-difference-between-g-and-s-commands-in-vim
+	- https://stackoverflow.com/questions/7598133/how-to-search-and-replace-globally-starting-from-the-cursor-position-and-wrappi
+	```sh
+	:,$s/before/after/gc
+	```
+	- here g means globally, i.e every occurrence in a line
+	- c is there if you want to ask for confirmation

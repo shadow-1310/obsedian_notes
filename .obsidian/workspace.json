@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3fc765f4a8a24e1",
+            "id": "c076d964b78fe7dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "739-Daily Temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6209d96f7d150af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c076d964b78fe7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f114efd50878e515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "853-Car Fleet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:nv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "853-Car Fleet.md",
+                "file": "739-Daily Temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "853-Car Fleet.md",
+                "file": "739-Daily Temperature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "853-Car Fleet.md",
+                "file": "739-Daily Temperature.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "853-Car Fleet.md"
+                "file": "739-Daily Temperature.md"
               }
             }
           },
@@ -231,11 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f114efd50878e515",
+  "active": "c076d964b78fe7dd",
   "lastOpenFiles": [
     "DSA/Topics/Stack.md",
     "853-Car Fleet.md",
     "739-Daily Temperature.md",
+    "daily-notes/2023-09-21.md",
+    "Linux.md",
     "daily-notes/2023-06-06.md",
     "150-Reverse Polish Notation.md",
     "2023-06-06.md",
@@ -248,7 +237,6 @@
     "DSA/Topics/Array.md",
     "Arrange array.md",
     "Misc.md",
-    "daily-notes/2023-09-21.md",
     "198-House Robber.md",
     "daily-notes/2023-07-22.md",
     "Problem on Ages.md",
@@ -258,7 +246,6 @@
     "322-Coin Change.md",
     "IIT Campus Placements.md",
     "Permutation and Combinations.md",
-    "Linux.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
