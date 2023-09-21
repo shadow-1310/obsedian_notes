@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f97486dfdd882bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS590.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:CS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "150-Reverse Polish Notation.md",
+                "file": "CS590.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "150-Reverse Polish Notation.md",
+                "file": "CS590.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "150-Reverse Polish Notation.md",
+                "file": "CS590.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "150-Reverse Polish Notation.md"
+                "file": "CS590.md"
               }
             }
           },
@@ -218,8 +231,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c076d964b78fe7dd",
+  "active": "f97486dfdd882bad",
   "lastOpenFiles": [
+    "150-Reverse Polish Notation.md",
     "DSA/Topics/Stack.md",
     "739-Daily Temperature.md",
     "daily-notes/2023-09-21.md",
@@ -228,7 +242,6 @@
     "alacritty.md",
     "853-Car Fleet.md",
     "daily-notes/2023-06-06.md",
-    "150-Reverse Polish Notation.md",
     "2023-06-06.md",
     "templates/DSA_topics.md",
     "152-Maximum Product subarray.md",
