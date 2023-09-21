@@ -39,7 +39,7 @@
 ### Palindromes
 - [[647-palindromic substrings]] last done: [[2023-09-16]]
 - [[5-Longest Palindromic Substring]] last done: [[2023-09-16]]
-- [[152-Maximum Product subarray]]
+- [[152-Maximum Product subarray]] last done: [[2023-09-20]]
 
 - 
 

@@ -4,7 +4,7 @@ topic: [[Dynamic Programming]]
 - source: #leetcode 
 - serial no: #leetcode/152
 - first_done: [[2023-07-25]]
-- last_revised:
+- last_revised: [[2023-09-20]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

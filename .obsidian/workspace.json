@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "198-House Robber.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "26c015337540011a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem on Ages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "152-Maximum Product subarray.md",
+                "file": "198-House Robber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "152-Maximum Product subarray.md",
+                "file": "198-House Robber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "152-Maximum Product subarray.md",
+                "file": "198-House Robber.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "152-Maximum Product subarray.md"
+                "file": "198-House Robber.md"
               }
             }
           },
@@ -243,9 +231,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b515e74264c9ca09",
+  "active": "f3fc765f4a8a24e1",
   "lastOpenFiles": [
+    "daily-notes/2023-07-22.md",
+    "198-House Robber.md",
     "Dynamic Programming.md",
+    "152-Maximum Product subarray.md",
+    "Problem on Ages.md",
     "494-Target Sum.md",
     "Quant and Logical Reasoning.md",
     "Data Interpretation.md",
@@ -253,7 +245,6 @@
     "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
     "Permutation and Combinations.md",
-    "Problem on Ages.md",
     "Linux.md",
     "alacritty.md",
     "vifm.md",
@@ -268,9 +259,6 @@
     "company-Fractal Analytics.md",
     "company-EXL Analytics.md",
     "compay-Micron.md",
-    "company- Honda Japan.md",
-    "company-Corgoport.md",
-    "company-CRED.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
