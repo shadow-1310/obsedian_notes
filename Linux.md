@@ -13,6 +13,7 @@ tags : #linux
 - [[termdown]]
 - [[vifm]]
 - [[alacritty]]
+- [[tiling window manager]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)

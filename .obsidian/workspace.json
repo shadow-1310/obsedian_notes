@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c076d964b78fe7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "150-Reverse Polish Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6209d96f7d150af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f97486dfdd882bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46c399871ea7f541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vifm.md",
+                "file": "34-Search Range.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69fff59338d63349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vifm.md",
+                "file": "34-Search Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vifm.md",
+                "file": "34-Search Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vifm.md",
+                "file": "34-Search Range.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vifm.md"
+                "file": "34-Search Range.md"
               }
             }
           },
@@ -245,10 +220,19 @@
   },
   "active": "46c399871ea7f541",
   "lastOpenFiles": [
+    "DSA/Topics/Binary Search.md",
+    "33-Search in Rotated Sorted Array.md",
+    "daily-notes/2023-05-23.md",
+    "daily-notes/2023-09-22.md",
     "Linux.md",
-    "CS590.md",
-    "150-Reverse Polish Notation.md",
+    "tiling window manager.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Heap.md",
+    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Stack.md",
+    "150-Reverse Polish Notation.md",
+    "vifm.md",
+    "CS590.md",
     "739-Daily Temperature.md",
     "daily-notes/2023-09-21.md",
     "Mesa.md",
@@ -258,19 +242,10 @@
     "2023-06-06.md",
     "templates/DSA_topics.md",
     "152-Maximum Product subarray.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Two Pointers.md",
     "Dynamic Programming.md",
     "DSA/Topics/Array.md",
     "Arrange array.md",
-    "Misc.md",
-    "198-House Robber.md",
-    "daily-notes/2023-07-22.md",
-    "Problem on Ages.md",
-    "494-Target Sum.md",
-    "Quant and Logical Reasoning.md",
-    "Data Interpretation.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

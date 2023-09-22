@@ -1,13 +1,13 @@
 topic:
 
 ### basic info
-- source: 
-- serial no:
-- first_done:
+- source: #leetcode 
+- serial no: #leetcode/33  
+- first_done: [[2023-05-23]]
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [ ] medium
+	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 - solution_link:
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- try to use if-else condition for both left and right segment
 #### code snippet
 ```python
 
