@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "34-Search Range.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69fff59338d63349",
+            "id": "05feb1e63f58b46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-09-22.md",
+                "file": "153-Find minimum in rotated sorted array.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alacritty.md",
+                "file": "daily-notes/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alacritty.md",
+                "file": "153-Find minimum in rotated sorted array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alacritty.md",
+                "file": "153-Find minimum in rotated sorted array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "alacritty.md",
+                "file": "153-Find minimum in rotated sorted array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alacritty.md"
+                "file": "153-Find minimum in rotated sorted array.md"
               }
             }
           },
@@ -231,14 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c0aa3f6020217af",
+  "active": "05feb1e63f58b46b",
   "lastOpenFiles": [
-    "Linux.md",
-    "34-Search Range.md",
     "DSA/Topics/Binary Search.md",
+    "69-Sqare Root.md",
+    "daily-notes/2023-09-22.md",
+    "34-Search Range.md",
+    "Linux.md",
     "33-Search in Rotated Sorted Array.md",
     "daily-notes/2023-05-23.md",
-    "daily-notes/2023-09-22.md",
     "tiling window manager.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Heap.md",
@@ -258,7 +259,6 @@
     "152-Maximum Product subarray.md",
     "DSA/Topics/Two Pointers.md",
     "Dynamic Programming.md",
-    "DSA/Topics/Array.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
