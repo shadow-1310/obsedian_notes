@@ -1,10 +1,10 @@
 topic:
 
 ### basic info
-- source: 
-- serial no:
-- first_done:
-- last_revised:
+- source: #leetcode 
+- serial no: #leetcode/153 
+- first_done: [[2023-05-27]]
+- last_revised: [[2023-09-22]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- don't forget to include the equal condition, when mid becomes equal to 0th index.
 #### code snippet
 ```python
 
