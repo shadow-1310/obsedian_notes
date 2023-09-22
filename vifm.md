@@ -15,3 +15,9 @@
 ## use image previews with uberzug
 - https://www.youtube.com/watch?v=qgxsduCO1pE
 - https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/vifm/scripts
+
+## Setting airline theme with power fonts
+- [powerline fonts repo](https://github.com/powerline/fonts)
+- https://github.com/vim-airline/vim-airline/wiki/Screenshots
+- https://ianchanning.wordpress.com/2018/06/18/vim-airline-powerline-fonts-on-fedora-ubuntu-and-windows/
+- https://vi.stackexchange.com/questions/3359/how-do-i-fix-the-status-bar-symbols-in-the-airline-plugin
