@@ -11,3 +11,7 @@
 	- https://github.com/alacritty/alacritty/issues/2704
 	- https://github.com/alacritty/alacritty/issues/2217
 	- https://github.com/alacritty/alacritty/pull/2438
+	- https://github.com/alacritty/alacritty/issues/4801
+	- https://github.com/alacritty/alacritty/issues/5883
+- energy options
+	- https://github.com/alacritty/alacritty/pull/4133
