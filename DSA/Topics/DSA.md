@@ -14,3 +14,4 @@
 - [[Heap]]
 - [[Backtracking]]
 - [[Dynamic Programming]]
+- [[Greedy]]
