@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05feb1e63f58b46b",
+            "id": "9f0f71d4c036f3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-09-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eacd5dc244f4c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c0aa3f6020217af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,10 +218,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05feb1e63f58b46b",
+  "active": "0eacd5dc244f4c77",
   "lastOpenFiles": [
-    "74-Search 2D matrix.md",
+    "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
+    "875-Koko eating bananas.md",
+    "daily-notes/2023-05-28.md",
+    "daily-notes/2023-09-23.md",
+    "74-Search 2D matrix.md",
     "162-find peak element.md",
     "153-Find minimum in rotated sorted array.md",
     "daily-notes/2023-05-25.md",
@@ -233,7 +237,6 @@
     "33-Search in Rotated Sorted Array.md",
     "daily-notes/2023-05-23.md",
     "tiling window manager.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Heap.md",
     "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Stack.md",
@@ -243,9 +246,6 @@
     "739-Daily Temperature.md",
     "daily-notes/2023-09-21.md",
     "Mesa.md",
-    "alacritty.md",
-    "853-Car Fleet.md",
-    "daily-notes/2023-06-06.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

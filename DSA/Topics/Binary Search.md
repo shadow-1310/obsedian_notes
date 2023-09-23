@@ -11,7 +11,7 @@ tags: #dsa/binary-search #unfinished
 - [[33-Search in Rotated Sorted Array]] last done: [[2023-09-22]]
 - [[34-Search Range]] last done: [[2023-09-22]]
 - [[69-Sqare Root]] last done: [[2023-09-22]]
-- [[875-Koko eating bananas ]]
+- [[875-Koko eating bananas ]] last done: [[2023-09-23]]
 - [[153-Find minimum in rotated sorted array]] last done: [[2023-09-22]]
 - [[162-find peak element]] last done: [[2023-09-22]] **Tricky**
 - [[74-Search 2D matrix]] last done: [[2023-09-22]]
