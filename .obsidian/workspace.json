@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "052ba3950dc03b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMEX - furthest digram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ddf0a7d35055ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-AMEX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "company-AMEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "company-AMEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "company-AMEX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Binary Search.md"
+                "file": "company-AMEX.md"
               }
             }
           },
@@ -218,8 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eacd5dc244f4c77",
+  "active": "69ddf0a7d35055ba",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "AMEX - furthest digram.md",
+    "String.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Binary Search.md",
     "875-Koko eating bananas.md",
@@ -243,9 +271,6 @@
     "150-Reverse Polish Notation.md",
     "vifm.md",
     "CS590.md",
-    "739-Daily Temperature.md",
-    "daily-notes/2023-09-21.md",
-    "Mesa.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
