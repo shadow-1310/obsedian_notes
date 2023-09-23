@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "052ba3950dc03b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMEX - furthest digram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69ddf0a7d35055ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-AMEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "tag:lee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-AMEX.md",
+                "file": "Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-AMEX.md",
+                "file": "Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-AMEX.md",
+                "file": "Greedy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-AMEX.md"
+                "file": "Greedy.md"
               }
             }
           },
@@ -225,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -255,21 +231,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ddf0a7d35055ba",
+  "active": "69e00552631123b2",
   "lastOpenFiles": [
-    "Hot Roads.md",
+    "55-Jump Game.md",
+    "Greedy.md",
     "company-AMEX.md",
+    "AMEX - furthest digram.md",
+    "131-Palindrome Partition.md",
+    "daily-notes/2023-09-23.md",
+    "Hot Roads.md",
     "Alice and Bob.md",
     "AMEX-Min time to merge lists.md",
-    "Greedy.md",
     "DSA/Topics/DSA.md",
     "String.md",
     "IIT Campus Placements.md",
-    "AMEX - furthest digram.md",
     "DSA/Topics/Binary Search.md",
     "875-Koko eating bananas.md",
     "daily-notes/2023-05-28.md",
-    "daily-notes/2023-09-23.md",
     "74-Search 2D matrix.md",
     "162-find peak element.md",
     "153-Find minimum in rotated sorted array.md",
@@ -281,8 +259,6 @@
     "Linux.md",
     "33-Search in Rotated Sorted Array.md",
     "daily-notes/2023-05-23.md",
-    "tiling window manager.md",
-    "DSA/Topics/Heap.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
