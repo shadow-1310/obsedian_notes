@@ -24,5 +24,6 @@ tags: #dsa/tree #unfinished
 - [[1448-Counting Good Nodes in Binary Tree]]
 
 #### Segment tree
-https://www.youtube.com/watch?v=-dUiRtJ8ot0
+[build tree](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
+[point and range update in lazy propagation a](https://www.youtube.com/watch?v=rwXVCELcrqU)
 - [[307-Range Sum Query]]

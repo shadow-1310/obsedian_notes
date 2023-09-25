@@ -97,3 +97,6 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 	```
 	- here g means globally, i.e every occurrence in a line
 	- c is there if you want to ask for confirmation
+
+### good use cases
+- [automatically get list of files in a dir](https://www.youtube.com/watch?v=hraHAZ1-RaM)

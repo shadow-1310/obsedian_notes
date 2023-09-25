@@ -6,6 +6,7 @@ tags : #linux
 
 ## Packages
 - [[Mesa]]
+- [[nvim]]
 - [[ffmpeg]]
 - [[fzf]]
 - evince - Document Viewer

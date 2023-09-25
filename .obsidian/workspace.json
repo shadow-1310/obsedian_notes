@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eacd5dc244f4c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4ccea3c218d7477",
             "type": "leaf",
             "state": {
@@ -44,19 +32,18 @@
             }
           },
           {
-            "id": "1d36681eb4ab8dd8",
+            "id": "5b38695b6eacb093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Walmart Labs.md",
+                "file": "daily-notes/2023-09-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Walmart Labs.md",
+                "file": "DSA/Topics/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Walmart Labs.md",
+                "file": "DSA/Topics/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Walmart Labs.md",
+                "file": "DSA/Topics/Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Walmart Labs.md"
+                "file": "DSA/Topics/Tree.md"
               }
             }
           },
@@ -242,19 +230,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d36681eb4ab8dd8",
+  "active": "a4ccea3c218d7477",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230925012903.png",
+    "307-Range Sum Query.md",
+    "Quant and Logical Reasoning.md",
+    "daily-notes/2023-09-25.md",
+    "nvim.md",
+    "Linux.md",
     "DSA/Topics/Tree.md",
     "company-Walmart Labs.md",
+    "attachments/Pasted image 20230925012903.png",
     "IIT Campus Placements.md",
     "company-AMEX.md",
     "company-Fractal Analytics.md",
     "company-AiDash.md",
     "company-Tiger Analytics.md",
-    "Quant and Logical Reasoning.md",
     "company-Accenture Japan.md",
-    "307-Range Sum Query.md",
     "DSA/Topics/DSA.md",
     "Greedy.md",
     "763-Partition Label.md",
@@ -268,8 +259,6 @@
     "131-Palindrome Partition.md",
     "Hot Roads.md",
     "Alice and Bob.md",
-    "AMEX-Min time to merge lists.md",
-    "String.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
@@ -279,7 +268,6 @@
     "attachments/Pasted image 20230911165103.png",
     "attachments/Pasted image 20230911163437.png",
     "attachments/Pasted image 20230911162100.png",
-    "attachments/Pasted image 20230911161723.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",
