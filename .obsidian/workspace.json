@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "eacbec198a486046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "307-Range Sum Query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49cb36de1d744884",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "307-Range Sum Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "307-Range Sum Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "307-Range Sum Query.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Tree.md"
+                "file": "307-Range Sum Query.md"
               }
             }
           },
@@ -230,14 +243,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ccea3c218d7477",
+  "active": "eacbec198a486046",
   "lastOpenFiles": [
+    "DSA/Topics/Tree.md",
     "307-Range Sum Query.md",
     "Quant and Logical Reasoning.md",
     "daily-notes/2023-09-25.md",
     "nvim.md",
     "Linux.md",
-    "DSA/Topics/Tree.md",
     "company-Walmart Labs.md",
     "attachments/Pasted image 20230925012903.png",
     "IIT Campus Placements.md",
