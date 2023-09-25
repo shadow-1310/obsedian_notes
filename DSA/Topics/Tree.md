@@ -22,3 +22,7 @@ tags: #dsa/tree #unfinished
 - [[105-Construct Binary Tree from preorder and inorder]] last done: [[2023-08-05]]
 - [[108-converted sorted arry to bst]] last done: [[2023-08-06]]
 - [[1448-Counting Good Nodes in Binary Tree]]
+
+#### Segment tree
+https://www.youtube.com/watch?v=-dUiRtJ8ot0
+- [[307-Range Sum Query]]
