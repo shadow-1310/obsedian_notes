@@ -1,6 +1,6 @@
 ### tutorial
 - [tutorial playlist on image segmentation](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
-
+- https://rylezhou.medium.com/how-to-plot-display-nifti-nii-medical-images-in-python-1368443fed77
 ### Reference Papers
 ---
 ### Datasets

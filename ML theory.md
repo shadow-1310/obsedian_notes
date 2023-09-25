@@ -16,6 +16,8 @@
 	- Week 4
 		- Bayes Theorem problems. spam/not spam
 		- Naive Bayes assumption
+		- Bayesian Network
+		- Markov Blanket
 ## Linear Regression
 [medium article](https://ai.plainenglish.io/the-normal-equation-for-linear-regression-25fddea63899)
 - Normal Equation
