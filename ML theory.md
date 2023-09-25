@@ -5,9 +5,17 @@
 		- ID3, decision tree
 		- calculate entropy, decision tree
 		- why not multiway split in DT instead of binary split
-	- ![[Pasted image 20230919112453.png]]
-	- ![[Pasted image 20230919112934.png]]
-- 
+		- ![[Pasted image 20230919112453.png]]
+		- ![[Pasted image 20230919112934.png]]
+	- Week 3
+		- KNN
+		- PCA
+		- recommendation system
+		- LDA
+		- Pearson corelation
+	- Week 4
+		- Bayes Theorem problems. spam/not spam
+		- Naive Bayes assumption
 ## Linear Regression
 [medium article](https://ai.plainenglish.io/the-normal-equation-for-linear-regression-25fddea63899)
 - Normal Equation

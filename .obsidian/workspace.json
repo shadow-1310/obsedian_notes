@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eacbec198a486046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "307-Range Sum Query.md",
+                "file": "Greedy.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "preview",
+                "file": "ML theory.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "307-Range Sum Query.md",
+                "file": "ML theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "307-Range Sum Query.md",
+                "file": "ML theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "307-Range Sum Query.md",
+                "file": "ML theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "307-Range Sum Query.md"
+                "file": "ML theory.md"
               }
             }
           },
@@ -243,35 +231,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eacbec198a486046",
+  "active": "49cb36de1d744884",
   "lastOpenFiles": [
+    "Greedy.md",
+    "Stock Maximize.md",
+    "DSA/Topics/DSA.md",
+    "Misc.md",
+    "ML theory.md",
+    "IIT Campus Placements.md",
+    "Millenium Management.md",
+    "Global Maximum.md",
     "DSA/Topics/Tree.md",
-    "307-Range Sum Query.md",
-    "Quant and Logical Reasoning.md",
     "daily-notes/2023-09-25.md",
+    "company-Walmart Labs.md",
+    "307-Range Sum Query.md",
+    "Segment tree with Lazy algo.md",
+    "company-AMEX.md",
+    "Quant and Logical Reasoning.md",
     "nvim.md",
     "Linux.md",
-    "company-Walmart Labs.md",
     "attachments/Pasted image 20230925012903.png",
-    "IIT Campus Placements.md",
-    "company-AMEX.md",
     "company-Fractal Analytics.md",
     "company-AiDash.md",
     "company-Tiger Analytics.md",
     "company-Accenture Japan.md",
-    "DSA/Topics/DSA.md",
-    "Greedy.md",
     "763-Partition Label.md",
     "45-Jump Game II.md",
     "daily-notes/2023-09-24.md",
     "DSA/Topics/Backtracking.md",
     "daily-notes/2023-09-23.md",
-    "134-Gas station.md",
-    "55-Jump Game.md",
-    "AMEX - furthest digram.md",
-    "131-Palindrome Partition.md",
-    "Hot Roads.md",
-    "Alice and Bob.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

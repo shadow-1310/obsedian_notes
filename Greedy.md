@@ -12,5 +12,5 @@
 - [[45-Jump Game II]] last done: [[2023-09-24]]
 - [[134-Gas station]] last done: [[2023-09-23]]
 - [[763-Partition Label]] last done: [[2023-09-24]]
-- 
+- [[Stock Maximize]] last done: [[2023-09-25]]
 

@@ -5,6 +5,7 @@ tags: #dsa/tree #unfinished
 #### pseudo-code
 
 #### code
+[[Segment tree with Lazy algo]]
 
 ## Related Problems
 ---
@@ -26,4 +27,6 @@ tags: #dsa/tree #unfinished
 #### Segment tree
 [build tree](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
 [point and range update in lazy propagation a](https://www.youtube.com/watch?v=rwXVCELcrqU)
+- whenever you visit a node, update its lazy work to 0 while propagating to child nodes
 - [[307-Range Sum Query]]
+- 
