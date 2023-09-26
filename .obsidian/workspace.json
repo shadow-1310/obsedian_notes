@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4ccea3c218d7477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49cb36de1d744884",
             "type": "leaf",
             "state": {
@@ -42,8 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aade0cf893a99c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "262d665b93989538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14da828901b533fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML theory.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs",
+                "query": "file:plac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greedy.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Greedy.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greedy.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -230,16 +255,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ccea3c218d7477",
+  "active": "262d665b93989538",
   "lastOpenFiles": [
-    "daily-notes/2023-09-26.md",
+    "200-Number of islands.md",
+    "Graph.md",
+    "DSA/Topics/DSA.md",
     "ML theory.md",
+    "IIT Campus Placements.md",
     "CS590 group project.md",
+    "templates/DSA_topics.md",
+    "daily-notes/2023-09-26.md",
     "Greedy.md",
     "Stock Maximize.md",
-    "DSA/Topics/DSA.md",
     "Misc.md",
-    "IIT Campus Placements.md",
     "Millenium Management.md",
     "Global Maximum.md",
     "DSA/Topics/Tree.md",
@@ -256,9 +284,6 @@
     "company-AiDash.md",
     "company-Tiger Analytics.md",
     "company-Accenture Japan.md",
-    "763-Partition Label.md",
-    "45-Jump Game II.md",
-    "daily-notes/2023-09-24.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
