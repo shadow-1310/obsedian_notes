@@ -7,6 +7,9 @@
 - [ATLAS](https://www.icpsr.umich.edu/web/ADDEP/studies/36684#)
 - [ISIC](https://challenge.isic-archive.com/data/#2016)
 
+### U-Net
+- [transposed convolution](https://www.youtube.com/watch?v=96_oGE8WyPg)
+- 
 #### D-UNet
 - /home/shekhar/Course/CS590/final_project/papers/D-UNet.pdf
 - [github code](https://github.com/SWKoreaBME/D-Unet_PyTorch)
