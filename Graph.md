@@ -7,26 +7,19 @@
 
 ## Related Problems
 ---
-
 ### DFS
-- stack
-- hashmap
+stack,hashmap
 ### BFS
-- queue
-- hashmap
+queue, hashmap
 
 ### Union Find
 ### topological sort
-- hashset
-- Alien dictionary
+hashset, Alien dictionary
 
 ### Dijkstra's shortest path algo
-- Heap / Priority Queue
-- Hashset
-- Network Delay time
+- Heap / Priority Queue, Hashset, Network Delay time
 
 ### Prim or Kruskal spanning tree
-
 
 
 - [[200-Number of islands]]
