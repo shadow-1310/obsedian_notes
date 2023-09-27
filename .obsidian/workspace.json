@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49cb36de1d744884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbccfab14deb3542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590 group project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aade0cf893a99c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "262d665b93989538",
             "type": "leaf",
             "state": {
@@ -62,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "ML theory.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590 group project.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -255,16 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbccfab14deb3542",
+  "active": "262d665b93989538",
   "lastOpenFiles": [
-    "Graph.md",
     "ML theory.md",
-    "CS590 group project.md",
-    "200-Number of islands.md",
+    "Graph.md",
     "DSA/Topics/DSA.md",
+    "daily-notes/2023-09-26.md",
+    "CS590 group project.md",
+    "daily-notes/2023-09-27.md",
+    "200-Number of islands.md",
     "IIT Campus Placements.md",
     "templates/DSA_topics.md",
-    "daily-notes/2023-09-26.md",
     "Greedy.md",
     "Stock Maximize.md",
     "Misc.md",
@@ -283,7 +247,6 @@
     "company-Fractal Analytics.md",
     "company-AiDash.md",
     "company-Tiger Analytics.md",
-    "company-Accenture Japan.md",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",

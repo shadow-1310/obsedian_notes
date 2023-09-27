@@ -1,3 +1,5 @@
+## MCQ
+- https://www.analyticsvidhya.com/blog/category/skilltest/
 ### PYQ questions
 - [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
 	- Week 1: done
@@ -16,8 +18,23 @@
 	- Week 4
 		- Bayes Theorem problems. spam/not spam
 		- Naive Bayes assumption
-		- Bayesian Network
+		- Bayesian Belief Network problems (practice the numericals)
+			- [youtube tutorial](https://www.youtube.com/watch?v=hEZjPZ-Ze0A)
 		- Markov Blanket
+	- Week 5
+		- SVM decision boundary, 
+		- 
+		- kernel function- also a similarity function
+		- when soft margin is preferred - noisy and overlapping data
+		- SVM parameters - [youtube video](https://www.youtube.com/watch?v=fqhHBCfNy6s)
+			- gamma - effects only when kernel is non linear
+				- low gamma - large similarity radius, more points are grouped together
+				- high gamma- small similarity radius, less points are grouped together
+			- C -  slack variable (cost parameter)
+				- trade off between missclassification and the margin.
+				- adds penalty for each misclassified point
+				- so high C means hard/smaller margin, chance of overfitting 
+				- low C means soft/ larger margin
 ## Linear Regression
 [medium article](https://ai.plainenglish.io/the-normal-equation-for-linear-regression-25fddea63899)
 - Normal Equation
