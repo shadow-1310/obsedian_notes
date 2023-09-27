@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e52e1f7d0c90b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:grou",
+                "query": "file:ROBOTI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "Robotics101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "Robotics101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "Robotics101.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "Robotics101.md"
               }
             }
           },
@@ -218,10 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "262d665b93989538",
+  "active": "8e52e1f7d0c90b87",
   "lastOpenFiles": [
-    "ML theory.md",
     "Graph.md",
+    "ML theory.md",
     "DSA/Topics/DSA.md",
     "daily-notes/2023-09-26.md",
     "CS590 group project.md",

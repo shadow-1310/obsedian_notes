@@ -19,3 +19,6 @@ People:
 ^e9d795
 
 - [yolov5parkingcount/main.py at main · freedomwebtech/yolov5parkingcount](https://github.com/freedomwebtech/yolov5parkingcount/blob/main/main.py) took help from this code
+
+## Gazebo
+- https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/using-openai-with-ros-online-course/
