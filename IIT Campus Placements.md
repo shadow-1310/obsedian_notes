@@ -2,6 +2,9 @@
 ### Apti round
 - [[Quant and Logical Reasoning]]
 
+### OOPs MCQ
+- 
+
 ## Coding Round
 - [[DSA]]
 
