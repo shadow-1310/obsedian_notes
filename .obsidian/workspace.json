@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-Accenture Japan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e2bebdc5fecaaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPs concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-Accenture Japan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-Accenture Japan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-Accenture Japan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Campus Placements.md"
+                "file": "company-Accenture Japan.md"
               }
             }
           },
@@ -233,8 +245,9 @@
   },
   "active": "e067eb89b31def39",
   "lastOpenFiles": [
-    "company-Walmart Labs.md",
     "IIT Campus Placements.md",
+    "OOPs concepts.md",
+    "company-Walmart Labs.md",
     "daily-notes/2023-09-28.md",
     "Graph.md",
     "company-Accenture Japan.md",
@@ -258,7 +271,6 @@
     "company-AMEX.md",
     "Quant and Logical Reasoning.md",
     "nvim.md",
-    "Linux.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

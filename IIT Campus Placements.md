@@ -2,7 +2,7 @@
 ### Apti round
 - [[Quant and Logical Reasoning]]
 
-### OOPs MCQ
+### [[OOPs concepts]]
 - 
 
 ## Coding Round

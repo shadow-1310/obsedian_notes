@@ -5,3 +5,10 @@
 - [Haloween candies](https://leetcode.com/discuss/interview-question/384262/airbnb-oa-2019-candy)
 	- [Solution](https://leetcode.com/discuss/interview-question/1604721/Airbnb-or-OA-2021-or-Halloween-Candy)
 - [check password strength](https://www.geeksforgeeks.org/program-check-strength-password/)
+- [[263-Ugly Number]]
+- [[Number of bits set to 1 in a*b]]
+- [[Bulb question]]
+- [[Numbers of form 2P3Q]]
+- [[word machine]]
+- also check 
+	- /home/shekhar/interview_preparation/accenture_japan
