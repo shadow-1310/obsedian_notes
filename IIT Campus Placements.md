@@ -3,7 +3,6 @@
 - [[Quant and Logical Reasoning]]
 
 ### [[OOPs concepts]]
-- 
 
 ## Coding Round
 - [[DSA]]
