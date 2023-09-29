@@ -15,3 +15,4 @@
 - [[Dynamic Programming]]
 - [[Greedy]]
 - [[Graph]]
+- [[Bitwise Operation]]
