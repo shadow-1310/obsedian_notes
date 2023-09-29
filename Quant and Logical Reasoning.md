@@ -29,7 +29,6 @@
 - [x] [[Syllogism]]
 - [x] Coding-Decoding
 - [ ] [[Data Sufficiency]]
-- [ ] data sufficiency
 - [ ] blood relation
 - [ ] seating arrangement
 - [ ] [[directional sense]]

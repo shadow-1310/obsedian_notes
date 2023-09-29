@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Accenture Japan.md",
+                "file": "daily-notes/2023-09-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d3d27e05b5ccabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Accenture Japan.md",
+                "file": "Quant and Logical Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Accenture Japan.md",
+                "file": "Quant and Logical Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Accenture Japan.md",
+                "file": "Quant and Logical Reasoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Accenture Japan.md"
+                "file": "Quant and Logical Reasoning.md"
               }
             }
           },
@@ -243,14 +255,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e067eb89b31def39",
+  "active": "0d3d27e05b5ccabd",
   "lastOpenFiles": [
     "IIT Campus Placements.md",
+    "daily-notes/2023-09-29.md",
+    "company-Accenture Japan.md",
     "OOPs concepts.md",
     "company-Walmart Labs.md",
     "daily-notes/2023-09-28.md",
     "Graph.md",
-    "company-Accenture Japan.md",
     "DSA/Topics/DSA.md",
     "Robotics101.md",
     "ML theory.md",
@@ -270,7 +283,6 @@
     "Segment tree with Lazy algo.md",
     "company-AMEX.md",
     "Quant and Logical Reasoning.md",
-    "nvim.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
