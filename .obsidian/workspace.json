@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "c7e993c9388d4a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "190-Reverse Bits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71051061d9edb690",
             "type": "leaf",
             "state": {
@@ -42,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71e1cdbb5546cec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Accenture Japan.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bda54aa55905e7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "190-Reverse Bits.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "190-Reverse Bits.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "190-Reverse Bits.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "190-Reverse Bits.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           },
@@ -230,21 +243,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7e993c9388d4a3f",
+  "active": "bda54aa55905e7d5",
   "lastOpenFiles": [
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Stack.md",
+    "DSA/Topics/Heap.md",
+    "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/Backtracking.md",
+    "DSA/Topics/Tree.md",
+    "IIT Campus Placements.md",
+    "company-Accenture Japan.md",
     "Bitwise Operation.md",
+    "371-Sum of integer.md",
     "190-Reverse Bits.md",
     "338-Count Bits.md",
     "136-Single Number.md",
     "191-Number of set bits.md",
-    "DSA/Topics/DSA.md",
     "Linux.md",
     "daily-notes/2023-09-30.md",
     "logical sequence.md",
     "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
     "ML theory.md",
-    "company-Accenture Japan.md",
     "Graph.md",
     "daily-notes/2023-09-29.md",
     "OOPs concepts.md",
@@ -252,12 +271,6 @@
     "daily-notes/2023-09-28.md",
     "Robotics101.md",
     "daily-notes/2023-09-26.md",
-    "CS590 group project.md",
-    "daily-notes/2023-09-27.md",
-    "200-Number of islands.md",
-    "templates/DSA_topics.md",
-    "Greedy.md",
-    "Stock Maximize.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
