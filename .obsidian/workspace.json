@@ -13,55 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9a2404067405b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-09-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14da828901b533fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcf25307e0edf8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Accenture Japan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "314beff2c0ccae4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "Bitwise Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logical sequence.md",
+                "file": "Bitwise Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logical sequence.md",
+                "file": "Bitwise Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "logical sequence.md",
+                "file": "Bitwise Operation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logical sequence.md"
+                "file": "Bitwise Operation.md"
               }
             }
           },
@@ -267,16 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71051061d9edb690",
+  "active": "262d665b93989538",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
-    "logical sequence.md",
-    "IIT Campus Placements.md",
-    "daily-notes/2023-09-30.md",
+    "136-Single Number.md",
     "Bitwise Operation.md",
+    "191-Number of set bits.md",
+    "DSA/Topics/DSA.md",
+    "Linux.md",
+    "daily-notes/2023-09-30.md",
+    "logical sequence.md",
+    "Quant and Logical Reasoning.md",
+    "IIT Campus Placements.md",
     "ML theory.md",
     "company-Accenture Japan.md",
-    "DSA/Topics/DSA.md",
     "Graph.md",
     "daily-notes/2023-09-29.md",
     "OOPs concepts.md",
@@ -292,9 +246,6 @@
     "Stock Maximize.md",
     "Misc.md",
     "Millenium Management.md",
-    "Global Maximum.md",
-    "DSA/Topics/Tree.md",
-    "daily-notes/2023-09-25.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

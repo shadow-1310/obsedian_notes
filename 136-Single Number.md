@@ -4,7 +4,8 @@ topic: [[Array]]
 - source: 
 - serial no: #leetcode/136
 - first_done: [[2023-05-17]]
-- last_revised: [[2023-09-10]]
+	- first_revised: [[2023-09-10]]
+- last_revised: [[2023-09-30]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -17,7 +18,7 @@ topic: [[Array]]
 - space complexity
 
 #### pseudo code
-
+- use xor operation to find out single number
 #### mistakes
 
 #### code snippet

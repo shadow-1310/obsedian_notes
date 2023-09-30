@@ -46,5 +46,8 @@
 #### code
 
 ## Related Problems
+---
+- [[191-Number of set bits]]
+- [[136-Single Number]]
 
 
