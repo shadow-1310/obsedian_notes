@@ -1,3 +1,5 @@
+#### github repo
+- https://github.com/youssefHosni/Practical-Machine-Learning
 ## MCQ
 - https://www.analyticsvidhya.com/blog/category/skilltest/
 ### PYQ questions
