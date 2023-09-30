@@ -32,7 +32,7 @@
 - [ ] blood relation
 - [ ] seating arrangement
 - [ ] [[directional sense]]
-- [ ] logical sequence
+- [ ] [[logical sequence]]
 - [ ] analogies
 
 ***Non-verbal***
