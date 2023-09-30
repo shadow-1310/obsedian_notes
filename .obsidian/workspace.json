@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9caf11863751bb84",
+            "id": "c7e993c9388d4a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "338-Count Bits.md",
+                "file": "190-Reverse Bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "338-Count Bits.md",
+                "file": "190-Reverse Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "338-Count Bits.md",
+                "file": "190-Reverse Bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "338-Count Bits.md",
+                "file": "190-Reverse Bits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "338-Count Bits.md"
+                "file": "190-Reverse Bits.md"
               }
             }
           },
@@ -231,9 +230,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9caf11863751bb84",
+  "active": "c7e993c9388d4a3f",
   "lastOpenFiles": [
     "Bitwise Operation.md",
+    "190-Reverse Bits.md",
     "338-Count Bits.md",
     "136-Single Number.md",
     "191-Number of set bits.md",
@@ -258,7 +258,6 @@
     "templates/DSA_topics.md",
     "Greedy.md",
     "Stock Maximize.md",
-    "Misc.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

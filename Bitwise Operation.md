@@ -47,8 +47,9 @@
 
 ## Related Problems
 ---
-- [[191-Number of set bits]]
-- [[136-Single Number]]
-- [[338-Count Bits]]
+- [[191-Number of set bits]] last done: [[2023-09-30]]
+- [[136-Single Number]] last done: [[2023-09-30]]
+- [[338-Count Bits]] last done: [[2023-09-30]]
+- [[190-Reverse Bits]] last done: [[2023-09-30]]
 
 
