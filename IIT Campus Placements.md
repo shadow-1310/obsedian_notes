@@ -36,4 +36,7 @@
 11. [[company-Corgoport]]
 12. [[company- Honda Japan]]
 13. [[Millenium Management]]
+14. [[company-Paytm]]
+15. [[company-Wells Fargo]]
+16. [[company-Samsung]]
 ### Sprinklr 

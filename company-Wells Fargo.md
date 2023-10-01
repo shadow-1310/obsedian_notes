@@ -1,0 +1,3 @@
+## PYQs
+---
+- [[Vertex Cover problem]]

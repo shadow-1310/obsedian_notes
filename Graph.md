@@ -14,14 +14,18 @@
 
 ### DFS
 stack,hashmap
+- [[733-Flood Fill]]
 ### BFS
 queue, hashmap
-
+- [[200-Number of islands]]
+- [[133-Clone Graph]]
+- [[130-Surround Regions]]
+- [[695-Max area of island]]
 ### Union Find
 -
 ### topological sort
 hashset, Alien dictionary
-- course schedule
+- [[207-Course Schedule]]
 
 ### Dijkstra's shortest path algo
 - Heap / Priority Queue, Hashset, Network Delay time
@@ -29,8 +33,5 @@ hashset, Alien dictionary
 ### Prim or Kruskal spanning tree
 
 
-- [[200-Number of islands]]
-- [[133-Clone Graph]]
-- [[130-Surround Regions]]
-- [[695-Max area of island]]
-- [[733-Flood Fill]]
+
+
