@@ -1,4 +1,7 @@
 ## Basic Overview
+- [GFG discussion on graph representation](https://www.geeksforgeeks.org/graph-and-its-representations/)
+	- adjacency matrix
+	- adjacency list
 
 ### Implementation from scratch
 #### pseudo-code
