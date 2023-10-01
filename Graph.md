@@ -15,6 +15,7 @@
 ### DFS
 stack,hashmap
 - [[733-Flood Fill]]
+- [[802-find eventual safe states]]
 ### BFS
 queue, hashmap
 - [[200-Number of islands]]

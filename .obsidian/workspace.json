@@ -61,22 +61,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "358212e4282d5fa0",
+            "id": "eb43b34a2860fd70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "802-find eventual safe states.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily-notes/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily-notes/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "daily-notes/2023-10-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily-notes/2023-10-01.md"
+              }
             }
           },
           {
@@ -258,18 +266,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358212e4282d5fa0",
+  "active": "262d665b93989538",
   "lastOpenFiles": [
+    "802-find eventual safe states.md",
+    "Graph.md",
+    "DSA/Topics/DSA.md",
     "DSA/Topics/Linked List.md",
-    "logical sequence.md",
-    "company-Wells Fargo.md",
     "company-Paytm.md",
+    "company-Wells Fargo.md",
+    "logical sequence.md",
     "Subtract two numbers given as linked list.md",
     "IIT Campus Placements.md",
     "company-Samsung.md",
     "company-Fractal Analytics.md",
-    "DSA/Topics/DSA.md",
-    "Graph.md",
     "Vertex Cover problem.md",
     "Last non zero digit of a factorial.md",
     "company-CRED.md",
@@ -285,7 +294,6 @@
     "133-Clone Graph.md",
     "Dynamic Programming.md",
     "String.md",
-    "DSA/Topics/Sliding Window.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
