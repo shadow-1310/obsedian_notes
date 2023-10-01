@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           },
@@ -232,15 +232,19 @@
   },
   "active": "262d665b93989538",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
+    "DSA/Topics/Backtracking.md",
+    "String.md",
+    "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/Linked List.md",
+    "DSA/Topics/Heap.md",
+    "Graph.md",
     "Bitwise Operation.md",
     "company-Accenture Japan.md",
     "Contests.md",
     "2864-Max Odd Binary Number.md",
     "DSA/Topics/Stack.md",
-    "DSA/Topics/Heap.md",
-    "DSA/Topics/Sliding Window.md",
-    "DSA/Topics/Backtracking.md",
     "DSA/Topics/Tree.md",
     "IIT Campus Placements.md",
     "371-Sum of integer.md",
@@ -253,11 +257,7 @@
     "logical sequence.md",
     "Quant and Logical Reasoning.md",
     "ML theory.md",
-    "Graph.md",
     "daily-notes/2023-09-29.md",
-    "OOPs concepts.md",
-    "company-Walmart Labs.md",
-    "daily-notes/2023-09-28.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
