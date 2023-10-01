@@ -8,6 +8,8 @@ tags: #dsa/binary-search #unfinished
 
 ## Related Problems
 ---
+[LC discussion](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
 - [[33-Search in Rotated Sorted Array]] last done: [[2023-09-22]]
 - [[34-Search Range]] last done: [[2023-09-22]]
 - [[69-Sqare Root]] last done: [[2023-09-22]]

@@ -20,6 +20,8 @@ tags: #dsa/backtracking #unfinished
 
 ## Related Problems
 ---
+[LC discussion](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/)
+
 - [[78-Subsets]] : last_done: [[2023-07-28]]
 - [[90-Subsets-II]] : last_done: [[2023-07-28]]
 - [[39-Combination_Sum]] last done: [[2023-07-27]]

@@ -6,7 +6,10 @@
 #### code
 
 ## Top patterns
+[LeetCode Discussion](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+
 [Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners - YouTube](https://www.youtube.com/watch?v=mBNrRy2_hVs&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO&index=5)
+
 - #dsa/DP/fibo
 - #dsa/DP/01knapsack
 - #dsa/DP/unbound-knapsack

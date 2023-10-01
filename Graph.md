@@ -7,6 +7,8 @@
 
 ## Related Problems
 ---
+[LC discussion on patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+
 ### DFS
 stack,hashmap
 ### BFS
@@ -23,5 +25,5 @@ hashset, Alien dictionary
 
 
 - [[200-Number of islands]]
-- 
+- [[133-Clone Graph]]
 
