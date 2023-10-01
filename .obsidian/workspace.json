@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "daily-notes/2023-10-01.md"
               }
             }
           },
@@ -243,10 +242,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3442f9f4fae92e45",
+  "active": "262d665b93989538",
   "lastOpenFiles": [
-    "133-Clone Graph.md",
+    "daily-notes/2023-09-30.md",
+    "daily-notes/2023-10-01.md",
     "Graph.md",
+    "130-Surround Regions.md",
+    "nvim.md",
+    "Linux.md",
+    "133-Clone Graph.md",
     "DSA/Topics/DSA.md",
     "Dynamic Programming.md",
     "String.md",
@@ -254,7 +258,6 @@
     "DSA/Topics/Binary Search.md",
     "company-Accenture Japan.md",
     "DSA/Topics/Backtracking.md",
-    "daily-notes/2023-10-01.md",
     "DSA/Topics/Linked List.md",
     "DSA/Topics/Heap.md",
     "Bitwise Operation.md",
@@ -267,10 +270,6 @@
     "190-Reverse Bits.md",
     "338-Count Bits.md",
     "136-Single Number.md",
-    "191-Number of set bits.md",
-    "Linux.md",
-    "daily-notes/2023-09-30.md",
-    "logical sequence.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
