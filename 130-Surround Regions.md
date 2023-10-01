@@ -17,7 +17,7 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- do the reverse thinking, from the border regions whenever encounter a 'O', do dfs and make all its neighbor as unsurrounded category (add to the set)
 #### mistakes
 
 #### code snippet

@@ -27,4 +27,4 @@ hashset, Alien dictionary
 - [[200-Number of islands]]
 - [[133-Clone Graph]]
 - [[130-Surround Regions]]
-
+- [[695-Max area of island]]
