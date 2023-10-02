@@ -30,7 +30,7 @@ hashset, Alien dictionary
 - [[207-Course Schedule]]
 
 ### Dijkstra's shortest path algo
-Heap / Priority Queue, Hashset, Network Delay time
+Heap / Priority Queue, Hashset
 - [[743-Network delay time]]
 ### Prim or Kruskal spanning tree
 

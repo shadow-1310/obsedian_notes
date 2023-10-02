@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3442f9f4fae92e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4118ed2ce0b3859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "482cfd4d934810a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "743-Network delay time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9e8acf65d5f1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c02d1e924d0b610c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-10-02.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:TS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2023-10-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "daily-notes/2023-10-02.md"
               }
             }
           },
@@ -254,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4118ed2ce0b3859",
+  "active": "c02d1e924d0b610c",
   "lastOpenFiles": [
+    "Graph.md",
     "743-Network delay time.md",
     "String.md",
+    "daily-notes/2023-10-02.md",
     "IIT Campus Placements.md",
     "company-Tescra_Achnet.md",
-    "Graph.md",
     "company-TSMC.md",
     "953-Verifying an alien dictionary.md",
     "994-rotting oranges.md",
-    "daily-notes/2023-10-02.md",
     "DSA/Topics/DSA.md",
     "Linux.md",
     "Misc.md",

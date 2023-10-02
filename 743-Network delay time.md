@@ -10,16 +10,17 @@ topic:
 	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/network-delay-time/
-- solution_link:
+- solution_link: https://www.youtube.com/watch?v=EaphyqKU4PQ
 
 ### approach - 1
-- Time Complexity
+- Time Complexity $$TC = O(E*logV)$$
 - space complexity
 
 #### pseudo code
 
 #### mistakes
-
+- don't try to use self implementation of default dict, it is not working
+	- use collections.defaultdict
 #### code snippet
 ```python
 
