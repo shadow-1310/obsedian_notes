@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94b3000f99ccaee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d4d5c22be138b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TSMC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "TSMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "TSMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "TSMC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "953-Verifying an alien dictionary.md"
+                "file": "TSMC.md"
               }
             }
           },
@@ -243,10 +267,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24eee3018ec2fd81",
+  "active": "1d4d5c22be138b56",
   "lastOpenFiles": [
-    "String.md",
+    "IIT Campus Placements.md",
+    "TSMC.md",
     "953-Verifying an alien dictionary.md",
+    "String.md",
     "DSA/Topics/DSA.md",
     "Graph.md",
     "Linux.md",
@@ -262,7 +288,6 @@
     "DSA/Topics/Linked List.md",
     "logical sequence.md",
     "Subtract two numbers given as linked list.md",
-    "IIT Campus Placements.md",
     "company-Samsung.md",
     "company-Fractal Analytics.md",
     "Vertex Cover problem.md",
@@ -270,7 +295,6 @@
     "company-CRED.md",
     "company-Accenture Japan.md",
     "207-Course Schedule.md",
-    "733-Flood Fill.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

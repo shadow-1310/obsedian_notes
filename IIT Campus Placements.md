@@ -21,6 +21,12 @@
 - https://github.com/chiphuyen/machine-learning-systems-design/blob/master/content/case-studies.md
 - https://skills.workera.ai/resources/machine-learning-case-study-interview/
 
+
+## IITG 2023'Dec
+---
+- [[TSMC]]
+
+
 ## Companies
 ---
 1. [[company-Accenture Japan]]
