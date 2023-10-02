@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "71051061d9edb690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logical sequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e1cdbb5546cec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Wells Fargo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a139a9a47b5c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Paytm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3442f9f4fae92e45",
             "type": "leaf",
             "state": {
@@ -66,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb43b34a2860fd70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "802-find eventual safe states.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "minimum fou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-01.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-01.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-01.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-01.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -266,14 +219,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "262d665b93989538",
+  "active": "3442f9f4fae92e45",
   "lastOpenFiles": [
-    "802-find eventual safe states.md",
-    "Graph.md",
+    "Misc.md",
+    "1326-Minimum Fountains.md",
+    "daily-notes/2023-10-01.md",
+    "133-Clone Graph.md",
     "DSA/Topics/DSA.md",
-    "DSA/Topics/Linked List.md",
+    "daily-notes/2023-09-30.md",
+    "Graph.md",
+    "802-find eventual safe states.md",
     "company-Paytm.md",
     "company-Wells Fargo.md",
+    "DSA/Topics/Linked List.md",
     "logical sequence.md",
     "Subtract two numbers given as linked list.md",
     "IIT Campus Placements.md",
@@ -287,13 +245,8 @@
     "733-Flood Fill.md",
     "130-Surround Regions.md",
     "695-Max area of island.md",
-    "daily-notes/2023-10-01.md",
-    "daily-notes/2023-09-30.md",
     "nvim.md",
     "Linux.md",
-    "133-Clone Graph.md",
-    "Dynamic Programming.md",
-    "String.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
