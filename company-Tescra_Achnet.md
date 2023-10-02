@@ -1,0 +1,6 @@
+- requirements
+	- No DSA round,
+		- technical test will consist of MCQ on OOP, DSA, Quant, Reasoning
+	- must know NoSQL databases like redis, MongoDB for PI round
+- ppt
+	- 

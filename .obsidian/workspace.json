@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "0b9e8acf65d5f1ef",
+            "id": "482cfd4d934810a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String.md",
+                "file": "743-Network delay time.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24eee3018ec2fd81",
+            "id": "0b9e8acf65d5f1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "String.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d4d5c22be138b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TSMC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file:TS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TSMC.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TSMC.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TSMC.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TSMC.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -267,16 +254,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4d5c22be138b56",
+  "active": "e4118ed2ce0b3859",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "TSMC.md",
-    "953-Verifying an alien dictionary.md",
+    "743-Network delay time.md",
     "String.md",
-    "DSA/Topics/DSA.md",
+    "IIT Campus Placements.md",
+    "company-Tescra_Achnet.md",
     "Graph.md",
-    "Linux.md",
+    "company-TSMC.md",
+    "953-Verifying an alien dictionary.md",
+    "994-rotting oranges.md",
     "daily-notes/2023-10-02.md",
+    "DSA/Topics/DSA.md",
+    "Linux.md",
     "Misc.md",
     "1326-Minimum Fountains.md",
     "daily-notes/2023-10-01.md",
@@ -292,9 +282,6 @@
     "company-Fractal Analytics.md",
     "Vertex Cover problem.md",
     "Last non zero digit of a factorial.md",
-    "company-CRED.md",
-    "company-Accenture Japan.md",
-    "207-Course Schedule.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

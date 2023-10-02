@@ -3,7 +3,7 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/953 
-- first_done:
+- first_done: [[2023-10-02]]
 - last_revised:
 - difficulty:
 	- [x] easy

@@ -18,6 +18,7 @@ stack,hashmap
 - [[802-find eventual safe states]]
 ### BFS
 queue, hashmap
+- [[994-rotting oranges]]
 - [[200-Number of islands]]
 - [[133-Clone Graph]]
 - [[130-Surround Regions]]
@@ -29,8 +30,8 @@ hashset, Alien dictionary
 - [[207-Course Schedule]]
 
 ### Dijkstra's shortest path algo
-- Heap / Priority Queue, Hashset, Network Delay time
-
+Heap / Priority Queue, Hashset, Network Delay time
+- [[743-Network delay time]]
 ### Prim or Kruskal spanning tree
 
 

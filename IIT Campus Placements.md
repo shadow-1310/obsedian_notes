@@ -24,10 +24,12 @@
 
 ## IITG 2023'Dec
 ---
-- [[TSMC]]
+- [[company-Accenture Japan]]
+- [[company-Mercari]]
+- [[company-Tescra_Achnet]]
+- [[company-TSMC]]
 
-
-## Companies
+## Previous year Companies
 ---
 1. [[company-Accenture Japan]]
 2. [[company-AMEX]]
