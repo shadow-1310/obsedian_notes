@@ -21,7 +21,7 @@ topic:
 
 #### mistakes
 - use a while loop inside instead of a if condition
-- same mistake as above repeated
+- same mistake as above repeated.
 #### code snippet
 ```python
 

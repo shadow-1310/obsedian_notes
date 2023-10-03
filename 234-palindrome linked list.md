@@ -1,10 +1,11 @@
 topic: #dsa/linked-list [[Linked List]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/234
-- first_done:
-- last_revised: [[2023-09-02]]
+- first_done:[[2023-06-08]]
+	- first_revised: [[2023-09-02]]
+- last_revised: [[2023-10-03]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
