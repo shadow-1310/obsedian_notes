@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/141
 - first_done: [[2023-06-08]]
-- last_revised: [[2023-08-29]]
+	- first_revised: [[2023-08-29]]
+- last_revised: [[2023-10-03]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -20,6 +21,7 @@ topic:
 
 #### mistakes
 - remember the exit condition, <code>while fast and fast.next</code>
+- take care of edge case when input is Null
 #### code snippet
 ```python
 

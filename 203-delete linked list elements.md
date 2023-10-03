@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/203
-- first_done: 
-- last_revised: [[2023-08-29]]
+- first_done: [[2023-06-10]]
+	- first_revised: [[2023-08-29]]
+- last_revised: [[2023-10-03]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -20,6 +21,7 @@ topic:
 
 #### mistakes
 - use a while loop inside instead of a if condition
+- same mistake as above repeated
 #### code snippet
 ```python
 
