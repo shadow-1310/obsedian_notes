@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe022e2b2708a06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-03.md",
+                "file": "DSA/Topics/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-03.md",
+                "file": "DSA/Topics/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-03.md",
+                "file": "DSA/Topics/Linked List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-03.md"
+                "file": "DSA/Topics/Linked List.md"
               }
             }
           },
@@ -218,11 +231,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "381a6879318af854",
+  "active": "fe022e2b2708a06c",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
-    "ML theory.md",
+    "141- Linked List Cycle.md",
     "daily-notes/2023-10-03.md",
+    "DSA/Topics/Linked List.md",
+    "138-Copy list with random pointer.md",
+    "daily-notes/2023-06-10.md",
+    "Quant and Logical Reasoning.md",
+    "21 - Merge two sorted list.md",
+    "19- Remove Nth Node from linked list.md",
+    "daily-notes/2023-06-09.md",
+    "2-Add two numbers.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Tree.md",
+    "ML theory.md",
     "IIT Campus Placements.md",
     "Probability.md",
     "company-TSMC.md",
@@ -230,22 +253,12 @@
     "daily-notes/2023-10-02.md",
     "Misc.md",
     "Find all primes less than a given number.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
     "263-Ugly Number.md",
     "287-contains duplicate.md",
     "DSA/Topics/Binary Search.md",
     "Graph.md",
     "743-Network delay time.md",
-    "Linux.md",
-    "399-evaluate division.md",
-    "String.md",
-    "company-Tescra_Achnet.md",
-    "953-Verifying an alien dictionary.md",
-    "994-rotting oranges.md",
-    "1326-Minimum Fountains.md",
-    "daily-notes/2023-10-01.md",
-    "133-Clone Graph.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

@@ -4,7 +4,8 @@ topic: #dsa/linked-list [[Linked List]]
 - source: #leetcode 
 - serial no: #leetcode/2
 - first_done:
-- last_revised: [[2023-08-29]]
+- first_revised: [[2023-08-29]]
+- last_revised: [[2023-10-03]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -22,6 +23,8 @@ topic: #dsa/linked-list [[Linked List]]
 - do it till any one of the l1, l2 or carry is non zero
 #### mistakes
 - remember the edge cases to continue the loop till carry is non zero.
+- add the remainder to curr.next 
+	- don't store it in curr
 #### code snippet
 ```python
 
