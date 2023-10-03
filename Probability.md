@@ -21,3 +21,10 @@
 	- 3 due to permutation calculation mistake
 	- 1 due to chilly mistake
 	- 1 left due to not knowing [[Probability#^2986f4| coin 11 trick]]
+
+### test-2 : [[2023-10-03]]
+- source: [javatpoint-page1](https://www.javatpoint.com/aptitude/probability-1)to [javatpoint-page3](https://www.javatpoint.com/aptitude/probability-1)
+- 13 problem: 10 correct, 3 mistake/left
+	- 1 left due to lengthy
+	- 1 wrong due to counting mistake
+	-  wrong question

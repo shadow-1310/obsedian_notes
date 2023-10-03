@@ -17,7 +17,7 @@
 - [x] [[Probability]]
 - [x] [[Permutation and Combinations]]
 - [ ] Partnership
-- [ ] [[Problem on Ages]]
+- [x] [[Problem on Ages]]
 - [ ] Sequence Series
 - [ ] Mensuration
 - [ ] [[Data Interpretation]]

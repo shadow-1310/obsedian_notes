@@ -3,40 +3,81 @@
 ## MCQ
 - https://www.analyticsvidhya.com/blog/category/skilltest/
 ### PYQ questions
-- [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
-	- Week 1: done
-	- Week 2: done
-		- ID3, decision tree
-		- calculate entropy, decision tree
-		- why not multiway split in DT instead of binary split
-		- ![[Pasted image 20230919112453.png]]
-		- ![[Pasted image 20230919112934.png]]
-	- Week 3
-		- KNN
-		- PCA
-		- recommendation system
-		- LDA
-		- Pearson corelation
-	- Week 4
-		- Bayes Theorem problems. spam/not spam
-		- Naive Bayes assumption
-		- Bayesian Belief Network problems (practice the numericals)
-			- [youtube tutorial](https://www.youtube.com/watch?v=hEZjPZ-Ze0A)
-		- Markov Blanket
-	- Week 5
-		- SVM decision boundary, 
-		- 
-		- kernel function- also a similarity function
-		- when soft margin is preferred - noisy and overlapping data
-		- SVM parameters - [youtube video](https://www.youtube.com/watch?v=fqhHBCfNy6s)
-			- gamma - effects only when kernel is non linear
-				- low gamma - large similarity radius, more points are grouped together
-				- high gamma- small similarity radius, less points are grouped together
-			- C -  slack variable (cost parameter)
-				- trade off between missclassification and the margin.
-				- adds penalty for each misclassified point
-				- so high C means hard/smaller margin, chance of overfitting 
-				- low C means soft/ larger margin
+---
+#### [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
+- **Week 1**: done
+- **Week 2**: done
+	- ID3, decision tree
+	- calculate entropy, decision tree
+	- why not multiway split in DT instead of binary split
+	- ![[Pasted image 20230919112453.png]]
+	- ![[Pasted image 20230919112934.png]]
+- **Week 3**
+	- KNN
+	- PCA
+	- recommendation system
+	- LDA
+	- Pearson corelation
+- **Week 4**
+	- Bayes Theorem problems. spam/not spam
+	- Naive Bayes assumption
+	- Bayesian Belief Network problems (practice the numericals)
+		- [youtube tutorial](https://www.youtube.com/watch?v=hEZjPZ-Ze0A)
+	- Markov Blanket
+- **Week 5**
+	- SVM decision boundary, 
+	- 
+	- kernel function- also a similarity function
+	- when soft margin is preferred - noisy and overlapping data
+	- SVM parameters - [youtube video](https://www.youtube.com/watch?v=fqhHBCfNy6s)
+		- gamma - effects only when kernel is non linear
+			- low gamma - large similarity radius, more points are grouped together
+			- high gamma- small similarity radius, less points are grouped together
+		- C -  slack variable (cost parameter)
+			- trade off between missclassification and the margin.
+			- adds penalty for each misclassified point
+			- so high C means hard/smaller margin, chance of overfitting 
+			- low C means soft/ larger margin
+- **Week 6**:skipped for now
+	- Neural Networks
+- **Week 7**
+	- Concept learning - Find-S or Candidate Elimination
+		- [youtube video](https://www.youtube.com/watch?v=z5AKsT3apWI)
+		- General Hypothesis
+			- most general, {?, ?, ?, ?, ?}
+				- ? means any value is acceptable
+		- Specific hypothesis
+			- most specific, {phi, phi, phi, phi, phi}
+				- phi means no value is accepted
+	
+		- Instance space (doesn't include ?, phi),
+			- f1 * f2
+		- hypothesis space (includes ? and phi)
+			- (f1+2) * (f2+2)
+		- semantically distinct hypothesis (have phi only one time)
+			- (f1+1) * (f2+1) + 1
+	- Find-S algorithm (considers only +ve examples)
+		- [edureka video](https://www.youtube.com/watch?v=ncOirIPHTOw)
+	- questions on 
+		- VC dimension - Vapnik Chevronenkis Dimension (haven't learned yet)
+		- PAC learning
+	- questions on ensemble techniques
+		- Taking decision from multiple classifier
+		- why bagging is done- 
+			- impact on bias and variance
+			- it is similar to dropout in neural network
+	- questions on boosting techniques
+		- which datapoints are given more weight
+			- those were misclassified in previous learner
+		- how adaboost is trained
+			- how final prediction is made
+				- weighting the prediction of weak learners based on their accuracy
+		- adaboost ensemble classifier
+- **Week 8**
+	- K-Means Clustering
+
+## Specific ML models
+---
 ## Linear Regression
 [medium article](https://ai.plainenglish.io/the-normal-equation-for-linear-regression-25fddea63899)
 - Normal Equation
