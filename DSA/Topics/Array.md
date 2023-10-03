@@ -10,6 +10,7 @@ tags: #dsa/array #unfinished
 ---
 - [[202-Happy Number]] last done: [[2023-09-10]]
 - [[263-Ugly Number]]
+- [[287-contains duplicate]] last done: [[2023-10-02]]
 - [[136-Single Number]] last done: [[2023-09-10]]
 - [[118-Pascal Triangle]] last done: [[2023-09-10]]
 - [[26-remove duplicates]] last done: [[2023-09-10]]

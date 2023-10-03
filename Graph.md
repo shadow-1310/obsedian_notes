@@ -14,15 +14,16 @@
 
 ### DFS
 stack,hashmap
+- [[200-Number of islands]]
+- [[133-Clone Graph]]
+- [[130-Surround Regions]]
+- [[695-Max area of island]]
 - [[733-Flood Fill]]
 - [[802-find eventual safe states]]
 ### BFS
 queue, hashmap
 - [[994-rotting oranges]]
-- [[200-Number of islands]]
-- [[133-Clone Graph]]
-- [[130-Surround Regions]]
-- [[695-Max area of island]]
+- [[399-evaluate division]]
 ### Union Find
 -
 ### topological sort
