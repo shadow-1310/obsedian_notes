@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-04.md",
+                "file": "Subtract two numbers given as linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-04.md",
+                "file": "Subtract two numbers given as linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-04.md",
+                "file": "Subtract two numbers given as linked list.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-04.md"
+                "file": "Subtract two numbers given as linked list.md"
               }
             }
           },
@@ -230,13 +231,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c19eaaf8312a83dc",
+  "active": "696ce817fb233f23",
   "lastOpenFiles": [
+    "daily-notes/2023-10-04.md",
     "DSA/Topics/Tree.md",
     "Subtract two numbers given as linked list.md",
     "company-Paytm.md",
     "IIT Campus Placements.md",
-    "daily-notes/2023-10-04.md",
     "226-Invert Binary Tree.md",
     "2023--06-11.md",
     "daily-notes/2023-06-11.md",

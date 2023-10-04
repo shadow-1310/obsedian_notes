@@ -7,10 +7,11 @@ topic:
 - last_revised:
 - difficulty:
 	- [ ] easy
-	- [ ] medium
+	- [x] medium
 	- [ ] hard
 - problem_link: https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/
 - solution_link: [GFG discussion](https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/)
+	- [youtube solution in java](https://www.youtube.com/watch?v=wFbsIPlYhOs)
 
 ### approach - 1
 - Time Complexity
