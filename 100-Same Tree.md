@@ -1,10 +1,11 @@
 topic: #dsa/tree [[Tree]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/100
 - first_done: [[2023-06-18]]
-- last_revised: [[2023-07-31]]
+	- first_revised: [[2023-07-31]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [x] easy
 	- [ ] medium

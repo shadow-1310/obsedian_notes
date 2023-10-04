@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode  
+- source: 
 - serial no #leetcode/103
 - first_done: [[2023-06-20]]
-- last_revised: [[2023-08-01]]
+	- first_revised: [[2023-08-01]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -23,7 +24,8 @@ topic:
 	- so if we are popping from right make sure we are appending from left(append right child first)
 	- and when we are popping from left we need append from right(append left child first)
 #### mistakes
-
+- keep separate block for left traverse and right traverse
+- we can't reverse a Boolean variable using ~, we have to use <code>not</code> in front
 #### code snippet
 ```python
 
