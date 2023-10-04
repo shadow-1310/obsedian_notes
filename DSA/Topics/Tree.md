@@ -14,14 +14,14 @@ tags: #dsa/tree #unfinished
 - [x] [[94-Binary Tree Inorder traversal]] last done: [[2023-10-04]]
 - [x] [[144-Binary tree preorder traversal]] last done [[2023-10-04]]
 - [x] [[145-Binary Tree Postorder traversal]] last done [[2023-10-04]]
-- [ ] [[110-Balanced Binary Tree]] last done: [[2023-07-31]]
+- [x] [[110-Balanced Binary Tree]] last done: [[2023-10-04]], revise more not that easy
 - [x] [[100-Same Tree]] last done: [[2023-10-04]]
 - [x] [[101-Symmetric Tree]] last done: [[2023-10-04]]
 - [x] [[102-Binary Tree level order traversal]] last done: [[2023-10-04]]
 - [x] [[103-Binary Tree Zigzag level order traversal]] last done: [[2023-10-04]] give attention
 - [x] [[104-Max depth of binary tree]] last done: [[2023-10-04]]
 - [x] [[105-Construct Binary Tree from preorder and inorder]] last done: [[2023-10-04]], attention
-- [ ] [[108-converted sorted arry to bst]] last done: [[2023-08-06]]
+- [x] [[108-converted sorted arry to bst]] last done: [[2023-10-04]]
 - [ ] [[1448-Counting Good Nodes in Binary Tree]]
 
 #### Segment tree

@@ -1,10 +1,11 @@
 topic: [[Tree]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/110
 - first_done: [[2023-06-17]]
-- last_revised: [[2023-07-31]]
+	- first_revised: [[2023-07-31]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
