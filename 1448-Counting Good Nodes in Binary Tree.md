@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/1448
 - first_done: [[2023-06-26]]
-- last_revised:
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -17,7 +17,9 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- it can be done in 2 ways
+	- one using a global count
+	- another returning the count from function call
 #### mistakes
 
 #### code snippet

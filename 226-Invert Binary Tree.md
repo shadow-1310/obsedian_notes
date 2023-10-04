@@ -1,10 +1,11 @@
 topic: #dsa/tree [[Tree]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/226
-- first_done: [[daily-notes/2023-06-18|2023-06-18]]
-- last_revised: [[2023-07-31]]
+- first_done: [[2023-06-11]]
+	- first_revised: [[2023-07-31]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -17,6 +18,9 @@ topic: #dsa/tree [[Tree]]
 - space complexity
 
 #### pseudo code
+- 2 ways to do this
+	- using a helper function 
+	- using the given function
 - swap left and right child using a temp variable
 - repeatedly call invert function on left and right child 
 #### mistakes 

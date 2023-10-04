@@ -9,7 +9,7 @@ tags: #dsa/tree #unfinished
 
 ## Related Problems
 ---
-- [ ] [[226-Invert Binary Tree]] last done: [[2023-07-31]]
+- [x] [[226-Invert Binary Tree]] last done: [[2023-10-04]]
 - [x] [[98-validate binary search tree]] last done [[2023-10-04]]
 - [x] [[94-Binary Tree Inorder traversal]] last done: [[2023-10-04]]
 - [x] [[144-Binary tree preorder traversal]] last done [[2023-10-04]]
@@ -22,11 +22,10 @@ tags: #dsa/tree #unfinished
 - [x] [[104-Max depth of binary tree]] last done: [[2023-10-04]]
 - [x] [[105-Construct Binary Tree from preorder and inorder]] last done: [[2023-10-04]], attention
 - [x] [[108-converted sorted arry to bst]] last done: [[2023-10-04]]
-- [ ] [[1448-Counting Good Nodes in Binary Tree]]
+- [x] [[1448-Counting Good Nodes in Binary Tree]] last done: [[2023-10-04]]
 
 #### Segment tree
 [build tree](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
 [point and range update in lazy propagation a](https://www.youtube.com/watch?v=rwXVCELcrqU)
 - whenever you visit a node, update its lazy work to 0 while propagating to child nodes
 - [[307-Range Sum Query]]
-- 
