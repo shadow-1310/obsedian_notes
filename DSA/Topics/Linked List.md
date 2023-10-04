@@ -17,6 +17,6 @@ tags: #dsa/linked-list #unfinished
 - [x] [[19- Remove Nth Node from linked list]] last done [[2023-10-03]]
 - [x] [[138-Copy list with random pointer]] last done [[2023-10-03]]
 - [x] [[143-Reorder List]] last done [[2023-10-03]]__remember the tricks
-- [ ] [[146-LRU cache]]
+- [x] [[146-LRU cache]] last done: [[2023-10-03]] special care on put method
 
 

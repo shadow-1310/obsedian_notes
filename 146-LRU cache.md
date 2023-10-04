@@ -3,8 +3,8 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/146
-- first_done:
-- last_revised:
+- first_done: [[2023-06-11]]
+- last_revised: [[2023-10-03]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,8 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- don't initialize separate variable for current size, directly check from cache
+- give extra care on put method
 #### code snippet
 ```python
 
