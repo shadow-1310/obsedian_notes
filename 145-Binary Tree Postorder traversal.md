@@ -4,7 +4,8 @@ topic:
 - source: #leetcode 
 - serial no: #leetcode/145
 - first_done: [[2023-06-15]]
-- last_revised: [[2023-07-30]]
+	- first_revised: [[2023-07-30]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -20,6 +21,7 @@ topic:
 
 #### mistakes
 - remember postorder traversal, it is left > right > current
+- same advice as above, remember the order, left always comes first
 #### code snippet
 ```python
 

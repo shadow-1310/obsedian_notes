@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode  
+- source: 
 - serial no: #leetcode/98
 - first_done: [[2023-06-20]]
-- last_revised: [[2023-07-30]]
+	- first_revised: [[2023-07-30]]
+- last_revised: [[2023-10-04]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -22,6 +23,8 @@ topic:
 - understand BST
 	- all right subtree values will be more not only the immediate child
 - think in terms of lower and upper bound of each node
+- no need to check if left or right child exists before calling
+	- as base condition will take care if they are also Null
 
 #### code snippet
 ```python

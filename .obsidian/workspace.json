@@ -11,8 +11,36 @@
             "id": "c19eaaf8312a83dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-10-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe2535fd3b8661d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f1cec59e95917f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily-notes/2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily-notes/2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "daily-notes/2023-10-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily-notes/2023-10-04.md"
+              }
             }
           },
           {
@@ -199,6 +232,13 @@
   },
   "active": "c19eaaf8312a83dc",
   "lastOpenFiles": [
+    "DSA/Topics/Tree.md",
+    "98-validate binary search tree.md",
+    "145-Binary Tree Postorder traversal.md",
+    "144-Binary tree preorder traversal.md",
+    "94-Binary Tree Inorder traversal.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-10-04.md",
     "Linux.md",
     "DSA/Topics/Linked List.md",
     "daily-notes/2023-10-03.md",
@@ -206,7 +246,6 @@
     "234-palindrome linked list.md",
     "206-reverse linked list.md",
     "203-delete linked list elements.md",
-    "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
     "Quant and Logical Reasoning.md",
     "160-intersection of two linked list.md",
@@ -219,12 +258,6 @@
     "19- Remove Nth Node from linked list.md",
     "daily-notes/2023-06-09.md",
     "2-Add two numbers.md",
-    "DSA/Topics/Tree.md",
-    "ML theory.md",
-    "Probability.md",
-    "company-TSMC.md",
-    "termdown.md",
-    "daily-notes/2023-10-02.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
