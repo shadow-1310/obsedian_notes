@@ -96,7 +96,9 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 	:,$s/before/after/gc
 	```
 	- here g means globally, i.e every occurrence in a line
-	- c is there if you want to ask for confirmation
+	- c is there if you want to ask for confirmation prompt
 
 ### good use cases
-- [automatically get list of files in a dir](https://www.youtube.com/watch?v=hraHAZ1-RaM)
+- [automatically get list of files in a dir](https://www.youtube.com/watch?v=hraHAZ1-RaM
+- [resize splits](https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height)
+- [delete marks](https://stackoverflow.com/questions/11450817/vim-how-do-i-clear-all-marks)

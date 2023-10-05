@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "daily-notes/2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "696ce817fb233f23",
+            "id": "0efa5d0959afc60a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-05.md",
+                "file": "nvim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:placemen",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Linked List.md"
+                "file": "nvim.md"
               }
             }
           },
@@ -218,11 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe2535fd3b8661d",
+  "active": "0efa5d0959afc60a",
   "lastOpenFiles": [
+    "daily-notes/2023-10-05.md",
+    "nvim.md",
+    "Linux.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
-    "daily-notes/2023-10-05.md",
     "Subtract two numbers given as linked list.md",
     "daily-notes/2023-10-04.md",
     "company-Paytm.md",
@@ -244,8 +247,6 @@
     "145-Binary Tree Postorder traversal.md",
     "144-Binary tree preorder traversal.md",
     "94-Binary Tree Inorder traversal.md",
-    "Linux.md",
-    "DSA/Topics/Linked List.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
