@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
+                "file": "DSA/Topics/Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467ec21daed89696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d073de6ccba117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Last non zero digit of a factorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "Last non zero digit of a factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "Last non zero digit of a factorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "Last non zero digit of a factorial.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "Last non zero digit of a factorial.md"
               }
             }
           },
@@ -219,17 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efa5d0959afc60a",
+  "active": "b3d073de6ccba117",
   "lastOpenFiles": [
-    "daily-notes/2023-10-05.md",
-    "nvim.md",
-    "Linux.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Tree.md",
-    "Subtract two numbers given as linked list.md",
-    "daily-notes/2023-10-04.md",
     "company-Paytm.md",
     "IIT Campus Placements.md",
+    "DSA/Topics/Linked List.md",
+    "DSA/Topics/DSA.md",
+    "Subtract two numbers given as linked list.md",
+    "nvim.md",
+    "daily-notes/2023-10-05.md",
+    "Misc.md",
+    "Linux.md",
+    "DSA/Topics/Tree.md",
+    "daily-notes/2023-10-04.md",
     "226-Invert Binary Tree.md",
     "2023--06-11.md",
     "daily-notes/2023-06-11.md",
@@ -245,8 +271,6 @@
     "100-Same Tree.md",
     "98-validate binary search tree.md",
     "145-Binary Tree Postorder traversal.md",
-    "144-Binary tree preorder traversal.md",
-    "94-Binary Tree Inorder traversal.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

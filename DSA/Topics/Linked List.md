@@ -18,5 +18,6 @@ tags: #dsa/linked-list #unfinished
 - [x] [[138-Copy list with random pointer]] last done [[2023-10-03]]
 - [x] [[143-Reorder List]] last done [[2023-10-03]]__remember the tricks
 - [x] [[146-LRU cache]] last done: [[2023-10-03]] special care on put method
+- [x] [[Subtract two numbers given as linked list]] , hard problem, pay special attention to steps
 
 
