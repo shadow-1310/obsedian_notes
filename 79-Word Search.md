@@ -1,10 +1,10 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/79 
 - first_done: [[2023-07-13]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -35,7 +35,7 @@ topic: #dsa/backtracking [[Backtracking]]
 	- r, c < 0
 	- <code>board[r][c] !=word[index]</code> 
 	- (r,c) in path
-
+- set the rows and cols properly
 #### code snippet
 ```python
 

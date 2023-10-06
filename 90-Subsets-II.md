@@ -1,11 +1,11 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode  
+- source: 
 - serial no: #leetcode/90
 - first_done: [[2023-07-11]]
 	- 2nd done: [[2023-07-28]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -18,7 +18,8 @@ topic: #dsa/backtracking [[Backtracking]]
 - space complexity
 
 #### pseudo code
-
+- similar to [[40-Combinations Sum-II]]
+- at one side you include the duplicate and on the other side you don't
 #### mistakes
 
 #### code snippet

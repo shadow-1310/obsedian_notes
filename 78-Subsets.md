@@ -3,9 +3,9 @@ topic: #dsa/backtracking
 ### basic info
 - source: 
 - serial no: #leetcode/78 
-- first_done: [[2023-07-12]]
+- first_done: [[2023-07-11]]
 	- 2nd done: [[2023-07-28]]
-- last_revised: [[2023-07-10]]
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
