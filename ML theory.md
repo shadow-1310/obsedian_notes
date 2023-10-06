@@ -2,6 +2,47 @@
 - https://github.com/youssefHosni/Practical-Machine-Learning
 ## MCQ
 - https://www.analyticsvidhya.com/blog/category/skilltest/
+## Topics
+
+### Maths & Stats
+- Probability
+- Probability Distributions
+- Sampling
+- Correlations
+- Hypothesis testing
+- Statistical significance
+- CLT
+- Paired Means Tests
+- Baye's Theorem
+- Linear Algebra
+	- SVD
+	- EigenValue Decomposition
+	- Matrix Operations
+
+### Classical ML and DL
+- Bagging 
+- Boosting
+- Gradient Descent
+- Decision Trees
+- Linear and Logistic Regressions
+- Random Forest
+- Gradient Boosting Machines
+- XGBoost
+- LiteGBM
+- SVM and kernel trick
+- Regularization
+- Bias-Variance trade off
+- Evaluation Metrics (precision, recall, f1, fpr etc.)
+- confusion matrix
+- missing data imputation
+- matrix factorization
+- density estimation (KDE, K-Means)
+- MAP
+- MLE
+- NLP basics
+- TF-IDF
+- Embedding based approach ( Word2Vec, FastText, BERT)
+- LSTM, CNN, RNN, transformers, GANs
 ### PYQ questions
 ---
 #### [NPTEL ML assignments](https://www.youtube.com/playlist?list=PL__28a0xFM-8gW3v63c3NzjsPlrBRp3WX)
@@ -75,7 +116,27 @@
 		- adaboost ensemble classifier
 - **Week 8**
 	- K-Means Clustering
-
+		- iteration step for calculating new centroid
+		- calculate distance between points with different metric
+			- euclidean
+			- manhattan etc
+	- computational cost comparison in , Q9 recheck
+		- Kmeans
+		- single linkage
+		- complete linkage
+	- when K-means fails
+		- non convex data points
+		- outliers
+		- different distribution
+	- expectation maximization clustering algorithm, K-Means
+		- suffers from problem of convergence at local minima
+	- Quality of clustering
+		- internal evaluation
+			- Davies Boulding Index
+		- external evaluation
+			- Rand Index
+			- Jaccard index
+			- f measure
 ## Specific ML models
 ---
 ## Linear Regression

@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "467ec21daed89696",
+            "id": "65c3ac0f0a92b4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3d073de6ccba117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Last non zero digit of a factorial.md",
+                "file": "ML theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Last non zero digit of a factorial.md",
+                "file": "ML theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Last non zero digit of a factorial.md",
+                "file": "ML theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Last non zero digit of a factorial.md",
+                "file": "ML theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Last non zero digit of a factorial.md"
+                "file": "ML theory.md"
               }
             }
           },
@@ -243,16 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3d073de6ccba117",
+  "active": "65c3ac0f0a92b4e4",
   "lastOpenFiles": [
-    "company-Paytm.md",
     "IIT Campus Placements.md",
     "DSA/Topics/Linked List.md",
+    "company-Paytm.md",
+    "Last non zero digit of a factorial.md",
+    "Misc.md",
+    "daily-notes/2023-10-05.md",
     "DSA/Topics/DSA.md",
     "Subtract two numbers given as linked list.md",
     "nvim.md",
-    "daily-notes/2023-10-05.md",
-    "Misc.md",
     "Linux.md",
     "DSA/Topics/Tree.md",
     "daily-notes/2023-10-04.md",
@@ -270,7 +259,6 @@
     "101-Symmetric Tree.md",
     "100-Same Tree.md",
     "98-validate binary search tree.md",
-    "145-Binary Tree Postorder traversal.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
