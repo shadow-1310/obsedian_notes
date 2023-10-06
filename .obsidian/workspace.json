@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a925530fec70c2eb",
+            "id": "4ce09320f6f466b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "46-Permutations.md",
+                "file": "78-Subsets.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "46-Permutations.md",
+                "file": "78-Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "46-Permutations.md",
+                "file": "78-Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "46-Permutations.md",
+                "file": "78-Subsets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "46-Permutations.md"
+                "file": "78-Subsets.md"
               }
             }
           },
@@ -242,15 +242,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a925530fec70c2eb",
+  "active": "4ce09320f6f466b8",
   "lastOpenFiles": [
     "DSA/Topics/Backtracking.md",
+    "77-Combinations.md",
+    "78-Subsets.md",
+    "46-Permutations.md",
     "40-Combinations Sum-II.md",
     "39-Combination_Sum.md",
     "daily-notes/2023-10-06.md",
     "22-Generate Parentheses.md",
     "17- Letter Combinations of a Phone Number.md",
-    "78-Subsets.md",
     "IIT Campus Placements.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Sliding Window.md",
@@ -268,8 +270,6 @@
     "226-Invert Binary Tree.md",
     "2023--06-11.md",
     "daily-notes/2023-06-11.md",
-    "1448-Counting Good Nodes in Binary Tree.md",
-    "110-Balanced Binary Tree.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

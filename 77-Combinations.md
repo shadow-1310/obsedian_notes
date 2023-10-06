@@ -3,9 +3,8 @@ topic: #dsa/backtracking [[Backtracking]]
 ### basic info
 - source: 
 - serial no: #leetcode/77
-- 1st done: [[2023-07-11]]
-	- 2nd done: [[2023-07-26]]
-- last_revised:
+- 1st done: [[2023-07-26]]
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -60,3 +59,4 @@ print(s.combine(4, 2))
 		-  append first 
 		- then call dfs 
 		- then pop
+- no need to maintain the record of visited nodes

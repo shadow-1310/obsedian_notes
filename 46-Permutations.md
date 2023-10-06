@@ -5,7 +5,7 @@ topic: #dsa/backtracking
 - serial no: #leetcode/46
 - first_done: [[2023-07-11]]
 	- 1st revise: [[2023-07-27]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -31,6 +31,8 @@ topic: #dsa/backtracking
 		- continue the loop
 #### mistakes / improvments
 - boolean array is good alternative to hashmap
+	- or we can use a set
+- remember the calling order, we prepend the node we are calling
 #### code snippet
 ```python
 
