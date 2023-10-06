@@ -1,10 +1,11 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/17
 - first_done: [[2023-07-12]]
-- last_revised:
+	- first_revised: [[2023-07-28]]
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -38,6 +39,8 @@ topic: #dsa/backtracking [[Backtracking]]
 - in converting remember to use ''.join(list) method
 - remember to include the edge case where input is empty string
 	- immediately return res
+- repeated same mistake as above
+- don't pass the current character to append
 
 #### code snippet
 ```python

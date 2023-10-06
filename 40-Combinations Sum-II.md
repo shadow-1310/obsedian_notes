@@ -1,11 +1,11 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/40
 - first_done: [[2023-07-13]]
 	- 2nd done : [[2023-07-28]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -29,6 +29,12 @@ topic: #dsa/backtracking [[Backtracking]]
 #### mistakes
 - don't forget to return res
 - don't try to use for loop here. use dual decision at each node concept
+- there are to way to do mistake here
+	- consider all the duplicate number in all calls
+	- donot use the duplicates in any call
+- instead use duplicate in left call and skip them in right call
+	- left call is including the current index
+	- right call is excluding the current index
 #### code snippet
 ```python
 

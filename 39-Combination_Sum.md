@@ -1,11 +1,11 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/39
 - first_done: [[2023-07-11]]
 	- 2nd done: [[2023-07-27]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty: 
 	- [ ] easy
 	- [x] medium
@@ -28,6 +28,7 @@ topic: #dsa/backtracking [[Backtracking]]
 
 #### mistakes
 - in current sub list append only a copy as the original will get modified
+- same mistake, never ever append the curr list in backtracking problems as it will get modified in next calls
 #### code snippet
 ```python
 from typing import List

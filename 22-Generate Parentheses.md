@@ -1,10 +1,11 @@
 topic: #dsa/backtracking [[Backtracking]]
 
 ### basic info
-- source: #leetcode
+- source: 
 - serial no: #leetcode/22
 - first_done: [[2023-07-13]]
-- last_revised:
+	- first_revised:[[2023-07-29]]
+- last_revised:[[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -33,7 +34,7 @@ topic: #dsa/backtracking [[Backtracking]]
 	- update open count
 	- before calling the next recursive function pop() from curr.
 #### mistakes
-
+- don't forget to pop last element in curr before doing next function call
 #### code snippet
 ```python
 

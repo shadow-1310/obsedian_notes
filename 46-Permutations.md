@@ -1,7 +1,7 @@
 topic: #dsa/backtracking 
 
 ### basic info
-- source:  #leetcode 
+- source:  
 - serial no: #leetcode/46
 - first_done: [[2023-07-11]]
 	- 1st revise: [[2023-07-27]]
