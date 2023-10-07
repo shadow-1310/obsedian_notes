@@ -29,7 +29,7 @@ tags: #dsa/backtracking #unfinished
 - [x] [[77-Combinations]] : last_done - [[2023-10-06]]
 - [x] [[46-Permutations]] last_done: [[2023-10-06]]
 - [x] [[17- Letter Combinations of a Phone Number]] last_done: [[2023-10-06]]
-- [ ] [[131-Palindrome Partition]] last_done: [[2023-07-29]]
+- [x] [[131-Palindrome Partition]] last_done: [[2023-10-06]]
 - [x] [[40-Combinations Sum-II]] last_done: [[2023-10-06]] - similar to **subsets-II**, remember the order of call
 - [x] [[79-Word Search]] last done: [[2023-10-06]]
 - [x] [[22-Generate Parentheses]] last done: [[2023-10-06]]

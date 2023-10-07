@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3d2bd3b951f0bc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "131-Palindrome Partition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65c3ac0f0a92b4e4",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "131-Palindrome Partition.md",
+                "file": "DSA/Topics/Backtracking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "131-Palindrome Partition.md"
+                "file": "DSA/Topics/Backtracking.md"
               }
             }
           },
@@ -213,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -243,8 +230,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2bd3b951f0bc8b",
+  "active": "0efa5d0959afc60a",
   "lastOpenFiles": [
+    "131-Palindrome Partition.md",
     "DSA/Topics/Backtracking.md",
     "90-Subsets-II.md",
     "79-Word Search.md",
@@ -270,7 +258,6 @@
     "Linux.md",
     "DSA/Topics/Tree.md",
     "daily-notes/2023-10-04.md",
-    "226-Invert Binary Tree.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

@@ -5,7 +5,7 @@ Related: [[Backtracking]]
 - serial no: #leetcode/131
 - first_done: [[2023-07-13]]
 	- 2nd done: [[2023-07-29]]
-- last_revised:
+- last_revised: [[2023-10-06]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -35,6 +35,7 @@ Related: [[Backtracking]]
 #### mistakes
 - be careful with the range in loop, it should be (start, len(s))
 - for the string to be appended take care *off by 1 error*, it should be s[start:end+1]
+- only this way is working, remember the steps
 #### code snippet
 ```python
 
