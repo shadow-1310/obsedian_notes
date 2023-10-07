@@ -5,7 +5,7 @@
 - [x] [Haloween candies](https://leetcode.com/discuss/interview-question/384262/airbnb-oa-2019-candy)
 	- [Solution](https://leetcode.com/discuss/interview-question/1604721/Airbnb-or-OA-2021-or-Halloween-Candy)
 	- similar to [[875-Koko eating bananas]]
-- [ ] [check password strength](https://www.geeksforgeeks.org/program-check-strength-password/)
+- [x] [[check password strength]]
 - [x] [[263-Ugly Number]]
 - [x] [[Number of bits set to 1 in a*b]]
 - [ ] [[Bulb question]]

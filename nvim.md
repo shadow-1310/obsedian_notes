@@ -102,3 +102,4 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 - [automatically get list of files in a dir](https://www.youtube.com/watch?v=hraHAZ1-RaM
 - [resize splits](https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height)
 - [delete marks](https://stackoverflow.com/questions/11450817/vim-how-do-i-clear-all-marks)
+- [surround character](https://vi.stackexchange.com/questions/22930/how-to-use-surround-vim-to-quote-a-single-character)
