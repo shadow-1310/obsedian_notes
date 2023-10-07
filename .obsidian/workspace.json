@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65c3ac0f0a92b4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-06.md",
+                "file": "daily-notes/2023-10-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e12fee816fe8ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Accenture Japan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "770880b4738bdcea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "DSA/Topics/Binary Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Backtracking.md"
+                "file": "DSA/Topics/Binary Search.md"
               }
             }
           },
@@ -230,10 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efa5d0959afc60a",
+  "active": "df3733830d7b4aa4",
   "lastOpenFiles": [
-    "131-Palindrome Partition.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Binary Search.md",
+    "DSA/Topics/Array.md",
+    "company-Accenture Japan.md",
+    "IIT Campus Placements.md",
+    "Computer Networking.md",
+    "daily-notes/2023-10-07.md",
     "DSA/Topics/Backtracking.md",
+    "131-Palindrome Partition.md",
     "90-Subsets-II.md",
     "79-Word Search.md",
     "78-Subsets.md",
@@ -244,8 +264,6 @@
     "daily-notes/2023-10-06.md",
     "22-Generate Parentheses.md",
     "17- Letter Combinations of a Phone Number.md",
-    "IIT Campus Placements.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Sliding Window.md",
     "DSA/Topics/Linked List.md",
     "daily-notes/2023-10-05.md",
@@ -253,11 +271,6 @@
     "company-Paytm.md",
     "Last non zero digit of a factorial.md",
     "Misc.md",
-    "Subtract two numbers given as linked list.md",
-    "nvim.md",
-    "Linux.md",
-    "DSA/Topics/Tree.md",
-    "daily-notes/2023-10-04.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

@@ -1,0 +1,54 @@
+#### Ip addresses
+[youtube tutorial](https://www.youtube.com/watch?v=vTzrn_M77mo)
+#### IPv4 Header
+- [youtube](https://www.youtube.com/watch?v=zoFSxIuS5Ro&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=54)
+- connection less - no need to establish prior connection
+- datagram service - packets can travels from any route
+- classfull addressing [youtube video](https://www.youtube.com/watch?v=iurle2xZrBQ&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=42)
+	- class A,B, C, D, E
+	- 32 bit, dotted decimal
+	- class A - 1st bit is 0 in prefix 
+		- total 2^31 addresses
+		- total 2^7 (= 128) networks
+			- first and last are not given to any org
+			- i.e used networks are 128-2=126
+		- total 2^24 hosts per network
+			- 2 addresses are not given
+			- firs ip is used to recognize the network
+			- last IP is used for broadcast
+			- available hosts = 2^24-2
+		- first octet is for network
+		- rest 24 bits are for host
+		- Default mask is used to identify the network
+			- for class A it is, 255.0.0.0
+	- Class C - range: 192-223 
+		- IP address possible - 2^29
+		- first 3 octet are for networks, last  octet is for hosts
+			- but first 3 bit are for class C (110)
+			- 24-3=21 , networks possible - 2^21
+- Given
+	- IP address: 201.20.30.40
+	- Subnet Mask: 255.255.255.0
+- find 
+	- network address: 201.20.30.0 (performed bitwise & operation)
+	- 4th host id : 201.20.30.4
+	- last host id:201.20.30.254
+	- broadcast addresss
+		- limited - 255.255.255.255 (all 1's)
+		- direct - 201.20.30.255 (last ip address )
+- Hostname + DNS Domain =  domain name
+- FQDN - Fully Qualified Domain Name
+	- labels are connected by dot(.)
+	- each labels must be 1-63 characters long
+	- a-z0-9 and '-'
+	- special characters are  not allowed
+	- en.wikipedia.org
+		- en - hostname
+		- wikipedia.org - domain name
+		- en.wikipedia.ord - FQDN
+	- FQDN <-> IP address 
+		- by DNS/hosts file 
+- DNS 
+	- ip addresses are tough to remember
+	- ip address are dynamic
+	- Resolver ->Root server -> generic server -> authoritative server
