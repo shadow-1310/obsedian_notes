@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0efa5d0959afc60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df3733830d7b4aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e5098795f23e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "118-Pascal Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word machine.md",
+                "file": "daily-notes/2023-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "word machine.md",
+                "file": "118-Pascal Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "word machine.md",
+                "file": "118-Pascal Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "word machine.md",
+                "file": "118-Pascal Triangle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "word machine.md"
+                "file": "118-Pascal Triangle.md"
               }
             }
           },
@@ -267,11 +267,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d59749ab517d982",
+  "active": "23e5098795f23e8a",
   "lastOpenFiles": [
-    "company-Accenture Japan.md",
-    "word machine.md",
     "Misc.md",
+    "company-Accenture Japan.md",
+    "daily-notes/2023-10-08.md",
+    "daily-notes/2023-10-07.md",
+    "Computer Networking.md",
+    "word machine.md",
     "minimum suffix flips.md",
     "bulb switcher-I.md",
     "bulb switcher II.md",
@@ -280,7 +283,6 @@
     "Bulb switcher III.md",
     "Numbers of form 2P3Q.md",
     "Number of bits set to 1 in a*b.md",
-    "Computer Networking.md",
     "nvim.md",
     "Linux.md",
     "check password strength.md",
@@ -290,11 +292,9 @@
     "DSA/Topics/Binary Search.md",
     "1011-capacity to ship packages.md",
     "IIT Campus Placements.md",
-    "daily-notes/2023-10-07.md",
     "DSA/Topics/Backtracking.md",
     "131-Palindrome Partition.md",
     "90-Subsets-II.md",
-    "79-Word Search.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

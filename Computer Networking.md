@@ -9,6 +9,8 @@
 	- 32 bit, dotted decimal
 	- class A - 1st bit is 0 in prefix 
 		- total 2^31 addresses
+		- first octet is for network
+		- rest 24 bits are for host
 		- total 2^7 (= 128) networks
 			- first and last are not given to any org
 			- i.e used networks are 128-2=126
@@ -17,8 +19,6 @@
 			- firs ip is used to recognize the network
 			- last IP is used for broadcast
 			- available hosts = 2^24-2
-		- first octet is for network
-		- rest 24 bits are for host
 		- Default mask is used to identify the network
 			- for class A it is, 255.0.0.0
 	- Class C - range: 192-223 
