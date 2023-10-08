@@ -8,7 +8,7 @@
 - [x] [[check password strength]]
 - [x] [[263-Ugly Number]]
 - [x] [[Number of bits set to 1 in a*b]]
-- [ ] [[Bulb question]]
+- [x] [[Bulb switcher III]]
 - [ ] [[Numbers of form 2P3Q]]
 - [ ] [[word machine]]
 - also check 

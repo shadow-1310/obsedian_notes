@@ -9,3 +9,8 @@
 - [[Angry Cyborg]]
 - [[Find all primes less than a given number]]
 - [[Last non zero digit of a factorial]] last done : [[2023-10-05]]
+- [[minimum suffix flips]]
+- [[Bulb switcher III]]
+- [[bulb switcher II]]
+- [[bulb switcher-I]]
+- 
