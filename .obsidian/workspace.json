@@ -20,61 +20,25 @@
             }
           },
           {
-            "id": "9f20abaf171d42b6",
+            "id": "4a232616ad4dd21b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "167-Two Sum II.md",
+                "file": "88-Merge sorted array without extra space.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23e5098795f23e8a",
+            "id": "828168f31d313e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e12fee816fe8ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Accenture Japan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac44df69bc445bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number of bits set to 1 in a*b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "770880b4738bdcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking.md",
-                "mode": "source",
+                "file": "daily-notes/2023-10-08.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "167-Two Sum II.md",
+                "file": "88-Merge sorted array without extra space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "167-Two Sum II.md",
+                "file": "88-Merge sorted array without extra space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "167-Two Sum II.md",
+                "file": "88-Merge sorted array without extra space.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "167-Two Sum II.md"
+                "file": "88-Merge sorted array without extra space.md"
               }
             }
           },
@@ -267,9 +230,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f20abaf171d42b6",
+  "active": "4a232616ad4dd21b",
   "lastOpenFiles": [
+    "daily-notes/2023-05-13.md",
+    "88-Merge sorted array without extra space.md",
+    "daily-notes/2023-01-29.md",
     "DSA/Topics/Two Pointers.md",
+    "350-Intersection of two array II.md",
+    "company-Accenture Japan.md",
+    "Number of bits set to 1 in a*b.md",
+    "Computer Networking.md",
+    "daily-notes/2023-10-08.md",
+    "daily-notes/2023-10-07.md",
+    "125-Valid Palindrome.md",
+    "daily-notes/2023-01-21.md",
+    "167-Two Sum II.md",
+    "daily-notes/2023-05-02.md",
+    "daily-notes/2023-01-12.md",
+    "daily-notes/2022-12-12.md",
+    "daily-notes/2022-08-31.md",
     "15-Three Sum.md",
     "daily-notes/2023-01-28.md",
     "daily-notes/2023-01-13.md",
@@ -279,22 +258,6 @@
     "DSA/Topics/Stack.md",
     "String.md",
     "DSA/Topics/Binary Search.md",
-    "DSA/Topics/Backtracking.md",
-    "Misc.md",
-    "daily-notes/2023-10-07.md",
-    "daily-notes/2023-10-08.md",
-    "company-Accenture Japan.md",
-    "Computer Networking.md",
-    "word machine.md",
-    "minimum suffix flips.md",
-    "bulb switcher-I.md",
-    "bulb switcher II.md",
-    "DSA/Topics/Array.md",
-    "Bulb switcher III.md",
-    "Numbers of form 2P3Q.md",
-    "Number of bits set to 1 in a*b.md",
-    "nvim.md",
-    "Linux.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
