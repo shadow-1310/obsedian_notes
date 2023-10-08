@@ -18,3 +18,5 @@
 - constraints
 	- floating point
 	- range is [0,1]
+- Time complexity - O(N)
+- elements should be uniformly distributed, else time complexity may go up to O(N^2)
