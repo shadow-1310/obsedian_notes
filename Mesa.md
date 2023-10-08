@@ -10,3 +10,7 @@ or
 hwinfo --gfxcard --short
 ```
 - [blog](https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/)
+install nvidia driver
+```sh
+sudo apt install nvidia-driver-535 nvidia-dkms-535
+```
