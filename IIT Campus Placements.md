@@ -30,6 +30,7 @@
 - [[company-Mercari]]
 - [[company-Tescra_Achnet]]
 - [[company-TSMC]]
+- [[company - Deloitte]]
 
 ## Previous year Companies
 ---

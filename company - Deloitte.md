@@ -1,0 +1,8 @@
+- PPT
+- online test
+	- quants
+	- reasoning
+	- dsa
+- interviews
+	- 1st round - case study
+	- 2nd round - leadership review
