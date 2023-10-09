@@ -1,0 +1,1 @@
+- [selecting text](https://www.reddit.com/r/qutebrowser/comments/f5a7oj/selecting_text_in_qutebrowser/)
