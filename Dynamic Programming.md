@@ -30,8 +30,8 @@
 
 ### 0/1 knapsack
 [LC article](https://leetcode.com/discuss/study-guide/1200320/Thief-with-a-knapsack-a-series-of-crimes)
-- [[416-Partition equal subset sum]] last done: [[2023-09-18]]
-- [[494-Target Sum]] last done: [[2023-09-20]]
+- [ ] [[416-Partition equal subset sum]] last done: [[2023-09-18]]
+- [x] [[494-Target Sum]] last done: [[2023-10-09]]
 
 ### Unbounded Knapsack
 - [[322-Coin Change]] last done: [[2023-09-20]]
@@ -44,6 +44,8 @@
 - [[5-Longest Palindromic Substring]] last done: [[2023-09-16]]
 - [[152-Maximum Product subarray]] last done: [[2023-09-20]]
 
-- 
+### Caching
+- [[62-unique paths]]
+- [[309-Best time to buy and sell stock with cooldown]]
 
 
