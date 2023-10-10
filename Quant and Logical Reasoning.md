@@ -29,9 +29,9 @@
 - [x] [[Syllogism]]
 - [x] Coding-Decoding
 - [ ] [[Data Sufficiency]]
-- [ ] blood relation
+- [ ] [[blood relation]]
 - [ ] seating arrangement
-- [ ] [[directional sense]]
+- [x] [[directional sense]]
 - [ ] [[logical sequence]]
 - [ ] analogies
 

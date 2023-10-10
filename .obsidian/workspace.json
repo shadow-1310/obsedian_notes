@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directional sense.md",
-                "mode": "preview",
+                "file": "blood relation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directional sense.md",
+                "file": "blood relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directional sense.md",
+                "file": "blood relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "directional sense.md",
+                "file": "blood relation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directional sense.md"
+                "file": "blood relation.md"
               }
             }
           },
@@ -246,6 +246,8 @@
   "active": "53879851a70fda15",
   "lastOpenFiles": [
     "Quant and Logical Reasoning.md",
+    "blood relation.md",
+    "directional sense.md",
     "Syllogism.md",
     "IIT Campus Placements.md",
     "company-Tescra_Achnet.md",
@@ -271,8 +273,6 @@
     "company - Deloitte.md",
     "518-Coin change II.md",
     "322-Coin Change.md",
-    "qutebrowser.md",
-    "309-Best time to buy and sell stock with cooldown.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
