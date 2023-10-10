@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df3733830d7b4aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "770d465ed38d6a85",
             "type": "leaf",
             "state": {
@@ -54,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53879851a70fda15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "directional sense.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "directional sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "directional sense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "directional sense.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "directional sense.md"
               }
             }
           },
@@ -242,12 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df3733830d7b4aa4",
+  "active": "53879851a70fda15",
   "lastOpenFiles": [
-    "416-Partition equal subset sum.md",
+    "Quant and Logical Reasoning.md",
+    "Syllogism.md",
+    "IIT Campus Placements.md",
+    "company-Tescra_Achnet.md",
     "String.md",
-    "daily-notes/2023-10-10.md",
+    "1155- Number of dice rolls with target sum.md",
     "Dynamic Programming.md",
+    "416-Partition equal subset sum.md",
+    "daily-notes/2023-10-10.md",
     "72-Edit distance.md",
     "attachments/Pasted image 20231010145149.png",
     "62-unique paths.md",
@@ -256,10 +262,8 @@
     "AMEX - furthest digram.md",
     "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231010140202.png",
-    "company-Tescra_Achnet.md",
     "ffmpeg.md",
     "Linux.md",
-    "IIT Campus Placements.md",
     "company - Info Edge.md",
     "daily-notes/2023-09-25.md",
     "daily-notes/2023-10-09.md",
@@ -269,9 +273,6 @@
     "322-Coin Change.md",
     "qutebrowser.md",
     "309-Best time to buy and sell stock with cooldown.md",
-    "project-SIH.md",
-    "494-Target Sum.md",
-    "DSA/Topics/Sliding Window.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
