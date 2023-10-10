@@ -11,3 +11,7 @@
 
 - [[AMEX - furthest digram]]
 - [[953-Verifying an alien dictionary]]
+- [[1143-Longest common subsequence]]
+- [[72-Edit distance]]
+- [[5-Longest Palindromic Substring]]
+- [[3-Longest Substring Without Repeating Characters]]

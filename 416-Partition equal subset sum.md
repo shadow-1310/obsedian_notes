@@ -1,10 +1,11 @@
 topic: [[Dynamic Programming]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/416
 - first_done: [[2023-07-25]]
-- last_revised: [[2023-09-18]]
+	- last_revised: [[2023-09-18]]
+- last_revised: [[2023-10-10]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

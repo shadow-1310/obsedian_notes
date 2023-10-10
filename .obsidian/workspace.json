@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "416-Partition equal subset sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "770d465ed38d6a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "daily-notes/2023-10-10.md"
               }
             }
           },
@@ -230,13 +243,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df3733830d7b4aa4",
+  "active": "9106dce77f660690",
   "lastOpenFiles": [
+    "String.md",
+    "416-Partition equal subset sum.md",
+    "Dynamic Programming.md",
+    "72-Edit distance.md",
+    "attachments/Pasted image 20231010145149.png",
+    "62-unique paths.md",
+    "1143-Longest common subsequence.md",
+    "Longest Subsequence st diff is 0 or 1.md",
     "daily-notes/2023-10-10.md",
+    "AMEX - furthest digram.md",
+    "DSA/Topics/DSA.md",
+    "attachments/Pasted image 20231010140202.png",
     "company-Tescra_Achnet.md",
     "ffmpeg.md",
     "Linux.md",
-    "Dynamic Programming.md",
     "IIT Campus Placements.md",
     "company - Info Edge.md",
     "daily-notes/2023-09-25.md",
@@ -248,16 +271,8 @@
     "qutebrowser.md",
     "309-Best time to buy and sell stock with cooldown.md",
     "project-SIH.md",
-    "62-unique paths.md",
     "494-Target Sum.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Sliding Window.md",
-    "daily-notes/2023-10-08.md",
-    "Sorting.md",
-    "Mesa.md",
-    "Greedy.md",
-    "Bitwise Operation.md",
-    "DSA/Topics/Heap.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
@@ -266,8 +281,6 @@
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
     "attachments/Pasted image 20230911165103.png",
-    "attachments/Pasted image 20230911163437.png",
-    "attachments/Pasted image 20230911162100.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",

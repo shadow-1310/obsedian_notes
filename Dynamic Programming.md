@@ -37,8 +37,10 @@
 - [x] [[322-Coin Change]] last done: [[2023-09-20]]
 - [x] [[518-Coin change II]] last done: [[2023-10-09]]
 
-### LCS
-- [[1143-Longest common subsequence]] last done: [[2023-09-16]]
+### LCS / 2DP
+- [x] [[1143-Longest common subsequence]] last done: [[2023-10-10]]
+- [x] [[72-Edit distance]] last done: [[2023-10-10]]
+- [x] [[62-unique paths]] last done: [[2023-10-10]]
 
 ### Palindromes
 - [[647-palindromic substrings]] last done: [[2023-09-16]]
@@ -46,7 +48,7 @@
 - [[152-Maximum Product subarray]] last done: [[2023-09-20]]
 
 ### Caching
-- [[62-unique paths]]
+
 - [[309-Best time to buy and sell stock with cooldown]]
 
 
