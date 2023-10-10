@@ -26,11 +26,14 @@
 
 ## IITG 2023'Dec
 ---
-- [[company-Accenture Japan]]
-- [[company-Mercari]]
-- [[company-Tescra_Achnet]]
-- [[company-TSMC]]
-- [[company - Deloitte]]
+- [x] [[company-Accenture Japan]]
+- [ ] [[company-Mercari]]
+- [ ] [[company-Tescra_Achnet]]
+- [ ] [[company-TSMC]]
+- [ ] [[company - Deloitte]]
+- [ ] [[company-Intel]]
+- [ ] [[company - BNY Mellon]]
+- [ ] [[company - Info Edge]]
 
 ## Previous year Companies
 ---

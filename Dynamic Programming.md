@@ -34,7 +34,8 @@
 - [x] [[494-Target Sum]] last done: [[2023-10-09]]
 
 ### Unbounded Knapsack
-- [[322-Coin Change]] last done: [[2023-09-20]]
+- [x] [[322-Coin Change]] last done: [[2023-09-20]]
+- [x] [[518-Coin change II]] last done: [[2023-10-09]]
 
 ### LCS
 - [[1143-Longest common subsequence]] last done: [[2023-09-16]]

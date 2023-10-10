@@ -20,3 +20,4 @@
 
 ## Theories
 - [[Sorting]]
+[MCQ link1](https://www.youtube.com/watch?v=Rtr1hvyOlh0)

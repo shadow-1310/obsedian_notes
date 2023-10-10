@@ -20,54 +20,31 @@
             }
           },
           {
-            "id": "86be84eb47059a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f1624adc6c6e373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da9d9d6c0eba49bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qutebrowser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9106dce77f660690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f7acd8f94e5d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-10-10.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +174,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6721188482336041,
+                  "scale": 0.5808355909862409,
                   "close": true
                 }
               }
@@ -209,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "daily-notes/2023-10-10.md"
               }
             }
           },
@@ -254,16 +231,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df3733830d7b4aa4",
+  "active": "9106dce77f660690",
   "lastOpenFiles": [
-    "322-Coin Change.md",
-    "Dynamic Programming.md",
     "IIT Campus Placements.md",
-    "qutebrowser.md",
-    "company - Deloitte.md",
-    "309-Best time to buy and sell stock with cooldown.md",
-    "Linux.md",
+    "company - Info Edge.md",
+    "Dynamic Programming.md",
+    "daily-notes/2023-09-25.md",
     "daily-notes/2023-10-09.md",
+    "daily-notes/2023-10-10.md",
+    "ML theory.md",
+    "company - Deloitte.md",
+    "Linux.md",
+    "518-Coin change II.md",
+    "322-Coin Change.md",
+    "qutebrowser.md",
+    "309-Best time to buy and sell stock with cooldown.md",
     "project-SIH.md",
     "62-unique paths.md",
     "494-Target Sum.md",
@@ -277,11 +259,6 @@
     "DSA/Topics/Heap.md",
     "DSA/Topics/Binary Search.md",
     "DSA/Topics/Tree.md",
-    "DSA/Topics/Backtracking.md",
-    "DSA/Topics/Array.md",
-    "DSA/Topics/Two Pointers.md",
-    "88-Merge sorted array without extra space.md",
-    "daily-notes/2023-05-13.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
