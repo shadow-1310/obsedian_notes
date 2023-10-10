@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "416-Partition equal subset sum.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-10.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-10.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-10.md",
+                "file": "Dynamic Programming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-10.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -243,17 +242,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9106dce77f660690",
+  "active": "df3733830d7b4aa4",
   "lastOpenFiles": [
-    "String.md",
     "416-Partition equal subset sum.md",
+    "String.md",
+    "daily-notes/2023-10-10.md",
     "Dynamic Programming.md",
     "72-Edit distance.md",
     "attachments/Pasted image 20231010145149.png",
     "62-unique paths.md",
     "1143-Longest common subsequence.md",
     "Longest Subsequence st diff is 0 or 1.md",
-    "daily-notes/2023-10-10.md",
     "AMEX - furthest digram.md",
     "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231010140202.png",

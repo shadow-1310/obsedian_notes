@@ -22,7 +22,8 @@ topic: [[Dynamic Programming]]
 - iterate through the given nums from backwards
 #### mistakes
 - don't try to append the curr_sum to the set, because we are iterating through that set
-- instead create a temp set and store all the values in it, after the loop of the original set ends, assign this temp set to original set
+- instead create a temp set and store all the values in it, after the loop of the original set ends, assign this temp set to original set.
+- don't try to store the results in a list as list is changing
 #### code snippet
 ```python
 

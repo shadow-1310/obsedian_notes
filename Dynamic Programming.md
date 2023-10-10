@@ -30,7 +30,7 @@
 
 ### 0/1 knapsack
 [LC article](https://leetcode.com/discuss/study-guide/1200320/Thief-with-a-knapsack-a-series-of-crimes)
-- [ ] [[416-Partition equal subset sum]] last done: [[2023-09-18]]
+- [x] [[416-Partition equal subset sum]] last done: [[2023-10-10]]
 - [x] [[494-Target Sum]] last done: [[2023-10-09]]
 
 ### Unbounded Knapsack
