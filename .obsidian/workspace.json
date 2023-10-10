@@ -32,19 +32,18 @@
             }
           },
           {
-            "id": "b4a374c9a0df7715",
+            "id": "80d6bbdf6d344ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "ffmpeg.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Dynamic Programming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/DSA.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -231,17 +230,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4a374c9a0df7715",
+  "active": "df3733830d7b4aa4",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
     "daily-notes/2023-10-10.md",
+    "company-Tescra_Achnet.md",
+    "ffmpeg.md",
+    "Linux.md",
+    "Dynamic Programming.md",
     "IIT Campus Placements.md",
     "company - Info Edge.md",
     "daily-notes/2023-09-25.md",
     "daily-notes/2023-10-09.md",
     "ML theory.md",
     "company - Deloitte.md",
-    "Linux.md",
     "518-Coin change II.md",
     "322-Coin Change.md",
     "qutebrowser.md",
@@ -257,8 +258,6 @@
     "Greedy.md",
     "Bitwise Operation.md",
     "DSA/Topics/Heap.md",
-    "DSA/Topics/Binary Search.md",
-    "DSA/Topics/Tree.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
