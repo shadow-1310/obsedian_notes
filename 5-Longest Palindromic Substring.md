@@ -1,7 +1,7 @@
 topic: [[Dynamic Programming]]
 
 ### basic info
-- source: #leetcode  
+- source: 
 - serial no: #leetcode/5
 - first_done: [[2023-07-24]]
 - last_revised:
@@ -30,6 +30,7 @@ topic: [[Dynamic Programming]]
 #### mistakes
 - if you are doing by using count variable, then initialize count as 0 in starting of odd numbers loop and count as 1 for even number loop
 - increment count by 2 each time condition is met both for odd and even loop.
+- do not use a extra count variable for current length of palindrome, instead use index of right and left pointer
 #### code snippet
 ```python
 
