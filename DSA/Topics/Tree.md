@@ -1,5 +1,11 @@
 tags: #dsa/tree #unfinished 
 ## Basic Overview
+- preorder 
+	- root at first 
+- post order
+	- root at last
+- inorder
+	- root at centre
 
 ### Implementation from scratch
 #### pseudo-code

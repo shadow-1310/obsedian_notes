@@ -8,48 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "770d465ed38d6a85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9106dce77f660690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80d6bbdf6d344ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ffmpeg.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53879851a70fda15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blood relation.md",
+                "file": "Data Sufficiency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd0250b32126927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seating arrangement.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "daily-notes/2023-10-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1e2c374ac46d62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/DSA.md"
+                "file": "DSA/Topics/Tree.md"
               }
             }
           },
@@ -255,11 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64fdf6ba0d0cefe7",
+  "active": "a1e2c374ac46d62c",
   "lastOpenFiles": [
+    "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
-    "blood relation.md",
+    "daily-notes/2023-10-11.md",
+    "seating arrangement.md",
+    "Data Sufficiency.md",
     "Quant and Logical Reasoning.md",
+    "logical sequence.md",
+    "blood relation.md",
     "directional sense.md",
     "Syllogism.md",
     "company-Tescra_Achnet.md",
@@ -274,17 +267,12 @@
     "1143-Longest common subsequence.md",
     "Longest Subsequence st diff is 0 or 1.md",
     "AMEX - furthest digram.md",
-    "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231010140202.png",
     "ffmpeg.md",
     "Linux.md",
     "company - Info Edge.md",
     "daily-notes/2023-09-25.md",
     "daily-notes/2023-10-09.md",
-    "ML theory.md",
-    "company - Deloitte.md",
-    "518-Coin change II.md",
-    "322-Coin Change.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",

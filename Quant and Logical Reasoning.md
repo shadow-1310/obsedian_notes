@@ -29,20 +29,20 @@
 - [x] [[Syllogism]]
 - [x] Coding-Decoding
 - [ ] [[Data Sufficiency]]
-- [ ] [[blood relation]]
-- [ ] seating arrangement
+- [x] [[blood relation]]
+- [ ] [[seating arrangement]]
 - [x] [[directional sense]]
 - [ ] [[logical sequence]]
 - [ ] analogies
 
-***Non-verbal***
-- [ ] [[Cube and DIce]]
-- [ ] series
+***Non-verbal*** - Abstract reasoning
+- [x] [[Cube and DIce]]
+- [x] series
 - [ ] pattern completion
-- [ ] mirror images
+- [x] mirror images
 - [ ] water images
 - [ ] classification
-- [ ] embedded image
+- [x] embedded image
 - [ ] figure matrix
 - [ ] paper cutting
 - [ ] paper folding
