@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64fdf6ba0d0cefe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blood relation.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blood relation.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blood relation.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blood relation.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           },
@@ -243,13 +255,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53879851a70fda15",
+  "active": "64fdf6ba0d0cefe7",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
+    "IIT Campus Placements.md",
     "blood relation.md",
+    "Quant and Logical Reasoning.md",
     "directional sense.md",
     "Syllogism.md",
-    "IIT Campus Placements.md",
     "company-Tescra_Achnet.md",
     "String.md",
     "1155- Number of dice rolls with target sum.md",

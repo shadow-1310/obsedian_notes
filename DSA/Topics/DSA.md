@@ -19,5 +19,8 @@
 - [ ] [[Contests]]
 
 ## Theories
+[MCQ playlist](https://www.youtube.com/playlist?list=PLYT7YDstBQmGeekQGnqZinp52hJ6U_wXh)
+- [stack MCQ](https://www.youtube.com/watch?v=UxnDf7UiS_4)
+- [graph MCQ](https://www.youtube.com/watch?v=65xbJTJvyHI)
 - [[Sorting]]
 [MCQ link1](https://www.youtube.com/watch?v=Rtr1hvyOlh0)
