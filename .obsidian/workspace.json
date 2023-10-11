@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Sufficiency.md",
+                "file": "Quant and Logical Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
-                "mode": "source",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Tree.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           },
@@ -245,12 +245,13 @@
   },
   "active": "a1e2c374ac46d62c",
   "lastOpenFiles": [
+    "DSA/Topics/Tree.md",
+    "Quant and Logical Reasoning.md",
+    "Data Sufficiency.md",
     "DSA/Topics/DSA.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-10-11.md",
     "seating arrangement.md",
-    "Data Sufficiency.md",
-    "Quant and Logical Reasoning.md",
     "logical sequence.md",
     "blood relation.md",
     "directional sense.md",
@@ -272,7 +273,6 @@
     "Linux.md",
     "company - Info Edge.md",
     "daily-notes/2023-09-25.md",
-    "daily-notes/2023-10-09.md",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
     "attachments/Pasted image 20230919112453.png",
