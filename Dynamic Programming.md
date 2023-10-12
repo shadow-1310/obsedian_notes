@@ -32,7 +32,7 @@
 
 
 ### Merge Interval pattern
-- [ ] [[96-Unique Binary Search Tree]]
+- [ ] [[96-Unique Binary Search Tree]] last done: [[2023-10-11]]
 ### LIS
 - [[300-longest increasing subsequence]] last done: [[2023-09-16]]
 - [[334-Increasing Triplet Subsequence]] last done: [[2023-09-16]]
@@ -53,7 +53,7 @@
 ### Palindromes
 
 - [[152-Maximum Product subarray]] last done: [[2023-09-20]]
-
+- [[91-Decode Ways]]
 ### Decision Making
 - [[309-Best time to buy and sell stock with cooldown]] last done: [[2023-10-09]]
 - [[121-best time to Buy and sell stock]]

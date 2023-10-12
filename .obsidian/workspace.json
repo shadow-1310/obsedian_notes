@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "091c73ae618eb2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "91-Decode Ways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ecbf450828dd3d0f",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "91-Decode Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "91-Decode Ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "91-Decode Ways.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "91-Decode Ways.md"
               }
             }
           },
@@ -230,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53879851a70fda15",
+  "active": "091c73ae618eb2d9",
   "lastOpenFiles": [
-    "96-Unique Binary Search Tree.md",
     "Dynamic Programming.md",
+    "91-Decode Ways.md",
+    "96-Unique Binary Search Tree.md",
     "309-Best time to buy and sell stock with cooldown.md",
     "516-Longest Palindromic Subsequence.md",
     "5-Longest Palindromic Substring.md",
@@ -258,7 +272,6 @@
     "attachments/Pasted image 20231010145149.png",
     "62-unique paths.md",
     "1143-Longest common subsequence.md",
-    "Longest Subsequence st diff is 0 or 1.md",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",
