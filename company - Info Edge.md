@@ -2,6 +2,7 @@
 
 ### Round1 - Maths & Stats(33.33%) - 30 mins
 - [ ] Probability
+	- [MCQs](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 - [ ] Probability Distributions
 - [ ] Sampling
 - [ ] Correlations
@@ -33,10 +34,13 @@
 		 - [ ] rank of a matrix
 			 - if a matrix has rank p, it can be expressed as sum of p number of rank 1 matrices(atom matrices).
 		 - [ ] jacobian
-		 - $$if\;det(A) = 0, A\;is\;not\;invertible$$ 
+			 -  
 		 - [ ] finding eigenvector and eigenvalue, [ritvik-tutorial](https://www.youtube.com/watch?v=glaiP222JWA)
+		 - $$if\;det(A) = 0, A\;is\;not\;invertible$$
 		$$det(A-\lambda*I)=0,\newline because\;(A-\lambda*I)*x=0, which\; gives (A-\lambda*I) as\;non determinant$$
-		 - [ ] Matrix Norms
+		 - [ ] Matrix Norms -[ritvik](https://www.youtube.com/watch?v=DkyM93Wgh_0)
+			 - $$||AB||_p \leq ||A||_p ||B||_p$$
+			 - $$||A^k|| \geq Max|\lambda _i|^k$$
 		 - [ ] singular values vs eigen values
 ### Round2 - Classical ML and DL(66.67%) - 45 mins
 - [ ] Bagging 

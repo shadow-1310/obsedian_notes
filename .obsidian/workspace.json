@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "37514bf5900b048d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "673-Number of LIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e672602d265835e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "453-Minimum moves to equal array elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "091c73ae618eb2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:equa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "673-Number of LIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "673-Number of LIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "673-Number of LIS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company - Info Edge.md"
+                "file": "673-Number of LIS.md"
               }
             }
           },
@@ -231,13 +255,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecbf450828dd3d0f",
+  "active": "37514bf5900b048d",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "DSA/Topics/DSA.md",
     "Dynamic Programming.md",
-    "96-Unique Binary Search Tree.md",
+    "673-Number of LIS.md",
+    "453-Minimum moves to equal array elements.md",
+    "Longest Subsequence st diff is 0 or 1.md",
+    "334-Increasing Triplet Subsequence.md",
+    "300-longest increasing subsequence.md",
+    "IIT Campus Placements.md",
     "daily-notes/2023-10-12.md",
+    "company - Info Edge.md",
+    "DSA/Topics/DSA.md",
+    "96-Unique Binary Search Tree.md",
     "91-Decode Ways.md",
     "309-Best time to buy and sell stock with cooldown.md",
     "516-Longest Palindromic Subsequence.md",
@@ -253,13 +283,7 @@
     "blood relation.md",
     "directional sense.md",
     "Syllogism.md",
-    "company-Tescra_Achnet.md",
-    "1155- Number of dice rolls with target sum.md",
-    "416-Partition equal subset sum.md",
-    "daily-notes/2023-10-10.md",
-    "72-Edit distance.md",
     "attachments/Pasted image 20231010145149.png",
-    "62-unique paths.md",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
     "attachments/Pasted image 20230919112934.png",

@@ -32,11 +32,14 @@
 
 
 ### Merge Interval pattern
-- [ ] [[96-Unique Binary Search Tree]] last done: [[2023-10-11]]
+- [x] [[96-Unique Binary Search Tree]] last done: [[2023-10-11]]
+
+
 ### LIS
-- [[300-longest increasing subsequence]] last done: [[2023-09-16]]
-- [[334-Increasing Triplet Subsequence]] last done: [[2023-09-16]]
-- [[Longest Subsequence st diff is 0 or 1]] last done: [[2023-09-16]]
+- [x] [[300-longest increasing subsequence]] last done: [[2023-10-12]], tricky
+- [x] [[334-Increasing Triplet Subsequence]] last done: [[2023-10-12]], need to remember
+- [x] [[Longest Subsequence st diff is 0 or 1]] last done: [[2023-10-12]]
+- [ ] [[673-Number of LIS]]
 
 
 ### Unbounded Knapsack
