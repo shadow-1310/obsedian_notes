@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "37514bf5900b048d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "673-Number of LIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e672602d265835e0",
             "type": "leaf",
             "state": {
@@ -49,26 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-CRED.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecbf450828dd3d0f",
+            "id": "08820e9b072f5b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "daily-notes/2023-10-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:equa",
+                "query": "file:foun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "673-Number of LIS.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "673-Number of LIS.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "673-Number of LIS.md",
+                "file": "Dynamic Programming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "673-Number of LIS.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -255,34 +242,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37514bf5900b048d",
+  "active": "53879851a70fda15",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
-    "673-Number of LIS.md",
+    "DSA/Topics/DSA.md",
     "453-Minimum moves to equal array elements.md",
+    "company-CRED.md",
+    "1326-Minimum Fountains.md",
+    "daily-notes/2023-10-12.md",
+    "Graph.md",
+    "743-Network delay time.md",
+    "133-Clone Graph.md",
+    "200-Number of islands.md",
+    "Dynamic Programming.md",
+    "Misc.md",
+    "company - Info Edge.md",
+    "IIT Campus Placements.md",
+    "company- Honda Japan.md",
+    "company-Paytm.md",
+    "company-Wells Fargo.md",
+    "company-Samsung.md",
+    "Millenium Management.md",
+    "company-Tiger Analytics.md",
+    "company-AMEX.md",
+    "673-Number of LIS.md",
     "Longest Subsequence st diff is 0 or 1.md",
     "334-Increasing Triplet Subsequence.md",
     "300-longest increasing subsequence.md",
-    "IIT Campus Placements.md",
-    "daily-notes/2023-10-12.md",
-    "company - Info Edge.md",
-    "DSA/Topics/DSA.md",
     "96-Unique Binary Search Tree.md",
     "91-Decode Ways.md",
-    "309-Best time to buy and sell stock with cooldown.md",
-    "516-Longest Palindromic Subsequence.md",
-    "5-Longest Palindromic Substring.md",
-    "647-palindromic substrings.md",
-    "String.md",
-    "Quant and Logical Reasoning.md",
-    "seating arrangement.md",
-    "daily-notes/2023-10-11.md",
-    "DSA/Topics/Tree.md",
-    "Data Sufficiency.md",
-    "logical sequence.md",
-    "blood relation.md",
-    "directional sense.md",
-    "Syllogism.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

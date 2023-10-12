@@ -3,7 +3,7 @@ topic: #dsa/DP
 ### basic info
 - source: 
 - serial no: #leetcode/1326 
-- first_done:
+- first_done: [[2023-10-12]]
 - last_revised:
 - difficulty:
 	- [ ] easy
@@ -20,7 +20,8 @@ topic: #dsa/DP
 #### pseudo code
 
 #### mistakes
-
+- don't use a separate 'for' loop for finding the spread
+	- calculate it while traversing
 #### code snippet
 ```python
 

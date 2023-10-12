@@ -39,7 +39,7 @@
 - [x] [[300-longest increasing subsequence]] last done: [[2023-10-12]], tricky
 - [x] [[334-Increasing Triplet Subsequence]] last done: [[2023-10-12]], need to remember
 - [x] [[Longest Subsequence st diff is 0 or 1]] last done: [[2023-10-12]]
-- [ ] [[673-Number of LIS]]
+- [x] [[673-Number of LIS]] last done: [[2023-10-12]], very tricky
 
 
 ### Unbounded Knapsack

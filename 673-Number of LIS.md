@@ -10,10 +10,10 @@ topic:
 	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
-- solution_link: 
+- solution_link: https://www.youtube.com/watch?v=Tuc-rjJbsXU
 
 ### approach - 1
-- Time Complexity
+- Time Complexity $$TC = O(N^2)$$
 - space complexity
 
 #### pseudo code
