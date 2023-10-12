@@ -11,10 +11,33 @@
 - [ ] Paired Means Tests
 - [ ] Baye's Theorem
 - [ ] Linear Algebra
-	- [ ] SVD
-	- [ ] EigenValue Decomposition
-	- [ ] Matrix Operations
-
+	- [x] EigenValue Decomposition - [ritvikmath](https://www.youtube.com/watch?v=KTKAp9Q3yWg)
+		- only applies to diagonal square matrix
+		- eigenvector and eigenmatrix, $$Ax = \lambda x$$ 
+		- usefull to reduce coputational cost of matrix power.
+		- if we do matrix A to the power p, we need at least Log2(p) operations. while using eigen decomposition, we need only 2 matrix operations.
+		- $$A^p = U\Lambda^pU^{-1}$$
+		-  where A -> matrix, U -> eigenvector, lambda->eigenvalue
+	- [ ] SVD - [ritvikmath](https://www.youtube.com/watch?v=HAJey9-Q8js)
+		- it is useful for compression of big matrices, we can express a Matrix by the following.
+		- $$M = U*\sigma *V^T, \newline $$
+		- where 
+			- M -> m * n
+			- U, orthonormal matrix -> m * p
+			- sigma, diagonal matrix -> p * p
+			- V^T , orthonormal matrix-> p * n
+		- right singular vectors, V
+		- left singular vectors, U
+		- singular values, sigma1, sigma2, sigmap
+	 - [ ] Matrix Operations
+		 - [ ] rank of a matrix
+			 - if a matrix has rank p, it can be expressed as sum of p number of rank 1 matrices(atom matrices).
+		 - [ ] jacobian
+		 - $$if\;det(A) = 0, A\;is\;not\;invertible$$ 
+		 - [ ] finding eigenvector and eigenvalue, [ritvik-tutorial](https://www.youtube.com/watch?v=glaiP222JWA)
+		$$det(A-\lambda*I)=0,\newline because\;(A-\lambda*I)*x=0, which\; gives (A-\lambda*I) as\;non determinant$$
+		 - [ ] Matrix Norms
+		 - [ ] singular values vs eigen values
 ### Round2 - Classical ML and DL(66.67%) - 45 mins
 - [ ] Bagging 
 - [ ] Boosting
