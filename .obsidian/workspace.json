@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "daily-notes/2023-10-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,25 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-CRED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08820e9b072f5b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "ML theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "ML theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "ML theory.md"
               }
             }
           },
@@ -242,13 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53879851a70fda15",
+  "active": "091c73ae618eb2d9",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "company-CRED.md",
+    "daily-notes/2023-10-12.md",
     "DSA/Topics/DSA.md",
     "453-Minimum moves to equal array elements.md",
-    "company-CRED.md",
     "1326-Minimum Fountains.md",
-    "daily-notes/2023-10-12.md",
     "Graph.md",
     "743-Network delay time.md",
     "133-Clone Graph.md",
@@ -256,7 +246,6 @@
     "Dynamic Programming.md",
     "Misc.md",
     "company - Info Edge.md",
-    "IIT Campus Placements.md",
     "company- Honda Japan.md",
     "company-Paytm.md",
     "company-Wells Fargo.md",

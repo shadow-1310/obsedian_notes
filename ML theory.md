@@ -25,10 +25,19 @@
 - Gradient Descent
 - Decision Trees
 - Linear and Logistic Regressions
-- Random Forest
-- Gradient Boosting Machines
-- XGBoost
-- LiteGBM
+- Tree Based Models
+	- [MCQs1](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
+	- [MCQs2](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
+	- Random Forest
+	- Gradient Boosting Machines
+	- XGBoost
+	- LiteGBM
+		- histogram / bin way of splitting nodes in DT
+		- Exclusive Feature Bundling
+		- GBOSS (Gradient Based One Side Sampling)
+			- sampling is done from the records where error is low, the records where error / gradient is high, they will be taken as a whole
+	- Adaboost
+		- uses decision stump as weak learners
 - SVM and kernel trick
 - Regularization
 - Bias-Variance trade off
