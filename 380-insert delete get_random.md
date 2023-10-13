@@ -3,7 +3,7 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/380 
-- first_done:
+- first_done: [[2023-10-13]]
 - last_revised:
 - difficulty:
 	- [ ] easy
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- slight tricky in order of code
 #### code snippet
 ```python
 

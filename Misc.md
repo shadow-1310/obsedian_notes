@@ -14,4 +14,4 @@
 - [[bulb switcher II]]
 - [[bulb switcher-I]]
 - [[118-Pascal Triangle]]
-- [[380-insert delete get_random]]
+- [[380-insert delete get_random]] last done: [[2023-10-13]]
