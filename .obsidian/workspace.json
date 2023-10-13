@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "daily-notes/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "453-Minimum moves to equal array elements.md",
+                "file": "Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d1754154cf98c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "380-insert delete get_random.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,8 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddc9d73815033106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7425f4a5743a3ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Intel India.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -72,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:foun",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "company-Intel India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "company-Intel India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-12.md",
+                "file": "company-Intel India.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +202,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -0.6,
+                  "textFadeMultiplier": -0.3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -185,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-12.md"
+                "file": "company-Intel India.md"
               }
             }
           },
@@ -230,21 +267,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53879851a70fda15",
+  "active": "7425f4a5743a3ef7",
   "lastOpenFiles": [
-    "453-Minimum moves to equal array elements.md",
-    "ML theory.md",
-    "daily-notes/2023-10-12.md",
     "IIT Campus Placements.md",
-    "company-CRED.md",
+    "company-Intel India.md",
+    "ML theory.md",
+    "380-insert delete get_random.md",
+    "Misc.md",
     "DSA/Topics/DSA.md",
+    "Linux.md",
+    "firefox.md",
+    "DSA/Topics/Array.md",
+    "453-Minimum moves to equal array elements.md",
+    "daily-notes/2023-10-13.md",
+    "daily-notes/2023-10-12.md",
+    "company-CRED.md",
     "1326-Minimum Fountains.md",
     "Graph.md",
     "743-Network delay time.md",
     "133-Clone Graph.md",
     "200-Number of islands.md",
     "Dynamic Programming.md",
-    "Misc.md",
     "company - Info Edge.md",
     "company- Honda Japan.md",
     "company-Paytm.md",
@@ -252,12 +295,6 @@
     "company-Samsung.md",
     "Millenium Management.md",
     "company-Tiger Analytics.md",
-    "company-AMEX.md",
-    "673-Number of LIS.md",
-    "Longest Subsequence st diff is 0 or 1.md",
-    "334-Increasing Triplet Subsequence.md",
-    "300-longest increasing subsequence.md",
-    "96-Unique Binary Search Tree.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

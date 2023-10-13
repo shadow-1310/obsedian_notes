@@ -14,3 +14,4 @@
 - [[bulb switcher II]]
 - [[bulb switcher-I]]
 - [[118-Pascal Triangle]]
+- [[380-insert delete get_random]]

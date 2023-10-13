@@ -34,6 +34,7 @@
 - [ ] [[company-Intel]]
 - [ ] [[company - BNY Mellon]]
 - [ ] [[company - Info Edge]]
+- [ ] [[company-Intel India]]
 
 ## Previous year Companies
 ---
