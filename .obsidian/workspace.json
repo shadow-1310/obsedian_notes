@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML theory.md",
+                "file": "daily-notes/2023-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML theory.md",
+                "file": "daily-notes/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML theory.md",
+                "file": "daily-notes/2023-10-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,9 +163,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -0.6,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML theory.md"
+                "file": "daily-notes/2023-10-12.md"
               }
             }
           },
@@ -231,13 +230,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "091c73ae618eb2d9",
+  "active": "53879851a70fda15",
   "lastOpenFiles": [
+    "453-Minimum moves to equal array elements.md",
+    "ML theory.md",
+    "daily-notes/2023-10-12.md",
     "IIT Campus Placements.md",
     "company-CRED.md",
-    "daily-notes/2023-10-12.md",
     "DSA/Topics/DSA.md",
-    "453-Minimum moves to equal array elements.md",
     "1326-Minimum Fountains.md",
     "Graph.md",
     "743-Network delay time.md",
@@ -258,7 +258,6 @@
     "334-Increasing Triplet Subsequence.md",
     "300-longest increasing subsequence.md",
     "96-Unique Binary Search Tree.md",
-    "91-Decode Ways.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
