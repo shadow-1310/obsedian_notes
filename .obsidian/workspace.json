@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "7425f4a5743a3ef7",
+            "id": "4c1061f7eb5a8b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Intel India.md",
+                "file": "company-Axtria.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Intel India.md",
+                "file": "company-Axtria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Intel India.md",
+                "file": "company-Axtria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Intel India.md",
+                "file": "company-Axtria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Intel India.md"
+                "file": "company-Axtria.md"
               }
             }
           },
@@ -267,16 +267,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7425f4a5743a3ef7",
+  "active": "4c1061f7eb5a8b4a",
   "lastOpenFiles": [
     "IIT Campus Placements.md",
+    "company-Axtria.md",
+    "Linux.md",
+    "imageMagick.md",
+    "firefox.md",
     "company-Intel India.md",
     "ML theory.md",
     "380-insert delete get_random.md",
     "Misc.md",
     "DSA/Topics/DSA.md",
-    "Linux.md",
-    "firefox.md",
     "DSA/Topics/Array.md",
     "453-Minimum moves to equal array elements.md",
     "daily-notes/2023-10-13.md",
@@ -293,8 +295,6 @@
     "company-Paytm.md",
     "company-Wells Fargo.md",
     "company-Samsung.md",
-    "Millenium Management.md",
-    "company-Tiger Analytics.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

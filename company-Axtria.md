@@ -1,0 +1,1 @@
+Sir why not other engineering branches are made eligible for this profile? I am from Biomedical engineering department and many of our students are doing data analytics or data science practice in their MTP and personal projects.
