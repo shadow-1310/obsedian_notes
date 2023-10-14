@@ -56,13 +56,49 @@
             }
           },
           {
-            "id": "b5e4b8e3a718ee90",
+            "id": "a7e277343aece5ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ncspot.md",
+                "file": "mutt.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "374c3be20d5bc425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2ab2e5fb6510a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ed7bace908b6aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Interpretation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ncspot.md",
+                "file": "mutt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ncspot.md",
+                "file": "mutt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ncspot.md",
+                "file": "mutt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ncspot.md"
+                "file": "mutt.md"
               }
             }
           },
@@ -255,17 +291,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5e4b8e3a718ee90",
+  "active": "a7e277343aece5ff",
   "lastOpenFiles": [
     "Linux.md",
+    "mutt.md",
+    "Data Interpretation.md",
+    "Quant and Logical Reasoning.md",
+    "IIT Campus Placements.md",
     "ncspot.md",
+    "daily-notes/2023-10-14.md",
     "vifm.md",
     "ML theory.md",
     "nvim.md",
     "daily-notes/2023-10-13.md",
     "Misc.md",
     "380-insert delete get_random.md",
-    "IIT Campus Placements.md",
     "company-Axtria.md",
     "imageMagick.md",
     "firefox.md",
@@ -279,10 +319,6 @@
     "Graph.md",
     "743-Network delay time.md",
     "133-Clone Graph.md",
-    "200-Number of islands.md",
-    "Dynamic Programming.md",
-    "company - Info Edge.md",
-    "company- Honda Japan.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

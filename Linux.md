@@ -25,6 +25,7 @@ gsettings set org.gnome.desktop.background picture-uri-dark file:///home/serrano
 - [[firefox]]
 - [[imageMagick]]
 - [[ncspot]]
+- [[mutt]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)
