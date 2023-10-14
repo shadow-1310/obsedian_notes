@@ -1,7 +1,7 @@
 topic: #dsa/array #dsa/bucketlist
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/49 
 - first_done:
 - last_revised: [[2023-09-10]]

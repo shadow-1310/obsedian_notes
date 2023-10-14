@@ -8,103 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53879851a70fda15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e672602d265835e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "091c73ae618eb2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cffbdc0da5d27ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e277343aece5ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mutt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "374c3be20d5bc425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2ab2e5fb6510a33",
+            "id": "f545458e7d5be2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "49-Group Anagram.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ed7bace908b6aff",
+            "id": "36d75d446d00bf3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Interpretation.md",
-                "mode": "preview",
+                "file": "daily-notes/2023-10-14.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mutt.md",
+                "file": "49-Group Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mutt.md",
+                "file": "49-Group Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mutt.md",
+                "file": "49-Group Anagram.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mutt.md"
+                "file": "49-Group Anagram.md"
               }
             }
           },
@@ -291,34 +231,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7e277343aece5ff",
+  "active": "f545458e7d5be2be",
   "lastOpenFiles": [
+    "DSA/Topics/Array.md",
+    "daily-notes/2023-10-14.md",
+    "128-Longest Consecutive Sequence.md",
+    "347-Top K frequent elements.md",
     "Linux.md",
-    "mutt.md",
+    "MySQL.md",
+    "238-Product of Array Except Self.md",
+    "136-Single Number.md",
+    "287-contains duplicate.md",
+    "202-Happy Number.md",
+    "DSA/Topics/DSA.md",
+    "IIT Campus Placements.md",
     "Data Interpretation.md",
     "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
-    "ncspot.md",
-    "daily-notes/2023-10-14.md",
-    "vifm.md",
-    "ML theory.md",
-    "nvim.md",
     "daily-notes/2023-10-13.md",
     "Misc.md",
+    "ML theory.md",
+    "mutt.md",
+    "ncspot.md",
+    "vifm.md",
+    "nvim.md",
     "380-insert delete get_random.md",
     "company-Axtria.md",
     "imageMagick.md",
     "firefox.md",
     "company-Intel India.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Array.md",
-    "453-Minimum moves to equal array elements.md",
-    "daily-notes/2023-10-12.md",
-    "company-CRED.md",
-    "1326-Minimum Fountains.md",
-    "Graph.md",
-    "743-Network delay time.md",
-    "133-Clone Graph.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

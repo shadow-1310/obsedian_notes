@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/128 
-- first_done:
-- last_revised: [[2023-09-08]]
+- first_done: [[2023-06-01]]
+	- 1st_revised: [[2023-09-08]]
+- last_revised: [[2023-10-14]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,6 +22,7 @@ topic:
 - then iterate through the set and start counting the range only if its previous element (num-1) does not exist in the set.
 #### mistakes
 - continue the if condition only if the previous number doesnot exist in the set.
+- define the res variable outside the loop
 #### code snippet
 ```python
 

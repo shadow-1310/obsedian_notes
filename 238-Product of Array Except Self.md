@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/238 
 - first_done: [[2023-06-01]]
-- last_revised: [[2023-09-07]]
+	- 1st_revised: [[2023-09-07]]
+- last_revised: [[2023-10-14]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -23,7 +24,8 @@ topic:
 - then iterate from the backside and multiply with the post product
 	- use a temp variable for storing and updating the post product
 #### mistakes
-- 
+- for the post product use a temp variable and multiply with current index value in product array
+	- don't multiply with product[i-1]
 #### code snippet
 ```python
 

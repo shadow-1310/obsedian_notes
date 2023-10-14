@@ -1,4 +1,5 @@
 ## manuals
+- [stop mysql and disable on startup](https://askubuntu.com/questions/1166894/how-to-disable-mysql-server-from-constantly-running-in-the-background)
 - [How to Disable Secure\_file\_priv option in MySQL - Linux - Techglimpse](https://techglimpse.com/secure_file_priv-mysql-option/)
 - [MySQL :: MySQL 8.0 Reference Manual :: 3.3.3 Loading Data into a Table](https://dev.mysql.com/doc/refman/8.0/en/loading-tables.html)
 - [MySQL :: MySQL 8.0 Reference Manual :: 13.2.9 LOAD DATA Statement](https://dev.mysql.com/doc/refman/8.0/en/load-data.html)

@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source:  #leetcode 
+- source:  
 - serial no: #leetcode/347
-- first_done:
-- last_revised: [[2023-09-07]]
+- first_done: [[2023-06-01]]
+	- 1st_revised: [[2023-09-07]]
+- last_revised: [[2023-10-14]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -24,6 +25,7 @@ topic:
 - finally iterate through the bucket list from the last position and add the list elements to result list. if `len(result) == k`. return the result list
 #### mistakes
 - make the bucket list as len(nums)+1 not len(nums)
+- check the len(res) after appending the element not before
 #### code snippet
 ```python
 

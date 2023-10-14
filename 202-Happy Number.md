@@ -1,10 +1,11 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/202
 - first_done: [[2023-06-02]]
-- last_revised: [[2023-09-10]]
+	- 1st_revised: [[2023-09-10]]
+- last_revised: [[2023-10-14]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -21,6 +22,7 @@ topic:
 #### mistakes
 - to check for the endless loop use a set which stores all the previously encountered numbers, don't just check with the last number
 - don't just add the digits, add the square of digits
+- don't forget to change the number to square sum
 #### code snippet
 ```python
 
