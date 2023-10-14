@@ -42,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cffbdc0da5d27ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e4b8e3a718ee90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ncspot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-13.md",
+                "file": "ncspot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-13.md",
+                "file": "ncspot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-13.md",
+                "file": "ncspot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-13.md"
+                "file": "ncspot.md"
               }
             }
           },
@@ -230,21 +255,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53879851a70fda15",
+  "active": "b5e4b8e3a718ee90",
   "lastOpenFiles": [
+    "Linux.md",
+    "ncspot.md",
+    "vifm.md",
     "ML theory.md",
+    "nvim.md",
+    "daily-notes/2023-10-13.md",
     "Misc.md",
     "380-insert delete get_random.md",
     "IIT Campus Placements.md",
     "company-Axtria.md",
-    "Linux.md",
     "imageMagick.md",
     "firefox.md",
     "company-Intel India.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
     "453-Minimum moves to equal array elements.md",
-    "daily-notes/2023-10-13.md",
     "daily-notes/2023-10-12.md",
     "company-CRED.md",
     "1326-Minimum Fountains.md",
@@ -255,9 +283,6 @@
     "Dynamic Programming.md",
     "company - Info Edge.md",
     "company- Honda Japan.md",
-    "company-Paytm.md",
-    "company-Wells Fargo.md",
-    "company-Samsung.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

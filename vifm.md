@@ -1,3 +1,5 @@
+
+[arch wiki](https://wiki.archlinux.org/title/Vifm)
 ## integrate fzf
 - open the .config/vifm/vifmrc file
 - put the following lines
@@ -15,9 +17,25 @@
 ## use image previews with uberzug
 - https://www.youtube.com/watch?v=qgxsduCO1pE
 - https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/vifm/scripts
+##### as ueberzerg is not working we need to use uerberzergpp
+- install by the following instructions [download site for ubuntu](https://software.opensuse.org/download.html?project=home%3Ajustkidding&package=ueberzugpp), following lines are for ubuntu 22.04
+```sh
+echo 'deb http://download.opensuse.org/repositories/home:/justkidding/xUbuntu_22.04/ /' | sudo tee /etc/apt/sources.list.d/home:justkidding.list
+curl -fsSL https://download.opensuse.org/repositories/home:justkidding/xUbuntu_22.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_justkidding.gpg > /dev/null
+sudo apt update
+sudo apt install ueberzugpp
+```
+- copy the scripts vifmrun and vifmimg found in [uebererg++ repo](https://github.com/jstkdng/ueberzugpp)to $PATH directory
+- then add the following to vifmrc file, put them in image and pdf section
+```txt
+    fileviewer *.pdf
+        \ vifmimg pdf %px %py %pw %ph %c
+        \ %pc
+        \ vifmimg clear
 
-## Setting airline theme with power fonts
-- [powerline fonts repo](https://github.com/powerline/fonts)
-- https://github.com/vim-airline/vim-airline/wiki/Screenshots
-- https://ianchanning.wordpress.com/2018/06/18/vim-airline-powerline-fonts-on-fedora-ubuntu-and-windows/
-- https://vi.stackexchange.com/questions/3359/how-do-i-fix-the-status-bar-symbols-in-the-airline-plugin
+    fileviewer <image/*>
+        \ vifmimg draw %px %py %pw %ph %c
+        \ %pc
+        \ vifmimg clear
+```
+- run vifmrun script 

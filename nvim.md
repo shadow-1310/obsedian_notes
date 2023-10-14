@@ -103,3 +103,9 @@ tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](ht
 - [resize splits](https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height)
 - [delete marks](https://stackoverflow.com/questions/11450817/vim-how-do-i-clear-all-marks)
 - [surround character](https://vi.stackexchange.com/questions/22930/how-to-use-surround-vim-to-quote-a-single-character)
+
+## Setting airline theme with power fonts
+- [powerline fonts repo](https://github.com/powerline/fonts)
+- https://github.com/vim-airline/vim-airline/wiki/Screenshots
+- https://ianchanning.wordpress.com/2018/06/18/vim-airline-powerline-fonts-on-fedora-ubuntu-and-windows/
+- https://vi.stackexchange.com/questions/3359/how-do-i-fix-the-status-bar-symbols-in-the-airline-plugin
