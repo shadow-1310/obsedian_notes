@@ -3,8 +3,9 @@ topic: #dsa/array #dsa/bucketlist
 ### basic info
 - source: 
 - serial no: #leetcode/49 
-- first_done:
-- last_revised: [[2023-09-10]]
+- first_done: [[2023-05-26]]
+	- 1st_revised: [[2023-09-10]]
+- last_revised: [[2023-10-14]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

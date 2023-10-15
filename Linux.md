@@ -2,9 +2,7 @@ tags : #linux
 
 set wallpaper
 ```bash
-
 gsettings set org.gnome.desktop.background picture-uri-dark file:///home/serrano/Pictures/y.jpg
-
 ```
 ### using nvidia
 - https://support.system76.com/articles/graphics-switch-ubuntu/
