@@ -1,7 +1,5 @@
 tags: #dsa/heap #unfinished 
 
-
-
 ## Basic Overview
 
 ### Implementation from scratch
