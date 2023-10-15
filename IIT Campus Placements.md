@@ -27,6 +27,7 @@
 ## IITG 2023'Dec
 ---
 - [x] [[company-Accenture Japan]]
+- [ ] [[company-Databricks]]
 - [ ] [[company-Mercari]]
 - [ ] [[company-Tescra_Achnet]]
 - [ ] [[company-TSMC]]

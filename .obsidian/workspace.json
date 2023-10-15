@@ -8,42 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "374c3be20d5bc425",
+            "id": "0263b0e6d82174d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73a761a2b5e326d9",
+            "id": "f9d1a5c257bf225a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-15.md",
+                "file": "company-Mercari.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "124efd619d6ef821",
+            "id": "7621106b1e1cc473",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-14.md",
-                "mode": "preview",
+                "file": "mercari-bit logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eed79fdcad0a0d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "array cycle.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:placemen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "mercari-bit logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "mercari-bit logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "mercari-bit logic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "mercari-bit logic.md"
               }
             }
           },
@@ -230,8 +243,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "374c3be20d5bc425",
+  "active": "7621106b1e1cc473",
   "lastOpenFiles": [
+    "company-Mercari.md",
+    "mercari-bit logic.md",
+    "mercari-how many sentecnes.md",
+    "IIT Campus Placements.md",
+    "company-Databricks.md",
+    "array cycle.md",
+    "lamps and points overlap.md",
+    "daily-notes/2023-10-15.md",
     "198-House Robber.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
@@ -240,7 +261,6 @@
     "17- Letter Combinations of a Phone Number.md",
     "DSA/Topics/Heap.md",
     "621-Task Scheduler.md",
-    "daily-notes/2023-10-15.md",
     "daily-notes/2023-10-14.md",
     "1405-Longest Happy String.md",
     "DSA/Topics/Tree.md",
@@ -251,13 +271,6 @@
     "DSA/Topics/Stack.md",
     "853-Car Fleet.md",
     "739-Daily Temperature.md",
-    "150-Reverse Polish Notation.md",
-    "DSA/Topics/Sliding Window.md",
-    "567-permutation in string.md",
-    "3-Longest Substring Without Repeating Characters.md",
-    "424-Repeating Character Replacement.md",
-    "121-best time to Buy and sell stock.md",
-    "DSA/Topics/Two Pointers.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
