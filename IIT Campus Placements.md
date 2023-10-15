@@ -27,11 +27,11 @@
 ## IITG 2023'Dec
 ---
 - [x] [[company-Accenture Japan]]
-- [ ] [[company-Databricks]]
+- [x] [[company-Databricks]]
 - [ ] [[company-Mercari]]
+- [ ] [[company - Deloitte]]
 - [ ] [[company-Tescra_Achnet]]
 - [ ] [[company-TSMC]]
-- [ ] [[company - Deloitte]]
 - [ ] [[company-Intel]]
 - [ ] [[company - BNY Mellon]]
 - [ ] [[company - Info Edge]]

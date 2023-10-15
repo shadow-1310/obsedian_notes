@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9d1a5c257bf225a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Mercari.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7621106b1e1cc473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mercari-bit logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eed79fdcad0a0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "array cycle.md",
+                "file": "DSA/Topics/Heap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mercari-bit logic.md",
+                "file": "DSA/Topics/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mercari-bit logic.md",
+                "file": "DSA/Topics/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mercari-bit logic.md",
+                "file": "DSA/Topics/Heap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mercari-bit logic.md"
+                "file": "DSA/Topics/Heap.md"
               }
             }
           },
@@ -213,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -243,34 +206,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7621106b1e1cc473",
+  "active": "0263b0e6d82174d7",
   "lastOpenFiles": [
-    "company-Mercari.md",
-    "mercari-bit logic.md",
-    "mercari-how many sentecnes.md",
+    "DSA/Topics/DSA.md",
+    "Bitwise Operation.md",
+    "Graph.md",
+    "994-rotting oranges.md",
+    "DSA/Topics/Stack.md",
+    "DSA/Topics/Tree.md",
     "IIT Campus Placements.md",
-    "company-Databricks.md",
+    "company-Mercari.md",
+    "find max MEX.md",
+    "mercari-how many sentecnes.md",
+    "mercari-bit logic.md",
     "array cycle.md",
+    "company-Databricks.md",
     "lamps and points overlap.md",
     "daily-notes/2023-10-15.md",
     "198-House Robber.md",
     "Dynamic Programming.md",
     "70- Climbing Stairs.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Backtracking.md",
     "17- Letter Combinations of a Phone Number.md",
     "DSA/Topics/Heap.md",
     "621-Task Scheduler.md",
     "daily-notes/2023-10-14.md",
     "1405-Longest Happy String.md",
-    "DSA/Topics/Tree.md",
     "DSA/Topics/Linked List.md",
     "DSA/Topics/Binary Search.md",
-    "34-Search Range.md",
-    "33-Search in Rotated Sorted Array.md",
-    "DSA/Topics/Stack.md",
-    "853-Car Fleet.md",
-    "739-Daily Temperature.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
