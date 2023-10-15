@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf4d6e7c290d4346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1405-Longest Happy String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1405-Longest Happy String.md",
+                "file": "DSA/Topics/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1405-Longest Happy String.md",
+                "file": "DSA/Topics/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1405-Longest Happy String.md",
+                "file": "DSA/Topics/Heap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1405-Longest Happy String.md"
+                "file": "DSA/Topics/Heap.md"
               }
             }
           },
@@ -219,8 +206,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf4d6e7c290d4346",
+  "active": "0263b0e6d82174d7",
   "lastOpenFiles": [
+    "1405-Longest Happy String.md",
     "DSA/Topics/Heap.md",
     "DSA/Topics/DSA.md",
     "Bitwise Operation.md",
@@ -244,7 +232,6 @@
     "17- Letter Combinations of a Phone Number.md",
     "621-Task Scheduler.md",
     "daily-notes/2023-10-14.md",
-    "1405-Longest Happy String.md",
     "DSA/Topics/Linked List.md",
     "DSA/Topics/Binary Search.md",
     "attachments/Pasted image 20231010145149.png",

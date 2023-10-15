@@ -4,8 +4,8 @@ topic: #dsa/heap
 - source: 
 - serial no: #leetcode/1405
 - first_done: [[2023-07-10]]
-	- first_revised: [[2023-07-10]]
-- last_revised: [[2023-08-29]]
+	- 1st_revised: [[2023-08-29]]
+- last_revised: [[2023-10-15]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -30,6 +30,9 @@ topic: #dsa/heap
 - only heappush count/count2 if it is non-zero
 - check res[-1] == res[2] == char only if len(res) > 1
 - recheck if the heap became empty before popping the second element, if it is empty break the loop.
+	- repeated this mistake again
+- don't heapify the original inputs as it can have elements with 0 cant, so check element by element and push only if it is non zero
+- keep a mind on on which condition we have to increment count1, i.e first popped element
 
 #### code snippet
 ```python
