@@ -1,7 +1,7 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/283 
 - first_done: [[2023-05-17]]
 - last_revised: [[2023-09-10]]
@@ -20,7 +20,7 @@ topic:
 - iterate through the list and pop the zeroes while keeping a count of number of 0s
 - at the end again run a loop to append that number of 0s.
 #### mistakes
-- donot try to swap here as it is now working.
+- donot try to swap here as it is not working.
 #### code snippet
 ```python
 

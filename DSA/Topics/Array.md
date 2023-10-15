@@ -26,7 +26,7 @@ tags: #dsa/array #unfinished
 - [ ] [[75-Sort Colors]] last done: [[2023-09-10]]
 - [ ] [[453-Minimum moves to equal array elements]]
 - [ ] [[53-Max subarray]] last done: [[2023-09-12]]
-- [ ] [[987-Vertical Order Traversal of a Binary Tree]]
+- [ ] [[987-Vertical Order Traversal of a Binary Tree]] last done: [[2023-10-14]]
 - [ ] [[Arrange array]] last done: [[2023-09-11]]
 - [ ] [[count inversion]]
 - [ ] [[count pairs with given sum]] last done: [[2023-09-12]]

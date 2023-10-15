@@ -26,7 +26,7 @@ topic: #dsa/backtracking [[Backtracking]]
 	- curr is current subset (use list instead of string to store)
 - base case is i >= len(digits)
 	- then convert the current subset list string using .join method and append it to *res*
-- if not base case then backtrack, backtracking process is simple as before
+- if not base case then backtrack, backtracking process is simple as before with a loop
 	- append the current character 
 	- call the backtrack function with next index
 	- pop the current character

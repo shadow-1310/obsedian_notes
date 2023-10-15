@@ -1,7 +1,7 @@
 topic: [[Stack]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/150 
 - first_done: [[daily-notes/2023-06-06|2023-06-06]]
 - last_revised: [[2023-07-21]]

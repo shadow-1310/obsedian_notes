@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "987-Vertical Order Traversal of a Binary Tree.md",
+                "file": "daily-notes/2023-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "987-Vertical Order Traversal of a Binary Tree.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "987-Vertical Order Traversal of a Binary Tree.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "987-Vertical Order Traversal of a Binary Tree.md",
+                "file": "Dynamic Programming.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "987-Vertical Order Traversal of a Binary Tree.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -231,34 +230,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a761a2b5e326d9",
+  "active": "374c3be20d5bc425",
   "lastOpenFiles": [
-    "314-Binary Tree Vertical Order traversal.md",
-    "987-Vertical Order Traversal of a Binary Tree.md",
-    "DSA/Topics/Array.md",
-    "daily-notes/2023-10-14.md",
-    "49-Group Anagram.md",
-    "daily-notes/2023-05-26.md",
-    "Linux.md",
-    "128-Longest Consecutive Sequence.md",
-    "347-Top K frequent elements.md",
-    "MySQL.md",
-    "238-Product of Array Except Self.md",
-    "136-Single Number.md",
-    "287-contains duplicate.md",
-    "202-Happy Number.md",
+    "198-House Robber.md",
+    "Dynamic Programming.md",
+    "70- Climbing Stairs.md",
     "DSA/Topics/DSA.md",
-    "IIT Campus Placements.md",
-    "Data Interpretation.md",
-    "Quant and Logical Reasoning.md",
-    "daily-notes/2023-10-13.md",
-    "Misc.md",
-    "ML theory.md",
-    "mutt.md",
-    "ncspot.md",
-    "vifm.md",
-    "nvim.md",
-    "380-insert delete get_random.md",
+    "DSA/Topics/Backtracking.md",
+    "17- Letter Combinations of a Phone Number.md",
+    "DSA/Topics/Heap.md",
+    "621-Task Scheduler.md",
+    "daily-notes/2023-10-15.md",
+    "daily-notes/2023-10-14.md",
+    "1405-Longest Happy String.md",
+    "DSA/Topics/Tree.md",
+    "DSA/Topics/Linked List.md",
+    "DSA/Topics/Binary Search.md",
+    "34-Search Range.md",
+    "33-Search in Rotated Sorted Array.md",
+    "DSA/Topics/Stack.md",
+    "853-Car Fleet.md",
+    "739-Daily Temperature.md",
+    "150-Reverse Polish Notation.md",
+    "DSA/Topics/Sliding Window.md",
+    "567-permutation in string.md",
+    "3-Longest Substring Without Repeating Characters.md",
+    "424-Repeating Character Replacement.md",
+    "121-best time to Buy and sell stock.md",
+    "DSA/Topics/Two Pointers.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

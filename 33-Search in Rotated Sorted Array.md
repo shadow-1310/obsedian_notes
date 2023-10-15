@@ -1,7 +1,7 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/33  
 - first_done: [[2023-05-23]]
 - last_revised:

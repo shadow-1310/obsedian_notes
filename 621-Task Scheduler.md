@@ -1,7 +1,7 @@
 topic: #dsa/heap [[Heap]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/621
 - first_done: [[2023-07-09]]
 - last_revised: [[2023-08-29]]

@@ -1,8 +1,8 @@
 topic: #dsa/heap 
 
 ### basic info
-- source: #leetcode 
-- serial no: 1405
+- source: 
+- serial no: #leetcode/1405
 - first_done: [[2023-07-10]]
 	- first_revised: [[2023-07-10]]
 - last_revised: [[2023-08-29]]
