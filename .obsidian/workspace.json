@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "875-Koko eating bananas.md",
+                "file": "daily-notes/2023-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cbb81b50ff59c75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2be56e82080c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "875-Koko eating bananas.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "875-Koko eating bananas.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "875-Koko eating bananas.md",
+                "file": "Untitled 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "875-Koko eating bananas.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -231,8 +251,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "500fbd595455429c",
+  "active": "f2be56e82080c2d5",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "daily-notes/2023-10-16.md",
     "DSA/Topics/Binary Search.md",
     "1011-capacity to ship packages.md",
     "240-Search 2D matrix II.md",
@@ -244,7 +266,6 @@
     "Syllogism.md",
     "IIT Campus Placements.md",
     "DSA/Topics/Heap.md",
-    "daily-notes/2023-10-16.md",
     "378-Kth smallest element in a sorted matrix.md",
     "621-Task Scheduler.md",
     "703-Kth largest in a stream.md",
@@ -258,7 +279,6 @@
     "DSA/Topics/Stack.md",
     "DSA/Topics/Tree.md",
     "company-Mercari.md",
-    "find max MEX.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
