@@ -4,7 +4,8 @@ topic: #dsa/heap [[Heap]]
 - source: 
 - serial no: #leetcode/621
 - first_done: [[2023-07-09]]
-- last_revised: [[2023-08-29]]
+	- 1st_revised: [[2023-08-29]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -32,7 +33,7 @@ topic: #dsa/heap [[Heap]]
             - and `time = time + n`
     - now check if deque is non empty and time in first element is equal to current time append it to the heap
 #### mistakes
-
+- remember that in deque if first element is not available now than all other will also be not available
 #### code snippet
 ```python
 

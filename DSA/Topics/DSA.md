@@ -10,7 +10,7 @@
 - [x] [[Linked List]]
 - [x] [[Tree]]
 - [ ] [[Tries]]
-- [ ] [[Heap]]
+- [x] [[Heap]]
 - [x] [[Backtracking]]
 - [ ] [[Dynamic Programming]]
 - [x] [[Greedy]]

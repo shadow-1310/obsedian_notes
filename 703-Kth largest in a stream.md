@@ -1,10 +1,11 @@
 topic: #dsa/heap [[Heap]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/703
 - first_done: [[2023-07-06]]
-- last_revised: [[2023-08-29]]
+	- 1st_revised: [[2023-08-29]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -20,6 +21,9 @@ topic: #dsa/heap [[Heap]]
 
 #### mistakes
 - no need to make heap of -ve numbers, make a minheap
+	- same mistake
+	- remember that min heap of size k will give Kth largest
+		- and max heap of size k will give kth smallest
 #### code snippet
 ```python
 

@@ -1,10 +1,10 @@
 topic:
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/1046
-- first_done: [[2023-07-06]]
-- last_revised:
+	- 1st_done: [[2023-07-06]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

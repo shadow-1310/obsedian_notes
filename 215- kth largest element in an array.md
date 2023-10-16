@@ -1,11 +1,12 @@
 topic: [[Heap]] #dsa/heap 
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/215
 - first_done: [[2023-06-01]]
-	- 1st revision: 
-- last_revised: [[2023-08-10]]
+	- 1st revision : [[2023-07-07]]
+	- 2nd revision: [[2023-08-10]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

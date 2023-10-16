@@ -1,11 +1,11 @@
 topic: #dsa/heap [[Heap]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/973
 - first_done: [[2023-07-07]]
-	- 1st revised:[[2023-07-17]]
-- last_revised: [[2023-08-06]]
+	- 1st revised: [[2023-08-06]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -23,7 +23,7 @@ topic: #dsa/heap [[Heap]]
 - again iterate through the heap(min heap) and pop the top element and append to the *res*.
 - break the loop when len(res) == k
 #### mistakes
-
+- check condition to return should be at the end of while loop, i.e only after appending you should check
 #### code snippet
 ```python
 

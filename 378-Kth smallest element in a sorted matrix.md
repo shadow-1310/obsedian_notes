@@ -1,10 +1,11 @@
 topic: #dsa/heap [[Heap]]
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/378
 - first_done: [[2023-07-09]]
-- last_revised: [[2023-08-29]]
+	- 1st_revised: [[2023-08-29]]
+- last_revised: [[2023-10-16]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -17,7 +18,8 @@ topic: #dsa/heap [[Heap]]
 - space complexity
 
 #### pseudo code
-
+- first add all 1st col elements to the minheap
+- then whenever possible insert the next col element
 #### mistakes
 - don't take the matrix elements in a list and then heapify, instead directly iterate through the elements and heappush it.
 #### code snippet
