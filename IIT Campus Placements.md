@@ -28,8 +28,8 @@
 ---
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]
-- [ ] [[company-Mercari]]
-- [ ] [[company - Deloitte]]
+- [x] [[company-Mercari]]
+- [x] [[company - Deloitte]]
 - [ ] [[company-Tescra_Achnet]]
 - [ ] [[company-TSMC]]
 - [ ] [[company-Intel]]

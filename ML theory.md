@@ -12,6 +12,7 @@
 - Hypothesis testing
 - Statistical significance
 - CLT
+- [[ML-Statistical Tests]]
 - Paired Means Tests
 - Baye's Theorem
 - Linear Algebra

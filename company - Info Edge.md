@@ -1,5 +1,27 @@
 ## Topics
 
+### Other IIT questions
+- pandas merge, concat, join, combine methods
+	- pd.merge / df.merge
+		- on
+		- how
+	- pd.concat
+		- stitches row-wise by default
+		- objs
+		- axis
+		- join - inner/outer, defaut -> outer
+	- df.join
+		- on -> column name
+		- how - left, right, inner
+	- df.combine - Perform column-wise combine with another DataFrame.
+		- takes a lambda function to combine columns of the dataframes
+- generators
+- gini coefficient and entropy calculation of a dataset
+	- gini $$GI = 1-p_1^2-p_2^2-...$$
+	- entropy $$H(s) = -p_+log(p_-)-p_+log(p_+)$$
+- find MLE of mean and variance
+	- [Bessel's correction](https://www.statisticshowto.com/bessels-correction/)
+- statistical test
 ### Round1 - Maths & Stats(33.33%) - 30 mins
 - [ ] Probability
 	- [MCQs](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
