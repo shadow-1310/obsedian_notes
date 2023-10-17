@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77df18e76b6a0d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "886-possible bipartition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "886-possible bipartition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "886-possible bipartition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "886-possible bipartition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "886-possible bipartition.md"
               }
             }
           },
@@ -220,10 +232,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6066e31b712923dd",
+  "active": "77df18e76b6a0d01",
   "lastOpenFiles": [
-    "207-Course Schedule.md",
     "Graph.md",
+    "886-possible bipartition.md",
+    "785-is graph bipartite.md",
+    "207-Course Schedule.md",
     "399-evaluate division.md",
     "994-rotting oranges.md",
     "200-Number of islands.md",
@@ -246,8 +260,6 @@
     "Greedy.md",
     "Syllogism.md",
     "DSA/Topics/Heap.md",
-    "378-Kth smallest element in a sorted matrix.md",
-    "621-Task Scheduler.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

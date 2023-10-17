@@ -28,7 +28,9 @@ queue, hashmap
 -
 
 ### Graph coloring/ bipartition
-- 
+if the graph has a cycle with odd number nodes, it cannot be bipartited.
+- [ ] [[785-is graph bipartite]] last done: [[2023-10-17]]
+- [ ] [[886-possible bipartition]]
 ### topological sort
 hashset, Alien dictionary
 - [[207-Course Schedule]]
