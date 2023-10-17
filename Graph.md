@@ -14,8 +14,8 @@
 
 ### DFS
 stack,hashmap
-- [ ] [[200-Number of islands]]
-- [ ] [[133-Clone Graph]]
+- [x] [[200-Number of islands]] last done: [[2023-10-17]]
+- [x] [[133-Clone Graph]] last done: [[2023-10-17]]
 - [ ] [[130-Surround Regions]]
 - [ ] [[695-Max area of island]]
 - [ ] [[733-Flood Fill]]

@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/200 
 - first_done: [[2023-09-26]]
-- last_revised:
+- last_revised: [[2023-10-17]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- before incrementing islands make sure that current cell has not been visited before
 #### code snippet
 ```python
 

@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/133 
 - first_done: [[2023-10-01]]
-- last_revised:
+- last_revised: [[2023-10-17]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,6 +21,8 @@ topic:
 - use deque if you want to do it by BFS
 #### mistakes
 - remember the edge case where a Null node can be given as input
+	- repeated same mistake
+- in every loop before accessing instance variables check if current node is None, if None then continue 
 #### code snippet
 ```python
 
