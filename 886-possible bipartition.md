@@ -10,7 +10,7 @@ topic:
 	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/possible-bipartition/
-- solution_link:
+- solution_link: [my solution on github](https://github.com/shadow-1310/DSA_practice/blob/master/LeetCode/top_interview/graph/886-possible_bipartition.py)
 
 ### approach - 1
 - Time Complexity
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- while making the adjacency list , make it as bidirectional
 #### code snippet
 ```python
 

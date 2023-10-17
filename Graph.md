@@ -14,23 +14,23 @@
 
 ### DFS
 stack,hashmap
-- [[200-Number of islands]]
-- [[133-Clone Graph]]
-- [[130-Surround Regions]]
-- [[695-Max area of island]]
-- [[733-Flood Fill]]
-- [[802-find eventual safe states]]
+- [ ] [[200-Number of islands]]
+- [ ] [[133-Clone Graph]]
+- [ ] [[130-Surround Regions]]
+- [ ] [[695-Max area of island]]
+- [ ] [[733-Flood Fill]]
+- [ ] [[802-find eventual safe states]]
 ### BFS
 queue, hashmap
-- [[994-rotting oranges]]
-- [[399-evaluate division]]
+- [ ] [[994-rotting oranges]]
+- [ ] [[399-evaluate division]]
 ### Union Find
 -
 
 ### Graph coloring/ bipartition
 if the graph has a cycle with odd number nodes, it cannot be bipartited.
 - [ ] [[785-is graph bipartite]] last done: [[2023-10-17]]
-- [ ] [[886-possible bipartition]]
+- [ ] [[886-possible bipartition]] last done: [[2023-10-17]]
 ### topological sort
 hashset, Alien dictionary
 - [[207-Course Schedule]]
