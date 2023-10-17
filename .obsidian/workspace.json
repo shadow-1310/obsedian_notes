@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "preview",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "daily-notes/2023-10-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "DSA/Topics/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "DSA/Topics/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "DSA/Topics/DSA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "DSA/Topics/DSA.md"
               }
             }
           },
@@ -251,10 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2be56e82080c2d5",
+  "active": "6ff62b7dfd068c6f",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "IIT Campus Placements.md",
+    "Quant and Logical Reasoning.md",
     "daily-notes/2023-10-16.md",
+    "Untitled 2.md",
     "DSA/Topics/Binary Search.md",
     "1011-capacity to ship packages.md",
     "240-Search 2D matrix II.md",
@@ -262,9 +264,7 @@
     "Bitwise Operation.md",
     "338-Count Bits.md",
     "Greedy.md",
-    "Quant and Logical Reasoning.md",
     "Syllogism.md",
-    "IIT Campus Placements.md",
     "DSA/Topics/Heap.md",
     "378-Kth smallest element in a sorted matrix.md",
     "621-Task Scheduler.md",
