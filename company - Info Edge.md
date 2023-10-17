@@ -22,6 +22,9 @@
 - find MLE of mean and variance
 	- [Bessel's correction](https://www.statisticshowto.com/bessels-correction/)
 - statistical test
+- questions on K-means and KNN
+	- large K in KNN, high bias low variance
+	- small K in KNN, low bias high variance
 ### Round1 - Maths & Stats(33.33%) - 30 mins
 - [ ] Probability
 	- [MCQs](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
