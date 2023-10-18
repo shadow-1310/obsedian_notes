@@ -20,10 +20,11 @@ stack,hashmap
 - [x] [[695-Max area of island]] last done: [[2023-10-18]]
 - [x] [[733-Flood Fill]] last done: [[2023-10-18]]
 - [x] [[802-find eventual safe states]] last done: [[2023-10-18]], slightly tricky
+
 ### BFS
 queue, hashmap
 - [x] [[994-rotting oranges]] last done: [[2023-10-18]], tricky
-- [ ] [[399-evaluate division]]
+- [x] [[399-evaluate division]] last done: [[2023-10-18]] tricky
 ### Union Find
 -
 
@@ -40,6 +41,8 @@ Heap / Priority Queue, Hashset
 - [[743-Network delay time]]
 ### Prim or Kruskal spanning tree
 
-
+### Basics
+- [x] [[1791-find center of a start graph]] last done: [[2023-10-18]]
+- [ ] [[797-All paths from source to target]]
 
 

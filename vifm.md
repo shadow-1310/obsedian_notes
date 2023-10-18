@@ -1,3 +1,6 @@
+how to access connected mobile data
+[stackoverflow](https://askubuntu.com/questions/342319/where-are-mtp-mounted-devices-located-in-the-filesystem)
+
 
 [arch wiki](https://wiki.archlinux.org/title/Vifm)
 ## integrate fzf

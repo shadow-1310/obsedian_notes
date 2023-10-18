@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/399 
 - first_done: [[2023-10-02]]
-- last_revised:
+- last_revised: [[2023-10-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +19,7 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- 
 #### code snippet
 ```python
 

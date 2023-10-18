@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "df277b21d6f1062c",
+            "id": "8dcf6ded7b5d7d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "399-evaluate division.md",
-                "mode": "preview",
+                "file": "797-All paths from source to target.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "399-evaluate division.md",
+                "file": "797-All paths from source to target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "399-evaluate division.md",
+                "file": "797-All paths from source to target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "399-evaluate division.md",
+                "file": "797-All paths from source to target.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "399-evaluate division.md"
+                "file": "797-All paths from source to target.md"
               }
             }
           },
@@ -232,17 +232,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df277b21d6f1062c",
+  "active": "8dcf6ded7b5d7d9a",
   "lastOpenFiles": [
     "Graph.md",
-    "399-evaluate division.md",
+    "797-All paths from source to target.md",
+    "1791-find center of a start graph.md",
     "daily-notes/2023-10-18.md",
+    "daily-notes/2023-10-17.md",
+    "399-evaluate division.md",
+    "vifm.md",
+    "Linux.md",
     "994-rotting oranges.md",
     "802-find eventual safe states.md",
     "733-Flood Fill.md",
     "695-Max area of island.md",
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-10-17.md",
     "ML-Statistical Tests.md",
     "130-Surround Regions.md",
     "133-Clone Graph.md",
@@ -256,10 +260,6 @@
     "company-Mercari.md",
     "company - Deloitte.md",
     "daily-notes/2023-10-16.md",
-    "Quant and Logical Reasoning.md",
-    "Untitled 2.md",
-    "DSA/Topics/Binary Search.md",
-    "1011-capacity to ship packages.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
