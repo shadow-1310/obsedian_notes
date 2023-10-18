@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/695 
 - first_done: [[2023-10-01]]
-- last_revised:
+- last_revised:[[2023-10-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,6 +21,7 @@ topic:
 - store all area in a list and return the max of this list
 #### mistakes
 - include the edge case when input grid doesnot have any island, max_area will be empty so return 0
+- before incrementing current area check if current node is already visited.f
 #### code snippet
 ```python
 

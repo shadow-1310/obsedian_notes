@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/733 
 - first_done: [[2023-10-01]]
-- last_revised:
+- last_revised: [[2023-10-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,6 +19,7 @@ topic:
 
 #### mistakes
 - don't forget to store initial position color, as it will get changed 
+- thoroughly check the invalid return conditions
 #### code snippet
 ```python
 

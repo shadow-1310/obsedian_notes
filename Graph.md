@@ -17,8 +17,8 @@ stack,hashmap
 - [x] [[200-Number of islands]] last done: [[2023-10-17]]
 - [x] [[133-Clone Graph]] last done: [[2023-10-17]]
 - [x] [[130-Surround Regions]] last done: [[2023-10-17]]
-- [ ] [[695-Max area of island]]
-- [ ] [[733-Flood Fill]]
+- [x] [[695-Max area of island]] last done: [[2023-10-18]]
+- [x] [[733-Flood Fill]] last done: [[2023-10-18]]
 - [ ] [[802-find eventual safe states]]
 ### BFS
 queue, hashmap
