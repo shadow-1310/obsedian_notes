@@ -19,18 +19,18 @@ stack,hashmap
 - [x] [[130-Surround Regions]] last done: [[2023-10-17]]
 - [x] [[695-Max area of island]] last done: [[2023-10-18]]
 - [x] [[733-Flood Fill]] last done: [[2023-10-18]]
-- [ ] [[802-find eventual safe states]]
+- [x] [[802-find eventual safe states]] last done: [[2023-10-18]], slightly tricky
 ### BFS
 queue, hashmap
-- [ ] [[994-rotting oranges]]
+- [x] [[994-rotting oranges]] last done: [[2023-10-18]], tricky
 - [ ] [[399-evaluate division]]
 ### Union Find
 -
 
 ### Graph coloring/ bipartition
 if the graph has a cycle with odd number nodes, it cannot be bipartited.
-- [ ] [[785-is graph bipartite]] last done: [[2023-10-17]]
-- [ ] [[886-possible bipartition]] last done: [[2023-10-17]]
+- [x] [[785-is graph bipartite]] last done: [[2023-10-17]]
+- [x] [[886-possible bipartition]] last done: [[2023-10-17]]
 ### topological sort
 hashset, Alien dictionary
 - [[207-Course Schedule]]

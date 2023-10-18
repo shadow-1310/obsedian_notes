@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/994 
 - first_done: [[2023-10-02]]
-- last_revised:
+- last_revised: [[2023-10-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -20,6 +20,9 @@ topic:
 - perform multisource BFS
 #### mistakes
 - run the parent loop tile fresh != 0
+- when using a visited set, careful when to decreament fresh
+	- whenever visiting a node , don't always decrease fresh, first check if visited element is 1 or not, because initially we also appended 2 to the queue
+- while using visiting set it becomes complex, don't use visited set, instead 
 #### code snippet
 ```python
 

@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/802 
 - first_done: [[2023-10-01]]
-- last_revised:
+- last_revised: [[2023-10-18]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,7 +21,7 @@ topic:
 - it can be done using two approaches with DFS, neetcode shows one way of using a single hashmap to check whether the current node is safe or not and also if it is visited
 - in my solution I have used 2 different sets to determine it, it increases the space complexity
 #### mistakes
-
+- append current visited node to safe before returnung True
 #### code snippet
 ```python
 
