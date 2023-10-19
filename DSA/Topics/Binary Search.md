@@ -20,5 +20,5 @@ tags: #dsa/binary-search #unfinished
 - [ ] [[74-Search 2D matrix]] last done: [[2023-09-22]]
 - [ ] [[240-Search 2D matrix II]]
 - [ ] [[1011-capacity to ship packages]]
-- [ ] [[2410-maximum matching of players with trainees]]
+- [x] [[2410-maximum matching of players with trainees]] last done: [[2023-10-19]]
 
