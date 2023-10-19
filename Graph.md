@@ -44,5 +44,6 @@ Heap / Priority Queue, Hashset
 ### Basics
 - [x] [[1791-find center of a start graph]] last done: [[2023-10-18]]
 - [x] [[797-All paths from source to target]] last done: [[2023-10-18]]
+- [ ] [[1557-minimum number of vertices to reach all nodes]]
 
 
