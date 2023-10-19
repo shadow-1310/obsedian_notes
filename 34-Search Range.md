@@ -5,7 +5,7 @@ topic:
 - serial no: #leetcode/34 
 - first_done: [[2023-05-24]]
 	- first_revised: [[2023-06-11]]
-- last_revised: [[2023-09-22]]
+- last_revised: [[2023-10-19]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,6 +21,7 @@ topic:
 
 #### mistakes
 - use one helper function which searches right or left iteratively
+- don't forget to keep l <= r not l < r.
 #### code snippet
 ```python
 

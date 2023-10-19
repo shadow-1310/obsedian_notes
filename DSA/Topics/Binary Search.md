@@ -10,13 +10,15 @@ tags: #dsa/binary-search #unfinished
 ---
 [LC discussion](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
-- [[33-Search in Rotated Sorted Array]] last done: [[2023-09-22]]
-- [[34-Search Range]] last done: [[2023-09-22]]
-- [[69-Sqare Root]] last done: [[2023-09-22]]
-- [[875-Koko eating bananas ]] last done: [[2023-09-23]]
-- [[153-Find minimum in rotated sorted array]] last done: [[2023-09-22]]
-- [[162-find peak element]] last done: [[2023-09-22]] **Tricky**
-- [[74-Search 2D matrix]] last done: [[2023-09-22]]
-- [[240-Search 2D matrix II]]
-- [[1011-capacity to ship packages]]
+- [ ] [[33-Search in Rotated Sorted Array]] last done: [[2023-09-22]]
+- [x] [[34-Search Range]] last done: [[2023-10-19]]
+- [x] [[35-search insert position]] last done: [[2023-10-19]]
+- [ ] [[69-Sqare Root]] last done: [[2023-09-22]]
+- [ ] [[875-Koko eating bananas ]] last done: [[2023-09-23]]
+- [ ] [[153-Find minimum in rotated sorted array]] last done: [[2023-09-22]]
+- [ ] [[162-find peak element]] last done: [[2023-09-22]] **Tricky**
+- [ ] [[74-Search 2D matrix]] last done: [[2023-09-22]]
+- [ ] [[240-Search 2D matrix II]]
+- [ ] [[1011-capacity to ship packages]]
+- [ ] [[2410-maximum matching of players with trainees]]
 
