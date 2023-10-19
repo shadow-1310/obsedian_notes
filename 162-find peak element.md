@@ -1,7 +1,7 @@
 topic: #dsa/memorize
 
 ### basic info
-- source: #leetcode 
+- source: 
 - serial no: #leetcode/162 
 - first_done: [[2023-05-25]]
 - last_revised: [[2023-09-22]]

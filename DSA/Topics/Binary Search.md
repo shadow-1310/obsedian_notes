@@ -10,7 +10,8 @@ tags: #dsa/binary-search #unfinished
 ---
 [LC discussion](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
-- [ ] [[33-Search in Rotated Sorted Array]] last done: [[2023-09-22]]
+- [x] [[33-Search in Rotated Sorted Array]] last done: [[2023-10-19]], one more time
+- [ ] [[81-Search in rotated sorted array - with duplicates]]
 - [x] [[34-Search Range]] last done: [[2023-10-19]]
 - [x] [[35-search insert position]] last done: [[2023-10-19]]
 - [ ] [[69-Sqare Root]] last done: [[2023-09-22]]

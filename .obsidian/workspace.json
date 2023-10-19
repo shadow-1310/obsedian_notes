@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13710b0f0d119ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "81-Search in rotated sorted array - with duplicates.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Binary Search.md",
+                "file": "company - Info Edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-19.md",
+                "file": "company - Info Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-19.md",
+                "file": "company - Info Edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-19.md",
+                "file": "company - Info Edge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-19.md"
+                "file": "company - Info Edge.md"
               }
             }
           },
@@ -232,16 +244,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94094dce3b9beafc",
+  "active": "be757180c91f180b",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
     "DSA/Topics/Binary Search.md",
+    "81-Search in rotated sorted array - with duplicates.md",
+    "33-Search in Rotated Sorted Array.md",
+    "162-find peak element.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-10-19.md",
     "2410-maximum matching of players with trainees.md",
     "35-search insert position.md",
     "34-Search Range.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
     "Graph.md",
-    "daily-notes/2023-10-19.md",
     "1557-minimum number of vertices to reach all nodes.md",
     "daily-notes/2023-10-18.md",
     "797-All paths from source to target.md",
@@ -256,10 +272,6 @@
     "695-Max area of island.md",
     "ML-Statistical Tests.md",
     "130-Surround Regions.md",
-    "133-Clone Graph.md",
-    "200-Number of islands.md",
-    "886-possible bipartition.md",
-    "785-is graph bipartite.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
