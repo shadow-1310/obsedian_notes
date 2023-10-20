@@ -100,7 +100,7 @@
 		- d -> document
 		- D -> corpus
 - [ ] Embedding based approach ( Word2Vec, FastText, BERT)
-	- Word2vec model, [krishnaik video](https://www.youtube.com/watch?v=hKgUlpcZ1eI)
+	- Word2vec model, [krishnaik video](https://www.youtube.com/watch?v=hKgUlpcZ1eI) ^401fd1
 		- CBOW 
 		- skipgram
 - [ ] LSTM, CNN, RNN, transformers, GANs

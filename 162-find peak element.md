@@ -4,7 +4,8 @@ topic: #dsa/memorize
 - source: 
 - serial no: #leetcode/162 
 - first_done: [[2023-05-25]]
-- last_revised: [[2023-09-22]]
+	- 1st_revised: [[2023-09-22]]
+- last_revised: [[2023-10-20]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -20,6 +21,7 @@ topic: #dsa/memorize
 - the goal is to divide the segment, peak element will always occur on the side of the mid element where it is increasing.
 #### mistakes
 - It is tricky to get the edge cases in a small code
+- remember we always compare the mid with surrounding element, where mid element will be the smaller
 #### code snippet
 ```python
 

@@ -4,7 +4,8 @@ topic:
 - source: 
 - serial no: #leetcode/875 
 - first_done: [[2023-05-28]]
-- last_revised: [[2023-09-23]]
+	- 1st_revised: [[2023-09-23]]
+- last_revised: [[2023-10-20]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -22,6 +23,7 @@ topic:
 - don't directly return when mid == h, instead try to minimize rate
 	- so combine 2 conditions in mid update rule
 - don't keep left limit as 0
+- don't forget to combine the condition where hour taken can be less than given hour
 #### code snippet
 ```python
 

@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c602a805ccf48bfc",
+            "id": "be757180c91f180b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-10-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "270a6b470379dbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +32,12 @@
             }
           },
           {
-            "id": "13710b0f0d119ed5",
+            "id": "aaa5375e61f3e955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81-Search in rotated sorted array - with duplicates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be757180c91f180b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company - Info Edge.md",
+                "file": "74-Search 2D matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "74-Search 2D matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "74-Search 2D matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "74-Search 2D matrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company - Info Edge.md"
+                "file": "74-Search 2D matrix.md"
               }
             }
           },
@@ -232,20 +232,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be757180c91f180b",
+  "active": "aaa5375e61f3e955",
   "lastOpenFiles": [
-    "81-Search in rotated sorted array - with duplicates.md",
-    "company - Info Edge.md",
+    "DSA/Topics/Binary Search.md",
+    "daily-notes/2023-10-20.md",
+    "162-find peak element.md",
+    "153-Find minimum in rotated sorted array.md",
+    "DSA/Topics/DSA.md",
+    "875-Koko eating bananas.md",
+    "81-Search in rotated sorted array-with duplicates.md",
+    "35-search insert position.md",
     "daily-notes/2023-10-19.md",
+    "company - Info Edge.md",
     "Linux.md",
     "newsboat.md",
     "IIT Campus Placements.md",
-    "DSA/Topics/Binary Search.md",
     "33-Search in Rotated Sorted Array.md",
-    "162-find peak element.md",
-    "DSA/Topics/DSA.md",
     "2410-maximum matching of players with trainees.md",
-    "35-search insert position.md",
     "34-Search Range.md",
     "DSA/Topics/Array.md",
     "Graph.md",
@@ -257,9 +260,6 @@
     "399-evaluate division.md",
     "vifm.md",
     "994-rotting oranges.md",
-    "802-find eventual safe states.md",
-    "733-Flood Fill.md",
-    "695-Max area of island.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
