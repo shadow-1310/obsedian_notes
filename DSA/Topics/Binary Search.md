@@ -20,6 +20,6 @@ tags: #dsa/binary-search #unfinished
 - [x] [[162-find peak element]] last done: [[2023-09-22]] **Tricky**
 - [x] [[74-Search 2D matrix]] last done: [[2023-10-20]], tricky
 - [ ] [[240-Search 2D matrix II]]
-- [ ] [[1011-capacity to ship packages]]
+- [x] [[1011-capacity to ship packages]], last done: [[2023-10-20]]
 - [x] [[2410-maximum matching of players with trainees]] last done: [[2023-10-19]]
 

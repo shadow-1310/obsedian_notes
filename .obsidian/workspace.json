@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7e7eb0a964c5410e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "240-Search 2D matrix II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "668563d7e8098f81",
             "type": "leaf",
             "state": {
@@ -32,25 +44,13 @@
             }
           },
           {
-            "id": "28471386f19caf08",
+            "id": "ef589fcdfe7e4a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML theory.md",
+                "file": "Linux.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dda3c40fa91f784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company - Info Edge.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:placemen",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company - Info Edge.md",
+                "file": "Linux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company - Info Edge.md"
+                "file": "Linux.md"
               }
             }
           },
@@ -244,14 +244,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dda3c40fa91f784",
+  "active": "ef589fcdfe7e4a1f",
   "lastOpenFiles": [
+    "240-Search 2D matrix II.md",
+    "DSA/Topics/Binary Search.md",
+    "1011-capacity to ship packages.md",
+    "daily-notes/2023-10-20.md",
+    "ML theory.md",
+    "company - Info Edge.md",
     "attachments/Pasted image 20231020204628.png",
     "IIT Campus Placements.md",
-    "ML theory.md",
     "ml-evaluation_metrics.md",
-    "DSA/Topics/Binary Search.md",
-    "daily-notes/2023-10-20.md",
     "74-Search 2D matrix.md",
     "162-find peak element.md",
     "153-Find minimum in rotated sorted array.md",
@@ -260,7 +263,6 @@
     "81-Search in rotated sorted array-with duplicates.md",
     "35-search insert position.md",
     "daily-notes/2023-10-19.md",
-    "company - Info Edge.md",
     "Linux.md",
     "newsboat.md",
     "33-Search in Rotated Sorted Array.md",
@@ -271,7 +273,6 @@
     "1557-minimum number of vertices to reach all nodes.md",
     "daily-notes/2023-10-18.md",
     "797-All paths from source to target.md",
-    "1791-find center of a start graph.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
@@ -281,7 +282,6 @@
     "attachments/Pasted image 20230912104817.png",
     "attachments/Pasted image 20230912103544.png",
     "attachments/Pasted image 20230911170419.png",
-    "attachments/Pasted image 20230911165103.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",

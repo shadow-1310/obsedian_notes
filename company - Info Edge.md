@@ -89,6 +89,7 @@
 - [ ] MLE
 - [ ] NLP basics [analytics vidya](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
 	- how many bigram, trigram in a sentence?
+	- polysemy - CNN
 	- string matching
 		- edit distance
 		- metaphore

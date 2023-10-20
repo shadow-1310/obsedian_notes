@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/1011 
 - first_done: [[2023-10-07]]
-- last_revised:
+- last_revised: [[2023-10-20]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -23,6 +23,7 @@ topic:
 #### mistakes
 - don't make min as 1, because our capacity should lift the maximum weight
 - here we are not able to lift the weights in fragments.
+- making the mistake of returning mid instead of res which stores minimum mid
 #### code snippet
 ```python
 
