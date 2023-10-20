@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94094dce3b9beafc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,13 +234,16 @@
   },
   "active": "be757180c91f180b",
   "lastOpenFiles": [
+    "81-Search in rotated sorted array - with duplicates.md",
+    "company - Info Edge.md",
+    "daily-notes/2023-10-19.md",
+    "Linux.md",
+    "newsboat.md",
     "IIT Campus Placements.md",
     "DSA/Topics/Binary Search.md",
-    "81-Search in rotated sorted array - with duplicates.md",
     "33-Search in Rotated Sorted Array.md",
     "162-find peak element.md",
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-10-19.md",
     "2410-maximum matching of players with trainees.md",
     "35-search insert position.md",
     "34-Search Range.md",
@@ -265,13 +256,10 @@
     "daily-notes/2023-10-17.md",
     "399-evaluate division.md",
     "vifm.md",
-    "Linux.md",
     "994-rotting oranges.md",
     "802-find eventual safe states.md",
     "733-Flood Fill.md",
     "695-Max area of island.md",
-    "ML-Statistical Tests.md",
-    "130-Surround Regions.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

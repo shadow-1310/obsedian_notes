@@ -87,9 +87,22 @@
 - [ ] density estimation (KDE, K-Means)
 - [ ] MAP
 - [ ] MLE
-- [ ] NLP basics
+- [ ] NLP basics [analytics vidya](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
+	- how many bigram, trigram in a sentence?
+	- string matching
+		- edit distance
+		- metaphore
+		- soundex
 - [ ] TF-IDF
+	- tf-idf calculation [ritvik video](https://www.youtube.com/watch?v=OymqCnh-APA)
+	- TF(t,d)* IDF(t, D)
+		- t -> term
+		- d -> document
+		- D -> corpus
 - [ ] Embedding based approach ( Word2Vec, FastText, BERT)
+	- Word2vec model, [krishnaik video](https://www.youtube.com/watch?v=hKgUlpcZ1eI)
+		- CBOW 
+		- skipgram
 - [ ] LSTM, CNN, RNN, transformers, GANs
 
 ### Round3 - Programming Skills
