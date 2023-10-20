@@ -18,7 +18,7 @@ tags: #dsa/binary-search #unfinished
 - [x] [[875-Koko eating bananas ]] last done: [[2023-10-20]]
 - [x] [[153-Find minimum in rotated sorted array]] last done: [[2023-10-20]], revise more
 - [x] [[162-find peak element]] last done: [[2023-09-22]] **Tricky**
-- [ ] [[74-Search 2D matrix]] last done: [[2023-10-20]], tricky
+- [x] [[74-Search 2D matrix]] last done: [[2023-10-20]], tricky
 - [ ] [[240-Search 2D matrix II]]
 - [ ] [[1011-capacity to ship packages]]
 - [x] [[2410-maximum matching of players with trainees]] last done: [[2023-10-19]]

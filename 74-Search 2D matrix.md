@@ -1,10 +1,11 @@
 topic:
 
-### basic info
+### basic info 
 - source: 
 - serial no: #leetcode/74 
 - first_done: [[2023-05-25]]
-- last_revised: [[2023-09-22]]
+	- 1st_revised: [[2023-09-22]]
+- last_revised: [[2023-10-20]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -19,7 +20,8 @@ topic:
 #### pseudo code
 
 #### mistakes
-
+- don't try to do with nested loop
+	- after first loop ends, selected row will be right pointer
 #### code snippet
 ```python
 
