@@ -100,9 +100,16 @@
 		- d -> document
 		- D -> corpus
 - [ ] Embedding based approach ( Word2Vec, FastText, BERT)
-	- Word2vec model, [krishnaik video](https://www.youtube.com/watch?v=hKgUlpcZ1eI) ^401fd1
+	- Word2vec model, self-supervised model
+		- [codeEmporium video](https://www.youtube.com/watch?v=9S0-OC4LFNo) [krishnaik video](https://www.youtube.com/watch?v=hKgUlpcZ1eI) ^401fd1
 		- CBOW 
 		- skipgram
+		- cons
+			- ![[Pasted image 20231020204628.png]]
+	- GloVe
+	- FastText
+		- for morphologically rich languages 
+		- considers sub-word information
 - [ ] LSTM, CNN, RNN, transformers, GANs
 
 ### Round3 - Programming Skills
