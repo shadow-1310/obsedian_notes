@@ -27,7 +27,7 @@
 ### Logical Reasoning
 ***Verbal***
 - [x] [[Syllogism]]
-- [x] Coding-Decoding
+- [x] [[Coding-Decoding]]
 - [ ] [[Data Sufficiency]]
 - [x] [[blood relation]]
 - [ ] [[seating arrangement]]
