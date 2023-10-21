@@ -44,7 +44,11 @@
 - [ ] CLT
 - [ ] Paired Means Tests
 - [ ] Baye's Theorem
+- [ ] distance metric
+	- for cat variable we need to use Hamming distance
 - [ ] Linear Algebra
+	- corelation and covariance
+		- corelation is a standarized version of covariance
 	- [x] EigenValue Decomposition - [ritvikmath](https://www.youtube.com/watch?v=KTKAp9Q3yWg)
 		- only applies to diagonal square matrix
 		- eigenvector and eigenmatrix, $$Ax = \lambda x$$ 
@@ -77,22 +81,32 @@
 		 - [ ] singular values vs eigen values
 ### Round2 - Classical ML and DL(66.67%) - 45 mins
 - [ ] Bagging 
+	- decreases variance
 - [ ] Boosting
+	- decreases bias
+	- other ensemble techniques are 
+		- Extra Trees
+		- Voting Classifier
+		- Stacking
 - [ ] Gradient Descent
 - [ ] Decision Trees
 - [ ] Linear and Logistic Regressions
+	- response(y) and predictor(x1, x2, x3, ...)
 - [ ] Random Forest
 - [ ] Gradient Boosting Machines
 - [ ] XGBoost
 - [ ] LiteGBM
 - [x] SVM and kernel trick
 - [ ] Regularization
+	- L1(Lasso)-makes weight 0
+	- L2(Ridge) - shrinks weight to almost 0
 - [x] Bias-Variance trade off
 - [ ] Evaluation Metrics (precision, recall, f1, fpr etc.)
 - [ ] confusion matrix
 - [ ] missing data imputation
 - [ ] matrix factorization
 - [ ] density estimation (KDE, K-Means)
+	- Kmeans - it can get stuck in local minima
 - [ ] MAP
 - [ ] MLE
 - [ ] NLP basics [analytics vidya](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
@@ -120,6 +134,10 @@
 		- for morphologically rich languages 
 		- considers sub-word information
 - [ ] LSTM, CNN, RNN, transformers, GANs
+- [ ] Activation functions
+	- sigmoid (0-1)
+	- tanh(-1-1), zero centred
+	- 
 
 ### Round3 - Programming Skills
 - part 1- Data handling
