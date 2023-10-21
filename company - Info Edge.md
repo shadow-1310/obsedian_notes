@@ -29,6 +29,14 @@
 - [ ] Probability
 	- [MCQs](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 - [ ] Probability Distributions
+	- theoriticals
+		- gaussian
+	- practical - [ritvik video](https://www.youtube.com/watch?v=bOlEUWMKDek)
+		- spike - limited by upper or lower bound
+		- skewed 
+		- bimodal - combination of 2 or more groups
+		- pointy--- stable
+		- noisy - check bin size or sample size
 - [ ] Sampling
 - [ ] Correlations
 - [ ] Hypothesis testing
