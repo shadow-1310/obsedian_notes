@@ -7,6 +7,7 @@
 - [x] [[Two Pointers]]
 - [ ] [[Sliding Window]]
 - [ ] [[Stack]]
+- [ ] [[Queue]]
 - [ ] [[Binary Search]]
 - [x] [[Linked List]]
 - [x] [[Tree]]
@@ -25,3 +26,8 @@
 - [graph MCQ](https://www.youtube.com/watch?v=65xbJTJvyHI)
 - [[Sorting]]
 [MCQ link1](https://www.youtube.com/watch?v=Rtr1hvyOlh0)
+
+
+[1000 MCQ](https://www.sanfoundry.com/1000-data-structure-questions-answers/)
+
+![[Pasted image 20231022200718.png]]

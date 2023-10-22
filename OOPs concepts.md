@@ -59,3 +59,23 @@ enemy.draw()   # Output: Drawing enemy at (30, 40) with strength 50
 
 ```
 - This abstract class ensures that all game objects, whether they are players or enemies or any other type, must have a `draw()` method, which is essential for rendering them in the game world.
+
+
+## Inheritance
+- syntax in C++
+```cpp
+class BaseClass { // Base class members and methods };
+
+class DerivedClass : access-specifier BaseClass { };
+```
+message passing - interaction of one object with another
+access specifier 
+- private 
+- public
+- protected
+
+Encapsulation
+- It is a way of combining various data members and member functions that operate on those data members into a single unit
+
+Constructor
+- only one constructor should be defined

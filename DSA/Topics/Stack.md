@@ -1,6 +1,12 @@
 tags: #dsa/stack #unfinished 
 ## Basic Overview
 
+#### Applications
+
+a) Compiler Syntax Analyzer  
+b) Tracking of local variables at run time  
+c) A parentheses balancing program
+
 ### Implementation from scratch
 #### pseudo-code
 

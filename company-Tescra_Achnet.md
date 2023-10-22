@@ -13,4 +13,15 @@
 		- technical test will consist of MCQ on OOP, DSA, Quant, Reasoning
 	- must know NoSQL databases like redis, MongoDB for PI round
 - ppt
+
+
+### OOPs MCQ
+- [sanfoundry website 1000 mcq](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
+- Constructor
+	- special case on constructor with only one argument
+	- copy costructor
+		- Copy an object so that it can be passed to a function
+- Destructor
+	- What happens when an object is passed by reference?
+		- The destructor is never called in this situation. The concept is that when an object is passed by reference to the function, the constructor is not called, but only the main object will be used. Hence no destructor will be called at end of function.
 	- 
