@@ -59,6 +59,8 @@
 - [ ] Linear Algebra
 	- corelation and covariance
 		- corelation is a standarized version of covariance
+	- Covariance Matrix
+		- it describes the shape of the distribution
 	- [x] EigenValue Decomposition - [ritvikmath](https://www.youtube.com/watch?v=KTKAp9Q3yWg)
 		- only applies to diagonal square matrix
 		- eigenvector and eigenmatrix, $$Ax = \lambda x$$ 
@@ -115,8 +117,23 @@
 - [ ] confusion matrix
 - [ ] missing data imputation
 - [ ] matrix factorization
-- [ ] density estimation (KDE, K-Means)
-	- Kmeans - it can get stuck in local minima
+- [ ] density estimation and clustering techniques (KDE, K-Means)
+- [analytics vidya mcq](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
+	- Kmeans - it can get stuck in local minima - Hard margin
+		- Methods of initialization
+			- Random
+			- Forgy Method
+	- Fuzzy Kmeans - soft margin
+	- DBSCAN
+	- GMM (Gaussian Mixture Model) [serrano](https://www.youtube.com/watch?v=q71Niz856KE) - Soft margin
+		- overlapping clusters
+		- mu
+		- sigma
+		- pi
+	- EM algorithm(Expectation Maximization) - can stuck in local minima
+	- [ritvik tutorial](https://www.youtube.com/watch?v=xy96ArOpntA)
+		- we don't know 2 pieces of information at once
+		- can be used for missing value imputations
 - [ ] MAP
 - [ ] MLE
 - [ ] NLP basics [analytics vidya](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)

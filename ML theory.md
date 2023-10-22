@@ -77,7 +77,6 @@
 	- Markov Blanket
 - **Week 5**
 	- SVM decision boundary, 
-	- 
 	- kernel function- also a similarity function
 	- when soft margin is preferred - noisy and overlapping data
 	- SVM parameters - [youtube video](https://www.youtube.com/watch?v=fqhHBCfNy6s)
@@ -85,7 +84,7 @@
 			- low gamma - large similarity radius, more points are grouped together
 			- high gamma- small similarity radius, less points are grouped together
 		- C -  slack variable (cost parameter)
-			- trade off between missclassification and the margin.
+			- trade off between misclassification and the margin.
 			- adds penalty for each misclassified point
 			- so high C means hard/smaller margin, chance of overfitting 
 			- low C means soft/ larger margin
@@ -147,6 +146,9 @@
 			- Rand Index
 			- Jaccard index
 			- f measure
+
+
+
 ## Specific ML models
 ---
 ## Linear Regression
