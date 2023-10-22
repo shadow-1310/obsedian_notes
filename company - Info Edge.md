@@ -164,7 +164,11 @@
 - [ ] Activation functions
 	- sigmoid (0-1)
 	- tanh(-1-1), zero centred
-	- 
+- [ ] RBF Neural Network
+	- uses rbf as activation at each neuron, have 3 parameters
+		- unit centre(c) - K-means
+		- unit width(r) - KNN
+		- weight(w) - apply rbf(distance)
 
 ### Round3 - Programming Skills
 - part 1- Data handling
