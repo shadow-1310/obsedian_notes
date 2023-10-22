@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Analytics 2023.md",
+                "file": "ML theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Analytics 2023.md",
+                "file": "ML theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Summer Analytics 2023.md",
+                "file": "ML theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Analytics 2023.md"
+                "file": "ML theory.md"
               }
             }
           },
@@ -232,8 +232,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "404f34b8d488c5d9",
+  "active": "9877b5315e53de64",
   "lastOpenFiles": [
+    "Summer Analytics 2023.md",
     "ML theory.md",
     "company - Info Edge.md",
     "IIT Campus Placements.md",
@@ -261,7 +262,6 @@
     "newsboat.md",
     "33-Search in Rotated Sorted Array.md",
     "2410-maximum matching of players with trainees.md",
-    "34-Search Range.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
