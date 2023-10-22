@@ -28,6 +28,7 @@
 ***Verbal***
 - [x] [[Syllogism]]
 - [x] [[Coding-Decoding]]
+- [ ] [[reasoning-Artificial language]]
 - [ ] [[Data Sufficiency]]
 - [x] [[blood relation]]
 - [ ] [[seating arrangement]]

@@ -1,0 +1,3 @@
+- self test 9mins, 12 questions
+	- [indiabix-page1](https://www.indiabix.com/logical-reasoning/artificial-language/) to [indiabix-page3](https://www.indiabix.com/logical-reasoning/artificial-language/018003)
+	- 12 correct, 0 wrong

@@ -42,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c504cd671b74f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6b8e00f5b98978c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reasoning-Artificial language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:placement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "reasoning-Artificial language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "reasoning-Artificial language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "reasoning-Artificial language.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/DSA.md"
+                "file": "reasoning-Artificial language.md"
               }
             }
           },
@@ -231,14 +256,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9877b5315e53de64",
+  "active": "d6b8e00f5b98978c",
   "lastOpenFiles": [
+    "Quant and Logical Reasoning.md",
+    "reasoning-Artificial language.md",
+    "IIT Campus Placements.md",
+    "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231022200718.png",
     "Queue.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Stack.md",
     "templates/DSA_topics.md",
-    "IIT Campus Placements.md",
     "OOPs concepts.md",
     "company-Tescra_Achnet.md",
     "daily-notes/2023-10-22.md",
@@ -249,7 +276,6 @@
     "240-Search 2D matrix II.md",
     "daily-notes/2023-10-21.md",
     "DSA/Topics/Binary Search.md",
-    "Quant and Logical Reasoning.md",
     "Coding-Decoding.md",
     "logical sequence.md",
     "Linux.md",
@@ -268,7 +294,6 @@
     "attachments/Pasted image 20230919112453.png",
     "attachments/Pasted image 20230918181041.png",
     "attachments/Pasted image 20230912104817.png",
-    "attachments/Pasted image 20230912103544.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",
