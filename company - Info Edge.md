@@ -39,7 +39,17 @@
 		- noisy - check bin size or sample size
 - [ ] Sampling
 - [ ] Correlations
-- [ ] Hypothesis testing
+	- Pearson correlation
+	- Rank Correlation
+	- find slope of regression line from correlation and standard deviation values
+		- ![[Pasted image 20231021224856.png]]
+	- finding covariance and correlaton from mean(x) and mean(y)
+- [ ] Hypothesis testing , [Zstatistics example](https://www.youtube.com/watch?v=2GU_R7G5m-8)
+	- [Zdstatistics tutorial](https://www.youtube.com/watch?v=CJvmp2gx7DQ)
+	- effect of s, n, delta on Power
+		- s increase, power decreases
+		- n increases, power increases
+		- 
 - [ ] Statistical significance
 - [ ] CLT
 - [ ] Paired Means Tests
@@ -141,6 +151,8 @@
 
 ### Round3 - Programming Skills
 - part 1- Data handling
+	- argsort
+	- np.where()
 - part 2- ML basics
 
 ### Round4 - Case study
