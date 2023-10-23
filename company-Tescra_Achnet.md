@@ -14,7 +14,8 @@
 	- must know NoSQL databases like redis, MongoDB for PI round
 - ppt
 
-
+## DSA
+- [ ] [[Sorting]]
 ### OOPs MCQ
 - [sanfoundry website 1000 mcq](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
 - Constructor

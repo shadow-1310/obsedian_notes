@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Quant and Logical Reasoning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fcf545b86df00056",
+            "id": "b2531c9b4972c824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Queue.md",
+                "file": "quants-Time and Work.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "619f1b6c39134972",
+            "id": "66d51a693df45c82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Tescra_Achnet.md",
+                "file": "Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-10-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:placement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "quants-Time and Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "quants-Time and Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "quants-Time and Work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "quants-Time and Work.md"
               }
             }
           },
@@ -244,19 +243,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c504cd671b74f2f",
+  "active": "b2531c9b4972c824",
   "lastOpenFiles": [
-    "Coding-Decoding.md",
     "Quant and Logical Reasoning.md",
-    "reasoning-Artificial language.md",
+    "quants-Time and Work.md",
     "IIT Campus Placements.md",
     "DSA/Topics/DSA.md",
-    "attachments/Pasted image 20231022200718.png",
+    "company-Tescra_Achnet.md",
+    "Sorting.md",
     "Queue.md",
+    "daily-notes/2023-10-23.md",
+    "Coding-Decoding.md",
+    "reasoning-Artificial language.md",
+    "attachments/Pasted image 20231022200718.png",
     "DSA/Topics/Stack.md",
     "templates/DSA_topics.md",
     "OOPs concepts.md",
-    "company-Tescra_Achnet.md",
     "daily-notes/2023-10-22.md",
     "Summer Analytics 2023.md",
     "ML theory.md",
@@ -272,9 +274,6 @@
     "attachments/Pasted image 20231020204628.png",
     "ml-evaluation_metrics.md",
     "74-Search 2D matrix.md",
-    "162-find peak element.md",
-    "153-Find minimum in rotated sorted array.md",
-    "875-Koko eating bananas.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",

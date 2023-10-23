@@ -7,7 +7,7 @@
 
 - [x] Percentage
 - [ ] Simplification & approximation
-- [x] Time and Work
+- [ ] [[quants-Time and Work]]
 - [x] Pipe and cistern
 - [x] Time, speed and distance
 - [x] Mixture-Allegations

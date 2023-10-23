@@ -32,10 +32,9 @@
 - [x] [[company - Deloitte]]
 - [ ] [[company-Tescra_Achnet]]
 - [ ] [[company-TSMC]]
-- [ ] [[company-Intel]]
 - [ ] [[company - BNY Mellon]]
-- [ ] [[company - Info Edge]]
-- [ ] [[company-Intel India]]
+- [x] [[company - Info Edge]]
+- [x] [[company-Intel India]], not shortlisted
 - [ ] [[company-Axtria]]
 
 ## Previous year Companies
