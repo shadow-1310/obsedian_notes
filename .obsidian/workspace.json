@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9877b5315e53de64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2531c9b4972c824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quants-Time and Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66d51a693df45c82",
             "type": "leaf",
             "state": {
@@ -50,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "daily-notes/2023-10-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0727ae80973d910d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quants-Time and Work.md",
+                "file": "daily-notes/2023-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quants-Time and Work.md",
+                "file": "daily-notes/2023-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "quants-Time and Work.md",
+                "file": "daily-notes/2023-10-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quants-Time and Work.md"
+                "file": "daily-notes/2023-10-23.md"
               }
             }
           },
@@ -243,16 +232,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2531c9b4972c824",
+  "active": "8c504cd671b74f2f",
   "lastOpenFiles": [
+    "Graph.md",
+    "997-find town judge.md",
+    "2477-minimum fuel cost to report capital.md",
+    "841-keys and rooms.md",
+    "1584-Minimum cost to connect all points.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-10-23.md",
+    "1557-minimum number of vertices to reach all nodes.md",
+    "Sorting.md",
     "Quant and Logical Reasoning.md",
     "quants-Time and Work.md",
     "IIT Campus Placements.md",
-    "DSA/Topics/DSA.md",
     "company-Tescra_Achnet.md",
-    "Sorting.md",
     "Queue.md",
-    "daily-notes/2023-10-23.md",
     "Coding-Decoding.md",
     "reasoning-Artificial language.md",
     "attachments/Pasted image 20231022200718.png",
@@ -267,13 +262,7 @@
     "240-Search 2D matrix II.md",
     "daily-notes/2023-10-21.md",
     "DSA/Topics/Binary Search.md",
-    "logical sequence.md",
-    "Linux.md",
-    "1011-capacity to ship packages.md",
-    "daily-notes/2023-10-20.md",
     "attachments/Pasted image 20231020204628.png",
-    "ml-evaluation_metrics.md",
-    "74-Search 2D matrix.md",
     "attachments/Pasted image 20231010145149.png",
     "attachments/Pasted image 20231010140202.png",
     "attachments/Pasted image 20230925012903.png",
