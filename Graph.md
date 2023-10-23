@@ -13,7 +13,7 @@
 [LC discussion on patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 
 ### make adjacency list 
-- [ ] [[997-find town judge]], last done: [[2023-10-23]]
+- [x] [[997-find town judge]], last done: [[2023-10-23]]
 
 ### DFS
 stack,hashmap
@@ -24,6 +24,7 @@ stack,hashmap
 - [x] [[733-Flood Fill]] last done: [[2023-10-18]]
 - [x] [[802-find eventual safe states]] last done: [[2023-10-18]], slightly tricky
 - [x] [[2477-minimum fuel cost to report capital]], first_done: [[2023-10-23]]
+- [x] [[1971-find if path exists]], last done: [[2023-10-23]]
 
 ### BFS
 queue, hashmap
