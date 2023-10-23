@@ -1,3 +1,7 @@
+Test - 10 mins, 12 problems, 1 wrong, 1 correct
+- [javaTpoint](https://www.javatpoint.com/coding-decoding-1)to [javaTpoint-page3](https://www.javatpoint.com/coding-decoding-3)
+
+
 categories
 - letters
 - numbers
