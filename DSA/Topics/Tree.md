@@ -29,7 +29,11 @@ tags: #dsa/tree #unfinished
 - [x] [[105-Construct Binary Tree from preorder and inorder]] last done: [[2023-10-04]], attention
 - [x] [[108-converted sorted arry to bst]] last done: [[2023-10-04]]
 - [x] [[1448-Counting Good Nodes in Binary Tree]] last done: [[2023-10-04]]
-- [ ] [[543-Diameter of Binary Tree]]
+- [x] [[543-Diameter of Binary Tree]], last done: [[2023-10-23]]
+- [x] [[114-Flatten Binary Tree to linked List]], last done: [[2023-10-24]], very tricky
+- [ ] [[112-Path Sum]], last done: [[2023-10-24]]
+- [ ] [[113-Path Sum II]], last done: [[2023-10-24]]
+- [ ] 
 
 #### Segment tree
 [build tree](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
