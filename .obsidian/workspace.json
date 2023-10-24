@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Linked List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "560-Subarray sum equals K.md"
+                "file": "DSA/Topics/Linked List.md"
               }
             }
           },
@@ -244,15 +243,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0683acf6e72f5b68",
+  "active": "0727ae80973d910d",
   "lastOpenFiles": [
+    "24-Swap Node in Pairs.md",
     "Hashing.md",
     "560-Subarray sum equals K.md",
+    "daily-notes/2023-10-24.md",
+    "DSA/Topics/Linked List.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
     "Sorting.md",
     "437-Path Sum-III.md",
-    "daily-notes/2023-10-24.md",
     "113-Path Sum II.md",
     "112-Path Sum.md",
     "114-Flatten Binary Tree to linked List.md",
@@ -270,8 +271,6 @@
     "quants-Time and Work.md",
     "IIT Campus Placements.md",
     "company-Tescra_Achnet.md",
-    "Queue.md",
-    "Coding-Decoding.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

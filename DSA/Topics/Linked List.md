@@ -8,6 +8,7 @@ tags: #dsa/linked-list #unfinished
 
 ## Related Problems
 - [x] [[21 - Merge two sorted list]] last done: [[2023-10-03]]
+- [x] [[24-Swap Node in Pairs]], last done: [[2023-10-24]], tricky
 - [x] [[141- Linked List Cycle]] last done: [[2023-10-03]]
 - [x] [[160-intersection of two linked list]] last done: [[2023-10-03]]
 - [x] [[203-delete linked list elements]] last done: [[2023-10-03]]
