@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66d51a693df45c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0727ae80973d910d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "38fcd2b0e2de0a45",
+            "id": "95719f06b66c3e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "437-Path Sum-III.md",
+                "file": "Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0683acf6e72f5b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "560-Subarray sum equals K.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "437-Path Sum-III.md",
+                "file": "560-Subarray sum equals K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "437-Path Sum-III.md",
+                "file": "560-Subarray sum equals K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "437-Path Sum-III.md",
+                "file": "560-Subarray sum equals K.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "437-Path Sum-III.md"
+                "file": "560-Subarray sum equals K.md"
               }
             }
           },
@@ -243,9 +244,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38fcd2b0e2de0a45",
+  "active": "0683acf6e72f5b68",
   "lastOpenFiles": [
+    "Hashing.md",
+    "560-Subarray sum equals K.md",
+    "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
+    "Sorting.md",
     "437-Path Sum-III.md",
     "daily-notes/2023-10-24.md",
     "113-Path Sum II.md",
@@ -254,7 +259,6 @@
     "templates/daily_activity.md",
     "daily-notes/2023-10-23.md",
     "543-Diameter of Binary Tree.md",
-    "DSA/Topics/DSA.md",
     "Graph.md",
     "1971-find if path exists.md",
     "997-find town judge.md",
@@ -262,16 +266,13 @@
     "841-keys and rooms.md",
     "1584-Minimum cost to connect all points.md",
     "1557-minimum number of vertices to reach all nodes.md",
-    "Sorting.md",
     "Quant and Logical Reasoning.md",
     "quants-Time and Work.md",
     "IIT Campus Placements.md",
     "company-Tescra_Achnet.md",
     "Queue.md",
     "Coding-Decoding.md",
-    "reasoning-Artificial language.md",
     "attachments/Pasted image 20231022200718.png",
-    "DSA/Topics/Stack.md",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
     "attachments/Pasted image 20231010145149.png",

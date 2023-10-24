@@ -2,6 +2,7 @@
 ## Topics
 
 - [ ] [[Array]]
+- [ ] [[Hashing]]
 - [ ]  [[String]]
 - [ ] [[Misc]]
 - [x] [[Two Pointers]]
