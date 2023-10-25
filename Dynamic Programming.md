@@ -19,11 +19,16 @@
 ## Related Problems
 
 ### Min/Max path to reach a target
+
 - [ ] [[70- Climbing Stairs]] last done: [[2023-09-12]]
 - [ ] [[198-House Robber]] last done: [[2023-09-20]]
 - [ ] [[746-Min Cost climbing stairs]] last done: [[2023-09-16]]
-- [x] [[322-Coin Change]] last done: [[2023-09-20]]
+- [x] [[322-Coin Change]] last done: [[2023-10-25]]
 - [x] [[518-Coin change II]] last done: [[2023-10-09]]
+- [x] [[64-Minimum Path Sum]], last done: [[2023-10-25]]
+- [x] [[279-Perfect Squares]], last done: [[2023-10-25]]
+
+
 ### Distinct ways
 - [x] [[62-unique paths]] last done: [[2023-10-10]]
 - [x] [[1155- Number of dice rolls with target sum]] last done: [[2023-10-10]]

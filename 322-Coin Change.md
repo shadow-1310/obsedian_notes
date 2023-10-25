@@ -4,7 +4,8 @@ topic:
 - source: 
 - serial no: #leetcode/322
 - first_done: [[2023-09-20]]
-- last_revised:[[2023-10-09]]
+	- 1st_revised:[[2023-10-09]]
+- last_revised:[[2023-10-25]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -24,6 +25,7 @@ topic:
 - although bottom-up is more efficient and compact, it is less intuitive for me
 #### mistakes
 - use float('inf') for paths where it is not possible to reach amount
+- in bottom up approach, only update cache if rem-coin >= 0 else index out of error will occur
 #### code snippet
 ```python
 

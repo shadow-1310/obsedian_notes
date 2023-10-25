@@ -25,38 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fcae1f0f7492fb1f",
+            "id": "d46efcab022c7760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-24.md",
+                "file": "daily-notes/2023-10-25.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c837e6c8a5ac54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pla",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-10-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "daily-notes/2023-10-25.md"
               }
             }
           },
@@ -244,16 +232,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23c837e6c8a5ac54",
+  "active": "d46efcab022c7760",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "daily-notes/2023-10-24.md",
+    "Dynamic Programming.md",
+    "279-Perfect Squares.md",
+    "322-Coin Change.md",
+    "64-Minimum Path Sum.md",
+    "DSA/Topics/DSA.md",
     "Hashing.md",
+    "daily-notes/2023-10-25.md",
+    "daily-notes/2023-10-24.md",
+    "imageMagick.md",
+    "Linux.md",
+    "Quant and Logical Reasoning.md",
+    "IIT Campus Placements.md",
     "560-Subarray sum equals K.md",
     "DSA/Topics/Linked List.md",
     "142-Linked List Cycle II.md",
     "24-Swap Node in Pairs.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
     "Sorting.md",
     "437-Path Sum-III.md",
@@ -264,14 +260,6 @@
     "daily-notes/2023-10-23.md",
     "543-Diameter of Binary Tree.md",
     "Graph.md",
-    "1971-find if path exists.md",
-    "997-find town judge.md",
-    "2477-minimum fuel cost to report capital.md",
-    "841-keys and rooms.md",
-    "1584-Minimum cost to connect all points.md",
-    "1557-minimum number of vertices to reach all nodes.md",
-    "Quant and Logical Reasoning.md",
-    "quants-Time and Work.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
