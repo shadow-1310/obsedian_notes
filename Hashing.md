@@ -7,5 +7,5 @@
 
 ## Related Problems
 ---
-- [ ] [[560-Subarray sum equals K ]]
+- [x] [[560-Subarray sum equals K ]]
 

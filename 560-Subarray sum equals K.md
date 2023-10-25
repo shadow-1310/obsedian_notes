@@ -10,7 +10,7 @@ topic:
 	- [ ] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/subarray-sum-equals-k/description/?envType=study-plan-v2&envId=top-100-liked
-- solution_link:
+- solution_link: [my solution](https://github.com/shadow-1310/DSA_practice/blob/master/LeetCode/top_interview/hashing/560-subarray_sumK.py)
 
 ### approach - 1
 - Time Complexity
