@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Linked List.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95719f06b66c3e4b",
+            "id": "1f804093e33b26c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23bf678722be077d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "54-Spiral Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,20 +246,25 @@
   },
   "active": "d46efcab022c7760",
   "lastOpenFiles": [
+    "54-Spiral Matrix.md",
     "Dynamic Programming.md",
+    "Matrix.md",
+    "419-Battleship in a board.md",
+    "73-Set Matrix Zeros.md",
+    "48-Rotate Image.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Linked List.md",
+    "daily-notes/2023-10-25.md",
     "279-Perfect Squares.md",
     "322-Coin Change.md",
     "64-Minimum Path Sum.md",
-    "DSA/Topics/DSA.md",
     "Hashing.md",
-    "daily-notes/2023-10-25.md",
     "daily-notes/2023-10-24.md",
     "imageMagick.md",
     "Linux.md",
     "Quant and Logical Reasoning.md",
     "IIT Campus Placements.md",
     "560-Subarray sum equals K.md",
-    "DSA/Topics/Linked List.md",
     "142-Linked List Cycle II.md",
     "24-Swap Node in Pairs.md",
     "DSA/Topics/Tree.md",
@@ -255,11 +272,6 @@
     "437-Path Sum-III.md",
     "113-Path Sum II.md",
     "112-Path Sum.md",
-    "114-Flatten Binary Tree to linked List.md",
-    "templates/daily_activity.md",
-    "daily-notes/2023-10-23.md",
-    "543-Diameter of Binary Tree.md",
-    "Graph.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

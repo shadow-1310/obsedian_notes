@@ -2,6 +2,7 @@
 ## Topics
 
 - [ ] [[Array]]
+- [ ] [[Matrix]]
 - [ ] [[Hashing]]
 - [ ]  [[String]]
 - [ ] [[Misc]]
