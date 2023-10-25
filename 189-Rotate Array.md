@@ -10,15 +10,20 @@ topic:
 	- [x] medium
 	- [ ] hard
 - problem_link: https://leetcode.com/problems/rotate-array/description/
-- solution_link:
+- solution_link: https://www.youtube.com/watch?v=BHr381Guz3Y
 
 ### approach - 1
 - Time Complexity
 - space complexity
 
 #### pseudo code
-- use an temp array 
-- then
+- 1st method
+	- use an temp array 
+	- then shift 
+- 2nd method
+	- reverse the whole array
+	- reverse first k element group
+	- reverse remaining element group
 #### mistakes
 
 #### code snippet
