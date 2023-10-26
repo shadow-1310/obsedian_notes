@@ -7,8 +7,8 @@ gsettings set org.gnome.desktop.background picture-uri-dark file:///home/serrano
 ### using nvidia
 - https://support.system76.com/articles/graphics-switch-ubuntu/
 
-
 ## Packages
+- [[Gnome]]
 - [[Mesa]]
 - [[nvim]]
 - [[ffmpeg]]

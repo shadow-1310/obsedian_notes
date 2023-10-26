@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix.md",
+                "file": "daily-notes/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d46efcab022c7760",
+            "id": "00c1b6e095f9e576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-25.md",
+                "file": "DSA/Topics/Tries.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "62c736b3f7797ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "211-Design, Add and Search Word in Dictionary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: leetcode/",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix.md",
+                "file": "211-Design, Add and Search Word in Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix.md",
+                "file": "211-Design, Add and Search Word in Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matrix.md",
+                "file": "211-Design, Add and Search Word in Dictionary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix.md"
+                "file": "211-Design, Add and Search Word in Dictionary.md"
               }
             }
           },
@@ -219,34 +232,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0727ae80973d910d",
+  "active": "62c736b3f7797ddd",
   "lastOpenFiles": [
-    "419-Battleship in a board.md",
-    "Matrix.md",
+    "DSA/Topics/Tries.md",
+    "208-Implement Trie.md",
+    "Linux.md",
+    "Gnome.md",
     "DSA/Topics/DSA.md",
+    "String.md",
+    "953-Verifying an alien dictionary.md",
+    "AMEX - furthest digram.md",
+    "5-Longest Palindromic Substring.md",
+    "3-Longest Substring Without Repeating Characters.md",
+    "daily-notes/2023-10-26.md",
+    "daily-notes/2023-10-25.md",
+    "Matrix.md",
+    "419-Battleship in a board.md",
     "DSA/Topics/Array.md",
     "189-Rotate Array.md",
-    "DSA/Topics/Tries.md",
     "139-Word Break.md",
     "211-Design, Add and Search Word in Dictionary.md",
     "daily-notes/2023-06-30.md",
     "Dynamic Programming.md",
     "54-Spiral Matrix.md",
-    "daily-notes/2023-10-25.md",
     "73-Set Matrix Zeros.md",
     "48-Rotate Image.md",
     "DSA/Topics/Linked List.md",
     "279-Perfect Squares.md",
     "322-Coin Change.md",
-    "64-Minimum Path Sum.md",
-    "Hashing.md",
-    "daily-notes/2023-10-24.md",
-    "imageMagick.md",
-    "Linux.md",
-    "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
-    "560-Subarray sum equals K.md",
-    "142-Linked List Cycle II.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
