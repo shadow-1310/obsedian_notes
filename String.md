@@ -15,3 +15,4 @@
 - [ ] [[72-Edit distance]]
 - [ ] [[5-Longest Palindromic Substring]]
 - [ ] [[3-Longest Substring Without Repeating Characters]]
+- [x] [[139-Word Break]], last done: [[2023-10-26]], tough

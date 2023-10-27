@@ -9,6 +9,6 @@ tags: #dsa/tries #unfinished
 ## Related Problems
 ---
 - [x] [[208-Implement Trie]], last done: [[2023-10-26]]
-- [ ] [[211-Design, Add and Search Word in Dictionary]]
-- [ ] [[139-Word Break]]
+- [x] [[211-Design, Add and Search Word in Dictionary]], last done: [[2023-10-26]], very tricky
+- [ ] 
 

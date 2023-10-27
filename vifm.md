@@ -7,7 +7,7 @@ how to access connected mobile data
 - open the .config/vifm/vifmrc file
 - put the following lines
 	- https://wiki.vifm.info/index.php/How_to_integrate_fzf_for_fuzzy_finding
-	```sh
+	```bash
 	command! FZFfind : set noquickview
                 \| let $FZF_PICK = term('find | fzf --height 10 2>/dev/tty')
                 \| if $FZF_PICK != ''
@@ -20,9 +20,15 @@ how to access connected mobile data
 ## use image previews with uberzug
 - https://www.youtube.com/watch?v=qgxsduCO1pE
 - https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/vifm/scripts
+
+
+- bind to set wallpaper in Gnome
+```bash
+nnoremap gw :execute "!gsettings set org.gnome.desktop.background picture-uri-dark file://%c:p"<cr>
+```
 ##### as ueberzerg is not working we need to use uerberzergpp
 - install by the following instructions [download site for ubuntu](https://software.opensuse.org/download.html?project=home%3Ajustkidding&package=ueberzugpp), following lines are for ubuntu 22.04
-```sh
+```bash
 echo 'deb http://download.opensuse.org/repositories/home:/justkidding/xUbuntu_22.04/ /' | sudo tee /etc/apt/sources.list.d/home:justkidding.list
 curl -fsSL https://download.opensuse.org/repositories/home:justkidding/xUbuntu_22.04/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_justkidding.gpg > /dev/null
 sudo apt update
