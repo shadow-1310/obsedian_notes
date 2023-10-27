@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/516 
 - first_done: [[2023-10-11]]
-- last_revised:
+- last_revised: [[2023-10-27]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -21,7 +21,7 @@ topic:
 	- str1 -> original string
 	- str2 -> reverse string
 #### mistakes
-
+- compare s[i] with s[n-j-1]
 #### code snippet
 ```python
 

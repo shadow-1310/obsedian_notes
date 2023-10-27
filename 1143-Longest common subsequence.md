@@ -5,7 +5,8 @@ topic: [[Dynamic Programming]]
 - serial no: #leetcode/1143 
 - first_done: [[2023-07-24]]
 	- 1st_revised: [[2023-09-16]]
-- last_revised: [[2023-10-10]]
+	- 2nd_revised: [[2023-10-10]]
+- last_revised: [[2023-10-27]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

@@ -1,0 +1,2 @@
+- install flatpack
+	- [blog](https://itsfoss.com/flatpak-guide/)

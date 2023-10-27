@@ -52,11 +52,11 @@
 
 
 ### LCS / DP on string
-- [x] [[1143-Longest common subsequence]] last done: [[2023-10-10]]
-- [x] [[516-Longest Palindromic Subsequence]] last done: [[2023-10-11]]
-- [x] [[72-Edit distance]] last done: [[2023-10-10]]
-- [x] [[647-palindromic substrings]] last done: [[2023-10-11]]
-- [x] [[5-Longest Palindromic Substring]] last done: [[2023-10-11]]
+- [x] [[1143-Longest common subsequence]] last done: [[2023-10-27]]
+- [ ] [[516-Longest Palindromic Subsequence]] last done: [[2023-10-11]]
+- [ ] [[72-Edit distance]] last done: [[2023-10-10]]
+- [ ] [[647-palindromic substrings]] last done: [[2023-10-11]]
+- [x] [[5-Longest Palindromic Substring]] last done: [[2023-10-27]]
 
 ### Palindromes
 

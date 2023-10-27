@@ -4,7 +4,9 @@ topic: [[Dynamic Programming]]
 - source: 
 - serial no: #leetcode/5
 - first_done: [[2023-07-24]]
-- last_revised:
+	- 1st_revised: [[2023-09-16]]
+	- 2nd_revised: [[2023-10-11]]
+- last_revised: [[2023-10-27]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -27,6 +29,7 @@ topic: [[Dynamic Programming]]
 		- count number of character in the substring and if it is more than max_len then update max_len
 - for even number of characters 
 <code>left = i, right = i+1</code>
+- remember how to initialize for odd and even strings
 #### mistakes
 - if you are doing by using count variable, then initialize count as 0 in starting of odd numbers loop and count as 1 for even number loop
 - increment count by 2 each time condition is met both for odd and even loop.

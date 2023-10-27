@@ -4,8 +4,9 @@ topic:
 - source: 
 - serial no: #leetcode/3
 - first_done: [[2023-05-30]]
-	- first_revised: [[2023-06-02]]
-- last_revised: [[2023-09-06]]
+	- 1st_revised: [[2023-06-02]]
+	- 2nd_revised: [[2023-09-06]]
+- last revised: [[2023-10-27]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -24,6 +25,7 @@ topic:
 - after each iteration count length of current sequence by `right - left + 1` and compare it with `max_count`, if found more update `max_count`
 #### mistakes
 - put the breaking condition of encountering previously seen character as index >= left instead left > index
+- don't forget to add the current char to seen map
 #### code snippet
 ```python
 

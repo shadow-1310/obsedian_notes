@@ -1,0 +1,2 @@
+- install
+	- https://askubuntu.com/questions/1313272/how-to-install-rss-reader-newsflash-successor-to-feedreader

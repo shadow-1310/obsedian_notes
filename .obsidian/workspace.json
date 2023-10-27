@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-26.md",
+                "file": "String.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a462ba8ff0c17b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "72-Edit distance.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String.md",
+                "file": "Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "72-Edit distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
+                "file": "72-Edit distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "String.md",
+                "file": "72-Edit distance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "72-Edit distance.md"
               }
             }
           },
@@ -220,34 +232,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00c1b6e095f9e576",
+  "active": "4a462ba8ff0c17b7",
   "lastOpenFiles": [
+    "String.md",
+    "516-Longest Palindromic Subsequence.md",
+    "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
+    "daily-notes/2023-10-27.md",
+    "1143-Longest common subsequence.md",
+    "5-Longest Palindromic Substring.md",
+    "3-Longest Substring Without Repeating Characters.md",
+    "Linux.md",
+    "NewsFlash.md",
+    "flatpack.md",
+    "438-Find all anagrams of a string.md",
+    "daily-notes/2023-10-26.md",
     "DSA/Topics/Tries.md",
     "139-Word Break.md",
     "vifm.md",
-    "Linux.md",
-    "daily-notes/2023-10-26.md",
     "211-Design, Add and Search Word in Dictionary.md",
     "208-Implement Trie.md",
     "Gnome.md",
-    "String.md",
     "953-Verifying an alien dictionary.md",
     "AMEX - furthest digram.md",
-    "5-Longest Palindromic Substring.md",
-    "3-Longest Substring Without Repeating Characters.md",
     "daily-notes/2023-10-25.md",
     "Matrix.md",
     "419-Battleship in a board.md",
     "DSA/Topics/Array.md",
     "189-Rotate Array.md",
-    "daily-notes/2023-06-30.md",
-    "Dynamic Programming.md",
-    "54-Spiral Matrix.md",
-    "73-Set Matrix Zeros.md",
-    "48-Rotate Image.md",
-    "DSA/Topics/Linked List.md",
-    "279-Perfect Squares.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
