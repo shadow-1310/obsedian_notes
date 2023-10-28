@@ -4,7 +4,7 @@ topic: it is used in spell checker(Levenshtein distance)
 - source: 
 - serial no: #leetcode/72 
 - first_done: [[2023-10-10]]
-- last_revised:
+- last_revised: [[2023-10-28]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

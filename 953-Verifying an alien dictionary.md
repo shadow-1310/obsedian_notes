@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/953 
 - first_done: [[2023-10-02]]
-- last_revised:
+- last_revised: [[2023-10-28]]
 - difficulty:
 	- [x] easy
 	- [ ] medium

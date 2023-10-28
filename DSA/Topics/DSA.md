@@ -4,7 +4,7 @@
 - [ ] [[Array]]
 - [ ] [[Matrix]]
 - [ ] [[Hashing]]
-- [ ]  [[String]]
+- [x]  [[String]]
 - [ ] [[Misc]]
 - [x] [[Two Pointers]]
 - [ ] [[Sliding Window]]
