@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ml",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,8 +258,10 @@
   },
   "active": "55daee83bb620896",
   "lastOpenFiles": [
-    "ML theory.md",
+    "qutebrowser.md",
+    "Linux.md",
     "DL-Regularization.md",
+    "ML theory.md",
     "72-Edit distance.md",
     "String.md",
     "516-Longest Palindromic Subsequence.md",
@@ -269,7 +271,6 @@
     "1143-Longest common subsequence.md",
     "5-Longest Palindromic Substring.md",
     "3-Longest Substring Without Repeating Characters.md",
-    "Linux.md",
     "NewsFlash.md",
     "flatpack.md",
     "438-Find all anagrams of a string.md",
@@ -283,7 +284,6 @@
     "953-Verifying an alien dictionary.md",
     "AMEX - furthest digram.md",
     "daily-notes/2023-10-25.md",
-    "Matrix.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
