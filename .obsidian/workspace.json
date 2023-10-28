@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0727ae80973d910d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a462ba8ff0c17b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "72-Edit distance.md",
-                "mode": "preview",
+                "file": "953-Verifying an alien dictionary.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -54,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "55daee83bb620896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL-Regularization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Regularization.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Regularization.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Regularization.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Regularization.md"
+                "file": "953-Verifying an alien dictionary.md"
               }
             }
           },
@@ -256,18 +231,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55daee83bb620896",
+  "active": "4a462ba8ff0c17b7",
   "lastOpenFiles": [
+    "String.md",
+    "72-Edit distance.md",
+    "ML theory.md",
+    "daily-notes/2023-10-27.md",
+    "daily-notes/2023-10-28.md",
+    "DL-Regularization.md",
     "qutebrowser.md",
     "Linux.md",
-    "DL-Regularization.md",
-    "ML theory.md",
-    "72-Edit distance.md",
-    "String.md",
     "516-Longest Palindromic Subsequence.md",
     "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-10-27.md",
     "1143-Longest common subsequence.md",
     "5-Longest Palindromic Substring.md",
     "3-Longest Substring Without Repeating Characters.md",
@@ -283,7 +259,6 @@
     "Gnome.md",
     "953-Verifying an alien dictionary.md",
     "AMEX - furthest digram.md",
-    "daily-notes/2023-10-25.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

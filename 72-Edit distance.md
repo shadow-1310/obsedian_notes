@@ -19,8 +19,12 @@ topic: it is used in spell checker(Levenshtein distance)
 #### pseudo code
 ![[Pasted image 20231010140202.png]]
 - follow same 2DP approach as [[1143-Longest common subsequence]]
+- there are 3 operations as mentioned in the image
+	- insert , i,  j+1
+	- delete, i+1, j
+	- replace, i+1, j+1
 #### mistakes
-
+- make the surrounding layer with decreasing values
 #### code snippet
 ```python
 
