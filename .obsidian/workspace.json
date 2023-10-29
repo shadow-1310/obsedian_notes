@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a462ba8ff0c17b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c1b6e095f9e576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hashing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "becf0e2b7afcf735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Searching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a76f22fe777304c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-10-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd56288253e8850e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,14 +220,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a76f22fe777304c",
+  "active": "bd56288253e8850e",
   "lastOpenFiles": [
+    "daily-notes/2023-10-29.md",
+    "daily-notes/2023-10-28.md",
     "Hashing.md",
+    "company-Tescra_Achnet.md",
     "DSA/Topics/DSA.md",
     "Graph.md",
     "Sorting.md",
     "Searching.md",
-    "daily-notes/2023-10-28.md",
     "String.md",
     "72-Edit distance.md",
     "953-Verifying an alien dictionary.md",
@@ -270,8 +248,6 @@
     "438-Find all anagrams of a string.md",
     "daily-notes/2023-10-26.md",
     "DSA/Topics/Tries.md",
-    "139-Word Break.md",
-    "vifm.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
