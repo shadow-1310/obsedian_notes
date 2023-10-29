@@ -3,6 +3,18 @@
 	- adjacency matrix
 	- adjacency list
 
+Complete Graph
+- each vertices are connected to all other vertices
+- number of edges = nC2
+
+ Euler's formula for relation between vertices, edges, regions
+- n-q+r=2
+degree of all vertices = 2E
+in undirected graph each edge will contribute 2 to DOF
+
+### MCQs
+- [youtube-arihant](https://www.youtube.com/watch?v=65xbJTJvyHI&t=37s)
+
 ### Implementation from scratch
 #### pseudo-code
 

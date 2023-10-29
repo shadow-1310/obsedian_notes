@@ -1,11 +1,15 @@
 
+
+## MCQs
+- [youtube video 1](https://www.youtube.com/watch?v=-ufROz9oZAM)
+
 ### Comparison based
 ---
-#### Bubble Sort
+#### Bubble Sort - not stable
 - how it works
 - time complexity
 	- avg -> 
-	- best case
+	- best case -> 
 	- worst case -> O(N^2)
 
 #### Quick Sort (Divide and Conquer)
@@ -41,6 +45,7 @@
 #### Insertion Sort
 insertion sort is stable, relative order of same element doesn't change
 insertion sort is in place, no extra space
+it always will be N-1 iterations irrespective of the initial order
 it is online, works on current element immediately without waiting
 [gate smasher video](https://www.youtube.com/watch?v=s9fmGjFY1v0)
 - how it works
@@ -57,7 +62,7 @@ it is online, works on current element immediately without waiting
 		- comparison = O(N^2)
 - recurrence relation
 
-#### Selection Sort
+#### Selection Sort - not stable
 it is not stable
 it is in place, no extra spaces
 [tutorial](https://www.youtube.com/watch?v=Lrd1QaKyok4)
@@ -70,9 +75,6 @@ it is in place, no extra spaces
 	- worst case -> O(N^2)
 		- comparison - O(N^2)
 		- swaps -> O(N)
-
-
-
 
 ## Non comparison based
 ---
@@ -104,4 +106,33 @@ range must be given
 - Time complexity - O(N)
 	- elements should be uniformly distributed, else time complexity may go up to O(N^2)
 
+## Extras
+
+External Sorting
+- algorithm that uses tape or disk
+
+less no. of records
+- selection sort
+
+unstable
+- selection sort
+- bubble sort
+
+good for sorted or almost sorted
+- bubble sort
+- insertion sort (for sorted it is good)
+
+not good for sorted/ reverse sorted array
+- quick sort
+- insertion sort(for reverse sorted array it performs worst)
+
+good for sorting string with ascii characters
+- counting sort
+
+| in-place  | not in place |
+| --------- | ------------ |
+| insertion | quick sort   |
+| selection |              |
+| quick     |              |
+| bubble    |              |
 

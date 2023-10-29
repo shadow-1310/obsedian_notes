@@ -25,25 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "Hashing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3188aa4d54fedee2",
+            "id": "becf0e2b7afcf735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML theory.md",
+                "file": "Searching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a76f22fe777304c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Tescra_Achnet.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-10-28.md",
+                "file": "company-Tescra_Achnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-10-28.md",
+                "file": "company-Tescra_Achnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-10-28.md",
+                "file": "company-Tescra_Achnet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-10-28.md"
+                "file": "company-Tescra_Achnet.md"
               }
             }
           },
@@ -231,13 +244,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a462ba8ff0c17b7",
+  "active": "6a76f22fe777304c",
   "lastOpenFiles": [
+    "Hashing.md",
+    "DSA/Topics/DSA.md",
+    "Graph.md",
+    "Sorting.md",
+    "Searching.md",
+    "daily-notes/2023-10-28.md",
     "String.md",
     "72-Edit distance.md",
-    "daily-notes/2023-10-28.md",
-    "DSA/Topics/DSA.md",
-    "Sorting.md",
     "953-Verifying an alien dictionary.md",
     "Dynamic Programming.md",
     "ML theory.md",
@@ -256,9 +272,6 @@
     "DSA/Topics/Tries.md",
     "139-Word Break.md",
     "vifm.md",
-    "211-Design, Add and Search Word in Dictionary.md",
-    "208-Implement Trie.md",
-    "Gnome.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
