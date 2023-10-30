@@ -33,6 +33,6 @@ tags: #dsa/backtracking #unfinished
 - [x] [[40-Combinations Sum-II]] last_done: [[2023-10-06]] - similar to **subsets-II**, remember the order of call
 - [x] [[79-Word Search]] last done: [[2023-10-06]]
 - [x] [[22-Generate Parentheses]] last done: [[2023-10-06]]
-- [ ] 
+- [x] [[51-N queens]], last done: [[2023-10-30]]
 
 

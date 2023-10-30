@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "Misc.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576543730f1de356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imageMagick.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "imageMagick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "imageMagick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "imageMagick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Backtracking.md"
+                "file": "imageMagick.md"
               }
             }
           },
@@ -220,9 +232,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c5d750b55429911",
+  "active": "576543730f1de356",
   "lastOpenFiles": [
+    "Linux.md",
+    "Misc.md",
+    "31-Next Permutation.md",
     "DSA/Topics/DSA.md",
+    "DSA/Topics/Backtracking.md",
+    "51-N queens.md",
     "daily-notes/2023-10-30.md",
     "company-Tescra_Achnet.md",
     "daily-notes/2023-10-29.md",
@@ -239,15 +256,10 @@
     "daily-notes/2023-10-27.md",
     "DL-Regularization.md",
     "qutebrowser.md",
-    "Linux.md",
     "516-Longest Palindromic Subsequence.md",
     "1143-Longest common subsequence.md",
     "5-Longest Palindromic Substring.md",
     "3-Longest Substring Without Repeating Characters.md",
-    "NewsFlash.md",
-    "flatpack.md",
-    "438-Find all anagrams of a string.md",
-    "daily-notes/2023-10-26.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
