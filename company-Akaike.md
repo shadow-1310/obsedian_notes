@@ -1,0 +1,19 @@
+#### Requirements
+- NLP
+	- Word2vec,
+	- NER,
+	- topic modeling,
+	- RNNs/LSTMs,
+	- Transformers,
+	- BERT
+- Computer Vision
+	- CNN
+	- ResNet
+	- MobileNet,
+	- Unet,
+	- Mask-RCNN,
+	- SiameseNetworks,
+	- GradCam,
+	- Image augmentation techniques,
+	- GAN
+	- VisionTransformers

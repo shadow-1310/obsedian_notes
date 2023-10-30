@@ -193,4 +193,12 @@ $$R2 = \dfrac{SSR}{SST}$$
 
 ### Markov Chain
 - [youtube ritvikmath](https://www.youtube.com/watch?v=prZMpThbU3E)
-- 
+
+
+
+
+
+## DL
+---
+- [[CV - Siamese Network]]
+- [[NLP - LSTM]]

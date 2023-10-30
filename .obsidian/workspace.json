@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e2d5cbec5857b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6283697cd456965c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Akaike.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tra",
+                "query": "file:placemen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Queue.md",
+                "file": "company-Akaike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Queue.md",
+                "file": "company-Akaike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Queue.md",
+                "file": "company-Akaike.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Queue.md"
+                "file": "company-Akaike.md"
               }
             }
           },
@@ -220,12 +244,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c5d750b55429911",
+  "active": "6283697cd456965c",
   "lastOpenFiles": [
+    "CV - Siamese Network.md",
+    "NLP - LSTM.md",
+    "ML theory.md",
+    "IIT Campus Placements.md",
+    "company-Akaike.md",
+    "Queue.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
     "42-Trapping Rain water.md",
-    "Queue.md",
     "239-sliding window maximum.md",
     "Misc.md",
     "Sorting.md",
@@ -243,11 +272,6 @@
     "Searching.md",
     "String.md",
     "72-Edit distance.md",
-    "953-Verifying an alien dictionary.md",
-    "Dynamic Programming.md",
-    "ML theory.md",
-    "daily-notes/2023-10-27.md",
-    "DL-Regularization.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

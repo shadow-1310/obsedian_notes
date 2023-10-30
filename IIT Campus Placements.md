@@ -36,6 +36,7 @@
 - [x] [[company - Info Edge]]
 - [x] [[company-Intel India]], not shortlisted
 - [ ] [[company-Axtria]]
+- [ ] [[company-Akaike]]
 
 ## Previous year Companies
 ---

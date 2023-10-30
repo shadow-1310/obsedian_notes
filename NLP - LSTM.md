@@ -1,0 +1,2 @@
+- LSTM layer error
+	- https://stackoverflow.com/questions/67590787/valueerror-input-0-of-layer-lstm-1-is-incompatible-with-the-layer-expected-ndi
