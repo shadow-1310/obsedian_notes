@@ -62,6 +62,13 @@ it is online, works on current element immediately without waiting
 		- comparison = O(N^2)
 - recurrence relation
 
+
+#### Shell Sort
+- [example video](https://www.youtube.com/watch?v=xtydR3vKw3g)
+- generalization to insertion sort, but we maintain a gap > 1 here and only compare in that gap
+- in first pass gap1 = N/2
+- 2nd pass, gap2 = gap1/2 = N/4
+- we continue pass till gap = 1, when it becomes Insertion Sort
 #### Selection Sort - not stable
 it is not stable
 it is in place, no extra spaces

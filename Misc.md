@@ -16,3 +16,4 @@
 - [[118-Pascal Triangle]]
 - [x] [[380-insert delete get_random]] last done: [[2023-10-13]]
 - [x] [[31-Next Permutation]], last done: [[2023-10-30]], remember the logic
+- [x] [[42-Trapping Rain water]], last done: [[2023-10-30]]
