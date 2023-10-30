@@ -14,6 +14,30 @@
 	- must know NoSQL databases like redis, MongoDB for PI round
 - ppt
 
+## OA
+- protected derivation of class
+- noisome garbage similar to
+	- I wrote heavy metal
+- polymorphism types
+- inheritance types
+- methods
+	- abstract methods
+	- static
+	- interface
+- which one of the below can be used as hashing function 
+	- division 
+	- folding
+	- mid square
+- shell sort
+- finding memory location in an 2D array
+- lots of direction test problems
+- postfix infix conversion
+- coding decoding
+- converting to binary
+- optimum merge pattern problem
+- Association OOPs
+
+
 ## DSA
 - [ ] [[Sorting]]
 ### OOPs MCQ
