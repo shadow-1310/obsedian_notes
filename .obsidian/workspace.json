@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7798f26e6fffbb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting.md",
-                "mode": "source",
+                "file": "Queue.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:sort",
+                "query": "file:tra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting.md",
+                "file": "Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting.md",
+                "file": "Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sorting.md",
+                "file": "Queue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting.md"
+                "file": "Queue.md"
               }
             }
           },
@@ -232,14 +220,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7798f26e6fffbb52",
+  "active": "1c5d750b55429911",
   "lastOpenFiles": [
-    "Misc.md",
-    "imageMagick.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Array.md",
     "42-Trapping Rain water.md",
+    "Queue.md",
+    "239-sliding window maximum.md",
+    "Misc.md",
+    "Sorting.md",
+    "imageMagick.md",
     "Linux.md",
     "31-Next Permutation.md",
-    "DSA/Topics/DSA.md",
     "DSA/Topics/Backtracking.md",
     "51-N queens.md",
     "daily-notes/2023-10-30.md",
@@ -248,7 +240,6 @@
     "daily-notes/2023-10-28.md",
     "Hashing.md",
     "Graph.md",
-    "Sorting.md",
     "Searching.md",
     "String.md",
     "72-Edit distance.md",
@@ -257,9 +248,6 @@
     "ML theory.md",
     "daily-notes/2023-10-27.md",
     "DL-Regularization.md",
-    "qutebrowser.md",
-    "516-Longest Palindromic Subsequence.md",
-    "1143-Longest common subsequence.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
