@@ -12,6 +12,9 @@
 	- MobileNet,
 	- Unet,
 	- Mask-RCNN,
+		- instance segmentation
+			- object detection
+			- semantic segmentation
 	- Siamese Networks,
 	- Grad Cam,
 	- Image augmentation techniques,
