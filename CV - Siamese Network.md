@@ -1,3 +1,0 @@
-- it is used for facial recognition
-- triplet loss
-- DeepFace Paper

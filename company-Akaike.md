@@ -12,8 +12,16 @@
 	- MobileNet,
 	- Unet,
 	- Mask-RCNN,
-	- SiameseNetworks,
-	- GradCam,
+	- Siamese Networks,
+	- Grad Cam,
 	- Image augmentation techniques,
+		- vertical axis mirroring
+		- random crop
+		- rotation
+		- shearing 
+		- local warping
+		- color shifting
+		- PCA color augmentation
+		- one thread fetch data from storage and other thread pass data to training network
 	- GAN
-	- VisionTransformers
+	- Vision Transformers

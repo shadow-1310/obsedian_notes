@@ -200,5 +200,5 @@ $$R2 = \dfrac{SSR}{SST}$$
 
 ## DL
 ---
-- [[CV - Siamese Network]]
+- [[CV - Facial Recognition]]
 - [[NLP - LSTM]]

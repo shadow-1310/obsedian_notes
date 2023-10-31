@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd56288253e8850e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-10-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c5d750b55429911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Queue.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5e2d5cbec5857b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "company-Akaike.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Akaike.md",
+                "file": "daily-notes/2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b04f6e90f7f8a8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV - Facial Recognition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:placemen",
+                "query": "file:cv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,13 +231,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6283697cd456965c",
+  "active": "5e2d5cbec5857b7a",
   "lastOpenFiles": [
-    "CV - Siamese Network.md",
+    "daily-notes/2023-10-31.md",
+    "CV - Facial Recognition.md",
+    "company-Akaike.md",
+    "IIT Campus Placements.md",
     "NLP - LSTM.md",
     "ML theory.md",
-    "IIT Campus Placements.md",
-    "company-Akaike.md",
     "Queue.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Array.md",
@@ -271,7 +259,6 @@
     "Graph.md",
     "Searching.md",
     "String.md",
-    "72-Edit distance.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
