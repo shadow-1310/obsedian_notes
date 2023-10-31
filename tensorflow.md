@@ -3,7 +3,7 @@
 First setup GPU driver, cuda and cudnn
 
 [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
-```sh
+```bash
 #first activate the virtual environment
 #conda install -c conda-forge cudatoolkit=11.8.0
 pip install nvidia-cudnn-cu11==8.6.0.163 tensorflow==2.13.*
@@ -20,5 +20,10 @@ source $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
 
 
 # Verify install:
+python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+```
+
+Check if gpu is detecting
+```bash
 python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```

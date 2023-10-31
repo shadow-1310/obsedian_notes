@@ -4,6 +4,9 @@ set wallpaper
 ```bash
 gsettings set org.gnome.desktop.background picture-uri-dark file:///home/serrano/Pictures/y.jpg
 ```
+
+check file usage
+- https://www.howtogeek.com/409611/how-to-view-free-disk-space-and-disk-usage-from-the-linux-terminal/
 ### using nvidia
 - https://support.system76.com/articles/graphics-switch-ubuntu/
 

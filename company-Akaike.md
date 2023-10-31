@@ -12,6 +12,7 @@
 	- MobileNet,
 	- Unet,
 	- Mask-RCNN,
+		- [[CV - Semantic Segmentation]]
 		- instance segmentation
 			- object detection
 			- semantic segmentation

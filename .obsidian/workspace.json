@@ -42,8 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50fe8f9d40cd8113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV - Semantic Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96b65a67c7c61d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tensorflow.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f59e75dabda8db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -72,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cv",
+                "query": "file:inu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Akaike.md",
+                "file": "tensorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Akaike.md",
+                "file": "tensorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Akaike.md",
+                "file": "tensorflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Akaike.md"
+                "file": "tensorflow.md"
               }
             }
           },
@@ -231,11 +268,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e2d5cbec5857b7a",
+  "active": "96b65a67c7c61d09",
   "lastOpenFiles": [
-    "daily-notes/2023-10-31.md",
-    "CV - Facial Recognition.md",
+    "Linux.md",
+    "tensorflow.md",
+    "CV - Semantic Segmentation.md",
     "company-Akaike.md",
+    "CV - Facial Recognition.md",
+    "daily-notes/2023-10-31.md",
     "IIT Campus Placements.md",
     "NLP - LSTM.md",
     "ML theory.md",
@@ -247,7 +287,6 @@
     "Misc.md",
     "Sorting.md",
     "imageMagick.md",
-    "Linux.md",
     "31-Next Permutation.md",
     "DSA/Topics/Backtracking.md",
     "51-N queens.md",
@@ -257,8 +296,6 @@
     "daily-notes/2023-10-28.md",
     "Hashing.md",
     "Graph.md",
-    "Searching.md",
-    "String.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
