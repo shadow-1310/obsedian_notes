@@ -1,3 +1,8 @@
+tips - prepare well on the topic of explainable AI
+read for interview if selected, 
+- [computer vision explainability](https://christophm.github.io/interpretable-ml-book/index.html)
+- [collection of ML interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [yt video on interpretability methods](https://www.youtube.com/watch?v=Yg3q5x7yDeM)
 #### Requirements
 - NLP
 	- Word2vec,
@@ -18,6 +23,13 @@
 			- semantic segmentation
 	- Siamese Networks,
 	- Grad Cam,
+		- way to visualize which regions are contribution more to classification
+		- [nptel-theory](https://www.youtube.com/watch?v=VmbBnSv3otc)
+		- [theory on grad-cam](https://www.youtube.com/watch?v=Y8mSngdQb9Q)
+		- [tutorial on keras](https://www.youtube.com/watch?v=6YZoZ9Vtez0)
+		- [keras documentation](https://keras.io/examples/vision/grad_cam/)
+		- Cons
+			- need to do retrain
 	- Image augmentation techniques,
 		- vertical axis mirroring
 		- random crop

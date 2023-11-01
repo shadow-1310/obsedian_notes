@@ -27,3 +27,8 @@ Check if gpu is detecting
 ```bash
 python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```
+
+check GPU name
+```python
+tf.test.gpu_device_name()
+```

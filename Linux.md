@@ -12,6 +12,7 @@ check file usage
 
 ## Packages
 - [[Gnome]]
+- [[conda]]
 - [[Mesa]]
 - [[nvim]]
 - [[ffmpeg]]

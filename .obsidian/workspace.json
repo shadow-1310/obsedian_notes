@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e2d5cbec5857b7a",
+            "id": "6283697cd456965c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,67 +20,31 @@
             }
           },
           {
-            "id": "6283697cd456965c",
+            "id": "8137e2ee1174173c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-10-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b04f6e90f7f8a8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV - Facial Recognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50fe8f9d40cd8113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV - Semantic Segmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b65a67c7c61d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tensorflow.md",
+                "file": "conda.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "0f59e75dabda8db1",
+            "id": "e672619f869920a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "daily-notes/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:inu",
+                "query": "file:company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tensorflow.md",
+                "file": "daily-notes/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tensorflow.md",
+                "file": "daily-notes/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tensorflow.md",
+                "file": "daily-notes/2023-11-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tensorflow.md"
+                "file": "daily-notes/2023-11-01.md"
               }
             }
           },
@@ -268,14 +232,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96b65a67c7c61d09",
+  "active": "e672619f869920a6",
   "lastOpenFiles": [
-    "Linux.md",
-    "tensorflow.md",
     "CV - Semantic Segmentation.md",
+    "daily-notes/2023-11-01.md",
     "company-Akaike.md",
-    "CV - Facial Recognition.md",
     "daily-notes/2023-10-31.md",
+    "tensorflow.md",
+    "conda.md",
+    "Linux.md",
+    "CV - Facial Recognition.md",
     "IIT Campus Placements.md",
     "NLP - LSTM.md",
     "ML theory.md",
@@ -294,8 +260,6 @@
     "company-Tescra_Achnet.md",
     "daily-notes/2023-10-29.md",
     "daily-notes/2023-10-28.md",
-    "Hashing.md",
-    "Graph.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
