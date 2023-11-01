@@ -4,7 +4,8 @@ topic:
 - source: 
 - serial no: #leetcode/121
 - first_done:[[2023-05-22]]
-- last_revised: [[2023-09-07]]
+	- 1st_revised: [[2023-09-07]]
+- last_revised: [[2023-11-01]]
 - difficulty:
 	- [x] easy
 	- [ ] medium

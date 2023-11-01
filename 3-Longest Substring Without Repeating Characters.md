@@ -6,7 +6,8 @@ topic:
 - first_done: [[2023-05-30]]
 	- 1st_revised: [[2023-06-02]]
 	- 2nd_revised: [[2023-09-06]]
-- last revised: [[2023-10-27]]
+	- 3rd_revised: [[2023-10-27]]
+- last_revised: [[2023-11-01]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
