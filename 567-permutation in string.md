@@ -4,6 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/567
 - first_done: [[2023-05-31]]
+	- 1st_revised: [[2023-09-07]]
 - last_revised: [[2023-09-07]]
 - difficulty:
 	- [ ] easy
@@ -23,6 +24,7 @@ topic:
 #### mistakes
 - initialize right pointer to be left + len(s1) -1, remember the **-1**
 - don't forget base condition of len(s1) > len(s2), where we'll directly return False
+	- forgot this again on [[2023-11-01]]
 - map string 1 and string 2 first characters in the same loop
 #### code snippet
 ```python
