@@ -8,6 +8,7 @@ read for interview if selected,
 	- Word2vec,
 	- NER,
 	- topic modeling,
+		
 	- RNNs/LSTMs,
 	- Transformers,
 	- BERT
