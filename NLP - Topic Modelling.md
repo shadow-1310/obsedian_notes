@@ -18,3 +18,8 @@
 	- [ritvik](https://www.youtube.com/watch?v=7LB1VHp4tLE)
 		- articles are as monochromatic as possible - is mostly of one topic
 		- words are as monochromatic as possible - means mostly one topic in all documents
+
+### BERTopic
+[github repo](https://github.com/MaartenGr/BERTopic)
+[talk with the creator](https://www.youtube.com/watch?v=uZxQz87lb84)
+[kaggle notebook](https://www.kaggle.com/code/bansodesandeep/topic-modeling-with-bert)
