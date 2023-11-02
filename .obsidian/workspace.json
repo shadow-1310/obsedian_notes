@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "daily-notes/2023-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:subarray",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "560-Subarray sum equals K.md"
+                "file": "DSA/Topics/Sliding Window.md"
               }
             }
           },
@@ -187,9 +187,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "2a6513260301ece6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -220,11 +228,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abe443dd8cbf64fb",
+  "active": "2a6513260301ece6",
   "lastOpenFiles": [
+    "930-binary subarrays with sum.md",
     "DSA/Topics/Sliding Window.md",
-    "560-Subarray sum equals K.md",
+    "binary string having more 1's than 0's.md",
     "713-Subarray product less than K.md",
+    "560-Subarray sum equals K.md",
+    "daily-notes/2023-11-02.md",
     "567-permutation in string.md",
     "424-Repeating Character Replacement.md",
     "3-Longest Substring Without Repeating Characters.md",
@@ -246,9 +257,6 @@
     "Queue.md",
     "DSA/Topics/Array.md",
     "42-Trapping Rain water.md",
-    "239-sliding window maximum.md",
-    "Misc.md",
-    "Sorting.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

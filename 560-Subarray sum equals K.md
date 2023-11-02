@@ -18,6 +18,7 @@ topic:
 
 #### pseudo code
 - maintain a prefix sum
+- 
 #### mistakes
 
 #### code snippet
