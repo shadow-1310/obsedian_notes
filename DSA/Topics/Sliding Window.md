@@ -15,10 +15,11 @@ tags: #dsa/sliding-window #unfinished
 - [x] [[424-Repeating Character Replacement]] last done: [[2023-11-01]], once more
 - [x] [[567-permutation in string]] last done: [[2023-11-01]], 
 - [x] [[713-Subarray product less than K]] last done: [[2023-11-01]]
-- [ ] [[930-binary subarrays with sum]]
+
 
 
 #### Prefix sum approach
 [gfg discussion](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 [problem list gfg](https://practice.geeksforgeeks.org/explore?page=1&category=prefix-sum&sortBy=submissions)
 - [ ] [[binary string having more 1's than 0's]]
+- [ ] [[930-binary subarrays with sum]]

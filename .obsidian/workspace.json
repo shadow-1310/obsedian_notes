@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb5fd255023336b9",
+            "id": "abe443dd8cbf64fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "abe443dd8cbf64fb",
+            "id": "2e60345cc663e23a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "947c9f9e6354d6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2023-11-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:subarra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "daily-notes/2023-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "daily-notes/2023-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "daily-notes/2023-11-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md"
+                "file": "daily-notes/2023-11-02.md"
               }
             }
           },
@@ -228,14 +240,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a6513260301ece6",
+  "active": "947c9f9e6354d6bf",
   "lastOpenFiles": [
-    "930-binary subarrays with sum.md",
     "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-11-02.md",
+    "930-binary subarrays with sum.md",
     "binary string having more 1's than 0's.md",
     "713-Subarray product less than K.md",
     "560-Subarray sum equals K.md",
-    "daily-notes/2023-11-02.md",
     "567-permutation in string.md",
     "424-Repeating Character Replacement.md",
     "3-Longest Substring Without Repeating Characters.md",
@@ -243,7 +256,6 @@
     "company-Akaike.md",
     "daily-notes/2023-11-01.md",
     "NLP - Topic Modelling.md",
-    "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231101105551.png",
     "conda.md",
     "CV - Semantic Segmentation.md",
