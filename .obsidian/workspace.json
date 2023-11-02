@@ -20,26 +20,19 @@
             }
           },
           {
-            "id": "01d32ab25c7407ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5180b215b7ad1d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments - placement-internship.md",
+                "file": "daily-notes/2023-11-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-02.md",
+                "file": "daily-notes/2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-02.md",
+                "file": "daily-notes/2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-02.md",
+                "file": "daily-notes/2023-11-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-02.md"
+                "file": "daily-notes/2023-11-04.md"
               }
             }
           },
@@ -194,9 +187,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a4ee10bbec0945bc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "a4041ed846bb5c8e",
@@ -227,12 +228,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16f75ac948fda552",
+  "active": "5180b215b7ad1d35",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "company-Merilytics.md",
+    "daily-notes/2023-11-06.md",
+    "daily-notes/2023-11-04.md",
+    "company-Akaike.md",
     "Assignments - placement-internship.md",
     "daily-notes/2023-11-02.md",
+    "IIT Campus Placements.md",
+    "company-Merilytics.md",
     "binary string having more 1's than 0's.md",
     "Divide and Conquer.md",
     "count inversion.md",
@@ -246,7 +250,6 @@
     "424-Repeating Character Replacement.md",
     "3-Longest Substring Without Repeating Characters.md",
     "121-best time to Buy and sell stock.md",
-    "company-Akaike.md",
     "NLP - Topic Modelling.md",
     "attachments/Pasted image 20231101105551.png",
     "conda.md",
@@ -254,8 +257,6 @@
     "daily-notes/2023-10-31.md",
     "tensorflow.md",
     "Linux.md",
-    "CV - Facial Recognition.md",
-    "NLP - LSTM.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",

@@ -48,3 +48,6 @@ read for interview if selected,
 
 #### Computer Vision
 - The objective of this assignment is to develop a solution using image processing techniques to partially de-annotate an image, given an original image and a fully annotated image
+
+#todo/deadline
+- [ ] akaike assignment, 7 Nov'23
