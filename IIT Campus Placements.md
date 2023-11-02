@@ -37,6 +37,7 @@
 - [x] [[company-Intel India]], not shortlisted
 - [ ] [[company-Axtria]]
 - [ ] [[company-Akaike]]
+- [ ] [[company-Merilytics]]
 
 ## Previous year Companies
 ---

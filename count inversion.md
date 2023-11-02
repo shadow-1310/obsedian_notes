@@ -3,7 +3,7 @@ topic:
 ### basic info
 - source: #gfg
 - serial no:
-- first_done:
+- first_done: [[2023-11-02]]
 - last_revised:
 - difficulty:
 	- [ ] easy

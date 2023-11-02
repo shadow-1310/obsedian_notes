@@ -42,3 +42,9 @@ read for interview if selected,
 		- one thread fetch data from storage and other thread pass data to training network
 	- GAN
 	- Vision Transformers
+
+
+## Assignment
+
+#### Computer Vision
+- The objective of this assignment is to develop a solution using image processing techniques to partially de-annotate an image, given an original image and a fully annotated image

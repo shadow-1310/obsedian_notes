@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "947c9f9e6354d6bf",
+            "id": "16f75ac948fda552",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,67 +20,26 @@
             }
           },
           {
-            "id": "8456a2bcee0e8653",
+            "id": "01d32ab25c7407ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "930-binary subarrays with sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "895c36bb59dfcaf2",
+            "id": "5180b215b7ad1d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary string having more 1's than 0's.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c4c812ec4e6f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fe3c86f73ac984c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divide and Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea3eb89dffe10d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "count inversion.md",
+                "file": "Assignments - placement-internship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "count inversion.md",
+                "file": "daily-notes/2023-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "count inversion.md",
+                "file": "daily-notes/2023-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "count inversion.md",
+                "file": "daily-notes/2023-11-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "count inversion.md"
+                "file": "daily-notes/2023-11-02.md"
               }
             }
           },
@@ -234,14 +193,6 @@
               "state": {
                 "sortOrder": "frequency"
               }
-            }
-          },
-          {
-            "id": "2a6513260301ece6",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ],
@@ -276,14 +227,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea3eb89dffe10d65",
+  "active": "16f75ac948fda552",
   "lastOpenFiles": [
-    "Divide and Conquer.md",
-    "DSA/Topics/DSA.md",
-    "930-binary subarrays with sum.md",
-    "binary string having more 1's than 0's.md",
-    "DSA/Topics/Sliding Window.md",
+    "IIT Campus Placements.md",
+    "company-Merilytics.md",
+    "Assignments - placement-internship.md",
     "daily-notes/2023-11-02.md",
+    "binary string having more 1's than 0's.md",
+    "Divide and Conquer.md",
+    "count inversion.md",
+    "930-binary subarrays with sum.md",
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Sliding Window.md",
     "daily-notes/2023-11-01.md",
     "713-Subarray product less than K.md",
     "560-Subarray sum equals K.md",
@@ -300,11 +255,7 @@
     "tensorflow.md",
     "Linux.md",
     "CV - Facial Recognition.md",
-    "IIT Campus Placements.md",
     "NLP - LSTM.md",
-    "ML theory.md",
-    "Queue.md",
-    "DSA/Topics/Array.md",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
     "attachments/Pasted image 20231020204628.png",
