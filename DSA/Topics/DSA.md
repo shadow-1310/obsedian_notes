@@ -8,6 +8,7 @@
 - [ ] [[Misc]]
 - [x] [[Two Pointers]]
 - [ ] [[Sliding Window]]
+- [ ] [[Divide and Conquer]]
 - [ ] [[Stack]]
 - [ ] [[Queue]]
 - [ ] [[Binary Search]]
