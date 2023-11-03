@@ -51,3 +51,13 @@ read for interview if selected,
 
 #todo/deadline
 - [ ] akaike assignment, 7 Nov'23
+
+
+#### NLP
+- [good video](https://www.youtube.com/watch?v=tpxl-UnfmQc)
+- [leaf question answering repo](https://github.com/KristiyanVachev/Leaf-Question-Generation/tree/main)
+
+
+1-vqF9olcYOT1hk4HgNSYEdRORq-OD5CF
+https://drive.google.com/uc?export=download&id=1-vqF9olcYOT1hk4HgNSYEdRORq-OD5CF&confirm=t
+https://drive.google.com/u/0/uc?id=1-vqF9olcYOT1hk4HgNSYEdRORq-OD5CF

@@ -34,6 +34,7 @@ check file usage
 - [[flatpack]]
 - [[virtualenv]]
 - [[nltk]]
+- [[gdown]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)
