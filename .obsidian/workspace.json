@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Akaike.md",
+                "file": "daily-notes/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2023-11-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "daily-notes/2023-11-03.md"
               }
             }
           },
@@ -254,8 +253,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe70da11adc7e472",
+  "active": "16f75ac948fda552",
   "lastOpenFiles": [
+    "nvim.md",
     "Linux.md",
     "gdown.md",
     "virtualenv.md",
@@ -281,7 +281,6 @@
     "567-permutation in string.md",
     "424-Repeating Character Replacement.md",
     "3-Longest Substring Without Repeating Characters.md",
-    "121-best time to Buy and sell stock.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
