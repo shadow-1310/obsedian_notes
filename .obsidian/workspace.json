@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "585b55349cf90db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "company-Akaike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "company-Akaike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Linux.md",
+                "file": "company-Akaike.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "company-Akaike.md"
               }
             }
           },
@@ -242,10 +230,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "585b55349cf90db6",
+  "active": "c2c25ebd31b7da19",
   "lastOpenFiles": [
-    "pke.md",
+    "daily-notes/2023-11-07.md",
     "Linux.md",
+    "pke.md",
     "company-Akaike.md",
     "daily-notes/2023-11-05.md",
     "conda.md",
@@ -269,7 +258,6 @@
     "count inversion.md",
     "930-binary subarrays with sum.md",
     "DSA/Topics/Sliding Window.md",
-    "daily-notes/2023-11-01.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

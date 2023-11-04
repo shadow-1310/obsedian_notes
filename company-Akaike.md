@@ -61,5 +61,8 @@ read for interview if selected,
 - [T5 hugging face](https://huggingface.co/docs/transformers/model_doc/t5)
 
 ##### Steps
+[questgen medium post](https://towardsdatascience.com/practical-ai-automatically-generate-multiple-choice-questions-mcqs-from-any-content-with-bert-2140d53a9bf5)
+[questgen website](https://dashboard.questgen.ai/?code=ab5f662f-eef1-4dad-b91a-f93629f4097b)
+
 - Libraries
 	- T5 conditional generation, T5 Tokenizer
