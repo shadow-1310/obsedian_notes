@@ -80,7 +80,8 @@
 	- kernel function- also a similarity function
 	- when soft margin is preferred - noisy and overlapping data
 	- SVM parameters - [youtube video](https://www.youtube.com/watch?v=fqhHBCfNy6s)
-		- gamma - effects only when kernel is non linear
+		- gamma - effects only when kernel is non linear(rbf, poly)
+			- controls distance of influence of single training point
 			- low gamma - large similarity radius, more points are grouped together
 			- high gamma- small similarity radius, less points are grouped together
 		- C -  slack variable (cost parameter)
