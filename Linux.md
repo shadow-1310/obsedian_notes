@@ -35,6 +35,7 @@ check file usage
 - [[virtualenv]]
 - [[nltk]]
 - [[gdown]]
+- [[pke]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)
