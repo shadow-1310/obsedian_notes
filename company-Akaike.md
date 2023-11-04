@@ -59,3 +59,7 @@ read for interview if selected,
 - [leaf question answering repo](https://github.com/KristiyanVachev/Leaf-Question-Generation/tree/main)
 - [hugging face](https://huggingface.co/docs/transformers/tasks/multiple_choice)
 - [T5 hugging face](https://huggingface.co/docs/transformers/model_doc/t5)
+
+##### Steps
+- Libraries
+	- T5 conditional generation, T5 Tokenizer
