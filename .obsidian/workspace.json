@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08ad6905428b69fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce137c61af1ce5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP-GenAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:nlp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-04.md",
+                "file": "NLP-GenAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-04.md",
+                "file": "NLP-GenAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-04.md",
+                "file": "NLP-GenAI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-04.md"
+                "file": "NLP-GenAI.md"
               }
             }
           },
@@ -217,8 +238,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4ee10bbec0945bc",
+  "active": "ce137c61af1ce5f7",
   "lastOpenFiles": [
+    "NLP-GenAI.md",
+    "daily-notes/2023-11-04.md",
     "daily-notes/2023-11-07.md",
     "Linux.md",
     "pke.md",
@@ -226,7 +249,6 @@
     "daily-notes/2023-11-05.md",
     "conda.md",
     "IIT Campus Placements.md",
-    "daily-notes/2023-11-04.md",
     "daily-notes/2023-11-03.md",
     "ML theory.md",
     "DSA/Topics/Array.md",
@@ -244,7 +266,6 @@
     "Divide and Conquer.md",
     "count inversion.md",
     "930-binary subarrays with sum.md",
-    "DSA/Topics/Sliding Window.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
