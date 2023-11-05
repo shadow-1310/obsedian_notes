@@ -23,8 +23,12 @@
             "id": "08ad6905428b69fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Graph.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -33,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP-GenAI.md",
+                "file": "daily-notes/2023-11-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:nlp",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP-GenAI.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP-GenAI.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NLP-GenAI.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP-GenAI.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -238,22 +242,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce137c61af1ce5f7",
+  "active": "08ad6905428b69fd",
   "lastOpenFiles": [
+    "2924-Find champion II.md",
+    "Graph.md",
+    "DSA/Topics/DSA.md",
+    "Matrix.md",
+    "2923 - find champion I.md",
+    "daily-notes/2023-11-05.md",
     "NLP-GenAI.md",
     "daily-notes/2023-11-04.md",
     "daily-notes/2023-11-07.md",
     "Linux.md",
     "pke.md",
     "company-Akaike.md",
-    "daily-notes/2023-11-05.md",
     "conda.md",
     "IIT Campus Placements.md",
     "daily-notes/2023-11-03.md",
     "ML theory.md",
     "DSA/Topics/Array.md",
     "202-Happy Number.md",
-    "DSA/Topics/DSA.md",
     "nvim.md",
     "gdown.md",
     "virtualenv.md",
@@ -262,10 +270,6 @@
     "daily-notes/2023-11-06.md",
     "Assignments - placement-internship.md",
     "company-Merilytics.md",
-    "binary string having more 1's than 0's.md",
-    "Divide and Conquer.md",
-    "count inversion.md",
-    "930-binary subarrays with sum.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

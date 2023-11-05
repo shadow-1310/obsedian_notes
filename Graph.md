@@ -26,6 +26,7 @@ in undirected graph each edge will contribute 2 to DOF
 
 ### make adjacency list 
 - [x] [[997-find town judge]], last done: [[2023-10-23]]
+- [x] [[2924-Find champion II]], last done: [[2023-11-05]]
 
 ### DFS
 stack,hashmap
