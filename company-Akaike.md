@@ -66,3 +66,9 @@ read for interview if selected,
 
 - Libraries
 	- T5 conditional generation, T5 Tokenizer
+
+functions
+- generate_questions_mcq
+- tokenize_sentences
+- get_keywords
+- 
