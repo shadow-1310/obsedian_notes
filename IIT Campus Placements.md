@@ -26,18 +26,31 @@
 
 ## IITG 2023'Dec
 ---
+#todo/placement-profiles
+- [ ] profiles used - 31
+- [ ] tests done - 14
+
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]
 - [x] [[company-Mercari]]
 - [x] [[company - Deloitte]]
-- [ ] [[company-Tescra_Achnet]]
+- [x] [[company-Tescra_Achnet]]
 - [ ] [[company-TSMC]]
-- [ ] [[company - BNY Mellon]]
+- [x] [[company - BNY Mellon]], not shortlisted
 - [x] [[company - Info Edge]]
 - [x] [[company-Intel India]], not shortlisted
 - [ ] [[company-Axtria]]
-- [ ] [[company-Akaike]]
-- [ ] [[company-Merilytics]]
+- [x] [[company-FICO]]
+- [x] [[company-Akaike]], assignment submitted
+- [x] [[company-Merilytics]], not shortlisted
+- [ ] [[company-EXL Analytics]]
+- [x] [[company-Google]]
+- [x] [[company-Futures First]], didn't give test
+- [ ] [[company-Juniper Networks]]
+- [ ] [[company-Goldman Sachs]]
+- [ ] [[company-Juniper Networks]]
+- [ ] [[company-Aira Matrix]]
+- [ ] 
 
 ## Previous year Companies
 ---
