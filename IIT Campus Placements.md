@@ -50,7 +50,7 @@
 - [ ] [[company-Goldman Sachs]]
 - [ ] [[company-Juniper Networks]]
 - [ ] [[company-Aira Matrix]]
-- [ ] 
+- [ ]  [[company-EXL Analytics]]
 
 ## Previous year Companies
 ---
