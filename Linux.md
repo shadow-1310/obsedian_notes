@@ -5,6 +5,11 @@ set wallpaper
 gsettings set org.gnome.desktop.background picture-uri-dark file:///home/serrano/Pictures/y.jpg
 ```
 
+- install a .deb file
+```bash
+sudo dpkg -i package_name.deb
+```
+
 check file usage
 - https://www.howtogeek.com/409611/how-to-view-free-disk-space-and-disk-usage-from-the-linux-terminal/
 ### using nvidia
