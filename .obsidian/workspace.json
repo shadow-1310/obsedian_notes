@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1f31f84ed861f856",
+            "id": "a17ba882cbdd0b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akaike-documentation.md",
+                "file": "Akaike-cv_task.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akaike-documentation.md",
+                "file": "Akaike-cv_task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akaike-documentation.md",
+                "file": "Akaike-cv_task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Akaike-documentation.md",
+                "file": "Akaike-cv_task.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akaike-documentation.md"
+                "file": "Akaike-cv_task.md"
               }
             }
           },
@@ -254,9 +254,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f31f84ed861f856",
+  "active": "a17ba882cbdd0b7e",
   "lastOpenFiles": [
     "company-Akaike.md",
+    "Akaike-cv_task.md",
+    "daily-notes/2023-11-10.md",
     "Akaike-documentation.md",
     "IIT Campus Placements.md",
     "Graph.md",
@@ -280,8 +282,6 @@
     "DSA/Topics/Array.md",
     "202-Happy Number.md",
     "nvim.md",
-    "gdown.md",
-    "virtualenv.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

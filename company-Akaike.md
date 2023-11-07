@@ -72,3 +72,4 @@ functions
 - tokenize_sentences
 - get_keywords
 [[Akaike-documentation]]
+[[Akaike-cv_task]]
