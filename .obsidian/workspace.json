@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aea3a4b7d46c425b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN - Convolutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "CNN - Convolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "CNN - Convolutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "CNN - Convolutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Sliding Window.md"
+                "file": "CNN - Convolutions.md"
               }
             }
           },
@@ -242,8 +254,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31c60395354e705",
+  "active": "aea3a4b7d46c425b",
   "lastOpenFiles": [
+    "DSA/Topics/Sliding Window.md",
+    "CNN - Convolutions.md",
     "DSA/Topics/DSA.md",
     "tmux.md",
     "daily-notes/2023-11-08.md",
@@ -268,8 +282,6 @@
     "daily-notes/2023-11-04.md",
     "pke.md",
     "conda.md",
-    "daily-notes/2023-11-03.md",
-    "ML theory.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
