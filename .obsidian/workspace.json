@@ -25,25 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "254384df60f7ab24",
+            "id": "e31c60395354e705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-11-08.md",
-                "mode": "source",
+                "file": "DSA/Topics/Sliding Window.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "DSA/Topics/Sliding Window.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590 group project.md"
+                "file": "DSA/Topics/Sliding Window.md"
               }
             }
           },
@@ -241,10 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e911ad1de61830a",
+  "active": "e31c60395354e705",
   "lastOpenFiles": [
-    "daily-notes/2023-11-08.md",
+    "DSA/Topics/DSA.md",
     "tmux.md",
+    "daily-notes/2023-11-08.md",
     "Linux.md",
     "CS590 group project.md",
     "daily-notes/2023-11-07.md",
@@ -259,7 +261,6 @@
     "Millenium Management.md",
     "daily-notes/2023-11-06.md",
     "2924-Find champion II.md",
-    "DSA/Topics/DSA.md",
     "Matrix.md",
     "2923 - find champion I.md",
     "daily-notes/2023-11-05.md",

@@ -5,3 +5,8 @@ tmux -u
 ```
 
 resizing panes bind [blog](https://linuxhint.com/adjust-tmux-pane-size/)
+
+- open alacritty with a tmux session
+```bash
+alacritty -e tmux -u
+```
