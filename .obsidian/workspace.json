@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c0fdaaee3839978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-11-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e911ad1de61830a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CS590 group project.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "daily-notes/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux.md",
+                "file": "CS590 group project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmux.md",
+                "file": "CS590 group project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tmux.md",
+                "file": "CS590 group project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux.md"
+                "file": "CS590 group project.md"
               }
             }
           },
@@ -254,10 +241,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "254384df60f7ab24",
+  "active": "8e911ad1de61830a",
   "lastOpenFiles": [
-    "Linux.md",
+    "daily-notes/2023-11-08.md",
     "tmux.md",
+    "Linux.md",
     "CS590 group project.md",
     "daily-notes/2023-11-07.md",
     "Akaike-cv_task.md",
@@ -281,7 +269,6 @@
     "conda.md",
     "daily-notes/2023-11-03.md",
     "ML theory.md",
-    "DSA/Topics/Array.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

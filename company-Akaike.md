@@ -50,7 +50,7 @@ read for interview if selected,
 - The objective of this assignment is to develop a solution using image processing techniques to partially de-annotate an image, given an original image and a fully annotated image
 
 #todo/deadline
-- [ ] akaike assignment, 7 Nov'23
+- [x] akaike assignment, 7 Nov'23
 
 [github solution of NLP](https://github.com/ramananstark/internship-assignment-nlp/blob/main/script.py)
 [huggingface qna](https://huggingface.co/docs/transformers/tasks/question_answering)

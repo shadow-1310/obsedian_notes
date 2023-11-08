@@ -9,6 +9,8 @@
 
 ### U-Net
 - [transposed convolution](https://www.youtube.com/watch?v=96_oGE8WyPg)
+- [pytorch implementation](https://github.com/milesial/Pytorch-UNet)
+- 
 - 
 #### D-UNet
 - /home/shekhar/Course/CS590/final_project/papers/D-UNet.pdf
