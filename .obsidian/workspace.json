@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aed61c1c0bff4871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "254384df60f7ab24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs590",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "tmux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590 group project.md"
+                "file": "tmux.md"
               }
             }
           },
@@ -230,8 +254,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e911ad1de61830a",
+  "active": "254384df60f7ab24",
   "lastOpenFiles": [
+    "Linux.md",
+    "tmux.md",
+    "CS590 group project.md",
     "daily-notes/2023-11-07.md",
     "Akaike-cv_task.md",
     "company-EXL Analytics.md",
@@ -240,7 +267,6 @@
     "daily-notes/2023-11-10.md",
     "Akaike-documentation.md",
     "Graph.md",
-    "Linux.md",
     "company-TSMC.md",
     "Millenium Management.md",
     "daily-notes/2023-11-06.md",
@@ -256,8 +282,6 @@
     "daily-notes/2023-11-03.md",
     "ML theory.md",
     "DSA/Topics/Array.md",
-    "202-Happy Number.md",
-    "nvim.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

@@ -41,6 +41,7 @@ check file usage
 - [[nltk]]
 - [[gdown]]
 - [[pke]]
+- [[tmux]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)
