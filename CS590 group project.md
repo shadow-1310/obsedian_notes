@@ -10,7 +10,7 @@
 ### U-Net
 - [transposed convolution](https://www.youtube.com/watch?v=96_oGE8WyPg)
 - [pytorch implementation](https://github.com/milesial/Pytorch-UNet)
-- 
+- [tensorflow implementation](https://github.com/zhixuhao/unet/blob/master/model.py)
 - 
 #### D-UNet
 - /home/shekhar/Course/CS590/final_project/papers/D-UNet.pdf
@@ -25,3 +25,7 @@
 - /home/shekhar/Course/CS590/final_project/papers/MI-UNet.pdf
 - [github link](https://github.com/wujiong-hub/lddmmMASGD)
 
+U-Net with Inception
+- [paper](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-14/issue-4/044512/Improved-U-Nets-with-inception-blocks-for-building-detection/10.1117/1.JRS.14.044512.full?SSO=1)
+- [github](https://github.com/mribrahim/inception-unet/blob/master/unetV2.py)
+- 

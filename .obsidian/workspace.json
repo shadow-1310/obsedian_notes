@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNN - Convolutions.md",
+                "file": "CS590 group project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNN - Convolutions.md",
+                "file": "CS590 group project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CNN - Convolutions.md",
+                "file": "CS590 group project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNN - Convolutions.md"
+                "file": "CS590 group project.md"
               }
             }
           },
@@ -254,10 +253,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aea3a4b7d46c425b",
+  "active": "8e911ad1de61830a",
   "lastOpenFiles": [
-    "DSA/Topics/Sliding Window.md",
     "CNN - Convolutions.md",
+    "DSA/Topics/Sliding Window.md",
     "DSA/Topics/DSA.md",
     "tmux.md",
     "daily-notes/2023-11-08.md",
