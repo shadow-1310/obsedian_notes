@@ -31,3 +31,7 @@ tags: #dsa/array #unfinished
 - [ ] [[Arrange array]] last done: [[2023-09-11]]
 - [ ] [[count inversion]]
 - [ ] [[count pairs with given sum]] last done: [[2023-09-12]]
+- [x] [[1480-Running sum of 1D array]], last done: [[2023-11-10]]
+- [x] [[2574-Left and right sum difference]], last done: [[2023-11-10]]
+- [x] [[1588-Sum of odd length subarrays]], last done: [[2023-11-10]]
+- [ ] [[303-Range Sum query]]
