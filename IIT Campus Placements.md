@@ -27,8 +27,8 @@
 ## IITG 2023'Dec
 ---
 #todo/placement-profiles
-- [ ] profiles used - 31
-- [ ] tests done - 14
+- [ ] profiles used - 32
+- [ ] tests done - 13
 
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]
@@ -70,4 +70,3 @@
 14. [[company-Paytm]]
 15. [[company-Wells Fargo]]
 16. [[company-Samsung]]
-### Sprinklr 

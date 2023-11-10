@@ -2,7 +2,7 @@ topic:
 
 ### basic info
 - source: 
-- serial no:
+- serial no: #leetcode/930 
 - first_done:
 - last_revised:
 - difficulty:

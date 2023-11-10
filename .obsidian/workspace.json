@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aed61c1c0bff4871",
+            "id": "b47f6600cdc4753d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e31c60395354e705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/Sliding Window.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "aea3a4b7d46c425b",
+            "id": "3b21e745f62fe2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNN - Convolutions.md",
+                "file": "560-Subarray sum equals K.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0c25f5a724226ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS590 group project.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs5",
+                "query": "file:convo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "560-Subarray sum equals K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "560-Subarray sum equals K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS590 group project.md",
+                "file": "560-Subarray sum equals K.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS590 group project.md"
+                "file": "560-Subarray sum equals K.md"
               }
             }
           },
@@ -254,13 +230,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c25f5a724226ea",
+  "active": "3b21e745f62fe2d6",
   "lastOpenFiles": [
+    "DSA/Topics/Array.md",
     "CNN - Convolutions.md",
-    "daily-notes/2023-11-09.md",
     "CS590 group project.md",
-    "DSA/Topics/Sliding Window.md",
+    "IIT Campus Placements.md",
+    "560-Subarray sum equals K.md",
     "DSA/Topics/DSA.md",
+    "DSA/Topics/Sliding Window.md",
+    "930-binary subarrays with sum.md",
+    "daily-notes/2023-11-10.md",
+    "daily-notes/2023-11-09.md",
     "tmux.md",
     "daily-notes/2023-11-08.md",
     "Linux.md",
@@ -268,8 +249,6 @@
     "Akaike-cv_task.md",
     "company-EXL Analytics.md",
     "company-Akaike.md",
-    "IIT Campus Placements.md",
-    "daily-notes/2023-11-10.md",
     "Akaike-documentation.md",
     "Graph.md",
     "company-TSMC.md",
@@ -279,9 +258,6 @@
     "Matrix.md",
     "2923 - find champion I.md",
     "daily-notes/2023-11-05.md",
-    "NLP-GenAI.md",
-    "daily-notes/2023-11-04.md",
-    "pke.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
