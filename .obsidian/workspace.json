@@ -32,31 +32,31 @@
             }
           },
           {
-            "id": "5e45b440916b6bf6",
+            "id": "24999d0eca936c7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
-                "mode": "preview",
+                "file": "1588-Sum of odd length subarrays.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5962e1d3764c5e4f",
+            "id": "5e45b440916b6bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "daily-notes/2023-11-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:pyth",
+                "query": "file:da331",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashing.md",
+                "file": "1588-Sum of odd length subarrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashing.md",
+                "file": "1588-Sum of odd length subarrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashing.md"
+                "file": "1588-Sum of odd length subarrays.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hashing.md",
+                "file": "1588-Sum of odd length subarrays.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,34 +254,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f363e2d846797cf",
+  "active": "24999d0eca936c7f",
   "lastOpenFiles": [
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Tree.md",
     "Hashing.md",
+    "1588-Sum of odd length subarrays.md",
+    "daily-notes/2023-11-10.md",
+    "DSA/Topics/Tree.md",
+    "2574-Left and right sum difference.md",
+    "1480-Running sum of 1D array.md",
+    "1248- Count no. of nice subarrays.md",
+    "DA331.md",
+    "CS590.md",
+    "IIT Campus Placements.md",
+    "2062-Count vowel substrings of a string.md",
+    "DSA/Topics/DSA.md",
     "930-binary subarrays with sum.md",
     "DSA/Topics/Sliding Window.md",
     "560-Subarray sum equals K.md",
     "Python.md",
     "CNN - Convolutions.md",
-    "IIT Campus Placements.md",
     "Assignments - placement-internship.md",
     "DSA/Topics/Array.md",
     "CS590 group project.md",
-    "daily-notes/2023-11-10.md",
     "daily-notes/2023-11-09.md",
     "tmux.md",
     "daily-notes/2023-11-08.md",
     "Linux.md",
     "daily-notes/2023-11-07.md",
     "Akaike-cv_task.md",
-    "company-EXL Analytics.md",
-    "company-Akaike.md",
-    "Akaike-documentation.md",
-    "Graph.md",
-    "company-TSMC.md",
-    "Millenium Management.md",
-    "daily-notes/2023-11-06.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
