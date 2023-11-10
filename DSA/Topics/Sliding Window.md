@@ -22,4 +22,3 @@ tags: #dsa/sliding-window #unfinished
 [gfg discussion](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 [problem list gfg](https://practice.geeksforgeeks.org/explore?page=1&category=prefix-sum&sortBy=submissions)
 - [ ] [[binary string having more 1's than 0's]]
-- [ ] [[930-binary subarrays with sum]]

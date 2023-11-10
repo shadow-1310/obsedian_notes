@@ -13,5 +13,7 @@ direct addressing
 
 ## Related Problems
 ---
-- [x] [[560-Subarray sum equals K ]]
 
+#### prefix sum pattern
+- [x] [[560-Subarray sum equals K ]], last done: [[2023-11-10]]
+- [x] [[930-binary subarrays with sum]], last done: [[2023-11-10]]

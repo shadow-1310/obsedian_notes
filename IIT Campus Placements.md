@@ -27,8 +27,8 @@
 ## IITG 2023'Dec
 ---
 #todo/placement-profiles
-- [ ] profiles used - 32
-- [ ] tests done - 13
+- [ ] profiles used - 33
+- [ ] tests done - 12
 
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]

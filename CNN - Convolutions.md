@@ -19,3 +19,11 @@ Conv2D animation
 	- XceptionNet
 	- MobileNet
 	- MultiModel Network
+
+#### Dilated Convolution
+[youtube explaination](https://www.youtube.com/watch?v=0Lg_V0Um-1Q)
+- main purpose is to increase the receptive field while maintaining the resolution.
+- we can also use stride or pooling, but it decreases the resolution.
+- Usage
+	- semantic segmentation
+	- WaveNet(text to audio)

@@ -8,24 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b47f6600cdc4753d",
+            "id": "3b21e745f62fe2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f363e2d846797cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e45b440916b6bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Tree.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3b21e745f62fe2d6",
+            "id": "5962e1d3764c5e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:convo",
+                "query": "file:pyth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,13 +101,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "933ccf5bbffcb048",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 293.5110321044922
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -92,7 +124,7 @@
       {
         "id": "f889ac0c04457f05",
         "type": "tabs",
-        "dimension": 66.9844020797227,
+        "dimension": 58.578856152513005,
         "children": [
           {
             "id": "3854ee68070eb86e",
@@ -100,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +167,48 @@
             }
           },
           {
+            "id": "62f809255c562f28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hashing.md"
+              }
+            }
+          },
+          {
+            "id": "eceba95fab9c5971",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a4ee10bbec0945bc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "974ca1ef550112c5",
+        "type": "tabs",
+        "dimension": 41.421143847487,
+        "children": [
+          {
             "id": "edbda6db19ba5d44",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "560-Subarray sum equals K.md",
+                "file": "Hashing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,50 +236,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "62f809255c562f28",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "560-Subarray sum equals K.md"
-              }
-            }
-          },
-          {
-            "id": "eceba95fab9c5971",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "a4ee10bbec0945bc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "a4041ed846bb5c8e",
-        "type": "tabs",
-        "dimension": 33.015597920277294,
-        "children": [
-          {
-            "id": "933ccf5bbffcb048",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -230,16 +254,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b21e745f62fe2d6",
+  "active": "8f363e2d846797cf",
   "lastOpenFiles": [
-    "DSA/Topics/Array.md",
-    "CNN - Convolutions.md",
-    "CS590 group project.md",
-    "IIT Campus Placements.md",
-    "560-Subarray sum equals K.md",
     "DSA/Topics/DSA.md",
-    "DSA/Topics/Sliding Window.md",
+    "DSA/Topics/Tree.md",
+    "Hashing.md",
     "930-binary subarrays with sum.md",
+    "DSA/Topics/Sliding Window.md",
+    "560-Subarray sum equals K.md",
+    "Python.md",
+    "CNN - Convolutions.md",
+    "IIT Campus Placements.md",
+    "Assignments - placement-internship.md",
+    "DSA/Topics/Array.md",
+    "CS590 group project.md",
     "daily-notes/2023-11-10.md",
     "daily-notes/2023-11-09.md",
     "tmux.md",
@@ -254,10 +282,6 @@
     "company-TSMC.md",
     "Millenium Management.md",
     "daily-notes/2023-11-06.md",
-    "2924-Find champion II.md",
-    "Matrix.md",
-    "2923 - find champion I.md",
-    "daily-notes/2023-11-05.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
