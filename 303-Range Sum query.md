@@ -3,7 +3,7 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/303 
-- first_done:
+- first_done: [[2023-11-10]]
 - last_revised:
 - difficulty:
 	- [x] easy
@@ -17,7 +17,7 @@ topic:
 - space complexity
 
 #### pseudo code
-
+- maintain prefix sum array
 #### mistakes
 
 #### code snippet
