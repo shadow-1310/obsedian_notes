@@ -6,7 +6,8 @@ topic:
 - first_done: [[2023-01-17]]
 	- first_revised: [[2023-02-06]]
 	- second_revised : [[2023-02-21]]
-- last_revised: [[2023-09-12]]
+	- 3rd_revised: [[2023-09-12]]
+- last_revised: [[2023-11-11]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -22,6 +23,7 @@ topic:
 
 #### mistakes
 - don't initialize the max to be 0, as all array elements can be -ve
+	- same mistake, initialize max = nums[0]
 #### code snippet
 ```python
 

@@ -27,3 +27,5 @@ Conv2D animation
 - Usage
 	- semantic segmentation
 	- WaveNet(text to audio)
+
+#### Transposed Convolution

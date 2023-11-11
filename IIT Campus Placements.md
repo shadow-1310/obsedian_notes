@@ -48,7 +48,6 @@
 - [x] [[company-Futures First]], didn't give test
 - [ ] [[company-Juniper Networks]]
 - [ ] [[company-Goldman Sachs]]
-- [ ] [[company-Juniper Networks]]
 - [ ] [[company-Aira Matrix]]
 - [ ]  [[company-EXL Analytics]]
 
