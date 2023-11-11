@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2af2045a3f7a770f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "962-Maximum width ramp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1dceb15932a88b8",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "962-Maximum width ramp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "962-Maximum width ramp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Stack.md"
+                "file": "962-Maximum width ramp.md"
               }
             }
           },
@@ -196,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "962-Maximum width ramp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,10 +254,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4169b99149a8d2c",
+  "active": "2af2045a3f7a770f",
   "lastOpenFiles": [
-    "daily-notes/2023-11-11.md",
     "DSA/Topics/Stack.md",
+    "962-Maximum width ramp.md",
+    "daily-notes/2023-11-11.md",
     "496-Next Greater element.md",
     "1475-final price with discount.md",
     "DSA/Topics/Array.md",
@@ -269,7 +282,6 @@
     "303-Range Sum query.md",
     "1588-Sum of odd length subarrays.md",
     "DSA/Topics/Tree.md",
-    "2574-Left and right sum difference.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
