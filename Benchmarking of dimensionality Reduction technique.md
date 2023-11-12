@@ -64,4 +64,9 @@ To-do
 	- ![[Pasted image 20230814125317.png]]
 - [Why does PCA assume Gaussian Distribution? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/25789/why-does-pca-assume-gaussian-distribution)
 	- ![[Pasted image 20230814125116.png]]
-		- 
+
+
+#### Report 
+- Introduction
+- Literature Review
+- 
