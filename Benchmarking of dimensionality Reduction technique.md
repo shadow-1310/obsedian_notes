@@ -69,4 +69,7 @@ To-do
 #### Report 
 - Introduction
 - Literature Review
-- 
+- Rewrite equations- in v9
+	- equation 1 -t-SNE
+	- eq 10 - Gradient boost
+	- 
