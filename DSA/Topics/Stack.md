@@ -14,9 +14,9 @@ c) A parentheses balancing program
 
 ## Related Problems
 ---
-- [[150-Reverse Polish Notation]] last done: [[2023-09-21]]
-- [[739-Daily Temperature]] last done: [[2023-09-21]], tricky
-- [[853-Car Fleet]] last done: [[2023-09-21]]
+- [ ] [[150-Reverse Polish Notation]] last done: [[2023-09-21]]
+- [ ] [[739-Daily Temperature]] last done: [[2023-09-21]], tricky
+- [ ] [[853-Car Fleet]] last done: [[2023-09-21]]
 
 ##### Monotonic Stack
 - [x] [[496-Next Greater element]], last done: [[2023-11-11]]
