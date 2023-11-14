@@ -22,4 +22,4 @@ c) A parentheses balancing program
 - [x] [[496-Next Greater element]], last done: [[2023-11-11]]
 - [x] [[84-Largest rectangle in histogram]], last done: [[2023-11-11]]
 - [x] [[1475-final price with discount]], last done: [[2023-11-11]]
-- [ ] [[962-Maximum width ramp]]
+- [x] [[962-Maximum width ramp]], last done: [[2023-11-14]]
