@@ -9,6 +9,7 @@ tags: #dsa/array #unfinished
 ## Related Problems
 ---
 - [ ] [[202-Happy Number]] last done: [[2023-10-14]]
+- [x] [[27-Remove Element]], last done: [[2023-11-13]], tricky
 - [ ] [[189-Rotate Array]]
 - [ ] [[263-Ugly Number]] last done: [[2023-10-07]]
 - [ ] [[287-contains duplicate]] last done: [[2023-10-02]]

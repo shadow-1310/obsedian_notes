@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "DSA/Topics/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "DSA/Topics/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Stack.md"
+                "file": "DSA/Topics/Array.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Stack.md",
+                "file": "DSA/Topics/Array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,20 +244,21 @@
   },
   "active": "ce85f6ff19070b72",
   "lastOpenFiles": [
+    "27-Remove Element.md",
+    "DSA/Topics/Array.md",
     "DSA/Topics/DSA.md",
-    "962-Maximum width ramp.md",
+    "DSA/Topics/Stack.md",
     "daily-notes/2023-11-13.md",
+    "962-Maximum width ramp.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "project-SIH.md",
     "daily-notes/2023-11-12.md",
     "CNN - Convolutions.md",
     "DL-Deep Learning.md",
-    "DSA/Topics/Stack.md",
     "DL-Regularization.md",
     "daily-notes/2023-11-11.md",
     "496-Next Greater element.md",
     "1475-final price with discount.md",
-    "DSA/Topics/Array.md",
     "84-Largest rectangle in histogram.md",
     "Missing and repeating numbers.md",
     "company-TSMC.md",
@@ -269,7 +270,6 @@
     "33-Search in Rotated Sorted Array.md",
     "Divide and Conquer.md",
     "IIT Campus Placements.md",
-    "count pairs with given sum.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
