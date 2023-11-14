@@ -14,3 +14,6 @@ convert -quality 75 input.jpg output.jpg
 ```bash
 convert input.jpg -colorspace output.jpg
 ```
+
+
+convert input.pdf -format JPG -quality 10 output.pdf
