@@ -42,6 +42,7 @@ check file usage
 - [[gdown]]
 - [[pke]]
 - [[tmux]]
+- [[zathura]]
 ## Add and Remove startup programme
 ### helpful links
 - [see all programmes](https://www.maketecheasier.com/manage-startup-applications-ubuntu/)

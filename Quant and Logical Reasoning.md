@@ -6,7 +6,7 @@
 ### Quants
 
 - [x] Percentage
-- [ ] Simplification & approximation
+- [ ] [[Simplification & approximation]]
 - [ ] [[quants-Time and Work]]
 - [x] Pipe and cistern
 - [x] Time, speed and distance
