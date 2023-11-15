@@ -1,7 +1,9 @@
 {
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "livePreview": true,
   "attachmentFolderPath": "attachments",
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "vimMode": true,
+  "readableLineLength": false
 }

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-15.md",
+                "file": "Quant and Logical Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-15.md",
+                "file": "Quant and Logical Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-15.md"
+                "file": "Quant and Logical Reasoning.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-15.md",
+                "file": "Quant and Logical Reasoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,12 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4ee10bbec0945bc",
+  "active": "1996867869062450",
   "lastOpenFiles": [
+    "quants-Time and Work.md",
+    "Quant and Logical Reasoning.md",
     "daily-notes/2023-11-15.md",
     "ML-Sampling.md",
     "Simplification & approximation.md",
-    "Quant and Logical Reasoning.md",
     "853-Car Fleet.md",
     "daily-notes/2023-11-14.md",
     "zathura.md",
@@ -257,7 +257,6 @@
     "DL-Regularization.md",
     "daily-notes/2023-11-11.md",
     "496-Next Greater element.md",
-    "1475-final price with discount.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
