@@ -5,7 +5,8 @@ topic:
 - serial no: #leetcode/238 
 - first_done: [[2023-06-01]]
 	- 1st_revised: [[2023-09-07]]
-- last_revised: [[2023-10-14]]
+	- 2nd_revised: [[2023-10-14]]
+- last_revised: [[2023-11-15]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
