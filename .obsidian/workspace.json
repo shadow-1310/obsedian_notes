@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1996867869062450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quant and Logical Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08ed66703506e292",
             "type": "leaf",
             "state": {
@@ -30,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82b00db480ce9da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b2d05678012265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Topics/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b971fd599dab3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "238-Product of Array Except Self.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ml",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "238-Product of Array Except Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "238-Product of Array Except Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quant and Logical Reasoning.md"
+                "file": "238-Product of Array Except Self.md"
               }
             }
           },
@@ -183,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "238-Product of Array Except Self.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,11 +254,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1996867869062450",
+  "active": "5b971fd599dab3e0",
   "lastOpenFiles": [
+    "DSA/Topics/Array.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-11-15.md",
     "quants-Time and Work.md",
     "Quant and Logical Reasoning.md",
-    "daily-notes/2023-11-15.md",
     "ML-Sampling.md",
     "Simplification & approximation.md",
     "853-Car Fleet.md",
@@ -245,9 +272,7 @@
     "IIT Campus Placements.md",
     "DSA/Topics/Stack.md",
     "962-Maximum width ramp.md",
-    "DSA/Topics/Array.md",
     "27-Remove Element.md",
-    "DSA/Topics/DSA.md",
     "daily-notes/2023-11-13.md",
     "Benchmarking of dimensionality Reduction technique.md",
     "project-SIH.md",
