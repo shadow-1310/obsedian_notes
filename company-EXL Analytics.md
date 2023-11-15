@@ -5,4 +5,4 @@
 - case studies in Interview round
 
 #todo/exam 
-- [ ] EXL test, 15 Nov
+- [x] EXL test, 15 Nov

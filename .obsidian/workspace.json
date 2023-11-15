@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "ade7383c22e39cb3",
+            "id": "08ed66703506e292",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08ed66703506e292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML-Sampling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML-Sampling.md",
+                "file": "daily-notes/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML-Sampling.md",
+                "file": "daily-notes/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML-Sampling.md"
+                "file": "daily-notes/2023-11-15.md"
               }
             }
           },
@@ -196,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML-Sampling.md",
+                "file": "daily-notes/2023-11-15.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +230,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08ed66703506e292",
+  "active": "a4ee10bbec0945bc",
   "lastOpenFiles": [
     "daily-notes/2023-11-15.md",
     "ML-Sampling.md",
