@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9128fea380d1d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "546c08b422c3b4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-TSMC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-16.md",
+                "file": "company-TSMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-16.md",
+                "file": "company-TSMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-16.md"
+                "file": "company-TSMC.md"
               }
             }
           },
@@ -196,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-16.md",
+                "file": "company-TSMC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,13 +266,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebddc53fd8526709",
+  "active": "546c08b422c3b4c1",
   "lastOpenFiles": [
     "IIT Campus Placements.md",
+    "daily-notes/2023-11-16.md",
     "DSA/Topics/Array.md",
     "202-Happy Number.md",
     "DSA/Topics/DSA.md",
-    "daily-notes/2023-11-16.md",
     "DL-Diffusion Models.md",
     "daily-notes/2023-11-15.md",
     "company-Dashtoon.md",
