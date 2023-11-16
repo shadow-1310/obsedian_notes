@@ -51,6 +51,8 @@
 - [ ] [[company-Aira Matrix]]
 - [x]  [[company-EXL Analytics]]
 - [ ] [[company-Dashtoon]]
+- [ ] [[company-MikoAI]]
+- [ ] [[company-Appy Pie]]
 
 ## Previous year Companies
 ---

@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "647-palindromic substrings.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4e914f0df8e29e1",
+            "id": "f10c728f13ea4a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL-Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebddc53fd8526709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-11-16.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,18 +44,31 @@
             }
           },
           {
-            "id": "546c08b422c3b4c1",
+            "id": "d7a69ea4641d4c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-TSMC.md",
+                "file": "company-Juniper Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94c119c1d1673b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL-Neural Style Transfer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "647-palindromic substrings.md",
+                "file": "DL-Neural Style Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "647-palindromic substrings.md",
+                "file": "DL-Neural Style Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "647-palindromic substrings.md"
+                "file": "DL-Neural Style Transfer.md"
               }
             }
           },
@@ -219,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "647-palindromic substrings.md",
+                "file": "DL-Neural Style Transfer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,13 +266,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82b00db480ce9da8",
+  "active": "94c119c1d1673b99",
   "lastOpenFiles": [
-    "DSA/Topics/DSA.md",
+    "company-Juniper Networks.md",
+    "DL-Neural Style Transfer.md",
+    "IIT Campus Placements.md",
+    "company-Appy Pie.md",
+    "company-MikoAI.md",
     "DSA/Topics/Array.md",
+    "189-Rotate Array.md",
+    "DSA/Topics/DSA.md",
+    "647-palindromic substrings.md",
     "DL-Diffusion Models.md",
     "daily-notes/2023-11-16.md",
-    "IIT Campus Placements.md",
     "company-TSMC.md",
     "202-Happy Number.md",
     "daily-notes/2023-11-15.md",
@@ -287,12 +294,6 @@
     "ML-Sampling.md",
     "Simplification & approximation.md",
     "853-Car Fleet.md",
-    "daily-notes/2023-11-14.md",
-    "zathura.md",
-    "imageMagick.md",
-    "Coding-Decoding.md",
-    "DSA/Topics/Stack.md",
-    "962-Maximum width ramp.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
