@@ -5,7 +5,8 @@ topic:
 - serial no: #leetcode/202
 - first_done: [[2023-06-02]]
 	- 1st_revised: [[2023-09-10]]
-- last_revised: [[2023-10-14]]
+	- 2nd_revised: [[2023-10-14]]
+- last_revised: [[2023-11-16]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -23,6 +24,7 @@ topic:
 - to check for the endless loop use a set which stores all the previously encountered numbers, don't just check with the last number
 - don't just add the digits, add the square of digits
 - don't forget to change the number to square sum
+- directly after checking if it already seen, add the number to the set
 #### code snippet
 ```python
 

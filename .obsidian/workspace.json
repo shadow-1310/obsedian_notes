@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "DSA/Topics/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "8f7f765555783ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Dashtoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ebddc53fd8526709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-11-15.md",
+                "file": "daily-notes/2023-11-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Diffusion Models.md",
+                "file": "daily-notes/2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Diffusion Models.md",
+                "file": "daily-notes/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Diffusion Models.md"
+                "file": "daily-notes/2023-11-16.md"
               }
             }
           },
@@ -208,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Diffusion Models.md",
+                "file": "daily-notes/2023-11-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +219,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7735547475643932,
+                  "scale": 0.5562501855028916,
                   "close": true
                 }
               }
@@ -254,19 +242,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4e914f0df8e29e1",
+  "active": "ebddc53fd8526709",
   "lastOpenFiles": [
-    "company-TSMC.md",
     "IIT Campus Placements.md",
-    "company-Dashtoon.md",
-    "Quant and Logical Reasoning.md",
+    "DSA/Topics/Array.md",
+    "202-Happy Number.md",
+    "DSA/Topics/DSA.md",
+    "daily-notes/2023-11-16.md",
     "DL-Diffusion Models.md",
     "daily-notes/2023-11-15.md",
+    "company-Dashtoon.md",
+    "company-TSMC.md",
+    "Quant and Logical Reasoning.md",
     "Linux.md",
     "pytorch.md",
     "yolov5-pytorch.md",
-    "DSA/Topics/Array.md",
-    "DSA/Topics/DSA.md",
     "Dynamic Programming.md",
     "238-Product of Array Except Self.md",
     "pdfunite.md",
@@ -280,8 +270,6 @@
     "Coding-Decoding.md",
     "DSA/Topics/Stack.md",
     "962-Maximum width ramp.md",
-    "27-Remove Element.md",
-    "daily-notes/2023-11-13.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

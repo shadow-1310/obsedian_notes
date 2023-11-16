@@ -28,7 +28,7 @@
 ---
 #todo/placement-profiles
 - [ ] profiles used - 33
-- [ ] tests done - 12
+- [ ] tests done - 14
 
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]
