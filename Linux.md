@@ -44,6 +44,7 @@ check file usage
 - [[tmux]]
 - [[zathura]]
 - [[pdfunite]]
+- [[pytorch]]
 
 ## Add and Remove startup programme
 ### helpful links

@@ -49,7 +49,8 @@
 - [ ] [[company-Juniper Networks]]
 - [ ] [[company-Goldman Sachs]]
 - [ ] [[company-Aira Matrix]]
-- [ ]  [[company-EXL Analytics]]
+- [x]  [[company-EXL Analytics]]
+- [ ] [[company-Dashtoon]]
 
 ## Previous year Companies
 ---

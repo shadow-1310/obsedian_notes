@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08ed66703506e292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-11-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82b00db480ce9da8",
             "type": "leaf",
             "state": {
@@ -32,43 +20,43 @@
             }
           },
           {
-            "id": "5eab46747a92f469",
+            "id": "f4e914f0df8e29e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "DL-Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32850906363649b7",
+            "id": "8f7f765555783ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "company-Dashtoon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61b2d05678012265",
+            "id": "ebddc53fd8526709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "daily-notes/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "DL-Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "DL-Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-longest increasing subsequence.md"
+                "file": "DL-Diffusion Models.md"
               }
             }
           },
@@ -220,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300-longest increasing subsequence.md",
+                "file": "DL-Diffusion Models.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +231,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5213094129529634,
+                  "scale": 0.7735547475643932,
                   "close": true
                 }
               }
@@ -266,17 +254,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32850906363649b7",
+  "active": "f4e914f0df8e29e1",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
-    "DSA/Topics/Array.md",
-    "238-Product of Array Except Self.md",
-    "Linux.md",
-    "pdfunite.md",
-    "daily-notes/2023-11-15.md",
-    "quants-Time and Work.md",
+    "company-TSMC.md",
+    "IIT Campus Placements.md",
+    "company-Dashtoon.md",
     "Quant and Logical Reasoning.md",
+    "DL-Diffusion Models.md",
+    "daily-notes/2023-11-15.md",
+    "Linux.md",
+    "pytorch.md",
+    "yolov5-pytorch.md",
+    "DSA/Topics/Array.md",
+    "DSA/Topics/DSA.md",
+    "Dynamic Programming.md",
+    "238-Product of Array Except Self.md",
+    "pdfunite.md",
+    "quants-Time and Work.md",
     "ML-Sampling.md",
     "Simplification & approximation.md",
     "853-Car Fleet.md",
@@ -284,16 +278,10 @@
     "zathura.md",
     "imageMagick.md",
     "Coding-Decoding.md",
-    "IIT Campus Placements.md",
     "DSA/Topics/Stack.md",
     "962-Maximum width ramp.md",
     "27-Remove Element.md",
     "daily-notes/2023-11-13.md",
-    "Benchmarking of dimensionality Reduction technique.md",
-    "project-SIH.md",
-    "daily-notes/2023-11-12.md",
-    "CNN - Convolutions.md",
-    "DL-Deep Learning.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
