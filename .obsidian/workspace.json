@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
+                "file": "647-palindromic substrings.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:palindromi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-TSMC.md",
+                "file": "647-palindromic substrings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-TSMC.md",
+                "file": "647-palindromic substrings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-TSMC.md"
+                "file": "647-palindromic substrings.md"
               }
             }
           },
@@ -220,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-TSMC.md",
+                "file": "647-palindromic substrings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,17 +265,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "546c08b422c3b4c1",
+  "active": "82b00db480ce9da8",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "daily-notes/2023-11-16.md",
-    "DSA/Topics/Array.md",
-    "202-Happy Number.md",
     "DSA/Topics/DSA.md",
+    "DSA/Topics/Array.md",
     "DL-Diffusion Models.md",
+    "daily-notes/2023-11-16.md",
+    "IIT Campus Placements.md",
+    "company-TSMC.md",
+    "202-Happy Number.md",
     "daily-notes/2023-11-15.md",
     "company-Dashtoon.md",
-    "company-TSMC.md",
     "Quant and Logical Reasoning.md",
     "Linux.md",
     "pytorch.md",
