@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL-Neural Style Transfer.md",
-                "mode": "source",
+                "file": "dashtoon/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Neural Style Transfer.md",
+                "file": "dashtoon/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Neural Style Transfer.md",
+                "file": "dashtoon/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Neural Style Transfer.md"
+                "file": "dashtoon/README.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Neural Style Transfer.md",
+                "file": "dashtoon/README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,16 +244,18 @@
   },
   "active": "20f4e716f8adae46",
   "lastOpenFiles": [
-    "daily-notes/2023-11-17.md",
-    "DL-Neural Style Transfer.md",
     "Jupyter Notebook.md",
+    "conda.md",
+    "dashtoon/README.md",
+    "DL-Neural Style Transfer.md",
+    "dashtoon",
+    "daily-notes/2023-11-17.md",
     "Linux.md",
     "pytorch.md",
     "company-Juniper Networks.md",
     "IIT Campus Placements.md",
     "DSA/Topics/Array.md",
     "DSA/Topics/DSA.md",
-    "conda.md",
     "company-Appy Pie.md",
     "company-MikoAI.md",
     "189-Rotate Array.md",
@@ -269,7 +271,6 @@
     "Dynamic Programming.md",
     "238-Product of Array Except Self.md",
     "pdfunite.md",
-    "quants-Time and Work.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
