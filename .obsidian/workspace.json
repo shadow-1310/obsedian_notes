@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3ea33c5b97f403d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jupyter Notebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dl-",
+                "query": "file:jupy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "DL-Neural Style Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "DL-Neural Style Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-17.md"
+                "file": "DL-Neural Style Transfer.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "DL-Neural Style Transfer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,10 +242,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94c119c1d1673b99",
+  "active": "20f4e716f8adae46",
   "lastOpenFiles": [
-    "DL-Neural Style Transfer.md",
     "daily-notes/2023-11-17.md",
+    "DL-Neural Style Transfer.md",
+    "Jupyter Notebook.md",
+    "Linux.md",
     "pytorch.md",
     "company-Juniper Networks.md",
     "IIT Campus Placements.md",
@@ -250,13 +265,11 @@
     "daily-notes/2023-11-15.md",
     "company-Dashtoon.md",
     "Quant and Logical Reasoning.md",
-    "Linux.md",
     "yolov5-pytorch.md",
     "Dynamic Programming.md",
     "238-Product of Array Except Self.md",
     "pdfunite.md",
     "quants-Time and Work.md",
-    "ML-Sampling.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
