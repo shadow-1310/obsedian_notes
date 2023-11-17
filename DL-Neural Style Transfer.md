@@ -12,3 +12,8 @@ UnNormalized Cross Covariance
 
 ### Datsets
 - [MIT Scene Parsing](http://sceneparsing.csail.mit.edu/)
+
+
+#### Errors
+- LBFGS closure error
+	- https://sagecal.sourceforge.net/pytorch/index.html
