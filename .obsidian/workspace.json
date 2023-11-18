@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "company-Juniper Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashtoon/README.md",
+                "file": "daily-notes/2023-11-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:jupy",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dashtoon/README.md",
+                "file": "daily-notes/2023-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dashtoon/README.md",
+                "file": "daily-notes/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dashtoon/README.md"
+                "file": "daily-notes/2023-11-17.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dashtoon/README.md",
+                "file": "daily-notes/2023-11-17.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,16 +244,17 @@
   },
   "active": "20f4e716f8adae46",
   "lastOpenFiles": [
-    "Jupyter Notebook.md",
-    "conda.md",
-    "dashtoon/README.md",
-    "DL-Neural Style Transfer.md",
-    "dashtoon",
-    "daily-notes/2023-11-17.md",
-    "Linux.md",
-    "pytorch.md",
+    "daily-notes/2023-11-18.md",
     "company-Juniper Networks.md",
     "IIT Campus Placements.md",
+    "daily-notes/2023-11-17.md",
+    "dashtoon/README.md",
+    "Jupyter Notebook.md",
+    "conda.md",
+    "DL-Neural Style Transfer.md",
+    "dashtoon",
+    "Linux.md",
+    "pytorch.md",
     "DSA/Topics/Array.md",
     "DSA/Topics/DSA.md",
     "company-Appy Pie.md",
@@ -270,7 +271,6 @@
     "yolov5-pytorch.md",
     "Dynamic Programming.md",
     "238-Product of Array Except Self.md",
-    "pdfunite.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

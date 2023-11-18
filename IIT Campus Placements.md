@@ -35,20 +35,20 @@
 - [x] [[company-Mercari]]
 - [x] [[company - Deloitte]]
 - [x] [[company-Tescra_Achnet]]
-- [ ] [[company-TSMC]]
+- [x] [[company-TSMC]]
 - [x] [[company - BNY Mellon]], not shortlisted
 - [x] [[company - Info Edge]]
 - [x] [[company-Intel India]], not shortlisted
-- [ ] [[company-Axtria]]
+- [x] [[company-Axtria]]
 - [x] [[company-FICO]]
 - [x] [[company-Akaike]], assignment submitted
 - [x] [[company-Merilytics]], not shortlisted
-- [ ] [[company-EXL Analytics]]
+- [x] [[company-EXL Analytics]]
 - [x] [[company-Google]]
 - [x] [[company-Futures First]], didn't give test
 - [ ] [[company-Juniper Networks]]
-- [ ] [[company-Goldman Sachs]]
-- [ ] [[company-Aira Matrix]]
+- [x] [[company-Goldman Sachs]]
+- [x] [[company-Aira Matrix]]
 - [x]  [[company-EXL Analytics]]
 - [ ] [[company-Dashtoon]]
 - [ ] [[company-MikoAI]]
