@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reasoning-puzzles.md",
+                "file": "daily-notes/2023-11-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reasoning-puzzles.md",
+                "file": "daily-notes/2023-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reasoning-puzzles.md",
+                "file": "daily-notes/2023-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reasoning-puzzles.md"
+                "file": "daily-notes/2023-11-19.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reasoning-puzzles.md",
+                "file": "daily-notes/2023-11-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,8 +268,9 @@
   },
   "active": "7ab4aabc05861ff1",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
     "Reasoning-puzzles.md",
+    "daily-notes/2023-11-19.md",
+    "Quant and Logical Reasoning.md",
     "IIT Campus Placements.md",
     "company-Juniper Networks.md",
     "ML theory.md",
@@ -294,7 +295,6 @@
     "202-Happy Number.md",
     "daily-notes/2023-11-15.md",
     "company-Dashtoon.md",
-    "yolov5-pytorch.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
