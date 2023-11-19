@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Juniper Networks.md",
+                "file": "Quant and Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab4aabc05861ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasoning-puzzles.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Jupyter Notebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "404af3f8ed8e4e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:placemen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "Reasoning-puzzles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "Reasoning-puzzles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-11-17.md"
+                "file": "Reasoning-puzzles.md"
               }
             }
           },
@@ -196,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
+                "file": "Reasoning-puzzles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,12 +266,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20f4e716f8adae46",
+  "active": "7ab4aabc05861ff1",
   "lastOpenFiles": [
-    "daily-notes/2023-11-18.md",
-    "company-Juniper Networks.md",
+    "Quant and Logical Reasoning.md",
+    "Reasoning-puzzles.md",
     "IIT Campus Placements.md",
+    "company-Juniper Networks.md",
+    "ML theory.md",
     "daily-notes/2023-11-17.md",
+    "daily-notes/2023-11-18.md",
     "dashtoon/README.md",
     "Jupyter Notebook.md",
     "conda.md",
@@ -267,10 +294,7 @@
     "202-Happy Number.md",
     "daily-notes/2023-11-15.md",
     "company-Dashtoon.md",
-    "Quant and Logical Reasoning.md",
     "yolov5-pytorch.md",
-    "Dynamic Programming.md",
-    "238-Product of Array Except Self.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

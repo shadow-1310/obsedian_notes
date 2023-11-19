@@ -35,6 +35,7 @@
 - [x] [[directional sense]]
 - [ ] [[logical sequence]]
 - [ ] analogies
+- [ ] [[Reasoning-puzzles]]
 
 ***Non-verbal*** - Abstract reasoning
 - [x] [[Cube and DIce]]

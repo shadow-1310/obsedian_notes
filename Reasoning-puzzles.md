@@ -1,0 +1,11 @@
+Types- 
+- day based 
+- month based
+- year based
+- day+month, month+year , day+year
+- post based 
+- floor based, floor+flat
+- classification
+- selection
+- box based
+- comparison based

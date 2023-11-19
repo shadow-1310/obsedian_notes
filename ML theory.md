@@ -60,6 +60,7 @@
 - **Week 2**: done
 	- ID3, decision tree
 	- calculate entropy, decision tree
+	 - Highest gini entropy is 0.5, which means node has equal class and it is impure.
 	- why not multiway split in DT instead of binary split
 	- ![[Pasted image 20230919112453.png]]
 	- ![[Pasted image 20230919112934.png]]
