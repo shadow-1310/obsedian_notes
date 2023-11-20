@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/DSA.md",
+                "file": "daily-notes/2023-11-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Tree.md",
+                "file": "Bitwise Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Bitwise Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Bitwise Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Tiger Analytics.md"
+                "file": "Bitwise Operation.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Bitwise Operation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,18 +266,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9815c4c5ec12ec81",
+  "active": "19fb646daec1d801",
   "lastOpenFiles": [
+    "DSA/Topics/DSA.md",
+    "DSA/Topics/Tree.md",
     "IIT Campus Placements.md",
     "company-Tiger Analytics.md",
+    "daily-notes/2023-11-17.md",
+    "daily-notes/2023-11-18.md",
+    "daily-notes/2023-11-19.md",
     "1382-Balance a Binary Search Tree.md",
     "NLP - Word2Vec.md",
-    "DSA/Topics/Tree.md",
     "98-validate binary search tree.md",
     "daily-notes/2023-11-20.md",
     "nvim.md",
     "654-Maximum Binary Tree.md",
-    "DSA/Topics/DSA.md",
     "ML theory.md",
     "company-Juniper Networks.md",
     "Jupyter Notebook.md",
@@ -288,11 +291,8 @@
     "dashtoon/streamlit-app_ui/ui_game_art.png",
     "dashtoon/streamlit-app_ui",
     "Git-Github.md",
-    "daily-notes/2023-11-17.md",
-    "daily-notes/2023-11-19.md",
     "Reasoning-puzzles.md",
     "Quant and Logical Reasoning.md",
-    "daily-notes/2023-11-18.md",
     "conda.md",
     "DL-Neural Style Transfer.md",
     "dashtoon",

@@ -40,6 +40,9 @@
 - do <code>n & (n-1)</code>
 	- which makes least significant set bits to 0.
 - the number of times required to make it equal to 0 = number of set bits
+
+### find right most set bit
+- (n & -n)
 ### Implementation from scratch
 #### pseudo-code
 
