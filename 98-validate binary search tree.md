@@ -25,6 +25,7 @@ topic:
 - think in terms of lower and upper bound of each node
 - no need to check if left or right child exists before calling
 	- as base condition will take care if they are also Null
+- dont forget to check if current node value is between limits
 
 #### code snippet
 ```python

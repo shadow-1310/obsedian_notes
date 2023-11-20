@@ -81,7 +81,11 @@ pip install -U pylint
 ### fzf
 tutorial - [Vim Plugin Highlight: fzf.vim! Fuzzy File Finding Fun! - YouTube](https://www.youtube.com/watch?v=DpURGnb4Fyk)
 
-
+#### make transparent
+```.init
+highlight Normal ctermbg=none
+highlight NonText ctermbg=none
+```
 ## keyboard shortcuts
 ---
 - indent lines [stackoverflow](https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi)

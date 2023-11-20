@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML theory.md",
+                "file": "DSA/Topics/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19fb646daec1d801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98-validate binary search tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4135629877b9bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-11-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "023b02077ce17b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Juniper Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:juniper",
+                "query": "file:nvim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Juniper Networks.md",
+                "file": "98-validate binary search tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Juniper Networks.md",
+                "file": "98-validate binary search tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Juniper Networks.md"
+                "file": "98-validate binary search tree.md"
               }
             }
           },
@@ -208,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Juniper Networks.md",
+                "file": "98-validate binary search tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,11 +242,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "023b02077ce17b9d",
+  "active": "19fb646daec1d801",
   "lastOpenFiles": [
-    "daily-notes/2023-11-20.md",
     "NLP - Word2Vec.md",
+    "daily-notes/2023-11-20.md",
+    "nvim.md",
+    "98-validate binary search tree.md",
+    "DSA/Topics/Tree.md",
+    "654-Maximum Binary Tree.md",
+    "DSA/Topics/DSA.md",
+    "IIT Campus Placements.md",
     "ML theory.md",
+    "company-Juniper Networks.md",
     "Jupyter Notebook.md",
     "dashtoon/README.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
@@ -271,8 +266,6 @@
     "daily-notes/2023-11-19.md",
     "Reasoning-puzzles.md",
     "Quant and Logical Reasoning.md",
-    "IIT Campus Placements.md",
-    "company-Juniper Networks.md",
     "daily-notes/2023-11-18.md",
     "conda.md",
     "DL-Neural Style Transfer.md",
@@ -280,14 +273,9 @@
     "Linux.md",
     "pytorch.md",
     "DSA/Topics/Array.md",
-    "DSA/Topics/DSA.md",
     "company-Appy Pie.md",
     "company-MikoAI.md",
     "189-Rotate Array.md",
-    "647-palindromic substrings.md",
-    "DL-Diffusion Models.md",
-    "daily-notes/2023-11-16.md",
-    "company-TSMC.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
