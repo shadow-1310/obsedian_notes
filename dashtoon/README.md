@@ -1,3 +1,13 @@
+## Streamlit webapp demo
+##### home 
+![home](https://github.com/shadow-1310/dashtoon-assignment/blob/main/streamlit-app_ui/ui_home.png)
+#### modern art
+![modern art](https://github.com/shadow-1310/dashtoon-assignment/blob/main/streamlit-app_ui/ui_modern_art.png)
+##### Game Art
+![game art](https://github.com/shadow-1310/dashtoon-assignment/blob/main/streamlit-app_ui/ui_game_art.png)
+##### Manga Sketch
+![sketch](https://github.com/shadow-1310/dashtoon-assignment/blob/main/streamlit-app_ui/ui_sketch.png)
+
 ## Environment Setup
 ---
 ### Create virtual env
@@ -22,7 +32,7 @@ python3 -m venv dashtoon
 source dashtoon/bin/activate
 ```
 
-### Installing depencies
+### Installing dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -35,4 +45,9 @@ ipython kernel install --user --name=dashtoon
 #### finally launch jupyter notebook within current environment
 ```bash
 jupyter notebook
+```
+
+## Running the streamlit app
+```bash
+streamlit run app.py
 ```
