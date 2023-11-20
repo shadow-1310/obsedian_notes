@@ -35,7 +35,7 @@ tags: #dsa/tree #unfinished
 - [x] [[113-Path Sum II]], last done: [[2023-10-24]]
 - [x] [[437-Path Sum-III]], last done: [[2023-10-24]], very very tricky
 - [x] [[654-Maximum Binary Tree]], last done: [[2023-11-20]]
-- [ ] 
+- [ ] [[1382-Balance a Binary Search Tree]]
 #### Segment tree
 [build tree](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
 [point and range update in lazy propagation a](https://www.youtube.com/watch?v=rwXVCELcrqU)

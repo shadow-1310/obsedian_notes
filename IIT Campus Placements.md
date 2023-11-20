@@ -29,13 +29,15 @@
 #todo/placement-profiles
 - [ ] profiles used - 33
 - [ ] tests done - 14
+- [ ] 
+[LC company wise questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions/tree/master)
 
 - [x] [[company-Accenture Japan]]
 - [x] [[company-Databricks]]
 - [x] [[company-Mercari]]
 - [x] [[company - Deloitte]]
 - [x] [[company-Tescra_Achnet]]
-- [x] [[company-TSMC]]
+- [x] [[company-TSMC]], not shortlisted
 - [x] [[company - BNY Mellon]], not shortlisted
 - [x] [[company - Info Edge]]
 - [x] [[company-Intel India]], not shortlisted
@@ -46,13 +48,14 @@
 - [x] [[company-EXL Analytics]]
 - [x] [[company-Google]]
 - [x] [[company-Futures First]], didn't give test
-- [ ] [[company-Juniper Networks]]
+- [x] [[company-Juniper Networks]]
 - [x] [[company-Goldman Sachs]]
 - [x] [[company-Aira Matrix]]
 - [x]  [[company-EXL Analytics]]
-- [ ] [[company-Dashtoon]]
+- [x] [[company-Dashtoon]]
 - [ ] [[company-MikoAI]]
 - [ ] [[company-Appy Pie]]
+- [ ] [[company-Tiger Analytics]]
 
 ## Previous year Companies
 ---
@@ -65,7 +68,7 @@
 7. [[company-CRED]]
 8. [[company-AiDash]]
 9. [[company-Walmart Labs]]
-10. [[company-Tiger Analytics]]
+10. 
 11. [[company-Corgoport]]
 12. [[company- Honda Japan]]
 13. [[Millenium Management]]
