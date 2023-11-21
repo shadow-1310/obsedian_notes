@@ -18,6 +18,8 @@
 - find equation of a circle, given equation of diameters and area of the circle
 - [7 different letters of the English alphabet are given, words with 5 letters are formed from these given letters. Then, the number of words which have least one letter repeated is:](https://www.toppr.com/ask/question/7-different-letters-of-the-english-alphabet-are-given-words-with-5-letters-are-formed-2/)
 - [The sides of a square are parallel to coordinate axes and it is inscribed in the circle x2+y2−2x+4y−93=0. Find the coordinates of the vertices of the square.](https://www.toppr.com/ask/question/the-sides-of-a-square-are-parallel-to-coordinate-axes-and-it-is-inscribed-in/)
+- [How to find the equation of a perpendicular line - ACT Math](https://www.varsitytutors.com/act_math-help/how-to-find-the-equation-of-a-perpendicular-line)
+- Bayes's probability question
 - 
 
 ### 2023
