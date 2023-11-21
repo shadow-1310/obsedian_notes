@@ -33,7 +33,7 @@ tags: #dsa/array #unfinished
 - [ ] [[count inversion]]
 - [ ] [[count pairs with given sum]] last done: [[2023-09-12]]
 - [ ] [[Missing and repeating numbers]]
-
+- [ ] [[274-H-index]]
 
 
 

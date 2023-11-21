@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing.md",
+                "file": "DSA/Topics/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48ab83ca4de72a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "274-H-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80-remove duplicates from sorted array II.md",
+                "file": "274-H-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80-remove duplicates from sorted array II.md",
+                "file": "274-H-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-remove duplicates from sorted array II.md"
+                "file": "274-H-index.md"
               }
             }
           },
@@ -194,7 +206,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "974ca1ef550112c5",
@@ -207,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "80-remove duplicates from sorted array II.md",
+                "file": "274-H-index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,11 +266,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67d54115236d2414",
+  "active": "d48ab83ca4de72a3",
   "lastOpenFiles": [
+    "DSA/Topics/Array.md",
+    "274-H-index.md",
+    "DSA/Topics/DSA.md",
     "Hashing.md",
     "80-remove duplicates from sorted array II.md",
-    "DSA/Topics/DSA.md",
     "Dynamic Programming.md",
     "647-palindromic substrings.md",
     "IITG - 4th sem.md",
@@ -279,13 +294,11 @@
     "ML theory.md",
     "company-Juniper Networks.md",
     "Jupyter Notebook.md",
-    "dashtoon/README.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",
     "dashtoon/streamlit-app_ui/ui_game_art.png",
     "dashtoon/streamlit-app_ui",
-    "Git-Github.md",
     "dashtoon",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
