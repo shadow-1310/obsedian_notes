@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "404af3f8ed8e4e97",
+            "id": "b42a7e57339ce8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-11-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19fb646daec1d801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bitwise Operation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15eda99ee336677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1382-Balance a Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62075e8e91ad7b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "IITG - 4th sem.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7b05faffe988dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d54115236d2414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80-remove duplicates from sorted array II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "80-remove duplicates from sorted array II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "80-remove duplicates from sorted array II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Tiger Analytics.md"
+                "file": "80-remove duplicates from sorted array II.md"
               }
             }
           },
@@ -206,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "974ca1ef550112c5",
@@ -220,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "80-remove duplicates from sorted array II.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,20 +253,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9815c4c5ec12ec81",
+  "active": "67d54115236d2414",
   "lastOpenFiles": [
-    "Bitwise Operation.md",
+    "Hashing.md",
+    "80-remove duplicates from sorted array II.md",
     "DSA/Topics/DSA.md",
-    "DSA/Topics/Tree.md",
-    "IIT Campus Placements.md",
+    "Dynamic Programming.md",
+    "647-palindromic substrings.md",
+    "IITG - 4th sem.md",
+    "templates/Course.md",
     "company-Tiger Analytics.md",
     "daily-notes/2023-11-17.md",
     "daily-notes/2023-11-18.md",
+    "daily-notes/2023-11-20.md",
     "daily-notes/2023-11-19.md",
+    "IIT Campus Placements.md",
+    "daily-notes/2023-11-21.md",
+    "Bitwise Operation.md",
+    "DSA/Topics/Tree.md",
     "1382-Balance a Binary Search Tree.md",
     "NLP - Word2Vec.md",
     "98-validate binary search tree.md",
-    "daily-notes/2023-11-20.md",
     "nvim.md",
     "654-Maximum Binary Tree.md",
     "ML theory.md",
@@ -292,14 +286,7 @@
     "dashtoon/streamlit-app_ui/ui_game_art.png",
     "dashtoon/streamlit-app_ui",
     "Git-Github.md",
-    "Reasoning-puzzles.md",
-    "Quant and Logical Reasoning.md",
-    "conda.md",
-    "DL-Neural Style Transfer.md",
     "dashtoon",
-    "Linux.md",
-    "pytorch.md",
-    "DSA/Topics/Array.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",

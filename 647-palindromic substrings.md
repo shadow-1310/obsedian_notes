@@ -27,6 +27,7 @@ topic: [[Dynamic Programming]]
 - and increase count by 1 each time
 #### mistakes
 - use 2 for loops for odd and even separately as it will be easy.
+- break the loop when left and right char is not same otherwise increament res and continue loop.
 #### code snippet
 ```python
 
