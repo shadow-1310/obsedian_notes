@@ -25,50 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cd17d014eea88ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "company-Tiger Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7b05faffe988dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48ab83ca4de72a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "274-H-index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d54115236d2414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80-remove duplicates from sorted array II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "274-H-index.md",
+                "file": "company-Tiger Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "274-H-index.md",
+                "file": "company-Tiger Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "274-H-index.md"
+                "file": "company-Tiger Analytics.md"
               }
             }
           },
@@ -220,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "274-H-index.md",
+                "file": "company-Tiger Analytics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,8 +242,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d48ab83ca4de72a3",
+  "active": "5cd17d014eea88ef",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "Probability.md",
+    "IITG - 4th sem.md",
+    "Quant and Logical Reasoning.md",
+    "company-Tiger Analytics.md",
     "DSA/Topics/Array.md",
     "274-H-index.md",
     "DSA/Topics/DSA.md",
@@ -275,14 +256,11 @@
     "80-remove duplicates from sorted array II.md",
     "Dynamic Programming.md",
     "647-palindromic substrings.md",
-    "IITG - 4th sem.md",
     "templates/Course.md",
-    "company-Tiger Analytics.md",
     "daily-notes/2023-11-17.md",
     "daily-notes/2023-11-18.md",
     "daily-notes/2023-11-20.md",
     "daily-notes/2023-11-19.md",
-    "IIT Campus Placements.md",
     "daily-notes/2023-11-21.md",
     "Bitwise Operation.md",
     "DSA/Topics/Tree.md",
@@ -292,8 +270,6 @@
     "nvim.md",
     "654-Maximum Binary Tree.md",
     "ML theory.md",
-    "company-Juniper Networks.md",
-    "Jupyter Notebook.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",

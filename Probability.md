@@ -28,3 +28,8 @@
 	- 1 left due to lengthy
 	- 1 wrong due to counting mistake
 	-  wrong question
+
+### test-3, [[2023-11-21]]
+- source: https://www.geeksforgeeks.org/probability-3-gq/
+- 11 problems, 10 done, 10 correct, 1 not solved
+	- unsolved one is finding number combination which is divisible by 4
