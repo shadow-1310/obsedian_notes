@@ -6,4 +6,6 @@
 	- 
 - ![[Pasted image 20230911162100.png]]
 - [OA question](https://leetcode.com/discuss/interview-question/1616849/Tiger-Analytics-or-OA-or-Interview-question-to-find-Triplets)
+	- [question in hackerrank](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/triplets-3-231a9aea/?purpose=login&source=problem-page&update=google)
+	- [answer](https://www.hackerearth.com/submission/87483650/)
 - [youtube](https://www.youtube.com/watch?v=HFqo7qlZYSk)

@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitwise Operation.md",
+                "file": "company-Tiger Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bitwise Operation.md",
+                "file": "company-Tiger Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bitwise Operation.md"
+                "file": "company-Tiger Analytics.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bitwise Operation.md",
+                "file": "company-Tiger Analytics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,8 +266,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19fb646daec1d801",
+  "active": "9815c4c5ec12ec81",
   "lastOpenFiles": [
+    "Bitwise Operation.md",
     "DSA/Topics/DSA.md",
     "DSA/Topics/Tree.md",
     "IIT Campus Placements.md",
@@ -299,7 +300,6 @@
     "Linux.md",
     "pytorch.md",
     "DSA/Topics/Array.md",
-    "company-Appy Pie.md",
     "attachments/Pasted image 20231101105551.png",
     "attachments/Pasted image 20231022200718.png",
     "attachments/Pasted image 20231021224856.png",
