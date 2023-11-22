@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability.md",
+                "file": "Permutation and Combinations.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "daily-notes/2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Permutation and Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Permutation and Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Tiger Analytics.md"
+                "file": "Permutation and Combinations.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "Permutation and Combinations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,13 +242,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cd17d014eea88ef",
+  "active": "9815c4c5ec12ec81",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
-    "Probability.md",
-    "IITG - 4th sem.md",
     "Quant and Logical Reasoning.md",
+    "Probability.md",
+    "daily-notes/2023-11-22.md",
     "company-Tiger Analytics.md",
+    "IIT Campus Placements.md",
+    "IITG - 4th sem.md",
     "DSA/Topics/Array.md",
     "274-H-index.md",
     "DSA/Topics/DSA.md",
@@ -269,7 +270,6 @@
     "98-validate binary search tree.md",
     "nvim.md",
     "654-Maximum Binary Tree.md",
-    "ML theory.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",
