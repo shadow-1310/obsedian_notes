@@ -1,3 +1,19 @@
+
+- Many-to-One
+	- sentiment classification
+- one-to-many
+	- music generation
+	- image captioning
+- many-to-many(unequal input output)
+	- machine translation
+	- text summarizer
+	- question-answering
+	- chatbot
+	- speech to text 
+- many-to-many (equal input output)
+	- NER
+	- POS tagging
+
 ### RNN
 - 
 
@@ -23,3 +39,18 @@
 - update Gate
 - forget gate
 - output gate
+
+#### Difference in GRU and LSTM
+- 1st difference
+	- GRU has only one state which is hidden state
+		- in GRU , $h_t=C_t$
+	- LSTM has 2 states hidden state and cell state and they are related as below
+		- in LSTM, $h_t=o_t*tanh(C_t)$ 
+
+- 2nd difference
+	- GRU has 2 gates
+		- reset gate, short term memory
+		- update gate, long term memory
+
+
+### Bi-directional RNN
