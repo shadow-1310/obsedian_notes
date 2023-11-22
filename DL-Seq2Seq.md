@@ -20,3 +20,6 @@
 - 
 - new memory content
 ### LSTM
+- update Gate
+- forget gate
+- output gate
