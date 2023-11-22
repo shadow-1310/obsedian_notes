@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "0e86d15835373ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL-Seq2Seq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5cd17d014eea88ef",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:lstm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922
+    "width": 293.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permutation and Combinations.md",
+                "file": "DL-Seq2Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permutation and Combinations.md",
+                "file": "DL-Seq2Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permutation and Combinations.md"
+                "file": "DL-Seq2Seq.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permutation and Combinations.md",
+                "file": "DL-Seq2Seq.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,8 +255,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9815c4c5ec12ec81",
+  "active": "0e86d15835373ad8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231122142512.png",
+    "NLP - LSTM.md",
+    "DL-Seq2Seq.md",
+    "Permutation and Combinations.md",
     "Quant and Logical Reasoning.md",
     "Probability.md",
     "daily-notes/2023-11-22.md",
@@ -266,10 +283,6 @@
     "Bitwise Operation.md",
     "DSA/Topics/Tree.md",
     "1382-Balance a Binary Search Tree.md",
-    "NLP - Word2Vec.md",
-    "98-validate binary search tree.md",
-    "nvim.md",
-    "654-Maximum Binary Tree.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",
