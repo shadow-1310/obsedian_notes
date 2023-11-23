@@ -3,8 +3,9 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/118
-- first_done:
-- last_revised: [[2023-09-10]]
+- first_done: [[2023-05-16]]
+	- 1st_revised: [[2023-09-10]]
+- last_revised: [[2023-11-23]]
 - difficulty:
 	- [x] easy
 	- [ ] medium

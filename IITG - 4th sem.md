@@ -21,3 +21,6 @@
 	- EE722  -Video Analytics - Audit
 		- [course page](https://www.iitg.ac.in/eee/electsyl.html)
 		- E1 slot
+	- RA505 - Robot sensing and computer vision
+		- https://www.iitg.ac.in/acad/CourseStructure/M.Tech_program_Robotics_and_Artificial_Intelligence.pdf
+		- 

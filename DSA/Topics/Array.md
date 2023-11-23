@@ -10,11 +10,11 @@ tags: #dsa/array #unfinished
 ---
 - [x] [[202-Happy Number]] last done: [[2023-11-16]]
 - [x] [[27-Remove Element]], last done: [[2023-11-13]], tricky
-- [ ] [[189-Rotate Array]]
-- [ ] [[263-Ugly Number]] last done: [[2023-10-07]]
-- [ ] [[287-contains duplicate]] last done: [[2023-10-02]]
-- [ ] [[136-Single Number]] last done: [[2023-10-14]]
-- [ ] [[118-Pascal Triangle]] last done: [[2023-09-10]]
+- [x] [[189-Rotate Array]], last done: [[2023-11-23]]
+- [x] [[263-Ugly Number]] last done: [[2023-11-23]]
+- [x] [[287-contains duplicate]] last done: [[2023-11-23]], 
+- [x] [[136-Single Number]] last done: [[2023-11-23]]
+- [x] [[118-Pascal Triangle]] last done: [[2023-11-23]]
 - [ ] [[26-remove duplicates]] last done: [[2023-09-10]]
 - [ ] [[268-Missing Number]] last_done : [[2023-09-07]]
 - [ ] [[1-Two Sum]] last done: [[2023-09-07]]

@@ -3,7 +3,8 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/26
-- first_done:
+- first_done: [[2023-05-12]]
+	- 1st_revised: [[2023-09-10]]
 - last_revised: [[2023-09-10]]
 - difficulty:
 	- [x] easy
@@ -18,8 +19,8 @@ topic:
 
 #### pseudo code
 - how this code work
-    - uses a pointer in a while loop
-    - it checks whether the value is same as value in previous position, if yes then pops the value.
+    - uses 2 pointers
+    - 
 #### mistakes
 - first of all we cannot use a iterator (for loop) as the iterator itself is changing, so we have to use a while loop
 - we also cannot use sorted() method as it will create a new array which is restricted in the question

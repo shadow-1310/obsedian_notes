@@ -3,7 +3,8 @@ topic:
 ### basic info
 - source: 
 - serial no: #leetcode/189 
-- first_done: [[2023-06-30]]
+- first_done: [[2023-10-25]]
+	- 1st revised: [[2023-11-23]]
 - last_revised:
 - difficulty:
 	- [ ] easy
@@ -25,7 +26,8 @@ topic:
 	- reverse first k element group
 	- reverse remaining element group
 #### mistakes
-
+- don't forget to modify k = k % n, because for some test cases k > n
+- reverse till k-1, not k
 #### code snippet
 ```python
 

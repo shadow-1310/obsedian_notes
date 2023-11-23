@@ -4,7 +4,8 @@ topic: [[Array]] [[company-Accenture Japan]]
 - source: 
 - serial no: #leetcode/263
 - first_done: [[2023-10-02]]
-- last_revised: [[2023-10-07]]
+	- 1st_revised: [[2023-10-07]]
+- last_revised: [[2023-11-23]]
 - difficulty:
 	- [x] easy
 	- [ ] medium
@@ -21,6 +22,7 @@ topic: [[Array]] [[company-Accenture Japan]]
 - if the remaining is 1 then it is ugly else not ugly
 #### mistakes
 - remember that input can be negative or 0 also, so prepare a test case accordingly
+	- same mistake
 #### code snippet
 ```python
 
