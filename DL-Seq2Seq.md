@@ -54,3 +54,10 @@
 
 
 ### Bi-directional RNN
+
+## Attention
+- In  normal encoder-decoder, only one context vector is present for every timestep of decoder
+- But after using attention layer, for every step of decoder a separate context vector is generated
+
+
+## ULMFiT - Transfer Learning

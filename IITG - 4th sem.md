@@ -1,4 +1,4 @@
-- Ptential Credits
+- Potential Credits
 	- CS563, - Neural Networks for NLP - [course page](https://www.iitg.ac.in/cse/course-list.php?id=CS563)
 		- Amit Chintamani Awekar, awekar@iitg.ac.in
 		- F1 slot, 6 credits

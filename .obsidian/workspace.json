@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "DL-Seq2Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "DL-Seq2Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IITG - 4th sem.md"
+                "file": "DL-Seq2Seq.md"
               }
             }
           },
@@ -208,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "DL-Seq2Seq.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,18 +255,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b42a7e57339ce8ec",
+  "active": "0e86d15835373ad8",
   "lastOpenFiles": [
+    "Permutation and Combinations.md",
+    "IITG - 4th sem.md",
     "DL-Seq2Seq.md",
     "attachments/Pasted image 20231122142512.png",
     "NLP - LSTM.md",
-    "Permutation and Combinations.md",
     "Quant and Logical Reasoning.md",
     "Probability.md",
     "daily-notes/2023-11-22.md",
     "company-Tiger Analytics.md",
     "IIT Campus Placements.md",
-    "IITG - 4th sem.md",
     "DSA/Topics/Array.md",
     "274-H-index.md",
     "DSA/Topics/DSA.md",
