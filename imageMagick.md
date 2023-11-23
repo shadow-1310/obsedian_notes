@@ -17,3 +17,17 @@ convert input.jpg -colorspace output.jpg
 
 
 convert input.pdf -format JPG -quality 10 output.pdf
+
+### Resize image - using mogrify
+- [documentation](https://imagemagick.org/script/mogrify.php)
+```bash
+mogrify -resize 320x240 Image.png 
+mogrify -resize 50% Image.png
+mogrify -resize 320x240 *.jpg
+```
+
+
+#### to get image info
+```bash
+identify image.jpg
+```

@@ -19,7 +19,7 @@ tags: #dsa/array #unfinished
 - [ ] [[268-Missing Number]] last_done : [[2023-09-07]]
 - [ ] [[1-Two Sum]] last done: [[2023-09-07]]
 - [ ] [[238-Product of Array Except Self]] last_done: [[2023-11-15]]
-- [ ] [[347-Top K frequent elements]] last_done: [[2023-10-14]]
+- [x] [[347-Top K frequent elements]] last_done: [[2023-11-23]]
 - [ ] [[128-Longest Consecutive Sequence]] last done: [[2023-10-14]]
 - [ ] [[49-Group Anagram]] last done: [[2023-10-14]]
 - [ ] [[36-valid Sudoku]] last done: [[2023-09-10]]

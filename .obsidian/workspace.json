@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "051ab5eb1c50ba9d",
+            "id": "aa2a0e84b6dfbeba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "49-Group Anagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "daily-notes/2023-11-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4b9fec4c157eb7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Tiger Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:tiger",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "49-Group Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "49-Group Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "347-Top K frequent elements.md"
+                "file": "49-Group Anagram.md"
               }
             }
           },
@@ -220,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "347-Top K frequent elements.md",
+                "file": "49-Group Anagram.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,14 +254,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "051ab5eb1c50ba9d",
+  "active": "aa2a0e84b6dfbeba",
   "lastOpenFiles": [
     "DSA/Topics/Array.md",
+    "347-Top K frequent elements.md",
+    "daily-notes/2023-11-23.md",
+    "imageMagick.md",
+    "company-Tiger Analytics.md",
     "268-Missing Number.md",
     "26-remove duplicates.md",
     "daily-notes/2023-05-12.md",
-    "daily-notes/2023-11-23.md",
-    "company-Tiger Analytics.md",
     "daily-notes/2023-11-22.md",
     "118-Pascal Triangle.md",
     "136-Single Number.md",
@@ -293,8 +283,6 @@
     "Hashing.md",
     "80-remove duplicates from sorted array II.md",
     "Dynamic Programming.md",
-    "647-palindromic substrings.md",
-    "templates/Course.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",

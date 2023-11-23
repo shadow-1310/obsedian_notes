@@ -5,7 +5,8 @@ topic:
 - serial no: #leetcode/347
 - first_done: [[2023-06-01]]
 	- 1st_revised: [[2023-09-07]]
-- last_revised: [[2023-10-14]]
+	- 2nd_revised: [[2023-10-14]]
+- last_revised: [[2023-11-23]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -26,6 +27,7 @@ topic:
 #### mistakes
 - make the bucket list as len(nums)+1 not len(nums)
 - check the len(res) after appending the element not before
+- remember here we have to return the distinct elements
 #### code snippet
 ```python
 
