@@ -15,10 +15,10 @@ tags: #dsa/array #unfinished
 - [x] [[287-contains duplicate]] last done: [[2023-11-23]], 
 - [x] [[136-Single Number]] last done: [[2023-11-23]]
 - [x] [[118-Pascal Triangle]] last done: [[2023-11-23]]
-- [ ] [[26-remove duplicates]] last done: [[2023-09-10]]
+- [x] [[26-remove duplicates]] last done: [[2023-11-23]]
 - [ ] [[268-Missing Number]] last_done : [[2023-09-07]]
 - [ ] [[1-Two Sum]] last done: [[2023-09-07]]
-- [x] [[238-Product of Array Except Self]] last_done: [[2023-11-15]]
+- [ ] [[238-Product of Array Except Self]] last_done: [[2023-11-15]]
 - [ ] [[347-Top K frequent elements]] last_done: [[2023-10-14]]
 - [ ] [[128-Longest Consecutive Sequence]] last done: [[2023-10-14]]
 - [ ] [[49-Group Anagram]] last done: [[2023-10-14]]
