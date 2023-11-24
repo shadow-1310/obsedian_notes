@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Topics/Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2a0e84b6dfbeba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "49-Group Anagram.md",
+                "file": "IIT Campus Placements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:pla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49-Group Anagram.md",
+                "file": "daily-notes/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49-Group Anagram.md",
+                "file": "daily-notes/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49-Group Anagram.md"
+                "file": "daily-notes/2023-11-23.md"
               }
             }
           },
@@ -208,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "49-Group Anagram.md",
+                "file": "daily-notes/2023-11-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,9 +242,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa2a0e84b6dfbeba",
+  "active": "0e86d15835373ad8",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "Quant and Logical Reasoning.md",
+    "Probability.md",
     "DSA/Topics/Array.md",
+    "12-Integer to Roman.md",
+    "49-Group Anagram.md",
     "347-Top K frequent elements.md",
     "daily-notes/2023-11-23.md",
     "imageMagick.md",
@@ -272,17 +265,12 @@
     "263-Ugly Number.md",
     "189-Rotate Array.md",
     "DSA/Topics/DSA.md",
-    "IIT Campus Placements.md",
-    "Quant and Logical Reasoning.md",
     "Permutation and Combinations.md",
     "DL-Seq2Seq.md",
     "attachments/Pasted image 20231122142512.png",
     "NLP - LSTM.md",
-    "Probability.md",
     "274-H-index.md",
     "Hashing.md",
-    "80-remove duplicates from sorted array II.md",
-    "Dynamic Programming.md",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
     "dashtoon/streamlit-app_ui/ui_home.png",

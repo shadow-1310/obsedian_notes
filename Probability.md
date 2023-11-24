@@ -33,3 +33,12 @@
 - source: https://www.geeksforgeeks.org/probability-3-gq/
 - 11 problems, 10 done, 10 correct, 1 not solved
 	- unsolved one is finding number combination which is divisible by 4
+
+### Test-4, [[2023-11-23]]
+- source: https://www.indiabix.com/aptitude/probability/
+- attempted 10, correct 7
+	- between 1-20, what is the probability of getting a number which is divisible by 3 or 5
+		- find number divisible by 3, 20//3 = 6
+		- find number divisible by 5, 20 //5 = 4
+		- find number divisible by 15(3*5), 20 // 15 = 1
+		- total = 6+4-1=9
