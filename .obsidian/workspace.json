@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e06325d21c8f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML-Zero Shot Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:DL",
+                "query": "file:quan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922,
-    "collapsed": true
+    "width": 293.5110321044922
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "ML-Zero Shot Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "ML-Zero Shot Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Tiger Analytics.md"
+                "file": "ML-Zero Shot Learning.md"
               }
             }
           },
@@ -209,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Tiger Analytics.md",
+                "file": "ML-Zero Shot Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,22 +266,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9815c4c5ec12ec81",
+  "active": "9e06325d21c8f5f8",
   "lastOpenFiles": [
-    "IIT Campus Placements.md",
     "DL - Generative Models.md",
+    "ML-Zero Shot Learning.md",
+    "Quant and Logical Reasoning.md",
+    "Time, speed and distance.md",
+    "company-Tiger Analytics.md",
+    "IIT Campus Placements.md",
     "attachments/Pasted image 20231124122649.png",
     "daily-notes/2023-11-24.md",
     "IITG - 4th sem.md",
     "daily-notes/2023-11-23.md",
-    "Quant and Logical Reasoning.md",
     "Probability.md",
     "DSA/Topics/Array.md",
     "12-Integer to Roman.md",
     "49-Group Anagram.md",
     "347-Top K frequent elements.md",
     "imageMagick.md",
-    "company-Tiger Analytics.md",
     "268-Missing Number.md",
     "26-remove duplicates.md",
     "daily-notes/2023-05-12.md",
@@ -282,7 +295,6 @@
     "189-Rotate Array.md",
     "DSA/Topics/DSA.md",
     "Permutation and Combinations.md",
-    "DL-Seq2Seq.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
