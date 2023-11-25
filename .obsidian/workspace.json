@@ -56,19 +56,31 @@
             }
           },
           {
-            "id": "9e06325d21c8f5f8",
+            "id": "cfa3d43ae6fb8f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML-Zero Shot Learning.md",
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d28570002bd50ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "powerline fonts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:quan",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML-Zero Shot Learning.md",
+                "file": "powerline fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML-Zero Shot Learning.md",
+                "file": "powerline fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML-Zero Shot Learning.md"
+                "file": "powerline fonts.md"
               }
             }
           },
@@ -220,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML-Zero Shot Learning.md",
+                "file": "powerline fonts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,11 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e06325d21c8f5f8",
+  "active": "9d28570002bd50ae",
   "lastOpenFiles": [
+    "Linux.md",
+    "powerline fonts.md",
+    "DL - Generative Models.md",
     "daily-notes/2023-11-25.md",
     "ML-Zero Shot Learning.md",
-    "DL - Generative Models.md",
     "Quant and Logical Reasoning.md",
     "Time, speed and distance.md",
     "company-Tiger Analytics.md",
@@ -293,8 +307,6 @@
     "136-Single Number.md",
     "287-contains duplicate.md",
     "263-Ugly Number.md",
-    "189-Rotate Array.md",
-    "DSA/Topics/DSA.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",

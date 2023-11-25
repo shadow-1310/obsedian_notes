@@ -45,6 +45,7 @@ check file usage
 - [[zathura]]
 - [[pdfunite]]
 - [[pytorch]]
+- [[powerline fonts]]
 
 ## Add and Remove startup programme
 ### helpful links
