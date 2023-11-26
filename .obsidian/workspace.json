@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "9815c4c5ec12ec81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Tiger Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e86d15835373ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-11-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88125ee04135dacf",
             "type": "leaf",
             "state": {
@@ -56,43 +32,31 @@
             }
           },
           {
-            "id": "cfa3d43ae6fb8f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d28570002bd50ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "775969296983b733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "latex.md",
+                "file": "daily-notes/2023-11-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5af2f1d877551c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL-Gradients.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "latex.md",
+                "file": "DL-Gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "latex.md",
+                "file": "DL-Gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "latex.md"
+                "file": "DL-Gradients.md"
               }
             }
           },
@@ -244,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "latex.md",
+                "file": "DL-Gradients.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,21 +254,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775969296983b733",
+  "active": "5af2f1d877551c93",
   "lastOpenFiles": [
+    "daily-notes/2023-11-26.md",
+    "DL - Generative Models.md",
     "Linux.md",
+    "DL-Gradients.md",
+    "IITG - 4th sem.md",
+    "company-Tiger Analytics.md",
+    "daily-notes/2023-11-24.md",
     "latex.md",
     "powerline fonts.md",
-    "DL - Generative Models.md",
     "daily-notes/2023-11-25.md",
     "ML-Zero Shot Learning.md",
     "Quant and Logical Reasoning.md",
     "Time, speed and distance.md",
-    "company-Tiger Analytics.md",
     "IIT Campus Placements.md",
     "attachments/Pasted image 20231124122649.png",
-    "daily-notes/2023-11-24.md",
-    "IITG - 4th sem.md",
     "daily-notes/2023-11-23.md",
     "Probability.md",
     "DSA/Topics/Array.md",
@@ -317,8 +283,6 @@
     "daily-notes/2023-05-12.md",
     "daily-notes/2023-11-22.md",
     "118-Pascal Triangle.md",
-    "136-Single Number.md",
-    "287-contains duplicate.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",

@@ -27,7 +27,7 @@
 ## IITG 2023'Dec
 ---
 #todo/placement-profiles
-- [ ] profiles used - 33
+- [x] profiles used - 33
 - [ ] tests done - 14
 - [ ] 
 [LC company wise questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions/tree/master)
