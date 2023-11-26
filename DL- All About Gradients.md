@@ -6,7 +6,12 @@
 - run grad check at initialization, then again run after some training when weight values are far from 0, 
 	- because sometimes gradient calculation works well when gradients are near 0 which is the case in initialization
 
-
+### Learning Rate Decay methods
+- exponential decay , $\alpha=0.95^{epoch}\alpha_0$
+- $\alpha=\frac{1}{1+{decay\_rate}*{epoch}}$
+- $\alpha=\frac{k}{\sqrt{epoch}}$
+- discrete staircase
+	- reduce learning rate by some amount after some epochs
 
 ## Gradient Descent Types
 
@@ -37,7 +42,14 @@ $$b=b-{\alpha}V_{db}$$
 
 where $\beta$ decides how many previous gradient we want to give weightage to, higher $\beta$ means smooth change 
 
-### RMSprop
+### RMSprop - second momentum
 - here we multiply the square of the current weight while calculating momentum
 $$S_{dw}:={\beta}S_{dw}+(1-{\beta})dw^2$$
 $$W:=W-{\alpha}\frac{dw}{\sqrt{S_{dw}}}$$
+
+## Adam - Adaptive Moment Optimization
+#### hyperparameters
+- learning rate, ${\alpha}\sim{0.001}$
+- weight average of momentum term,$\beta_1\sim{0.9}$, 
+- weight average of RMSprop term, $\beta_2\sim{0.999}$
+- $\epsilon\sim{10^{-8}}$
