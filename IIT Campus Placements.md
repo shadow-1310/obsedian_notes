@@ -56,6 +56,7 @@
 - [ ] [[company-MikoAI]]
 - [ ] [[company-Appy Pie]]
 - [ ] [[company-Tiger Analytics]]
+- [ ] [[company-Zepto]]
 
 ## Previous year Companies
 ---

@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee3d5d715061331f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b7e61db024ba20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company-Zepto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Gradients.md",
+                "file": "company-Zepto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Gradients.md",
+                "file": "company-Zepto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Gradients.md"
+                "file": "company-Zepto.md"
               }
             }
           },
@@ -208,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Gradients.md",
+                "file": "company-Zepto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,12 +278,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5af2f1d877551c93",
+  "active": "1b7e61db024ba20b",
   "lastOpenFiles": [
+    "IIT Campus Placements.md",
+    "company-Zepto.md",
+    "DL-Gradients.md",
     "daily-notes/2023-11-26.md",
     "DL - Generative Models.md",
     "Linux.md",
-    "DL-Gradients.md",
     "IITG - 4th sem.md",
     "company-Tiger Analytics.md",
     "daily-notes/2023-11-24.md",
@@ -269,7 +295,6 @@
     "ML-Zero Shot Learning.md",
     "Quant and Logical Reasoning.md",
     "Time, speed and distance.md",
-    "IIT Campus Placements.md",
     "attachments/Pasted image 20231124122649.png",
     "daily-notes/2023-11-23.md",
     "Probability.md",
@@ -282,7 +307,6 @@
     "26-remove duplicates.md",
     "daily-notes/2023-05-12.md",
     "daily-notes/2023-11-22.md",
-    "118-Pascal Triangle.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
