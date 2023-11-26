@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "powerline fonts.md",
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "775969296983b733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "latex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "powerline fonts.md",
+                "file": "latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "powerline fonts.md",
+                "file": "latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "powerline fonts.md"
+                "file": "latex.md"
               }
             }
           },
@@ -232,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "powerline fonts.md",
+                "file": "latex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,9 +290,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d28570002bd50ae",
+  "active": "775969296983b733",
   "lastOpenFiles": [
     "Linux.md",
+    "latex.md",
     "powerline fonts.md",
     "DL - Generative Models.md",
     "daily-notes/2023-11-25.md",
@@ -306,7 +319,6 @@
     "118-Pascal Triangle.md",
     "136-Single Number.md",
     "287-contains duplicate.md",
-    "263-Ugly Number.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",

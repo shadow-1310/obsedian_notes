@@ -46,6 +46,7 @@ check file usage
 - [[pdfunite]]
 - [[pytorch]]
 - [[powerline fonts]]
+- [[latex]]
 
 ## Add and Remove startup programme
 ### helpful links
