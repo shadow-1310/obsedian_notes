@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Hyperparameter Tuning.md",
+                "file": "DL- All About Gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Hyperparameter Tuning.md",
+                "file": "DL- All About Gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Hyperparameter Tuning.md"
+                "file": "DL- All About Gradients.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Hyperparameter Tuning.md",
+                "file": "DL- All About Gradients.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,10 +256,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6a8fedb91f30e6f",
+  "active": "7ba9aba34f8bf3e0",
   "lastOpenFiles": [
-    "DL- All About Gradients.md",
     "DL-Hyperparameter Tuning.md",
+    "daily-notes/2023-11-27.md",
+    "DL- All About Gradients.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "company-Zepto.md",
@@ -284,7 +285,6 @@
     "12-Integer to Roman.md",
     "49-Group Anagram.md",
     "347-Top K frequent elements.md",
-    "imageMagick.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",

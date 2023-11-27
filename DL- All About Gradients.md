@@ -1,3 +1,7 @@
+#### Initial weights to 0
+- https://stats.stackexchange.com/questions/27112/danger-of-setting-all-initial-weights-to-zero-in-backpropagation
+- the nodes will learn same thing in case of sigmoid activation.
+- the weight will always be 0 in case o ReLU or tanh
 #### Gradient Checking
 - it is a way of checking if the gradient checking algorithm is implemented correctly bu cross varifying with a numerical method
 - [stanford blog](http://ufldl.stanford.edu/tutorial/supervised/DebuggingGradientChecking/)
