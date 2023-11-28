@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "86bdaa92655b8f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML-Dimensionality Reduction.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d6a8fedb91f30e6f",
             "type": "leaf",
             "state": {
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6907ba7a072294c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV - Object Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dl-",
+                "query": "file:cv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922,
-    "collapsed": true
+    "width": 293.5110321044922
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML-Dimensionality Reduction.md",
+                "file": "CV - Object Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML-Dimensionality Reduction.md",
+                "file": "CV - Object Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML-Dimensionality Reduction.md"
+                "file": "CV - Object Detection.md"
               }
             }
           },
@@ -221,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML-Dimensionality Reduction.md",
+                "file": "CV - Object Detection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,11 +267,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86bdaa92655b8f39",
+  "active": "f6907ba7a072294c",
   "lastOpenFiles": [
+    "DL-Hyperparameter Tuning.md",
+    "CV - Object Detection.md",
     "DL- All About Gradients.md",
     "ML-Dimensionality Reduction.md",
-    "DL-Hyperparameter Tuning.md",
+    "daily-notes/2023-11-28.md",
     "daily-notes/2023-11-27.md",
     "Untitled 4.md",
     "Untitled 3.md",
@@ -295,8 +296,6 @@
     "daily-notes/2023-11-23.md",
     "Probability.md",
     "DSA/Topics/Array.md",
-    "12-Integer to Roman.md",
-    "49-Group Anagram.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
