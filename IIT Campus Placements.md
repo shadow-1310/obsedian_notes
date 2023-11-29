@@ -57,7 +57,7 @@
 - [ ] [[company-Appy Pie]]
 - [ ] [[company-Tiger Analytics]]
 - [ ] [[company-Zepto]]
-
+- [ ] [[company- Stepchange]]
 ## Previous year Companies
 ---
 1. [[company-Accenture Japan]]

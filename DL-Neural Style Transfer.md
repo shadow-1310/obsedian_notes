@@ -31,13 +31,17 @@ Types of Style Transfer
 - 
 
 ### Working
+[good youtube video](https://www.youtube.com/watch?v=n1USIY_QuQc)
+[blog](https://medium.com/machine-learning-algorithms/image-style-transfer-740d08f8c1bd)
 - content representation
+	- choose initial layer of CNN
 	- define a loss matrix between feature maps of original image and target image.
 	- Content Loss
 		- MSE loss between same feature map of original image and target image.
 - Style Representation
 	- Gram matrix
 		- Covariance Matrix between all the feature maps
+		- https://www.youtube.com/watch?v=FQiNeuRqZu8
 	- Style Loss
 		- MSE loss between Gram Matrices
 - Total Loss = $\alpha$ x Content Loss + $\beta$ x Style Loss
@@ -46,7 +50,7 @@ Types of Style Transfer
 - Loss = Content Loss + Style Loss
 	- Content Loss
 	- Style Loss -> Style Matrix -> Gram Matrix
-	- Total Variation Loss
+	- Total Variation Loss (https://en.wikipedia.org/wiki/Total_variation_denoising)
 ### Impact of decisions
 - initialization
 	- initialize the target image with content/style/random

@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "5b531bcca38c279d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN-Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "05a39945068d9b8a",
             "type": "leaf",
             "state": {
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dash",
+                "query": "file:cnn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,12 +293,15 @@
   },
   "active": "0df2113fe8dbde49",
   "lastOpenFiles": [
-    "DL-Normalizations.md",
+    "CNN-Architectures.md",
     "DL-Neural Style Transfer.md",
+    "DL-Normalizations.md",
+    "IIT Campus Placements.md",
+    "company- Stepchange.md",
+    "company-Dashtoon.md",
     "CV - Object Detection.md",
     "DL-Hyperparameter Tuning.md",
     "DL- All About Gradients.md",
-    "company-Dashtoon.md",
     "company-Zepto.md",
     "daily-notes/2023-11-29.md",
     "ML-Dimensionality Reduction.md",
@@ -298,15 +313,12 @@
     "IITG - 4th sem.md",
     "DL - Generative Models.md",
     "daily-notes/2023-11-26.md",
-    "IIT Campus Placements.md",
     "Linux.md",
     "company-Tiger Analytics.md",
     "daily-notes/2023-11-24.md",
     "latex.md",
     "powerline fonts.md",
     "daily-notes/2023-11-25.md",
-    "ML-Zero Shot Learning.md",
-    "Quant and Logical Reasoning.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
