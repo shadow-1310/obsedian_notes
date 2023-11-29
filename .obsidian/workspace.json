@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5af2f1d877551c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL- All About Gradients.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b7e61db024ba20b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company-Zepto.md",
+                "file": "company-Dashtoon.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0df2113fe8dbde49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL-Neural Style Transfer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a39945068d9b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL-Normalizations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cv",
+                "query": "file:dash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV - Object Detection.md",
+                "file": "DL-Normalizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV - Object Detection.md",
+                "file": "DL-Normalizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV - Object Detection.md"
+                "file": "DL-Normalizations.md"
               }
             }
           },
@@ -220,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CV - Object Detection.md",
+                "file": "DL-Normalizations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,18 +279,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6907ba7a072294c",
+  "active": "05a39945068d9b8a",
   "lastOpenFiles": [
-    "daily-notes/2023-11-29.md",
+    "DL-Neural Style Transfer.md",
+    "DL-Normalizations.md",
     "CV - Object Detection.md",
     "DL-Hyperparameter Tuning.md",
     "DL- All About Gradients.md",
+    "company-Dashtoon.md",
+    "company-Zepto.md",
+    "daily-notes/2023-11-29.md",
     "ML-Dimensionality Reduction.md",
     "daily-notes/2023-11-28.md",
     "daily-notes/2023-11-27.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "company-Zepto.md",
     "DL-Momentum Optimization Techniques.md",
     "IITG - 4th sem.md",
     "DL - Generative Models.md",
@@ -292,10 +307,7 @@
     "daily-notes/2023-11-25.md",
     "ML-Zero Shot Learning.md",
     "Quant and Logical Reasoning.md",
-    "Time, speed and distance.md",
     "attachments/Pasted image 20231124122649.png",
-    "daily-notes/2023-11-23.md",
-    "Probability.md",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
     "dashtoon/streamlit-app_ui/ui_modern_art.png",
