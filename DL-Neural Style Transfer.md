@@ -21,6 +21,14 @@ Types of Style Transfer
 		- Spatial control
 		- color control
 		- scale control
+	- Arbitary style transfer in real time
+	- Universal Style Transfer
+	- Artistic Style Transfer for videos
+		- ReCoNet - Real Time Video Style Transfer Net
+#### Challenges of NST
+- Aesthetic Evaluation for both NPR and NST
+- No standard benchmark image set
+- 
 
 ### Working
 - content representation
