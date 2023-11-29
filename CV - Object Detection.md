@@ -15,3 +15,4 @@
 ### YOLO
 - Loss function modifications
 	- w/o modification it will weight localization error and class prediction error same
+- train vector
