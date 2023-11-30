@@ -29,6 +29,9 @@
 		- grn sheet full of cells where each cells had separate entry.
 		- at first easyOCR was not giving good results, so I processed the image with gimp and feed that image yolo
 			- then I found out that the problem was with horizontal bar below, so I move my focus more towards removing horizontal bar.
+				- so it was done in 3 steps
+					- convert image to threshold/binary image
+					- detecting the horizontal lines using horizontal kernel
 			- I also made a streamlit app to finetune the params required for processing
 	- Sapling Count
 	- hsv value comparison of different products

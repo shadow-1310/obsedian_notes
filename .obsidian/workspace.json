@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resolute AI.md",
+                "file": "company-Dashtoon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resolute AI.md",
+                "file": "company-Dashtoon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resolute AI.md"
+                "file": "company-Dashtoon.md"
               }
             }
           },
@@ -232,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resolute AI.md",
+                "file": "company-Dashtoon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,15 +278,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9cf73b074d6be6e",
+  "active": "1b7e61db024ba20b",
   "lastOpenFiles": [
-    "OCR for beverage client.md",
-    "Resolute AI.md",
-    "CNN-Architectures.md",
-    "DL-Normalizations.md",
-    "DL-Neural Style Transfer.md",
-    "CV - Object Detection.md",
     "DL- All About Gradients.md",
+    "CV - Object Detection.md",
+    "DL-Neural Style Transfer.md",
+    "CNN-Architectures.md",
+    "Resolute AI.md",
+    "OCR for beverage client.md",
+    "DL-Normalizations.md",
     "DL-Hyperparameter Tuning.md",
     "company-Dashtoon.md",
     "daily-notes/2023-11-30.md",
