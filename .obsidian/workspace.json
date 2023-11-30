@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "Resolute AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "Resolute AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Dashtoon.md"
+                "file": "Resolute AI.md"
               }
             }
           },
@@ -243,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "Resolute AI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,13 +291,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b7e61db024ba20b",
+  "active": "d9cf73b074d6be6e",
   "lastOpenFiles": [
     "DL-Pytorch.md",
+    "company-Dashtoon.md",
     "DL- All About Gradients.md",
     "CV - Object Detection.md",
     "DL-Neural Style Transfer.md",
-    "company-Dashtoon.md",
     "CNN-Architectures.md",
     "Resolute AI.md",
     "OCR for beverage client.md",

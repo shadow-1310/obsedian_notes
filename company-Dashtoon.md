@@ -18,9 +18,9 @@ Yeturi - Micron, Samsung, Infoedge
 interpolation techniques
 - nearest neighbour
 - bilinear
-	- weighted average
+	- linear weighted average
 - bicubic
-- 
+	- find a eqn of a polynomial line between 2 points using position and gradient.
 ### Built in modules
 - Conv2D
 	- arguments
@@ -64,3 +64,30 @@ interpolation techniques
 		- convblock
 - forward method
 	- self.block(x) + x
+
+## How to get
+- Transformed image
+	- train image
+		- resize , 1.5 times
+		- random crop, this step is for data augmentation.
+		- to tensor 
+		- normalize
+	- style image
+		- resize
+		- to tensor
+		- normalize, with mean and std of ImageNet
+	- Deprocessing
+		- multiply with std of that channel and add mean of that channel.
+		- multiply with 255
+		- clamp inside (0, 255), torch.clamp
+			- convert to numpy, 
+			- save to cpu
+			- set datatype to np.unint8
+			- transpose(1,2,0), change the format from [channels, height, width] to [height, width, channels]
+				- because pytorch/tensorflow handles image matrix different from opencv, matplotlib
+- Gram Matrix
+	- get shape of the layer
+	- flatten the w* h into a single array
+	- find its transpose
+	- find gram matrix by $AA^{T}$
+	- divide this by c* h * w for normalization across all the feature channels.
