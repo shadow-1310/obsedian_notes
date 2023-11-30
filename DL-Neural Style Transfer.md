@@ -13,7 +13,7 @@ Types of Style Transfer
 	- Leon Gatys et. al, VGG-19 based network, 2015
 	- https://arxiv.org/abs/1903.09760, WCT2 method
 - Neural Style Transfer - Feed forward method
-	- Justin Johnson et. al, 2016
+	- Justin Johnson et. al, 2016, https://github.com/jcjohnson/fast-neural-style/tree/master
 	- Ulyanov et. al - instance normalization
 	- Conditional Instance Normalization
 		- generate images in different style by same convolutional parameters but different affine parameters in IN (Instance Normalization) layer

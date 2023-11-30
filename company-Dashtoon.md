@@ -14,3 +14,53 @@ https://github.com/gordicaleksa/pytorch-neural-style-transfer
 
 Gaurang -- Flipkart, Navi, EdgeVerse
 Yeturi - Micron, Samsung, Infoedge
+
+interpolation techniques
+- nearest neighbour
+- bilinear
+	- weighted average
+- bicubic
+- 
+### Built in modules
+- Conv2D
+	- arguments
+		- input channel
+		- output channel
+		- kernel size
+		- stride
+- InstanceNorm2D
+	- args
+		- out channel
+		- affine
+## ConvBlock
+- Args
+	- in_channels, 
+	- out_channels, 
+	- kernel_size, 
+	- stride=1, 
+	- upsample=False, 
+	- normalize=True, 
+	- relu=True
+- instance variables
+	- self.block
+		- Refelction Padding
+		- Conv2d
+	- Instance Normalization
+	- relu
+-  forward method
+	- upsample, interpolation
+		- nearest, default
+			- options - bilinear, bicubic, 
+	- block
+	- instance normalization
+	- relu
+
+## Residual Block
+- Args
+	- channels
+- instance variable
+	- self.block
+		- convblock
+		- convblock
+- forward method
+	- self.block(x) + x
