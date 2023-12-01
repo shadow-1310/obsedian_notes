@@ -24,3 +24,9 @@ tags:
 	- number of frames per second (fps)
 	- frame size
 - [official documentation](https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html)
+
+
+Opening
+Closing
+Gradient
+Black Hat

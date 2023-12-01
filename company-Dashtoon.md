@@ -27,6 +27,13 @@ interpolation techniques
 	- linear weighted average
 - bicubic
 	- find a eqn of a polynomial line between 2 points using position and gradient.
+
+
+#### Data governance
+- managing quality and security of data
+API
+- Application program interface
+
 ### Built in modules
 - Conv2D
 	- arguments
@@ -75,7 +82,7 @@ interpolation techniques
 - Transformed image
 	- train image
 		- resize , 1.5 times
-		- random crop, this step is for data augmentation.
+		- random crop, this step is for data augmentation. (to the required size)
 		- to tensor 
 		- normalize
 	- style image
@@ -90,13 +97,15 @@ interpolation techniques
 			- save to cpu
 			- set datatype to np.unint8
 			- transpose(1,2,0), change the format from [channels, height, width] to [height, width, channels]
-				- because pytorch/tensorflow handles image matrix different from opencv, matplotlib
+				- because pytorch/tensorflow handles image matrix different from opencv, matplotlib.
 - Gram Matrix
 	- get shape of the layer
 	- flatten the w* h into a single array
 	- find its transpose
 	- find gram matrix by $AA^{T}$
 	- divide this by c* h * w for normalization across all the feature channels.
+- Covariance vs gram matrix
+	- for covariance we subtract the mean
 
 ##### Self-learning tasks
 - yolov4
@@ -126,7 +135,7 @@ interpolation techniques
 			- then I found out that the problem was with horizontal bar below, so I move my focus more towards removing horizontal bar.
 				- so it was done in 3 steps
 					- convert image to threshold/binary image
-					- detecting the horizontal lines using horizontal kernel
+					- detecting the horizontal lines using horizontal kernel with opening operation
 			- I also made a streamlit app to finetune the params required for processing
 	- Sapling Count
 	- hsv value comparison of different products
@@ -140,6 +149,35 @@ interpolation techniques
 ## Projects
 ---
 ### Vehicle Count
+Workflow
+- Data Ingestion
+	- Open image dataset using OID toolkit
+	- annotations are converted 
+- Model training
+	- yolov5 model is trained
+- Detection
+	- Load Models
+	- load video
+	- read frames
+	- detect vehicle
+	- track vehicle
+	- detect license plate
+	- assign license plate to vehicle
+	- crop license plate
+	- process license plates
+		- convert to threshold/binary image inverted
+	- detect and format license plate
+		- detect text using OCR
+		- check if matches order
+			- if yes then format to desired order , replace 5 with S or vice versa
+			- if not then return None
+		- 
+- Inference
+	- different license plate number for same car in different frame
+		- from all the frames of a car id, select the license plate text with highest confidence.
+	- missing frame
+		- interpolate between frames
+	- process the csv file generated in detection to make the inference video.
 - Converting annotations from PASCAL to Yolo format
 	- get xmin, ymin, xmax, ymax, width, height from the xml file using xml.tree.elementtree
 		- et.parse(file)
@@ -170,3 +208,43 @@ interpolation techniques
 			 - alignment 
 		 - creation and deletion of track
 			 - when no 
+
+
+### Recommendation System
+- Dataset
+	- goodreads 10k dataset
+	- Books
+	- Users
+	- Ratings
+- Recommender
+	- Popularity based
+		- merged ratings and books
+		- filtered books which had avg. ratings more than 100
+		- select top 50
+		- filter using 
+			- trusted user, ratings > 200
+			- trusted books, ratings > 50
+		- make pivot table between user-id and book title with ratings as value
+		- find cosine similarity for the pivot table
+
+
+## Price Prediction
+##### Car
+- Dataset
+	- Car dekho (4340 records)
+	- name 
+	- year
+	- selling price
+	- seller type
+	- owner
+	- transmission
+	- fuel
+	- km driven
+- Preprocessing
+	- checked missing values, 0
+	- checked duplicates, 700+
+	- separated model name from column 
+- EDA
+	- value count plots
+	- selling price vs different column
+	- spotting outlier 

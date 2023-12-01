@@ -80,12 +80,24 @@
             }
           },
           {
-            "id": "d9cf73b074d6be6e",
+            "id": "4572be771987f192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resolute AI.md",
+                "file": "company - Info Edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "654b650036835834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:resolu",
+                "query": "file:cv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,14 +304,16 @@
   },
   "active": "1b7e61db024ba20b",
   "lastOpenFiles": [
+    "DL- All About Gradients.md",
+    "CNN-Architectures.md",
     "Resolute AI.md",
     "company-Dashtoon.md",
-    "daily-notes/2023-12-01.md",
-    "DL-Pytorch.md",
-    "DL- All About Gradients.md",
-    "CV - Object Detection.md",
+    "OpenCV.md",
+    "company - Info Edge.md",
     "DL-Neural Style Transfer.md",
-    "CNN-Architectures.md",
+    "CV - Object Detection.md",
+    "DL-Pytorch.md",
+    "daily-notes/2023-12-01.md",
     "OCR for beverage client.md",
     "DL-Normalizations.md",
     "DL-Hyperparameter Tuning.md",
@@ -316,8 +330,6 @@
     "DL-Momentum Optimization Techniques.md",
     "IITG - 4th sem.md",
     "DL - Generative Models.md",
-    "daily-notes/2023-11-26.md",
-    "Linux.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
