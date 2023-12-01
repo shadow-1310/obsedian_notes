@@ -97,3 +97,76 @@ interpolation techniques
 	- find its transpose
 	- find gram matrix by $AA^{T}$
 	- divide this by c* h * w for normalization across all the feature channels.
+
+##### Self-learning tasks
+- yolov4
+	- setup yolov4 on local
+	- object detection on video
+- yolov5
+	- setup yolov5 on local
+	- object detection
+- how to use labelImg and bulk image downloader OIDv4 toolkit
+- OIDv4 toolkit
+	- https://github.com/EscVM/OIDv4_ToolKit
+	- uses open image dataset
+	- annotations will be fownloaded in csv file which can be easily converted to .txt file
+- streamlit app for image transformation
+
+## All tasks
+- POCs
+	- [[OCR for beverage client]]
+		- main idea was to detect the important text area using green veg symbol as template
+			- then we crop that area into specific sections of MRP, MFG, expiry batch no. and net quantity using cv2
+			- we feed this small sections to YOLO model and get outputs for specific values
+		- but as the photos were taken by hand using smartphone so we had to do the cropping task manually
+		- and feed this cropped photos to the train model and take inference.
+	- [[OCR of GRN sheet]]
+		- grn sheet full of cells where each cells had separate entry.
+		- at first easyOCR was not giving good results, so I processed the image with gimp and feed that image yolo
+			- then I found out that the problem was with horizontal bar below, so I move my focus more towards removing horizontal bar.
+				- so it was done in 3 steps
+					- convert image to threshold/binary image
+					- detecting the horizontal lines using horizontal kernel
+			- I also made a streamlit app to finetune the params required for processing
+	- Sapling Count
+	- hsv value comparison of different products
+- Annotations tasks
+	- bath towel
+	- shaft count
+	- bags
+- 3D model tasks
+	- [[Shaft Defect Detection]]
+	- shrinkage detection in clothes
+## Projects
+---
+### Vehicle Count
+- Converting annotations from PASCAL to Yolo format
+	- get xmin, ymin, xmax, ymax, width, height from the xml file using xml.tree.elementtree
+		- et.parse(file)
+	- calculate xc, yc, w, h
+		- (xc = (xmin+xmax) / 2 ) / width
+		- (yc = (ymin+ymax) / 2 ) / height
+		- w = (xmax-xmin) / width
+		- w = (ymax-ymin) / height
+- Yolo
+	- original paper by Redmond et. al, uses darknet
+- Yolov4
+	- Alexey et. al
+	- Bag of freebies
+	- Bag of Specials
+- yolov5
+	- Glenn Jocher
+	- CSP backbone
+	- PA-NET neck
+- PP-yolo
+	- Xiang Long et. al
+ - SORT - Simple Online and Realtime tracking
+	 - https://www.linkedin.com/pulse/object-tracking-sort-deepsort-daniel-pleus/
+	 - Detection
+	 - Kalman Filter
+	 - Data Association
+		 - calculate IoU
+		 - hungarian algorithm
+			 - alignment 
+		 - creation and deletion of track
+			 - when no 
