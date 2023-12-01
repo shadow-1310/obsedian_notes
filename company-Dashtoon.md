@@ -11,6 +11,12 @@ https://www.kaggle.com/code/yashchoudhary/fast-neural-style-transfer
 
 https://github.com/gordicaleksa/pytorch-neural-style-transfer
 
+A/B testing
+- sampling, how to sample
+- SUTVA, doesn't hae bias
+- hypothesis testing
+- Bayesian Testing
+
 
 Gaurang -- Flipkart, Navi, EdgeVerse
 Yeturi - Micron, Samsung, Infoedge
