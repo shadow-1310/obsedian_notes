@@ -28,6 +28,24 @@
 		```bash
 			ssh -i <pem-file> hostname@address
 		```
+7. Setup python and pip in the machine 
 - change app.run args
 	- host = 0.0.0.0
 	- port = 8080
+8. run the app (flask or streamlit)
+9. check Public DNS (in SSH client section)
+	1. use DNS/8080 for http
+	2. use DNS/433 for https
+#### Security Group
+- name and description
+- inbound rule
+	- all traffic
+	- ssh
+	- udp
+	- tcp
+	- https
+- source
+	- anywhere - 0.0.0.0
+	- my ip
+- change security group of the instance 
+- Terminate instance if not using
