@@ -1,3 +1,38 @@
+## Roadmap
+#### DDL
+- Create 
+- Drop
+- Alter 
+- Truncate
+- Rename
+### DML
+- Select 
+- Insert
+- Delete 
+- Merge
+- Update
+### DCL
+- Grant 
+- Revoke
+### DQL
+- Select
+Data Filtration
+- Where
+- AND
+- OR
+- Not Like
+- Between
+- Exists
+Joins
+- Inner Joins
+- Left join
+- Full Outer join
+- Right join
+#### TCL
+- Commit
+- Rollback
+- Savepoint 
+- Set transaction
 ## manuals
 - [stop mysql and disable on startup](https://askubuntu.com/questions/1166894/how-to-disable-mysql-server-from-constantly-running-in-the-background)
 - [How to Disable Secure\_file\_priv option in MySQL - Linux - Techglimpse](https://techglimpse.com/secure_file_priv-mysql-option/)

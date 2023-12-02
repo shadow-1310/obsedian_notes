@@ -1,7 +1,6 @@
 ### Steps
 
 1. Make the account in Amazon Console
-2. Push code to Github repo
 3. Go to EC2 and 
 	1. click launch instances
 	2. choose AMI - Amazon Machine Image - Ubuntu
@@ -49,3 +48,30 @@
 	- my ip
 - change security group of the instance 
 - Terminate instance if not using
+
+
+## CI-CD
+- build docket image of source code
+- push docker image to ECR
+- Launch EC2
+- pull image from ECR to EC2
+- launch docker image in EC2
+
+1. Create IAM user
+	1. attach policy
+		1. EC2 registry full access
+		2. EC2 full access
+2. Create access key for CLI
+	1. access key
+	2. secret key
+3. Create ECR repo
+	1. save the URI
+4. Create EC2 machine
+	1. Name the machine
+	2. Select the machine
+	3. create the key pair
+5. Open Ec2 machine and install docker
+6. Configure EC2 as self hosted runner
+	1. setting in github page
+	2. run some commands in machine
+7. Setup github secrets
