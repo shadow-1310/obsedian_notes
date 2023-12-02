@@ -97,13 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCV.md",
+                "file": "DL-Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cv",
+                "query": "file:diff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "DL-Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "DL-Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company-Dashtoon.md"
+                "file": "DL-Diffusion Models.md"
               }
             }
           },
@@ -255,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "company-Dashtoon.md",
+                "file": "DL-Diffusion Models.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,13 +303,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b7e61db024ba20b",
+  "active": "654b650036835834",
   "lastOpenFiles": [
+    "OpenCV.md",
+    "company-Dashtoon.md",
     "DL- All About Gradients.md",
     "CNN-Architectures.md",
     "Resolute AI.md",
-    "company-Dashtoon.md",
-    "OpenCV.md",
     "company - Info Edge.md",
     "DL-Neural Style Transfer.md",
     "CV - Object Detection.md",
