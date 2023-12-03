@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da30a506fe7b2ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML-Statistical Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:sq",
+                "query": "file:stat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "ML-Statistical Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "ML-Statistical Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "ML-Statistical Tests.md"
               }
             }
           },
@@ -220,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AWS.md",
+                "file": "ML-Statistical Tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,13 +279,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37dfd84ab3d7730a",
+  "active": "da30a506fe7b2ce4",
   "lastOpenFiles": [
+    "AWS.md",
+    "daily-notes/2023-12-02.md",
     "bioinformatics.md",
     "MySQL.md",
-    "AWS.md",
     "DL-Diffusion Models.md",
-    "daily-notes/2023-12-02.md",
     "OpenCV.md",
     "company-Dashtoon.md",
     "DL- All About Gradients.md",
