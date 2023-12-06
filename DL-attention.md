@@ -1,0 +1,2 @@
+https://medium.com/@zaiinn440/from-seq2seq-to-attention-revolutionizing-sequence-modeling-67282ba82e83
+https://medium.com/@funcry/in-depth-understanding-of-attention-mechanism-part-ii-scaled-dot-product-attention-and-its-7743804e610e
