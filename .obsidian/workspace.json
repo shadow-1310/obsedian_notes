@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL-attention.md",
+                "file": "imageMagick.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:DL",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-attention.md",
+                "file": "imageMagick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-attention.md",
+                "file": "imageMagick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-attention.md"
+                "file": "imageMagick.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-attention.md",
+                "file": "imageMagick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,8 +245,10 @@
   },
   "active": "3091b62d4179d2f4",
   "lastOpenFiles": [
-    "daily-notes/2023-12-06.md",
+    "Linux.md",
+    "daily-notes/2023-12-10.md",
     "DL-attention.md",
+    "daily-notes/2023-12-06.md",
     "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-05.md",
     "IIT Campus Placements.md",
@@ -269,8 +271,6 @@
     "daily-notes/2023-12-01.md",
     "OCR for beverage client.md",
     "DL-Normalizations.md",
-    "DL-Hyperparameter Tuning.md",
-    "daily-notes/2023-11-30.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
