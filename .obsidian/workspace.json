@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imageMagick.md",
+                "file": "daily-notes/2023-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imageMagick.md",
+                "file": "daily-notes/2023-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imageMagick.md",
+                "file": "daily-notes/2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imageMagick.md"
+                "file": "daily-notes/2023-12-20.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "imageMagick.md",
+                "file": "daily-notes/2023-12-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,6 +245,8 @@
   },
   "active": "3091b62d4179d2f4",
   "lastOpenFiles": [
+    "imageMagick.md",
+    "daily-notes/2023-12-20.md",
     "Linux.md",
     "daily-notes/2023-12-10.md",
     "DL-attention.md",
@@ -269,8 +271,6 @@
     "CV - Object Detection.md",
     "DL-Pytorch.md",
     "daily-notes/2023-12-01.md",
-    "OCR for beverage client.md",
-    "DL-Normalizations.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
