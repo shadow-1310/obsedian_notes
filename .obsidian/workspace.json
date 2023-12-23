@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imageMagick.md",
+                "file": "Coding-Decoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:qu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imageMagick.md",
+                "file": "Coding-Decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imageMagick.md",
+                "file": "Coding-Decoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imageMagick.md"
+                "file": "Coding-Decoding.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "imageMagick.md",
+                "file": "Coding-Decoding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,8 +257,9 @@
   },
   "active": "ef9405ec17100dd5",
   "lastOpenFiles": [
-    "Linux.md",
+    "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-22.md",
+    "Linux.md",
     "DL-Activation functions.md",
     "DL-attention.md",
     "daily-notes/2023-12-21.md",
@@ -266,7 +267,6 @@
     "imageMagick.md",
     "daily-notes/2023-12-10.md",
     "daily-notes/2023-12-06.md",
-    "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-05.md",
     "IIT Campus Placements.md",
     "company-Dashtoon.md",
