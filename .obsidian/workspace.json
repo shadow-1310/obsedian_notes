@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant and Logical Reasoning.md",
+                "file": "daily-notes/2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-12-23.md",
+                "file": "daily-notes/2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-12-23.md",
+                "file": "daily-notes/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-12-23.md",
+                "file": "daily-notes/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-12-23.md"
+                "file": "daily-notes/2023-12-24.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-12-23.md",
+                "file": "daily-notes/2023-12-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,11 +267,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f6306cc666560a9",
+  "active": "a59898ef3c9f2a1c",
   "lastOpenFiles": [
-    "Quant and Logical Reasoning.md",
     "DL-attention.md",
     "IITG - 4th sem.md",
+    "daily-notes/2023-12-24.md",
+    "Probability.md",
+    "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
     "templates/Course.md",
@@ -293,8 +295,6 @@
     "bioinformatics.md",
     "ML-Statistical Tests.md",
     "daily-notes/2023-12-03.md",
-    "daily-notes/2023-12-02.md",
-    "DL-Diffusion Models.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
