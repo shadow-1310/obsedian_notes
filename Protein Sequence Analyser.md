@@ -15,4 +15,4 @@ A webapp which can take a directory containing FASTA files an then parse the ami
 ## to do
 - download FASTA file through ncbi API 
 	- https://www.rcsb.org/docs/programmatic-access/file-download-services
-	- 
+	- https://www.rcsb.org/docs/programmatic-access/file-download-services

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-12-24.md",
+                "file": "Protein Sequence Analyser.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reinforcemen",
+                "query": "file:analy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-12-24.md",
+                "file": "Protein Sequence Analyser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-12-24.md",
+                "file": "Protein Sequence Analyser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-12-24.md"
+                "file": "Protein Sequence Analyser.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-12-24.md",
+                "file": "Protein Sequence Analyser.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,17 +269,20 @@
   },
   "active": "a59898ef3c9f2a1c",
   "lastOpenFiles": [
+    "nvim.md",
+    "Linux.md",
+    "Syllogism.md",
+    "Quant and Logical Reasoning.md",
+    "daily-notes/2023-12-25.md",
+    "daily-notes/2023-12-24.md",
     "DL-attention.md",
     "IITG - 4th sem.md",
-    "daily-notes/2023-12-24.md",
     "Probability.md",
-    "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
     "templates/Course.md",
     "Coding-Decoding.md",
     "daily-notes/2023-12-22.md",
-    "Linux.md",
     "DL-Activation functions.md",
     "daily-notes/2023-12-21.md",
     "daily-notes/2023-12-20.md",
@@ -292,9 +295,6 @@
     "CNN-Architectures.md",
     "AWS.md",
     "MySQL.md",
-    "bioinformatics.md",
-    "ML-Statistical Tests.md",
-    "daily-notes/2023-12-03.md",
     "attachments/Pasted image 20231124122649.png",
     "attachments/Pasted image 20231122142512.png",
     "dashtoon/streamlit-app_ui/ui_sketch.png",
