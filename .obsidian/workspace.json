@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b7e61db024ba20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "company-Dashtoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a59898ef3c9f2a1c",
             "type": "leaf",
             "state": {
@@ -32,12 +20,12 @@
             }
           },
           {
-            "id": "3091b62d4179d2f4",
+            "id": "18819ff76e0f88a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL-attention.md",
+                "file": "Guria-bank_preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,12 +44,12 @@
             }
           },
           {
-            "id": "7f6306cc666560a9",
+            "id": "f3b87ea8cdb639d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2023-12-24.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:analy",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "Guria-bank_preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "Guria-bank_preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protein Sequence Analyser.md"
+                "file": "Guria-bank_preparation.md"
               }
             }
           },
@@ -194,7 +182,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -220,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "Guria-bank_preparation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,16 +257,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a59898ef3c9f2a1c",
+  "active": "18819ff76e0f88a7",
   "lastOpenFiles": [
-    "nvim.md",
+    "attachments/Pasted image 20231226131917.png",
+    "attachments/Pasted image 20231226131850.png",
+    "attachments/Pasted image 20231226131458.png",
+    "attachments/Pasted image 20231226131329.png",
+    "attachments/Pasted image 20231226125639.png",
+    "IITG - 4th sem.md",
     "Linux.md",
+    "maim.md",
+    "Protein Sequence Analyser.md",
+    "company-Dashtoon.md",
+    "daily-notes/2023-12-26.md",
+    "Guria-bank_preparation.md",
+    "daily-notes/2023-12-24.md",
+    "DL-attention.md",
+    "attachments/Pasted image 20231226124707.png",
+    "attachments/Pasted image 20231226124119.png",
+    "attachments/Pasted image 20231226123215.png",
+    "attachments/Pasted image 20231226120226.png",
+    "attachments/Pasted image 20231226115526.png",
+    "attachments/Pasted image 20231226112146.png",
+    "company-Fractal Analytics.md",
+    "company-EXL Analytics.md",
+    "nvim.md",
     "Syllogism.md",
     "Quant and Logical Reasoning.md",
     "daily-notes/2023-12-25.md",
-    "daily-notes/2023-12-24.md",
-    "DL-attention.md",
-    "IITG - 4th sem.md",
     "Probability.md",
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
@@ -287,26 +295,8 @@
     "daily-notes/2023-12-21.md",
     "daily-notes/2023-12-20.md",
     "imageMagick.md",
-    "daily-notes/2023-12-10.md",
-    "daily-notes/2023-12-06.md",
-    "daily-notes/2023-12-05.md",
-    "IIT Campus Placements.md",
-    "company-Dashtoon.md",
-    "CNN-Architectures.md",
-    "AWS.md",
-    "MySQL.md",
-    "attachments/Pasted image 20231124122649.png",
-    "attachments/Pasted image 20231122142512.png",
-    "dashtoon/streamlit-app_ui/ui_sketch.png",
-    "dashtoon/streamlit-app_ui/ui_modern_art.png",
-    "dashtoon/streamlit-app_ui/ui_home.png",
-    "dashtoon/streamlit-app_ui/ui_game_art.png",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
-    "attachments/Pasted image 20231101105551.png",
-    "attachments/Pasted image 20231022200718.png",
-    "attachments/Pasted image 20231021224856.png",
-    "attachments/Pasted image 20231020204628.png",
     "Untitled.canvas",
     "attachments",
     "DSA/Topics",

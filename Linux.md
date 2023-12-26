@@ -47,6 +47,7 @@ check file usage
 - [[pytorch]]
 - [[powerline fonts]]
 - [[latex]]
+- [[maim]]
 
 ## Add and Remove startup programme
 ### helpful links
