@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "daily-notes/2023-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "IITG - 4th sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "IITG - 4th sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protein Sequence Analyser.md"
+                "file": "IITG - 4th sem.md"
               }
             }
           },
@@ -197,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protein Sequence Analyser.md",
+                "file": "IITG - 4th sem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,18 +245,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a59898ef3c9f2a1c",
+  "active": "ef9405ec17100dd5",
   "lastOpenFiles": [
     "Linux.md",
-    "Gnome.md",
+    "streamlit.md",
+    "IITG - 4th sem.md",
+    "daily-notes/2023-12-27.md",
     "Protein Sequence Analyser.md",
+    "Gnome.md",
     "Guria-bank_preparation.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
     "attachments/Pasted image 20231226131329.png",
     "attachments/Pasted image 20231226125639.png",
-    "IITG - 4th sem.md",
     "maim.md",
     "company-Dashtoon.md",
     "daily-notes/2023-12-26.md",
@@ -280,8 +283,6 @@
     "daily-notes/2023-12-22.md",
     "DL-Activation functions.md",
     "daily-notes/2023-12-21.md",
-    "daily-notes/2023-12-20.md",
-    "imageMagick.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",

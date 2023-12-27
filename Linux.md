@@ -48,6 +48,7 @@ check file usage
 - [[powerline fonts]]
 - [[latex]]
 - [[maim]]
+- [[streamlit]]
 
 ## Add and Remove startup programme
 ### helpful links
