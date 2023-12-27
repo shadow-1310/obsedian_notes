@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "daily-notes/2023-12-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "daily-notes/2023-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "daily-notes/2023-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IITG - 4th sem.md"
+                "file": "daily-notes/2023-12-23.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "daily-notes/2023-12-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,12 +245,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef9405ec17100dd5",
+  "active": "f3b87ea8cdb639d0",
   "lastOpenFiles": [
+    "daily-notes/2023-12-24.md",
+    "daily-notes/2023-12-25.md",
+    "daily-notes/2023-12-26.md",
     "Linux.md",
-    "streamlit.md",
     "IITG - 4th sem.md",
     "daily-notes/2023-12-27.md",
+    "streamlit.md",
     "Protein Sequence Analyser.md",
     "Gnome.md",
     "Guria-bank_preparation.md",
@@ -261,8 +264,6 @@
     "attachments/Pasted image 20231226125639.png",
     "maim.md",
     "company-Dashtoon.md",
-    "daily-notes/2023-12-26.md",
-    "daily-notes/2023-12-24.md",
     "DL-attention.md",
     "attachments/Pasted image 20231226124707.png",
     "attachments/Pasted image 20231226124119.png",
@@ -274,7 +275,6 @@
     "nvim.md",
     "Syllogism.md",
     "Quant and Logical Reasoning.md",
-    "daily-notes/2023-12-25.md",
     "Probability.md",
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
