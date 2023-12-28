@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rust.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linu",
+                "query": "file:rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,8 +259,9 @@
   },
   "active": "80371a6ab426a6a2",
   "lastOpenFiles": [
-    "daily-notes/2023-12-27.md",
+    "daily-notes/2023-12-28.md",
     "Rust.md",
+    "daily-notes/2023-12-27.md",
     "daily-notes/2023-12-24.md",
     "daily-notes/2023-12-25.md",
     "daily-notes/2023-12-26.md",
@@ -294,7 +295,6 @@
     "templates/Course.md",
     "Coding-Decoding.md",
     "daily-notes/2023-12-22.md",
-    "DL-Activation functions.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
