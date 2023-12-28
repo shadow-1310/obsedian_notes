@@ -10,3 +10,5 @@ rustup docs --book
 [rustlings-github repo](https://github.com/rust-lang/rustlings/)
 [Rust by example](https://doc.rust-lang.org/rust-by-example/)
 [Rust by practice](https://practice.rs/why-exercise.html)
+
+PyO3 to call Rust from Python
