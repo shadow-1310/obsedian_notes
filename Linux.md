@@ -49,6 +49,7 @@ check file usage
 - [[latex]]
 - [[maim]]
 - [[streamlit]]
+- [[picom]]
 
 ## Add and Remove startup programme
 ### helpful links

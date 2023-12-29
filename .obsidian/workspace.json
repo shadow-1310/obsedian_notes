@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a59898ef3c9f2a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-12-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef9405ec17100dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IITG - 4th sem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b87ea8cdb639d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2023-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,6 +27,30 @@
               "state": {
                 "file": "Rust.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9e4a6702371a6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a76320147248316d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picom.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:rust",
+                "query": "file:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "picom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "picom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "picom.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "picom.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,15 +257,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80371a6ab426a6a2",
+  "active": "a76320147248316d",
   "lastOpenFiles": [
-    "daily-notes/2023-12-28.md",
+    "Linux.md",
+    "picom.md",
     "Rust.md",
+    "daily-notes/2023-12-29.md",
+    "daily-notes/2023-12-28.md",
     "daily-notes/2023-12-27.md",
     "daily-notes/2023-12-24.md",
     "daily-notes/2023-12-25.md",
     "daily-notes/2023-12-26.md",
-    "Linux.md",
     "IITG - 4th sem.md",
     "streamlit.md",
     "Protein Sequence Analyser.md",
@@ -293,8 +295,6 @@
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
     "templates/Course.md",
-    "Coding-Decoding.md",
-    "daily-notes/2023-12-22.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
