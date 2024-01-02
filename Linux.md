@@ -50,6 +50,7 @@ check file usage
 - [[maim]]
 - [[streamlit]]
 - [[picom]]
+- [[xrandr]]
 
 ## Add and Remove startup programme
 ### helpful links

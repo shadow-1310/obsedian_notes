@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "a339c2c40b689533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xrandr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a76320147248316d",
             "type": "leaf",
             "state": {
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2023-12-29.md",
+                "file": "xrandr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2023-12-29.md",
+                "file": "xrandr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2023-12-29.md"
+                "file": "xrandr.md"
               }
             }
           },
@@ -210,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2023-12-29.md",
+                "file": "xrandr.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,12 +268,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a76320147248316d",
+  "active": "a339c2c40b689533",
   "lastOpenFiles": [
     "Linux.md",
+    "xrandr.md",
+    "daily-notes/2023-12-29.md",
     "picom.md",
     "Rust.md",
-    "daily-notes/2023-12-29.md",
     "daily-notes/2023-12-28.md",
     "daily-notes/2023-12-27.md",
     "daily-notes/2023-12-24.md",
@@ -294,7 +306,6 @@
     "Probability.md",
     "daily-notes/2023-12-23.md",
     "Courses - non-academic.md",
-    "templates/Course.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
