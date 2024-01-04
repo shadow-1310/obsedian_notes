@@ -1,12 +1,12 @@
 ## TIme schedule
 
-| Weekday   | Course-1 | Course-2 | Course-3 | Course-4 |
-| --------- | -------- | -------- | -------- | -------- |
-| Monday    | DA623 - Signals<br>(12-1) - 5002         | CS563 - NLP<br>(1-2) - 5G4         |  DA671 - RL<br>(5-6) - 5002    |          |
-| Tuesday   | DA623 - Signals<br>(12-1) - 5002         | CS563 - NLP<br>(1-2) - 5G4         | DA671 - RL<br>(4-5) - 5002         |          |
-| Wednesday | CS528 - HPC<br>(12-1) - 5G4         | DA671 - RL<br>(3-4) - 5002         |          |          |
-| Thursday  | CS528 - HPC<br>(12-1) - 5G4         | DA671 - RL<br>(2-3) - 5002         |          |          |
-| Friday    | DA623 - Signals<br>(11-12) - 5002         | CS528 - HPC<br>(12-1) - 5G4         | CS563 - NLP<br>(2-3) - 5G4         |          |
+| Weekday | Course-1 | Course-2 | Course-3 |
+| ---- | ---- | ---- | ---- |
+| Monday | DA623 - Signals<br>(12-1) - 5002 | CS563 - NLP<br>(1-2) - 5G4 |  DA671 - RL<br>(5-6) - 5002 |
+| Tuesday | DA623 - Signals<br>(12-1) - 5002 | CS563 - NLP<br>(1-2) - 5G4 | DA671 - RL<br>(4-5) - 5002 |
+| Wednesday | CS528 - HPC<br>(12-1) - 5G4 | DA671 - RL<br>(3-4) - 5002 |  |
+| Thursday | CS528 - HPC<br>(12-1) - 5G4 | DA671 - RL<br>(2-3) - 5002 |  |
+| Friday | DA623 - Signals<br>(11-12) - 5002 | CS528 - HPC<br>(12-1) - 5G4 | CS563 - NLP<br>(2-3) - 5G4 |
 - Potential Credits
 	- CS563, - Neural Networks for NLP - [course page](https://www.iitg.ac.in/cse/course-list.php?id=CS563)
 		- Amit Chintamani Awekar, awekar@iitg.ac.in
