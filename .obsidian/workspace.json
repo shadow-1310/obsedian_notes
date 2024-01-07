@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "daily-notes/2024-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IITG - 4th sem.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -208,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IITG - 4th sem.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,11 +256,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef9405ec17100dd5",
+  "active": "80371a6ab426a6a2",
   "lastOpenFiles": [
+    "daily-notes/2024-01-07.md",
+    "IITG - 4th sem.md",
     "daily-notes/2024-01-06.md",
     "Rust.md",
-    "IITG - 4th sem.md",
     "daily-notes/2024-01-05.md",
     "daily-notes/2024-01-04.md",
     "daily-notes/2024-01-03.md",
@@ -292,7 +294,6 @@
     "attachments/Pasted image 20231226115526.png",
     "company-Fractal Analytics.md",
     "company-EXL Analytics.md",
-    "nvim.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",

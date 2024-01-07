@@ -29,3 +29,10 @@ PyO3 to call Rust from Python
 	-  In Rust, the return value of the function is synonymous with the value of the final expression in the block of the body of a function.
 - Loops
 	- we can give name to loops
+
+#### Day2 - [[2024-01-07]]
+- Ownership and borrowing
+	- String and String literals
+		- String can be mutable and are of variable size
+		- string literal is immutable and hardcoded at compile time
+			- they are also fixed size
