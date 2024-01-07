@@ -12,3 +12,20 @@ rustup docs --book
 [Rust by practice](https://practice.rs/why-exercise.html)
 
 PyO3 to call Rust from Python
+
+### Learnings
+---
+#### Day1 - [[2024-01-06]]
+- learnt shadowing
+	- for unused variable compiler will through error
+- error handling
+	- expect
+- Always trim values when taking inputs from user as it contains '\n'
+- statements and expressions
+	- statements does not have return value
+	- expression have return value
+	- at then last line of a block, don't add ';'
+- functions
+	-  In Rust, the return value of the function is synonymous with the value of the final expression in the block of the body of a function.
+- Loops
+	- we can give name to loops
