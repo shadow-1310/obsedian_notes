@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "daily-notes/2024-01-08.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-01-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,9 +271,10 @@
   },
   "active": "80371a6ab426a6a2",
   "lastOpenFiles": [
+    "Rust.md",
+    "daily-notes/2024-01-08.md",
     "daily-notes/2024-01-07.md",
     "Linux.md",
-    "Rust.md",
     "IITG - 4th sem.md",
     "daily-notes/2024-01-06.md",
     "daily-notes/2024-01-05.md",
@@ -306,7 +307,6 @@
     "attachments/Pasted image 20231226120226.png",
     "attachments/Pasted image 20231226115526.png",
     "company-Fractal Analytics.md",
-    "company-EXL Analytics.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
