@@ -113,3 +113,11 @@ highlight NonText ctermbg=none
 - https://github.com/vim-airline/vim-airline/wiki/Screenshots
 - https://ianchanning.wordpress.com/2018/06/18/vim-airline-powerline-fonts-on-fedora-ubuntu-and-windows/
 - https://vi.stackexchange.com/questions/3359/how-do-i-fix-the-status-bar-symbols-in-the-airline-plugin
+
+
+## LSP
+- [LSP server list](https://github.com/williamboman/mason-lspconfig.nvim#available-lsp-servers)
+#### how to setup a new lsp
+- download the lsp binary from its source, maybe npm, or other package manager
+- then make a setting file in lua/user/lsp/setting
+- include the server name in mason.lua

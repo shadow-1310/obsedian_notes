@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-01-08.md",
+                "file": "nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-01-08.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-01-08.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-01-08.md"
+                "file": "nvim.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-01-08.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,10 +271,10 @@
   },
   "active": "80371a6ab426a6a2",
   "lastOpenFiles": [
-    "Rust.md",
-    "daily-notes/2024-01-08.md",
-    "daily-notes/2024-01-07.md",
     "Linux.md",
+    "daily-notes/2024-01-08.md",
+    "Rust.md",
+    "daily-notes/2024-01-07.md",
     "IITG - 4th sem.md",
     "daily-notes/2024-01-06.md",
     "daily-notes/2024-01-05.md",
