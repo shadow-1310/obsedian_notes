@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "daily-notes/2024-01-09.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "daily-notes/2024-01-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,6 +271,8 @@
   },
   "active": "80371a6ab426a6a2",
   "lastOpenFiles": [
+    "nvim.md",
+    "daily-notes/2024-01-09.md",
     "Linux.md",
     "daily-notes/2024-01-08.md",
     "Rust.md",
@@ -300,13 +302,11 @@
     "attachments/Pasted image 20231226125639.png",
     "maim.md",
     "company-Dashtoon.md",
-    "DL-attention.md",
     "attachments/Pasted image 20231226124707.png",
     "attachments/Pasted image 20231226124119.png",
     "attachments/Pasted image 20231226123215.png",
     "attachments/Pasted image 20231226120226.png",
     "attachments/Pasted image 20231226115526.png",
-    "company-Fractal Analytics.md",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
