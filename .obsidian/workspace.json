@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-01-09.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-01-09.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-01-09.md"
+                "file": "nvim.md"
               }
             }
           },
@@ -222,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-01-09.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,14 +268,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80371a6ab426a6a2",
+  "active": "ef9405ec17100dd5",
   "lastOpenFiles": [
-    "nvim.md",
-    "daily-notes/2024-01-09.md",
     "Linux.md",
+    "zathura.md",
+    "daily-notes/2024-01-07.md",
+    "daily-notes/2024-01-09.md",
+    "nvim.md",
     "daily-notes/2024-01-08.md",
     "Rust.md",
-    "daily-notes/2024-01-07.md",
     "IITG - 4th sem.md",
     "daily-notes/2024-01-06.md",
     "daily-notes/2024-01-05.md",
@@ -301,7 +301,6 @@
     "attachments/Pasted image 20231226131329.png",
     "attachments/Pasted image 20231226125639.png",
     "maim.md",
-    "company-Dashtoon.md",
     "attachments/Pasted image 20231226124707.png",
     "attachments/Pasted image 20231226124119.png",
     "attachments/Pasted image 20231226123215.png",
