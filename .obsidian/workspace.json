@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef9405ec17100dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-01-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9278efad84f339b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-01-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80371a6ab426a6a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-01-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9e4a6702371a6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imageMagick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a76320147248316d",
             "type": "leaf",
             "state": {
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7355c3545fdb5bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IITG - 4th sem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:iitg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imageMagick.md",
+                "file": "IITG - 4th sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imageMagick.md",
+                "file": "IITG - 4th sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imageMagick.md"
+                "file": "IITG - 4th sem.md"
               }
             }
           },
@@ -222,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "imageMagick.md",
+                "file": "IITG - 4th sem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,12 +233,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9e4a6702371a6b6",
+  "active": "7355c3545fdb5bd8",
   "lastOpenFiles": [
-    "Linux.md",
-    "daily-notes/2024-01-09.md",
-    "daily-notes/2024-01-07.md",
+    "daily-notes/2023-12-29.md",
     "daily-notes/2024-01-11.md",
+    "daily-notes/2024-01-07.md",
+    "daily-notes/2024-01-09.md",
+    "imageMagick.md",
+    "daily-notes/2024-01-15.md",
+    "Linux.md",
     "nvim.md",
     "zathura.md",
     "daily-notes/2024-01-08.md",
@@ -286,7 +253,6 @@
     "daily-notes/2024-01-03.md",
     "xrandr.md",
     "daily-notes/2024-01-02.md",
-    "daily-notes/2023-12-29.md",
     "picom.md",
     "daily-notes/2023-12-28.md",
     "daily-notes/2023-12-27.md",
@@ -295,8 +261,6 @@
     "daily-notes/2023-12-26.md",
     "streamlit.md",
     "Protein Sequence Analyser.md",
-    "Gnome.md",
-    "Guria-bank_preparation.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
