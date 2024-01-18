@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvim.md",
+                "file": "IITG - 4th sem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvim.md",
+                "file": "IITG - 4th sem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvim.md"
+                "file": "IITG - 4th sem.md"
               }
             }
           },
@@ -185,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nvim.md",
+                "file": "IITG - 4th sem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a76320147248316d",
+  "active": "7355c3545fdb5bd8",
   "lastOpenFiles": [
+    "nvim.md",
+    "daily-notes/2024-01-18.md",
     "Linux.md",
     "daily-notes/2023-12-29.md",
     "IITG - 4th sem.md",
@@ -244,7 +247,6 @@
     "daily-notes/2024-01-09.md",
     "imageMagick.md",
     "daily-notes/2024-01-15.md",
-    "nvim.md",
     "zathura.md",
     "daily-notes/2024-01-08.md",
     "Rust.md",
@@ -259,7 +261,6 @@
     "daily-notes/2023-12-27.md",
     "daily-notes/2023-12-24.md",
     "daily-notes/2023-12-25.md",
-    "daily-notes/2023-12-26.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
