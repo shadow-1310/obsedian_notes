@@ -18,3 +18,22 @@ ffmpeg -i input.mp3 -c:a aac output.m4a
 ```bash
 ffmpeg -i input.mkv -i input.m4a -vcodec copy -acodec copy -map 0:0 -map 1:0 "final.mp4"
 ```
+
+## Merge 2 video file with same codec
+
+- make a .txt file containing path to the files
+```text
+file video1.mp4
+file video2.mp4
+file video3.mp4
+```
+- convert each file to the same fps otherwise error will happen
+	- here I am converting video1.mp4 to 3 fps
+	- similarly do it for all the files
+```bash
+ffmpeg -i video1.mp4 -r 30 video1_30.mp4
+```
+- Now merge
+```bash
+ffmpeg -f concat -safe 0 -i files.txt -c copy output.mp4
+```

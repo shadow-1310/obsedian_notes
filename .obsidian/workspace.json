@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e626fc6735c182af",
+        "id": "ebb3799aa516d4ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a76320147248316d",
+            "id": "d192585720c213a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -220,8 +220,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a76320147248316d",
+  "active": "d192585720c213a2",
   "lastOpenFiles": [
+    "ffmpeg.md",
     "daily-notes/2024-01-22.md",
     "nvim.md",
     "daily-notes/2024-01-18.md",
@@ -247,7 +248,6 @@
     "daily-notes/2024-01-02.md",
     "picom.md",
     "daily-notes/2023-12-28.md",
-    "daily-notes/2023-12-27.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
