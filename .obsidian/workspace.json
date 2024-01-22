@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7355c3545fdb5bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-01-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-01-18.md",
+                "file": "nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-01-18.md",
+                "file": "nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-01-18.md"
+                "file": "nvim.md"
               }
             }
           },
@@ -186,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-01-18.md",
+                "file": "nvim.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,9 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7355c3545fdb5bd8",
+  "active": "a76320147248316d",
   "lastOpenFiles": [
     "daily-notes/2024-01-18.md",
+    "daily-notes/2024-01-21.md",
     "nvim.md",
     "Linux.md",
     "daily-notes/2023-12-29.md",
@@ -260,7 +248,6 @@
     "daily-notes/2023-12-28.md",
     "daily-notes/2023-12-27.md",
     "daily-notes/2023-12-24.md",
-    "daily-notes/2023-12-25.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
