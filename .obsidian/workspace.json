@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-01-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad0986e0635cc290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "Guitar Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "Guitar Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "Guitar Learning.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "Guitar Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +233,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d192585720c213a2",
+  "active": "ad0986e0635cc290",
   "lastOpenFiles": [
+    "daily-notes/2024-01-24.md",
+    "Guitar Learning.md",
+    "Rust.md",
     "Linux.md",
     "ffmpeg.md",
     "daily-notes/2024-01-23.md",
@@ -240,14 +256,11 @@
     "daily-notes/2024-01-15.md",
     "zathura.md",
     "daily-notes/2024-01-08.md",
-    "Rust.md",
     "daily-notes/2024-01-06.md",
     "daily-notes/2024-01-05.md",
     "daily-notes/2024-01-04.md",
     "daily-notes/2024-01-03.md",
     "xrandr.md",
-    "daily-notes/2024-01-02.md",
-    "picom.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
