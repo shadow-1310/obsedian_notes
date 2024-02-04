@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-01-25.md",
+                "file": "daily-notes/2024-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-01-25.md",
+                "file": "daily-notes/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-01-25.md",
+                "file": "daily-notes/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-01-25.md"
+                "file": "daily-notes/2024-01-28.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-01-25.md",
+                "file": "daily-notes/2024-01-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,9 @@
   },
   "active": "ad0986e0635cc290",
   "lastOpenFiles": [
-    "Guitar Learning.md",
     "daily-notes/2024-01-25.md",
+    "daily-notes/2024-01-28.md",
+    "Guitar Learning.md",
     "daily-notes/2024-01-24.md",
     "Rust.md",
     "Linux.md",
@@ -260,7 +261,6 @@
     "daily-notes/2024-01-06.md",
     "daily-notes/2024-01-05.md",
     "daily-notes/2024-01-04.md",
-    "daily-notes/2024-01-03.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
