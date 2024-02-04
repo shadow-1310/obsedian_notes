@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb3799aa516d4ad",
+        "id": "c7409bda199e8957",
         "type": "tabs",
         "children": [
           {
-            "id": "d192585720c213a2",
+            "id": "d15e46b5d0406874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-01-24.md",
+                "file": "Courses - non-academic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad0986e0635cc290",
+            "id": "d6f54b782976bf54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-01-28.md",
+                "file": "CS563.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ru",
+                "query": "file:Cours",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-01-28.md",
+                "file": "CS563.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-01-28.md",
+                "file": "CS563.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-01-28.md"
+                "file": "CS563.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-01-28.md",
+                "file": "CS563.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,12 +233,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad0986e0635cc290",
+  "active": "d6f54b782976bf54",
   "lastOpenFiles": [
-    "daily-notes/2024-01-25.md",
-    "daily-notes/2024-01-28.md",
-    "Guitar Learning.md",
+    "Courses - non-academic.md",
+    "CS563.md",
+    "templates/Course.md",
     "daily-notes/2024-01-24.md",
+    "daily-notes/2024-01-28.md",
+    "daily-notes/2024-02-04.md",
+    "daily-notes/2024-01-25.md",
+    "Guitar Learning.md",
     "Rust.md",
     "Linux.md",
     "ffmpeg.md",
@@ -257,10 +261,6 @@
     "imageMagick.md",
     "daily-notes/2024-01-15.md",
     "zathura.md",
-    "daily-notes/2024-01-08.md",
-    "daily-notes/2024-01-06.md",
-    "daily-notes/2024-01-05.md",
-    "daily-notes/2024-01-04.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
