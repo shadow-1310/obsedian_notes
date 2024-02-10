@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS563.md",
+                "file": "imageMagick.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Cours",
+                "query": "file:image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "imageMagick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "imageMagick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "imageMagick.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "imageMagick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,9 @@
   },
   "active": "d6f54b782976bf54",
   "lastOpenFiles": [
-    "Courses - non-academic.md",
+    "daily-notes/2024-02-05.md",
     "CS563.md",
+    "Courses - non-academic.md",
     "templates/Course.md",
     "daily-notes/2024-01-24.md",
     "daily-notes/2024-01-28.md",
@@ -260,7 +261,6 @@
     "daily-notes/2024-01-09.md",
     "imageMagick.md",
     "daily-notes/2024-01-15.md",
-    "zathura.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
