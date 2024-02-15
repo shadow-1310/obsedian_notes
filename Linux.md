@@ -51,6 +51,7 @@ check file usage
 - [[streamlit]]
 - [[picom]]
 - [[xrandr]]
+- [[zoxide]]
 
 ## Add and Remove startup programme
 ### helpful links
