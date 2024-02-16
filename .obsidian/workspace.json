@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS563.md",
+                "file": "Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs56",
+                "query": "file:rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,10 +234,10 @@
   },
   "active": "d15e46b5d0406874",
   "lastOpenFiles": [
+    "daily-notes/2024-02-15.md",
     "Courses - non-academic.md",
     "daily-notes/2024-02-14.md",
     "zoxide.md",
-    "daily-notes/2024-02-15.md",
     "Linux.md",
     "Rust.md",
     "CS563.md",
