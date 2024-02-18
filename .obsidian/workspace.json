@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "d6f54b782976bf54",
+            "id": "bcf91044df6fcdda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-02-14.md",
+                "file": "CS563.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:rust",
+                "query": "file:cs56",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922,
-    "collapsed": true
+    "width": 293.5110321044922
   },
   "right": {
     "id": "f2a5a304ba87d87e",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "CS563.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "CS563.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "CS563.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "CS563.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,13 +233,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d15e46b5d0406874",
+  "active": "bcf91044df6fcdda",
   "lastOpenFiles": [
-    "daily-notes/2024-02-16.md",
     "Rust.md",
+    "daily-notes/2024-02-14.md",
+    "daily-notes/2024-02-18.md",
+    "daily-notes/2024-02-16.md",
     "daily-notes/2024-02-15.md",
     "Courses - non-academic.md",
-    "daily-notes/2024-02-14.md",
     "zoxide.md",
     "Linux.md",
     "CS563.md",
@@ -260,7 +261,6 @@
     "daily-notes/2024-01-18.md",
     "daily-notes/2024-01-21.md",
     "daily-notes/2023-12-29.md",
-    "IITG - 4th sem.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
