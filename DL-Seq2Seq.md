@@ -54,7 +54,9 @@
 
 
 ### Bi-directional RNN
-
+## Seq2Seq training
+- teacher forcing
+	- even if during training first unit predicts wrong token, for the second unit we feed the correct token as input not the output of first unit
 ## Attention
 - In  normal encoder-decoder, only one context vector is present for every timestep of decoder
 - But after using attention layer, for every step of decoder a separate context vector is generated
