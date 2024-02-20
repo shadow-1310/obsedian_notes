@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "758415af1b6ba5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Word2Vec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "Word2Vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "Word2Vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "Word2Vec.md"
               }
             }
           },
@@ -186,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "Word2Vec.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,10 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcf91044df6fcdda",
+  "active": "758415af1b6ba5b9",
   "lastOpenFiles": [
-    "daily-notes/2024-02-19.md",
     "CS563.md",
+    "Word2Vec.md",
+    "daily-notes/2024-02-20.md",
+    "daily-notes/2024-02-19.md",
     "Rust.md",
     "daily-notes/2024-02-14.md",
     "daily-notes/2024-02-18.md",
@@ -259,8 +273,6 @@
     "daily-notes/2024-01-23.md",
     "daily-notes/2024-01-22.md",
     "nvim.md",
-    "daily-notes/2024-01-18.md",
-    "daily-notes/2024-01-21.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
