@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL-Seq2Seq.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL-Seq2Seq.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL-Seq2Seq.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -210,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DL-Seq2Seq.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,11 +256,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e09feec2f82ffa65",
+  "active": "d15e46b5d0406874",
   "lastOpenFiles": [
+    "DL-Seq2Seq.md",
+    "daily-notes/2024-02-20.md",
     "Word2Vec.md",
     "CS563.md",
-    "daily-notes/2024-02-20.md",
     "daily-notes/2024-02-19.md",
     "Rust.md",
     "daily-notes/2024-02-14.md",
@@ -284,7 +284,6 @@
     "ffmpeg.md",
     "daily-notes/2024-01-23.md",
     "daily-notes/2024-01-22.md",
-    "nvim.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
