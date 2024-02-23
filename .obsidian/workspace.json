@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d15e46b5d0406874",
+            "id": "459c1c5c03a78b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-02-21.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:seq",
+                "query": "file:re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-02-21.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-02-21.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-02-21.md"
+                "file": "DA671-Reinforcement Learning.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-02-21.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,14 +256,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d15e46b5d0406874",
+  "active": "459c1c5c03a78b1c",
   "lastOpenFiles": [
-    "Rust.md",
     "daily-notes/2024-02-21.md",
-    "DL-Seq2Seq.md",
-    "daily-notes/2024-02-20.md",
-    "Word2Vec.md",
+    "daily-notes/2024-02-23.md",
+    "DA671-Reinforcement Learning.md",
     "CS563.md",
+    "Word2Vec.md",
+    "DL-Seq2Seq.md",
+    "Rust.md",
+    "daily-notes/2024-02-20.md",
     "daily-notes/2024-02-19.md",
     "daily-notes/2024-02-14.md",
     "daily-notes/2024-02-18.md",
@@ -282,8 +284,6 @@
     "daily-notes/2024-02-04.md",
     "daily-notes/2024-01-25.md",
     "Guitar Learning.md",
-    "ffmpeg.md",
-    "daily-notes/2024-01-23.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
