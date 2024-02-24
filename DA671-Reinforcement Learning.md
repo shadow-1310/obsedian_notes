@@ -37,3 +37,10 @@ DTMC vs CTMC
 - for DTMC events occur at distinct time.
 
 CTMC View
+
+### MDP
+#### Types of Policies
+- Markovian Policy
+	- Depends only on the current state
+- Stationary Policy
+	- Identical Markovian Policy at every epoch
