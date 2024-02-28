@@ -7,6 +7,8 @@
 - https://www.youtube.com/watch?v=JmebaapAcKk
 
 ### Hierarchical Softmax
+Videos
+- https://www.youtube.com/watch?v=B95LTf2rVWM0
 - Vocabulary words are organized on leaves of a Binary Tree.
 - Huffman Tree
 	- here infrequent words are on deeper level and frequent words are on shallower level
