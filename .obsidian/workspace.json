@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "Word2Vec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "Word2Vec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA671-Reinforcement Learning.md"
+                "file": "Word2Vec.md"
               }
             }
           },
@@ -209,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "Word2Vec.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,14 +257,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "459c1c5c03a78b1c",
+  "active": "758415af1b6ba5b9",
   "lastOpenFiles": [
-    "daily-notes/2024-02-24.md",
+    "CS563.md",
     "DA671-Reinforcement Learning.md",
+    "daily-notes/2024-02-28.md",
+    "daily-notes/2024-02-24.md",
     "attachments/Pasted image 20240223214213.png",
     "daily-notes/2024-02-21.md",
     "daily-notes/2024-02-23.md",
-    "CS563.md",
     "Word2Vec.md",
     "DL-Seq2Seq.md",
     "Rust.md",
@@ -284,7 +286,6 @@
     "daily-notes/2024-01-24.md",
     "daily-notes/2024-01-28.md",
     "daily-notes/2024-02-04.md",
-    "daily-notes/2024-01-25.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
