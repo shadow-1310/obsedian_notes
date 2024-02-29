@@ -12,3 +12,9 @@ Videos
 - Vocabulary words are organized on leaves of a Binary Tree.
 - Huffman Tree
 	- here infrequent words are on deeper level and frequent words are on shallower level
+
+### FastText
+- [Talk by the original author](https://www.youtube.com/watch?v=CHcExDsDeHU)
+
+
+### ELMo
