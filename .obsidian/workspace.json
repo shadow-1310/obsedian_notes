@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformers.md",
+                "file": "daily-notes/2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformers.md",
+                "file": "daily-notes/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transformers.md",
+                "file": "daily-notes/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformers.md"
+                "file": "daily-notes/2024-03-15.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transformers.md",
+                "file": "daily-notes/2024-03-15.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,8 +271,9 @@
   },
   "active": "1347aae96f967413",
   "lastOpenFiles": [
-    "DL-Seq2Seq.md",
     "Transformers.md",
+    "daily-notes/2024-03-15.md",
+    "DL-Seq2Seq.md",
     "Word2Vec.md",
     "daily-notes/2024-03-05.md",
     "CS563.md",
@@ -297,7 +298,6 @@
     "daily-notes/2024-02-10.md",
     "imageMagick.md",
     "daily-notes/2024-02-05.md",
-    "templates/Course.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
