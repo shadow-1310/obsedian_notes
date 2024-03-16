@@ -52,6 +52,7 @@ check file usage
 - [[picom]]
 - [[xrandr]]
 - [[zoxide]]
+- [[compress-uncompress]]
 
 ## Add and Remove startup programme
 ### helpful links
