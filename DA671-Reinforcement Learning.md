@@ -44,3 +44,12 @@ CTMC View
 	- Depends only on the current state
 - Stationary Policy
 	- Identical Markovian Policy at every epoch
+
+
+## Value Iteration Algorithm
+- Resources
+	- [medium blog with code](https://medium.com/@ngao7/markov-decision-process-value-iteration-2d161d50a6ff#807e)
+
+## Policy Iteration 
+- Resources
+	- [medium blog with code](https://medium.com/@ngao7/markov-decision-process-policy-iteration-42d35ee87c82)
