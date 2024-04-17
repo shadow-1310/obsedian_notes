@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer - T5.md",
+                "file": "virtualenv.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs56",
+                "query": "file:linu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformer - T5.md",
+                "file": "virtualenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transformer - T5.md",
+                "file": "virtualenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformer - T5.md"
+                "file": "virtualenv.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transformer - T5.md",
+                "file": "virtualenv.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,13 +283,14 @@
   },
   "active": "f3449e0fdee7a998",
   "lastOpenFiles": [
-    "CS563.md",
+    "Linux.md",
+    "daily-notes/2024-04-14.md",
     "Transformer - T5.md",
+    "CS563.md",
     "daily-notes/2024-04-12.md",
     "daily-notes/2024-04-04.md",
     "daily-notes/2024-04-09.md",
     "DA671-Reinforcement Learning.md",
-    "Linux.md",
     "compress-uncompress.md",
     "nvim.md",
     "daily-notes/2024-04-02.md",
@@ -309,7 +310,6 @@
     "daily-notes/2024-02-28.md",
     "daily-notes/2024-02-24.md",
     "attachments/Pasted image 20240223214213.png",
-    "daily-notes/2024-02-21.md",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
