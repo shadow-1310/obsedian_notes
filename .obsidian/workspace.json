@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "virtualenv.md",
+                "file": "daily-notes/2024-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "virtualenv.md",
+                "file": "daily-notes/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "virtualenv.md",
+                "file": "daily-notes/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "virtualenv.md"
+                "file": "daily-notes/2024-04-17.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "virtualenv.md",
+                "file": "daily-notes/2024-04-17.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,6 +283,8 @@
   },
   "active": "f3449e0fdee7a998",
   "lastOpenFiles": [
+    "virtualenv.md",
+    "daily-notes/2024-04-17.md",
     "Linux.md",
     "daily-notes/2024-04-14.md",
     "Transformer - T5.md",
@@ -307,8 +309,6 @@
     "Transformers.md",
     "daily-notes/2024-03-05.md",
     "daily-notes/2024-02-29.md",
-    "daily-notes/2024-02-28.md",
-    "daily-notes/2024-02-24.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
