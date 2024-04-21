@@ -53,6 +53,7 @@ check file usage
 - [[xrandr]]
 - [[zoxide]]
 - [[compress-uncompress]]
+- [[Jupyter Notebook]]
 
 ## Add and Remove startup programme
 ### helpful links

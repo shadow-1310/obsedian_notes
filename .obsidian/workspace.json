@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "459c1c5c03a78b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-04-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf91044df6fcdda",
+            "id": "c4a9b441a7d97a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +20,43 @@
             }
           },
           {
-            "id": "c02d77c70b05f5eb",
+            "id": "5b2be5ddb0041477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compress-uncompress.md",
+                "file": "DA623 - Computing With Signals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61de80b29426bd99",
+            "id": "6874d9a4ccb0e82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
+                "file": "virtualenv.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4a9b441a7d97a64",
+            "id": "82ac6869a0dd9d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS563.md",
+                "file": "Jupyter Notebook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ffm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "DA623 - Computing With Signals.md"
               }
             }
           },
@@ -222,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,23 +257,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4a9b441a7d97a64",
+  "active": "5b2be5ddb0041477",
   "lastOpenFiles": [
+    "Linux.md",
+    "DA623 - Computing With Signals.md",
+    "daily-notes/2024-04-09.md",
+    "compress-uncompress.md",
+    "Jupyter Notebook.md",
+    "virtualenv.md",
+    "CS563.md",
     "ffmpeg.md",
     "daily-notes/2024-04-21.md",
     "daily-notes/2024-04-20.md",
     "daily-notes/2024-04-19.md",
     "daily-notes/2024-04-17.md",
-    "virtualenv.md",
-    "Linux.md",
     "daily-notes/2024-04-14.md",
     "Transformer - T5.md",
-    "CS563.md",
     "daily-notes/2024-04-12.md",
     "daily-notes/2024-04-04.md",
-    "daily-notes/2024-04-09.md",
     "DA671-Reinforcement Learning.md",
-    "compress-uncompress.md",
     "nvim.md",
     "daily-notes/2024-04-02.md",
     "daily-notes/2024-03-28.md",
@@ -295,8 +285,6 @@
     "daily-notes/2024-03-20.md",
     "DL-Seq2Seq.md",
     "Word2Vec.md",
-    "daily-notes/2024-03-17.md",
-    "daily-notes/2024-03-15.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
