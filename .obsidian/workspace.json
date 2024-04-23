@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "virtualenv.md",
+                "file": "CS563.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:cs56",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA623 - Computing With Signals.md"
+                "file": "CS563.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,14 +257,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b2be5ddb0041477",
+  "active": "6874d9a4ccb0e82d",
   "lastOpenFiles": [
-    "Linux.md",
+    "virtualenv.md",
     "DA623 - Computing With Signals.md",
+    "Linux.md",
+    "Jupyter Notebook.md",
+    "daily-notes/2024-04-22.md",
     "daily-notes/2024-04-09.md",
     "compress-uncompress.md",
-    "Jupyter Notebook.md",
-    "virtualenv.md",
     "CS563.md",
     "ffmpeg.md",
     "daily-notes/2024-04-21.md",
@@ -284,7 +285,6 @@
     "pke.md",
     "daily-notes/2024-03-20.md",
     "DL-Seq2Seq.md",
-    "Word2Vec.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
