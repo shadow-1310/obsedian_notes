@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "DA623 - Computing With Signals.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,8 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6874d9a4ccb0e82d",
+  "active": "5b2be5ddb0041477",
   "lastOpenFiles": [
+    "CS563.md",
+    "daily-notes/2024-04-23.md",
     "virtualenv.md",
     "DA623 - Computing With Signals.md",
     "Linux.md",
@@ -266,7 +268,6 @@
     "daily-notes/2024-04-22.md",
     "daily-notes/2024-04-09.md",
     "compress-uncompress.md",
-    "CS563.md",
     "ffmpeg.md",
     "daily-notes/2024-04-21.md",
     "daily-notes/2024-04-20.md",
@@ -284,7 +285,6 @@
     "gdown.md",
     "pke.md",
     "daily-notes/2024-03-20.md",
-    "DL-Seq2Seq.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
