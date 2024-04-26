@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "daily-notes/2024-04-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "daily-notes/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "daily-notes/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA623 - Computing With Signals.md"
+                "file": "daily-notes/2024-04-25.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "daily-notes/2024-04-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,10 +259,11 @@
   },
   "active": "5b2be5ddb0041477",
   "lastOpenFiles": [
+    "DA623 - Computing With Signals.md",
+    "daily-notes/2024-04-25.md",
     "CS563.md",
     "daily-notes/2024-04-23.md",
     "virtualenv.md",
-    "DA623 - Computing With Signals.md",
     "Linux.md",
     "Jupyter Notebook.md",
     "daily-notes/2024-04-22.md",
@@ -284,7 +285,6 @@
     "daily-notes/2024-03-21.md",
     "gdown.md",
     "pke.md",
-    "daily-notes/2024-03-20.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
