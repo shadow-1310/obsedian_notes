@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "441aabfa50519694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses - non-academic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37bb7ed8b5dff5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GenAI with LLM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:da623",
+                "query": "file:course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jupyter Notebook.md",
+                "file": "GenAI with LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jupyter Notebook.md",
+                "file": "GenAI with LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jupyter Notebook.md"
+                "file": "GenAI with LLM.md"
               }
             }
           },
@@ -210,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jupyter Notebook.md",
+                "file": "GenAI with LLM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,13 +281,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82ac6869a0dd9d05",
+  "active": "37bb7ed8b5dff5ca",
   "lastOpenFiles": [
+    "Courses - non-academic.md",
+    "GenAI with LLM.md",
+    "Jupyter Notebook.md",
+    "daily-notes/2024-04-27.md",
     "CS563.md",
     "zathura.md",
     "Linux.md",
     "pdfunite.md",
-    "Jupyter Notebook.md",
     "DA623 - Computing With Signals.md",
     "zoxide.md",
     "daily-notes/2024-04-25.md",
@@ -282,9 +309,6 @@
     "Transformer - T5.md",
     "daily-notes/2024-04-12.md",
     "daily-notes/2024-04-04.md",
-    "DA671-Reinforcement Learning.md",
-    "nvim.md",
-    "daily-notes/2024-04-02.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
