@@ -81,3 +81,21 @@ CTMC View
 		- Linear regret
 	- epsilon-greedy
 		- with epsilon probability locks into suboptimal arm
+		- linear regret
+	- epsilon_t-greedy
+		- decaying exploration
+		- design mechanism with 
+		- sublinear (logarithmic) regret
+	- UCB - uses Hoeffding bound
+		- doesnot depend knowledge of sub-optimality gap
+		- logarithmic regret
+		- upper confidence bound overestimates the unknown mean
+	- KL-UCB - uses Chernoff bound
+
+Lower Bound
+- If all arms are similar -> high regret
+- If arms are very different -> low regret
+- 2 metrices to signify
+	- Suboptimatility gap 
+	- KL distance between arms
+	- 
