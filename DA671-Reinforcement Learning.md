@@ -91,6 +91,8 @@ CTMC View
 		- logarithmic regret
 		- upper confidence bound overestimates the unknown mean
 	- KL-UCB - uses Chernoff bound
+		- asymptotically optimal
+		- tighter bound than Hoeffding bound
 
 Lower Bound
 - If all arms are similar -> high regret
@@ -98,4 +100,6 @@ Lower Bound
 - 2 metrices to signify
 	- Suboptimatility gap 
 	- KL distance between arms
-	- 
+
+
+#### Thomson Sampling
