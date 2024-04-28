@@ -54,6 +54,7 @@ check file usage
 - [[zoxide]]
 - [[compress-uncompress]]
 - [[Jupyter Notebook]]
+- [[qtile]]
 
 ## Add and Remove startup programme
 ### helpful links

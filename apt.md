@@ -7,3 +7,8 @@
 ![[Screenshot from 2023-08-02 11-26-51.png]]
 #### solution
 - follow this tutorial[[Solved] Could not get lock /var/lib/dpkg/lock Error in Ubuntu](https://itsfoss.com/could-not-get-lock-error/)
+
+find available upgrades
+```bash
+aptitude search ~U
+```

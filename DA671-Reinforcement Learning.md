@@ -78,4 +78,6 @@ CTMC View
 - Bandit Algorithms
 	- Greedy
 		- Maintain estimate (sample average) for each arm
-		- 
+		- Linear regret
+	- epsilon-greedy
+		- with epsilon probability locks into suboptimal arm
