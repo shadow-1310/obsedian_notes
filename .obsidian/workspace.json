@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAI with LLM.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:course",
+                "query": "file:da67",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GenAI with LLM.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GenAI with LLM.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GenAI with LLM.md"
+                "file": "DA671-Reinforcement Learning.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GenAI with LLM.md",
+                "file": "DA671-Reinforcement Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,8 +283,10 @@
   },
   "active": "37bb7ed8b5dff5ca",
   "lastOpenFiles": [
-    "Courses - non-academic.md",
+    "templates/Course.md",
     "GenAI with LLM.md",
+    "daily-notes/2024-04-28.md",
+    "Courses - non-academic.md",
     "Jupyter Notebook.md",
     "daily-notes/2024-04-27.md",
     "CS563.md",
@@ -307,8 +309,6 @@
     "daily-notes/2024-04-17.md",
     "daily-notes/2024-04-14.md",
     "Transformer - T5.md",
-    "daily-notes/2024-04-12.md",
-    "daily-notes/2024-04-04.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",

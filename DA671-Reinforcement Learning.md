@@ -48,8 +48,34 @@ CTMC View
 
 ## Value Iteration Algorithm
 - Resources
-	- [medium blog with code](https://medium.com/@ngao7/markov-decision-process-value-iteration-2d161d50a6ff#807e)
+	- [medium blog with code](https://medium.com/@**ngao7**/markov-decision-process-value-iteration-2d161d50a6ff#807e)
+	- [opengenus 1D example](https://iq.opengenus.org/value-iteration-algorithm/)
+	- 
 
 ## Policy Iteration 
 - Resources
 	- [medium blog with code](https://medium.com/@ngao7/markov-decision-process-policy-iteration-42d35ee87c82)
+
+### Example problems
+##### Gambler's ruin
+###### Server replacement problem
+
+#### Threshold Policy
+- continue if i < i*, replace if i >= i*
+
+
+## MAB
+- Stochastic MAB
+	-  IID
+	- Markovian
+		- Rested
+			- States of arm not played -> frozen
+		- Restless
+			- States of arm not played -> may change
+- Regret
+- Suboptimality gap of an arm
+	- Regret Decomposition Lemma
+- Bandit Algorithms
+	- Greedy
+		- Maintain estimate (sample average) for each arm
+		- 
