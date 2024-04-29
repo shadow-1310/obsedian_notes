@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37bb7ed8b5dff5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DA671-Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e13646da127689da",
             "type": "leaf",
             "state": {
@@ -42,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6623278c0bc8e064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DA671-Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:da671",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,12 +245,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37bb7ed8b5dff5ca",
+  "active": "6623278c0bc8e064",
   "lastOpenFiles": [
     "Linux.md",
+    "DA671-Reinforcement Learning.md",
+    "daily-notes/2024-04-29.md",
     "qtile.md",
     "tiling window manager.md",
-    "DA671-Reinforcement Learning.md",
     "Courses - non-academic.md",
     "DA623 - Computing With Signals.md",
     "Jupyter Notebook.md",
@@ -271,7 +273,6 @@
     "compress-uncompress.md",
     "ffmpeg.md",
     "daily-notes/2024-04-21.md",
-    "daily-notes/2024-04-20.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",

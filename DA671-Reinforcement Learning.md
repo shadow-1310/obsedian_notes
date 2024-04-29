@@ -101,5 +101,14 @@ Lower Bound
 	- Suboptimatility gap 
 	- KL distance between arms
 
+## beta-distribution
+#### Greedy algorithm
+- at each time t, current expectation of success probability is generated
+- arm with greatest theta_t is chosen
+- reward r_t is obtained 
+- based on this alpha and beta are updated
 
-#### Thomson Sampling
+### Thompson sampling
+- same as previous
+- but success probability estimate is randomly sampled from posterior distribution instead of taking expectation
+
