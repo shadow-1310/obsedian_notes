@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "6623278c0bc8e064",
+            "id": "41c60b33b592fadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -245,12 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6623278c0bc8e064",
+  "active": "41c60b33b592fadc",
   "lastOpenFiles": [
-    "Linux.md",
-    "DA671-Reinforcement Learning.md",
-    "daily-notes/2024-04-29.md",
     "qtile.md",
+    "DA671-Reinforcement Learning.md",
+    "Linux.md",
+    "daily-notes/2024-04-29.md",
     "tiling window manager.md",
     "Courses - non-academic.md",
     "DA623 - Computing With Signals.md",

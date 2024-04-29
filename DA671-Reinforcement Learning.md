@@ -112,3 +112,19 @@ Lower Bound
 - same as previous
 - but success probability estimate is randomly sampled from posterior distribution instead of taking expectation
 
+
+### Monte Carlo
+#### Advantage
+- Ability to learn from actual and simulated experience
+- estimate for one state doesnot depend on another state
+- computation burden of finding value of a single state doesnot depend on other states
+
+##### Monte Carlo estimation for state pair
+Disadvantages
+- every state action pair is not visited
+- if pi is deteministic then return corresponding to one of the action from each pair can be observed
+- monte carlo estimates for other actions may not improve with experience.
+Solutions
+- Exploring start
+- use stochastic policy
+
