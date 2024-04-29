@@ -56,6 +56,11 @@ CTMC View
 - Resources
 	- [medium blog with code](https://medium.com/@ngao7/markov-decision-process-policy-iteration-42d35ee87c82)
 
+#### limitations
+- synchronus updates - computationally expensive as we need to focus on all state-action pairs
+- need knowledge of environment
+- no learning from environment
+
 ### Example problems
 ##### Gambler's ruin
 ###### Server replacement problem
@@ -126,5 +131,18 @@ Disadvantages
 - monte carlo estimates for other actions may not improve with experience.
 Solutions
 - Exploring start
+	- every pair has a non zero probability selected as first
 - use stochastic policy
+
+Monte Carlo
+- on policy
+	- 
+- off policy
+	- 2 policies
+		- one targeted towards learning the optimal policy (target policy)
+		- one is more exploratory to generate behavior (behavior policy)
+	- Importance sampling
+		- general technique for estimating expected values under one distribution given samples from another.
+	- importance sampling ratio
+	- weighted importance sampling
 
