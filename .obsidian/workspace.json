@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qtile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c60b33b592fadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "CS563.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:da671",
+                "query": "file:cs56",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "CS563.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "CS563.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA671-Reinforcement Learning.md"
+                "file": "CS563.md"
               }
             }
           },
@@ -198,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA671-Reinforcement Learning.md",
+                "file": "CS563.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +233,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41c60b33b592fadc",
+  "active": "a2da1c764805ba4c",
   "lastOpenFiles": [
     "qtile.md",
     "DA671-Reinforcement Learning.md",
