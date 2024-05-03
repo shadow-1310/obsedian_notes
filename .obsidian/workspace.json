@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "477bd40bd88c0f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DA623 - Computing With Signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,18 +245,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e13646da127689da",
+  "active": "477bd40bd88c0f4b",
   "lastOpenFiles": [
-    "Linux.md",
     "Jupyter Notebook.md",
     "CS563.md",
+    "DA623 - Computing With Signals.md",
+    "daily-notes/2024-05-03.md",
+    "Linux.md",
     "daily-notes/2024-05-02.md",
     "qtile.md",
     "DA671-Reinforcement Learning.md",
     "daily-notes/2024-04-29.md",
     "tiling window manager.md",
     "Courses - non-academic.md",
-    "DA623 - Computing With Signals.md",
     "apt.md",
     "zathura.md",
     "templates/Course.md",
@@ -259,7 +273,6 @@
     "daily-notes/2024-04-22.md",
     "daily-notes/2024-04-09.md",
     "compress-uncompress.md",
-    "ffmpeg.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
