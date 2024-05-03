@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA623 - Computing With Signals.md"
+                "file": "CS563.md"
               }
             }
           },
@@ -183,9 +182,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "3dcbfa78817c75ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "974ca1ef550112c5",
@@ -198,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DA623 - Computing With Signals.md",
+                "file": "CS563.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,11 +252,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "477bd40bd88c0f4b",
+  "active": "e13646da127689da",
   "lastOpenFiles": [
+    "DA623 - Computing With Signals.md",
+    "attachments/Pasted image 20240503224606.png",
+    "attachments/Pasted image 20240503215607.png",
     "Jupyter Notebook.md",
     "CS563.md",
-    "DA623 - Computing With Signals.md",
     "daily-notes/2024-05-03.md",
     "Linux.md",
     "daily-notes/2024-05-02.md",
@@ -272,7 +281,6 @@
     "virtualenv.md",
     "daily-notes/2024-04-22.md",
     "daily-notes/2024-04-09.md",
-    "compress-uncompress.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
@@ -281,8 +289,6 @@
     "attachments/Pasted image 20231226125639.png",
     "attachments/Pasted image 20231226124707.png",
     "attachments/Pasted image 20231226124119.png",
-    "attachments/Pasted image 20231226123215.png",
-    "attachments/Pasted image 20231226120226.png",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",

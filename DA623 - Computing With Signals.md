@@ -31,6 +31,151 @@
 				- Pb -> degree of blueness
 			- second, JPG downsamples Yr and Yb where they have half many rows and columns as Y
 	- Chrominance
+		- color shift of the image
+- Use of color bar
+- binary image
+	- types 
+		- hard threshold
+		- random dithering 
+		- floyd steinberg dithering
+	- selecting a threshold
+	- Properties
+		- geometric properties
+			- 0th Moment gives - area
+			- 1st moment gives - centre of area
+			- axis of least 2nd moment - orientation
+		- segmenting binary images
+			- region growth algorithm
+				- find unlabeled seed point with b=1, if not found terminate
+				- assign new label to point
+				- assign same label to neighbor points with b = 1
+				- assign same label to neighbor of neighbors with b = 1, repeat until no more points with b=1 is found
+				- go to first step 
+			- LSIS - Linear Shift Invariance Shift
+		- Convolution
+			- Properties
+				- prove that convolution is LSIS
+				- Commutative
+				- Associative
+				- Cascaded System
+			- Problems
+				- Border problem
+				- Solution
+					- ignore border
+					- pad with constant value
+					- pad with reflection
+			- Examples
+				- Impulse filter
+				- image shift
+				- averaging
+			- Kernel/Filters
+				- Linear
+					- Gaussian
+						- setting kernel size, $K=2*\pi*\sigma$, as $\sigma$ increases K increases
+						- larger kernel more blurring
+						- gaussian smoothing is separable
+							- we can use two 1D kernels instead of one 2D kernel
+					- problems
+						- doesnot remove outliers
+						- smooths edges (blur)
+				- Non Linear
+					- Median filter
+						- sort the values in window centred at the pixel
+						- assign the middle value to pixel
+				- Template matching (lecture 18)
+					- cross correlation
+					- **problems**
+					- solution
+						- normalized cross correlation - account for energy differences
+				- Edge detection
+					- requirements
+						- high detection rate
+						- good localization
+						- low noise sensitivity
+					- first derivative provides location and strength of edge
+					- Gradient represents direction of most rapid change in image intensity
+					- Gradient Operators
+						- Robert 
+						- Prewitt
+						- Sobel (3x3)
+						- Sobel (5x5)
+						- Smaller Kernel vs larger kernel
+							- good localization | poor localization |
+							- noise sensitive | less noise sensitive |
+							- poor detection | good detection |
+- Sound
+	- Human hearing mechanism
+		- ![[Pasted image 20240503215607.png]]
+		- Sound SIgnal as a file
+			- channels 
+			- sample rate 
+			- precision
+			- bit rate
+		- representations
+			- audio as time series
+			- audio as frequency spectrum
+			- spectrogram
+			- multi resolution analysis
+		- Audio Processing
+			- feature extraction
+				- long term features
+				- short term features
+			- Acoustic features
+				- Statistical features
+					- mean
+					- s.d
+					- skewness - describes asymmetery 
+					- kurtosis - measures tailedness of distribution of signal values
+				- temporal features
+					- zero crossing rate
+					- RMSE
+					- temporal envelope
+					- duration
+					- intensity
+				- Spectral features
+					- centroid
+						- perceived brightness of sound
+					- bandwidth
+						- provides information on range of frequencies present
+					- roll off
+						- Represents the frequency below which a specified percentage of the total spectral energy lies
+					- flux
+						- useful for detecting onsets and transients
+					- fundamental frequency
+						- perceived pitch contour of speech.
+				- Spectro temporal features
+					- spectrogram
+					- MFCC
+					- delta MFCC
+					- delta-delta MFCC
+					- gammatone features
+			- Fechner's Law
+				- $S=KLogR$
+				- ![[Pasted image 20240503224606.png]]
+			- Weber's law
+			- Steven's Power Law
+			- Psychometric function
+				- relates physical quantity to probability of detecting it
+			- Mel-Scale
+				- By converting the frequency representation of the audio signal into the Mel scale, you can ensure that your speech recognition system prioritizes the frequency regions that matter most for human speech perception
+			- Filterbanks
+				- A collection of filters designed to pass specific frequency ranges while attenuating others.
+				- applications
+					- real time control
+					- customized audio
+					- enhanced audio
+matter most for human speech perception.
+		- Unit in spoken language
+			- phoneme
+				- smallest unit sound
+			- grapheme
+				- smallest unit of writing system
+		- iterative modification
+- ML
+	- Variance, Covariance, correlation
+	- probabilistic model for LR
+		- homoscedasticity for all points
+		- uncorrelated noise
 ## Project - Keystroke Typing Analysis
 - Downloading the file took  approx 10 hours (12:00pm-) on 21 Apr, 2024
 
