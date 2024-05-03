@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "DA623 - Computing With Signals.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS563.md",
+                "file": "Jupyter Notebook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cs56",
+                "query": "file:da623",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS563.md"
+                "file": "DA623 - Computing With Signals.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS563.md",
+                "file": "DA623 - Computing With Signals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,17 +232,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2da1c764805ba4c",
+  "active": "e13646da127689da",
   "lastOpenFiles": [
+    "Linux.md",
+    "Jupyter Notebook.md",
+    "CS563.md",
+    "daily-notes/2024-05-02.md",
     "qtile.md",
     "DA671-Reinforcement Learning.md",
-    "Linux.md",
     "daily-notes/2024-04-29.md",
     "tiling window manager.md",
     "Courses - non-academic.md",
     "DA623 - Computing With Signals.md",
-    "Jupyter Notebook.md",
-    "CS563.md",
     "apt.md",
     "zathura.md",
     "templates/Course.md",
@@ -260,7 +260,6 @@
     "daily-notes/2024-04-09.md",
     "compress-uncompress.md",
     "ffmpeg.md",
-    "daily-notes/2024-04-21.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
