@@ -82,9 +82,12 @@
 					- Median filter
 						- sort the values in window centred at the pixel
 						- assign the middle value to pixel
+						- problem
+							- not effective when noise is not simple salt and pepper.
 				- Template matching (lecture 18)
 					- cross correlation
 					- **problems**
+						- it is not invariant under changes in brightness or contrast
 					- solution
 						- normalized cross correlation - account for energy differences
 				- Edge detection
