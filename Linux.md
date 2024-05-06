@@ -55,6 +55,7 @@ check file usage
 - [[compress-uncompress]]
 - [[Jupyter Notebook]]
 - [[qtile]]
+- [[latex]]
 
 ## Add and Remove startup programme
 ### helpful links
