@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "latex.md",
+                "file": "daily-notes/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "latex.md",
+                "file": "daily-notes/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "latex.md",
+                "file": "daily-notes/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "latex.md"
+                "file": "daily-notes/2024-05-11.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "latex.md",
+                "file": "daily-notes/2024-05-11.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,6 +267,8 @@
   },
   "active": "249d86e1d8768252",
   "lastOpenFiles": [
+    "latex.md",
+    "daily-notes/2024-05-11.md",
     "Linux.md",
     "Jupyter Notebook.md",
     "CS563.md",
@@ -293,8 +295,6 @@
     "pdfunite.md",
     "zoxide.md",
     "daily-notes/2024-04-25.md",
-    "daily-notes/2024-04-26.md",
-    "daily-notes/2024-04-23.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
