@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-05-11.md",
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daf3037e1ccb3c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:linux",
+                "query": "file:roc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-05-11.md",
+                "file": "ROC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-05-11.md",
+                "file": "ROC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-05-11.md"
+                "file": "ROC.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-05-11.md",
+                "file": "ROC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,10 +277,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "249d86e1d8768252",
+  "active": "daf3037e1ccb3c5f",
   "lastOpenFiles": [
-    "latex.md",
+    "Python.md",
+    "ROC.md",
     "daily-notes/2024-05-11.md",
+    "latex.md",
     "Linux.md",
     "Jupyter Notebook.md",
     "CS563.md",
@@ -293,8 +307,6 @@
     "daily-notes/2024-04-28.md",
     "daily-notes/2024-04-27.md",
     "pdfunite.md",
-    "zoxide.md",
-    "daily-notes/2024-04-25.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
