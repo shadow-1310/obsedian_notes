@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROC.md",
+                "file": "Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:roc",
+                "query": "file:rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROC.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROC.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROC.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ROC.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,8 +279,9 @@
   },
   "active": "daf3037e1ccb3c5f",
   "lastOpenFiles": [
-    "Python.md",
     "ROC.md",
+    "daily-notes/2024-05-18.md",
+    "Python.md",
     "daily-notes/2024-05-11.md",
     "latex.md",
     "Linux.md",
@@ -306,7 +307,6 @@
     "GenAI with LLM.md",
     "daily-notes/2024-04-28.md",
     "daily-notes/2024-04-27.md",
-    "pdfunite.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
