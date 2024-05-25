@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "daily-notes/2024-05-24.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "daily-notes/2024-05-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,6 +279,8 @@
   },
   "active": "daf3037e1ccb3c5f",
   "lastOpenFiles": [
+    "Rust.md",
+    "daily-notes/2024-05-24.md",
     "ROC.md",
     "daily-notes/2024-05-18.md",
     "Python.md",
@@ -305,8 +307,6 @@
     "zathura.md",
     "templates/Course.md",
     "GenAI with LLM.md",
-    "daily-notes/2024-04-28.md",
-    "daily-notes/2024-04-27.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
