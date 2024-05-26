@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "204c47530b2aa7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bioinformatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:bioi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "bioinformatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
+                "file": "bioinformatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "bioinformatics.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "String.md",
+                "file": "bioinformatics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,10 +265,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e13646da127689da",
+  "active": "204c47530b2aa7bc",
   "lastOpenFiles": [
-    "28-find index of first occurance.md",
+    "attachments/Pasted image 20240526115526.png",
+    "attachments/Pasted image 20240526115446.png",
     "String.md",
+    "daily-notes/2024-05-26.md",
+    "28-find index of first occurance.md",
     "DSA/Topics/DSA.md",
     "templates/DSA_problem.md",
     "CS563.md",
@@ -280,8 +296,6 @@
     "daily-notes/2024-05-02.md",
     "qtile.md",
     "DA671-Reinforcement Learning.md",
-    "daily-notes/2024-04-29.md",
-    "tiling window manager.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
@@ -289,7 +303,6 @@
     "attachments/Pasted image 20231226131329.png",
     "attachments/Pasted image 20231226125639.png",
     "attachments/Pasted image 20231226124707.png",
-    "attachments/Pasted image 20231226124119.png",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",

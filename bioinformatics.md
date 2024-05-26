@@ -17,7 +17,27 @@ QualiMap
 FreeBayes
 - Calling Variants
 
-
+## Sequence Alignment
+#### Scoring methods
+- more penalty for transversions compared to transitions.
+	- ![[Pasted image 20240526115526.png]]
+- Base pairs
+	- Linear gap Penalty
+	- Affine Gap Penalty
+		- GOP
+		- GEP
+- Amino acids
+	- PAM250
+	- BLOSUM
+		- BLOSUM62
+		- BLOSUM80
+		- BLOSUM45
+### Alignment Algorithm
+- Smith-Waterman Algorithm
+	- finds minimal path through dot plot
+		- Similar to LCS algorithm
+	- time complexity is high (N1* N2)
+- BLAST - Basic Local Alignment Search Tool 
 ## DNAs
 - made up of 4 dNTPs
 - Deoxyribo-Nucleoside-Tri-Phosphate
