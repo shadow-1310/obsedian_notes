@@ -38,6 +38,15 @@ FreeBayes
 		- Similar to LCS algorithm
 	- time complexity is high (N1* N2)
 - BLAST - Basic Local Alignment Search Tool 
+	- e-value
+	- BLASTn
+	- BLASTp
+	- BLASTx
+	- tBLASTn
+	- tBLASTx
+- Multiple sequence alignment
+	- Sankoff, 1987
+	- ClustlaW, Higins and Sharp-, 1988
 ## DNAs
 - made up of 4 dNTPs
 - Deoxyribo-Nucleoside-Tri-Phosphate
