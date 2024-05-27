@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:string",
+                "query": "file:rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "718-Max length of repeated subarray.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,8 +279,8 @@
   },
   "active": "af9a323db526bdb1",
   "lastOpenFiles": [
-    "String.md",
     "718-Max length of repeated subarray.md",
+    "String.md",
     "Strings.md",
     "Dynamic Programming.md",
     "DSA/Topics/DSA.md",

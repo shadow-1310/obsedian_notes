@@ -20,6 +20,16 @@ mdbook serve en/
 PyO3 to call Rust from Python
 
 ### Learnings
+- accessing a nth character of a String 
+	- we can use the str.chars().nth(N) method, but it has O(N) complexity
+	- we can use str.as_bytes()[n], this is O(N) time complexity, as suggested by [this stackoverflow post](https://stackoverflow.com/questions/71824249/get-value-of-nth-char-in-string-in-rust)
+	- and finally we can convert the String to vector and then access its characters 
+```rust
+let chars: Vec<&char> = str.chars().collect()
+```
+
+
+## Daywise
 ---
 #### Day1 - [[2024-01-06]]
 - learnt shadowing
