@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioinformatics.md",
+                "file": "String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af9a323db526bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "718-Max length of repeated subarray.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:bioi",
+                "query": "file:string",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bioinformatics.md",
+                "file": "718-Max length of repeated subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bioinformatics.md",
+                "file": "718-Max length of repeated subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bioinformatics.md"
+                "file": "718-Max length of repeated subarray.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bioinformatics.md",
+                "file": "718-Max length of repeated subarray.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,14 +277,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "204c47530b2aa7bc",
+  "active": "af9a323db526bdb1",
   "lastOpenFiles": [
+    "String.md",
+    "718-Max length of repeated subarray.md",
+    "Strings.md",
+    "Dynamic Programming.md",
+    "DSA/Topics/DSA.md",
+    "bioinformatics.md",
+    "daily-notes/2024-05-27.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
-    "String.md",
     "daily-notes/2024-05-26.md",
     "28-find index of first occurance.md",
-    "DSA/Topics/DSA.md",
     "templates/DSA_problem.md",
     "CS563.md",
     "MTP.md",
@@ -292,17 +309,12 @@
     "DA623 - Computing With Signals.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
-    "daily-notes/2024-05-03.md",
-    "daily-notes/2024-05-02.md",
-    "qtile.md",
-    "DA671-Reinforcement Learning.md",
     "attachments/Pasted image 20240223214213.png",
     "attachments/Pasted image 20231226131917.png",
     "attachments/Pasted image 20231226131850.png",
     "attachments/Pasted image 20231226131458.png",
     "attachments/Pasted image 20231226131329.png",
     "attachments/Pasted image 20231226125639.png",
-    "attachments/Pasted image 20231226124707.png",
     "dashtoon/streamlit-app_ui",
     "dashtoon",
     "Untitled.canvas",
