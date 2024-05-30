@@ -20,36 +20,24 @@
             }
           },
           {
+            "id": "00a8bb88813d0834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Longest Common Substring between n Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a2da1c764805ba4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "249d86e1d8768252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "204c47530b2aa7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "Longest Common Substring between n Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "Longest Common Substring between n Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "Longest Common Substring between n Strings.md"
               }
             }
           },
@@ -230,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "Longest Common Substring between n Strings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,10 +265,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af9a323db526bdb1",
+  "active": "00a8bb88813d0834",
   "lastOpenFiles": [
-    "718-Max length of repeated subarray.md",
     "String.md",
+    "Longest Common Substring between n Strings.md",
+    "Rust.md",
+    "daily-notes/2024-05-30.md",
+    "718-Max length of repeated subarray.md",
     "Strings.md",
     "Dynamic Programming.md",
     "DSA/Topics/DSA.md",
@@ -294,7 +285,6 @@
     "CS563.md",
     "MTP.md",
     "Linux.md",
-    "Rust.md",
     "Python.md",
     "daily-notes/2024-05-24.md",
     "daily-notes/2024-05-25.md",
@@ -305,8 +295,6 @@
     "Jupyter Notebook.md",
     "daily-notes/2024-05-06.md",
     "daily-notes/2024-05-05.md",
-    "daily-notes/2024-05-04.md",
-    "DA623 - Computing With Signals.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",
