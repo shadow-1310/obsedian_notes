@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Longest Common Substring between n Strings.md",
+                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Longest Common Substring between n Strings.md",
+                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Longest Common Substring between n Strings.md"
+                "file": "Rust.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Longest Common Substring between n Strings.md",
+                "file": "Rust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,12 +265,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00a8bb88813d0834",
+  "active": "af9a323db526bdb1",
   "lastOpenFiles": [
-    "String.md",
+    "Linux.md",
+    "yazi.md",
     "Longest Common Substring between n Strings.md",
-    "Rust.md",
     "daily-notes/2024-05-30.md",
+    "String.md",
+    "Rust.md",
     "718-Max length of repeated subarray.md",
     "Strings.md",
     "Dynamic Programming.md",
@@ -284,7 +286,6 @@
     "templates/DSA_problem.md",
     "CS563.md",
     "MTP.md",
-    "Linux.md",
     "Python.md",
     "daily-notes/2024-05-24.md",
     "daily-notes/2024-05-25.md",
@@ -294,7 +295,6 @@
     "latex.md",
     "Jupyter Notebook.md",
     "daily-notes/2024-05-06.md",
-    "daily-notes/2024-05-05.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",

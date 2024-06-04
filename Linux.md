@@ -56,6 +56,7 @@ check file usage
 - [[Jupyter Notebook]]
 - [[qtile]]
 - [[latex]]
+- [[yazi]]
 
 ## Add and Remove startup programme
 ### helpful links
