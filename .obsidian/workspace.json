@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "de1fe1d846dd59aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "516-Longest Palindromic Subsequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "00a8bb88813d0834",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "516-Longest Palindromic Subsequence.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,14 +277,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af9a323db526bdb1",
+  "active": "de1fe1d846dd59aa",
   "lastOpenFiles": [
+    "String.md",
+    "1143-Longest common subsequence.md",
+    "Rust.md",
+    "daily-notes/2024-06-04.md",
     "Linux.md",
     "yazi.md",
     "Longest Common Substring between n Strings.md",
     "daily-notes/2024-05-30.md",
-    "String.md",
-    "Rust.md",
     "718-Max length of repeated subarray.md",
     "Strings.md",
     "Dynamic Programming.md",
@@ -293,8 +307,6 @@
     "daily-notes/2024-05-18.md",
     "daily-notes/2024-05-11.md",
     "latex.md",
-    "Jupyter Notebook.md",
-    "daily-notes/2024-05-06.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",

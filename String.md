@@ -11,7 +11,7 @@
 
 - [ ] [[AMEX - furthest digram]]
 - [ ] [[953-Verifying an alien dictionary]], last done: [[2023-10-28]]
-- [ ] [[1143-Longest common subsequence]], last done: [[2023-10-27]]
+- [x] [[1143-Longest common subsequence]], last done: [[2023-10-27]]
 - [ ] [[516-Longest Palindromic Subsequence]] last done: [[2023-10-27]]
 - [ ] [[72-Edit distance]], last done: [[2023-10-28]], one more time
 - [ ] [[5-Longest Palindromic Substring]], last done: [[2023-10-27]], once more

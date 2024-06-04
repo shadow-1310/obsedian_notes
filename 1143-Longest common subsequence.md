@@ -6,7 +6,8 @@ topic: [[Dynamic Programming]]
 - first_done: [[2023-07-24]]
 	- 1st_revised: [[2023-09-16]]
 	- 2nd_revised: [[2023-10-10]]
-- last_revised: [[2023-10-27]]
+	- 3rd_revised: [[2023-10-27]]
+- last_revised: [[2024-06-04]], done in rust
 - difficulty:
 	- [ ] easy
 	- [x] medium
