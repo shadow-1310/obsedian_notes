@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "32b1bee6a65a3615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "516-Longest Palindromic Subsequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "de1fe1d846dd59aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-06-05.md",
+                "file": "daily-notes/2024-06-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-06-05.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-06-05.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-06-05.md"
+                "file": "516-Longest Palindromic Subsequence.md"
               }
             }
           },
@@ -230,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-06-05.md",
+                "file": "516-Longest Palindromic Subsequence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,11 +289,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de1fe1d846dd59aa",
+  "active": "32b1bee6a65a3615",
   "lastOpenFiles": [
-    "516-Longest Palindromic Subsequence.md",
-    "daily-notes/2024-06-05.md",
     "String.md",
+    "5-Longest Palindromic Substring.md",
+    "daily-notes/2024-06-07.md",
+    "daily-notes/2024-06-05.md",
+    "516-Longest Palindromic Subsequence.md",
     "1143-Longest common subsequence.md",
     "Rust.md",
     "daily-notes/2024-06-04.md",
@@ -305,8 +319,6 @@
     "Python.md",
     "daily-notes/2024-05-24.md",
     "daily-notes/2024-05-25.md",
-    "ROC.md",
-    "daily-notes/2024-05-18.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",
