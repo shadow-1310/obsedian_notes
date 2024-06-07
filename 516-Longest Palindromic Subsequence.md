@@ -5,7 +5,7 @@ topic:
 - serial no: #leetcode/516 
 - first_done: [[2023-10-11]]
 	- 1st_revised: [[2023-10-27]]
-- last_revised: [[2023-10-27]]
+- last_revised: [[2024-06-04]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
