@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "516-Longest Palindromic Subsequence.md",
+                "file": "daily-notes/2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "516-Longest Palindromic Subsequence.md",
+                "file": "daily-notes/2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "516-Longest Palindromic Subsequence.md",
+                "file": "daily-notes/2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "516-Longest Palindromic Subsequence.md"
+                "file": "daily-notes/2024-06-05.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "516-Longest Palindromic Subsequence.md",
+                "file": "daily-notes/2024-06-05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,6 +279,8 @@
   },
   "active": "de1fe1d846dd59aa",
   "lastOpenFiles": [
+    "516-Longest Palindromic Subsequence.md",
+    "daily-notes/2024-06-05.md",
     "String.md",
     "1143-Longest common subsequence.md",
     "Rust.md",
@@ -305,8 +307,6 @@
     "daily-notes/2024-05-25.md",
     "ROC.md",
     "daily-notes/2024-05-18.md",
-    "daily-notes/2024-05-11.md",
-    "latex.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",
