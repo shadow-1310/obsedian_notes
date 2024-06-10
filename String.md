@@ -13,7 +13,7 @@
 - [ ] [[953-Verifying an alien dictionary]], last done: [[2023-10-28]]
 - [x] [[1143-Longest common subsequence]], last done: [[2023-10-27]]
 - [x] [[516-Longest Palindromic Subsequence]] last done: [[2023-10-27]]
-- [ ] [[72-Edit distance]], last done: [[2023-10-28]], one more time
+- [x] [[72-Edit distance]], last done: [[2024-06-07]], 
 - [ ] [[5-Longest Palindromic Substring]], last done: [[2023-10-27]], once more
 - [ ] [[3-Longest Substring Without Repeating Characters]], last done: [[2023-10-27]]
 - [ ] [[139-Word Break]], last done: [[2023-10-26]], tough

@@ -20,36 +20,24 @@
             }
           },
           {
+            "id": "7ecd33cdd0a0fcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Longest Palindromic Substring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a498406e74fc9e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "72-Edit distance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1fe1d846dd59aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2024-06-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a8bb88813d0834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Longest Common Substring between n Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +68,19 @@
             }
           },
           {
-            "id": "c5dc9a94d016937d",
+            "id": "1b82f84acbed46b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "daily-notes/2024-06-10.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b82f84acbed46b1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "5-Longest Palindromic Substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "5-Longest Palindromic Substring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Campus Placements.md"
+                "file": "5-Longest Palindromic Substring.md"
               }
             }
           },
@@ -264,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IIT Campus Placements.md",
+                "file": "5-Longest Palindromic Substring.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -311,34 +289,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b82f84acbed46b1",
+  "active": "7ecd33cdd0a0fcf5",
   "lastOpenFiles": [
+    "String.md",
+    "5-Longest Palindromic Substring.md",
+    "72-Edit distance.md",
+    "daily-notes/2024-06-10.md",
+    "Longest Common Substring between n Strings.md",
+    "Rust.md",
     "company-FICO.md",
     "IIT Campus Placements.md",
     "company - Info Edge.md",
     "company - Deloitte.md",
     "company-Accenture Japan.md",
-    "72-Edit distance.md",
     "find local maximum in a matrix.md",
     "company-Databricks.md",
     "lamps and points overlap.md",
     "array cycle.md",
     "daily-notes/2024-06-08.md",
-    "String.md",
     "516-Longest Palindromic Subsequence.md",
     "daily-notes/2024-06-07.md",
-    "5-Longest Palindromic Substring.md",
     "daily-notes/2024-06-05.md",
     "1143-Longest common subsequence.md",
-    "Rust.md",
     "daily-notes/2024-06-04.md",
     "Linux.md",
     "yazi.md",
-    "Longest Common Substring between n Strings.md",
     "daily-notes/2024-05-30.md",
     "718-Max length of repeated subarray.md",
     "Strings.md",
-    "Dynamic Programming.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
