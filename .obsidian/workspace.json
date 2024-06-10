@@ -78,9 +78,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5dc9a94d016937d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Campus Placements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b82f84acbed46b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:rust",
+                "query": "file:place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "72-Edit distance.md",
+                "file": "IIT Campus Placements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "72-Edit distance.md",
+                "file": "IIT Campus Placements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "72-Edit distance.md"
+                "file": "IIT Campus Placements.md"
               }
             }
           },
@@ -242,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "72-Edit distance.md",
+                "file": "IIT Campus Placements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,10 +311,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a498406e74fc9e24",
+  "active": "1b82f84acbed46b1",
   "lastOpenFiles": [
-    "String.md",
+    "company-FICO.md",
+    "IIT Campus Placements.md",
+    "company - Info Edge.md",
+    "company - Deloitte.md",
+    "company-Accenture Japan.md",
     "72-Edit distance.md",
+    "find local maximum in a matrix.md",
+    "company-Databricks.md",
+    "lamps and points overlap.md",
+    "array cycle.md",
+    "daily-notes/2024-06-08.md",
+    "String.md",
     "516-Longest Palindromic Subsequence.md",
     "daily-notes/2024-06-07.md",
     "5-Longest Palindromic Substring.md",
@@ -307,18 +339,8 @@
     "718-Max length of repeated subarray.md",
     "Strings.md",
     "Dynamic Programming.md",
-    "DSA/Topics/DSA.md",
-    "bioinformatics.md",
-    "daily-notes/2024-05-27.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
-    "daily-notes/2024-05-26.md",
-    "28-find index of first occurance.md",
-    "templates/DSA_problem.md",
-    "CS563.md",
-    "MTP.md",
-    "Python.md",
-    "daily-notes/2024-05-24.md",
     "attachments/Pasted image 20240503224606.png",
     "attachments/Pasted image 20240503215607.png",
     "attachments/Pasted image 20240223214213.png",
