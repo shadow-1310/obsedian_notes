@@ -6,7 +6,8 @@ topic: [[Dynamic Programming]]
 - first_done: [[2023-07-24]]
 	- 1st_revised: [[2023-09-16]]
 	- 2nd_revised: [[2023-10-11]]
-- last_revised: [[2023-10-27]]
+	- 3rd_revised: [[2023-10-27]]
+- last_revised: [[2024-06-10]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -32,7 +33,8 @@ topic: [[Dynamic Programming]]
 - remember how to initialize for odd and even strings
 #### mistakes
 - if you are doing by using count variable, then initialize count as 0 in starting of odd numbers loop and count as 1 for even number loop
-- increment count by 2 each time condition is met both for odd and even loop.
+- do not try to maintain a separate variable for current length by increment count by 2 each time condition is met both for odd and even loop.
+	- instead just do right - left + 1
 - do not use a extra count variable for current length of palindrome, instead use index of right and left pointer
 #### code snippet
 ```python
