@@ -7,7 +7,8 @@ topic:
 	- 1st_revised: [[2023-06-02]]
 	- 2nd_revised: [[2023-09-06]]
 	- 3rd_revised: [[2023-10-27]]
-- last_revised: [[2023-11-01]]
+	- 4th_revised: [[2023-11-01]]
+- last_revised: [[2024-06-11]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
@@ -26,7 +27,8 @@ topic:
 - after each iteration count length of current sequence by `right - left + 1` and compare it with `max_count`, if found more update `max_count`
 #### mistakes
 - put the breaking condition of encountering previously seen character as index >= left instead left > index
-- don't forget to add the current char to seen map
+- don't forget to add the current char to `seen_map`
+- if the current character is already seen then update left pointer to `seen_map[char] + 1`
 #### code snippet
 ```python
 

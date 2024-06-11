@@ -4,7 +4,7 @@ topic:
 - source: 
 - serial no: #leetcode/438 
 - first_done: [[2023-10-27]]
-- last_revised:
+- last_revised: [[2024-06-11]]
 - difficulty:
 	- [ ] easy
 	- [x] medium

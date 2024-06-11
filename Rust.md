@@ -27,8 +27,21 @@ PyO3 to call Rust from Python
 ```rust
 let chars: Vec<&char> = str.chars().collect()
 ```
+- get ordinal value (ASCII value) of a character in a vector
+	- stackoverflow post https://stackoverflow.com/questions/75558423/how-do-i-convert-to-ascii-in-rust
+```rust
+let s = String::from("abc");
+let value = s[index as usize].to_ascii_lowercase() as i32;
+```
+- assert_eq! with empty vector for testing purpose
+	- https://stackoverflow.com/questions/63092178/how-do-i-annotate-the-type-of-an-empty-slice-in-rust
+```rust
+let a: Vec<String> = Vec::new();
+assert_eq!(vec!["";0], a);
 
-
+let b: Vec<i32> = Vec::new();
+assert_eq!(vec![0;0], b);
+```
 ## Daywise
 ---
 #### Day1 - [[2024-01-06]]
