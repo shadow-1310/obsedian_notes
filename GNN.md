@@ -13,6 +13,18 @@ Graph features
 	- bond type
 - graph features
 	- molecular energy
+Degree of a node
+- degree $d_i$ of node i is the sum of the weights of its incident edges
+Degree Matrix
+- It is a diagonal matrix D with degrees as diagonal entries
+Laplacian Matrix of a graph
+- Laplacian matrix of a graph with adjacency matrix A is, L = D - A
+Normalized adjacency matrix
+- expresses weights relative to nodes' degrees
+- pre and post multiplication by degree matrix
+- $\bar{A}=D^\frac{-1}{2}AD^\frac{-1}{2}$
+Graph Shift Operator S
+- 
 ## Types
 - Spectral
 	- computationally expensive
