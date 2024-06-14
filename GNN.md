@@ -29,3 +29,17 @@ Graph features
 - Stationary (shared patterns)
 - Hierarchical (multiscale)
 	- combination of low-level features make the high level features in images
+
+## GCN
+- template matching for graphs
+	- no node ordering
+	- heterogeneous neighbourhood
+- convolution theorem for graph
+	- time complexity is $O(N^2)$ for normal fourier transform
+	- it reduces to $O(N)$ only for grid like data(e.g. image)
+
+Spectral Graph Theory 
+- Core operator is Normalized Laplacian
+	- interpretation is measure of smoothness
+- Eigen decomposition of Laplacian Graph
+	- fourier functions -> laplacian eigen vectors
