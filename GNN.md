@@ -1,5 +1,6 @@
 ## Learning resource
 - [AI-epiphany blog](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963ajjk)
+- https://gnn.seas.upenn.edu/lectures/lecture-3/
 ## Intro
 Graph is defined by
 - vertices V
