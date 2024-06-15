@@ -1,6 +1,22 @@
 ## Learning resource
 - [AI-epiphany blog](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963ajjk)
 - https://gnn.seas.upenn.edu/lectures/lecture-3/
+
+## Why do we need GNN
+Graph data is different in following senses
+- Size and shape
+	- FFNN takes same size input ,but graph size may vary and we cannot simply remove nodes to make it same size
+- Isomosrphism
+	- permutation invariance
+- Grid Structure
+	- Graphs are in non euclidean space 
+## Applications
+- Node level predictions
+	- does this person smoke
+- Edge level prediction
+	- next netflix video
+- graph level predictions
+	- is this molecule a suitable drug
 ## Intro
 Graph is defined by
 - vertices V
