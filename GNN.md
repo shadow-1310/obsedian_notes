@@ -25,7 +25,7 @@ Normalized adjacency matrix
 - pre and post multiplication by degree matrix
 - $\bar{A}=D^\frac{-1}{2}AD^\frac{-1}{2}$
 Graph Shift Operator S
-- 
+- It is a stand in for any matrix representation of the graph
 ## Types
 - Spectral
 	- computationally expensive
