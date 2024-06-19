@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNN.md",
+                "file": "String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNN.md",
+                "file": "String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNN.md"
+                "file": "String.md"
               }
             }
           },
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GNN.md",
+                "file": "String.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,10 +276,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d686c5f1aa3f4709",
+  "active": "e13646da127689da",
   "lastOpenFiles": [
-    "daily-notes/2024-06-15.md",
     "GNN.md",
+    "daily-notes/2024-06-19.md",
+    "daily-notes/2024-06-15.md",
     "daily-notes/2024-06-14.md",
     "attachments/Pasted image 20240613135931.png",
     "String.md",
@@ -305,7 +305,6 @@
     "company-Databricks.md",
     "lamps and points overlap.md",
     "array cycle.md",
-    "daily-notes/2024-06-08.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",

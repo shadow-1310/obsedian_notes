@@ -18,6 +18,6 @@
 - [x] [[3-Longest Substring Without Repeating Characters]], last done: [[2024-06-11]]
 - [ ] [[139-Word Break]], last done: [[2023-10-26]], tough
 - [x] [[438-Find all anagrams of a string]], last done: [[2024-06-11]]
-- [x] [[28-find index of first occurance]]
+- [ ] [[28-find index of first occurance]]
 - [ ] [[718-Max length of repeated subarray]]
 - [ ] [[Longest Common Substring between n Strings]]
