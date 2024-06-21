@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "String.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "String.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String.md"
+                "file": "953-Verifying an alien dictionary.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "String.md",
+                "file": "953-Verifying an alien dictionary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,12 +278,13 @@
   },
   "active": "e13646da127689da",
   "lastOpenFiles": [
+    "String.md",
+    "daily-notes/2024-06-20.md",
     "GNN.md",
     "daily-notes/2024-06-19.md",
     "daily-notes/2024-06-15.md",
     "daily-notes/2024-06-14.md",
     "attachments/Pasted image 20240613135931.png",
-    "String.md",
     "daily-notes/2024-06-13.md",
     "Rust.md",
     "daily-notes/2024-06-11.md",
@@ -304,7 +305,6 @@
     "find local maximum in a matrix.md",
     "company-Databricks.md",
     "lamps and points overlap.md",
-    "array cycle.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
