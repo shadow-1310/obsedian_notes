@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e13646da127689da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "953-Verifying an alien dictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d686c5f1aa3f4709",
             "type": "leaf",
             "state": {
@@ -32,43 +20,43 @@
             }
           },
           {
-            "id": "ae5edd405e188d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "438-Find all anagrams of a string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2da1c764805ba4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "DSA/Topics/DSA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af9a323db526bdb1",
+            "id": "cbd475abd1d8e42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db2182072dfc43a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "718-Max length of repeated subarray.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:place",
+                "query": "file:dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNN.md",
+                "file": "718-Max length of repeated subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNN.md",
+                "file": "718-Max length of repeated subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNN.md"
+                "file": "718-Max length of repeated subarray.md"
               }
             }
           },
@@ -230,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GNN.md",
+                "file": "718-Max length of repeated subarray.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,22 +265,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d686c5f1aa3f4709",
+  "active": "db2182072dfc43a0",
   "lastOpenFiles": [
+    "String.md",
+    "DSA/Topics/DSA.md",
+    "Linux.md",
+    "templates/DSA_topics.md",
+    "Rust.md",
+    "templates/DSA_problem.md",
+    "IIT Campus Placements.md",
+    "GNN.md",
+    "438-Find all anagrams of a string.md",
     "953-Verifying an alien dictionary.md",
     "daily-notes/2024-06-21.md",
-    "String.md",
     "daily-notes/2024-06-20.md",
-    "GNN.md",
     "daily-notes/2024-06-19.md",
     "daily-notes/2024-06-15.md",
     "daily-notes/2024-06-14.md",
     "attachments/Pasted image 20240613135931.png",
     "daily-notes/2024-06-13.md",
-    "Rust.md",
     "daily-notes/2024-06-11.md",
-    "438-Find all anagrams of a string.md",
-    "Linux.md",
     "daily-notes/2024-06-10.md",
     "72-Edit distance.md",
     "516-Longest Palindromic Subsequence.md",
@@ -301,11 +293,7 @@
     "5-Longest Palindromic Substring.md",
     "Longest Common Substring between n Strings.md",
     "company-FICO.md",
-    "IIT Campus Placements.md",
     "company - Info Edge.md",
-    "company - Deloitte.md",
-    "company-Accenture Japan.md",
-    "find local maximum in a matrix.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
