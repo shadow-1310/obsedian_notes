@@ -10,6 +10,12 @@ Graph data is different in following senses
 	- permutation invariance
 - Grid Structure
 	- Graphs are in non euclidean space 
+
+Key properties
+- Permutation invariance
+	- order or permutation of the nodes should not matter when applying a function
+- Permuation equivariance
+	- the permutation that we apply to the input graph should result in the exact same permutation also in the output.
 ## Applications
 - Node level predictions
 	- does this person smoke

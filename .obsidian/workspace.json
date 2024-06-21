@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "GNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "GNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "953-Verifying an alien dictionary.md"
+                "file": "GNN.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "953-Verifying an alien dictionary.md",
+                "file": "GNN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -276,8 +277,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e13646da127689da",
+  "active": "d686c5f1aa3f4709",
   "lastOpenFiles": [
+    "953-Verifying an alien dictionary.md",
+    "daily-notes/2024-06-21.md",
     "String.md",
     "daily-notes/2024-06-20.md",
     "GNN.md",
@@ -303,8 +306,6 @@
     "company - Deloitte.md",
     "company-Accenture Japan.md",
     "find local maximum in a matrix.md",
-    "company-Databricks.md",
-    "lamps and points overlap.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
