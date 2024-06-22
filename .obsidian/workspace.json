@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "cbd475abd1d8e42a",
+            "id": "4c62dfe28b5d8bad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String.md",
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db2182072dfc43a0",
+            "id": "52e8a68fd4146e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "200-Number of islands.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "200-Number of islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "200-Number of islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "718-Max length of repeated subarray.md"
+                "file": "200-Number of islands.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "718-Max length of repeated subarray.md",
+                "file": "200-Number of islands.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,10 +265,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db2182072dfc43a0",
+  "active": "52e8a68fd4146e5b",
   "lastOpenFiles": [
+    "Graph.md",
     "String.md",
     "DSA/Topics/DSA.md",
+    "718-Max length of repeated subarray.md",
+    "28-find index of first occurance.md",
+    "daily-notes/2024-06-22.md",
     "Linux.md",
     "templates/DSA_topics.md",
     "Rust.md",
@@ -290,10 +294,6 @@
     "516-Longest Palindromic Subsequence.md",
     "1143-Longest common subsequence.md",
     "3-Longest Substring Without Repeating Characters.md",
-    "5-Longest Palindromic Substring.md",
-    "Longest Common Substring between n Strings.md",
-    "company-FICO.md",
-    "company - Info Edge.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",

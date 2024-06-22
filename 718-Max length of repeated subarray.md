@@ -3,7 +3,7 @@ topic:
 ### basic info
 - source: #leetcode 
 - serial no: #leetcode/718 
-- first_done:
+- first_done: [[2024-06-21]]
 - last_revised:
 - difficulty:
 	- [ ] easy
