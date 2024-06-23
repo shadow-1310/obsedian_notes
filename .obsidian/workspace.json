@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52e8a68fd4146e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200-Number of islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Number of islands.md",
+                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Number of islands.md",
+                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Number of islands.md"
+                "file": "Graph.md"
               }
             }
           },
@@ -218,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200-Number of islands.md",
+                "file": "Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,8 +253,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52e8a68fd4146e5b",
+  "active": "4c62dfe28b5d8bad",
   "lastOpenFiles": [
+    "200-Number of islands.md",
+    "daily-notes/2024-06-23.md",
     "Graph.md",
     "String.md",
     "DSA/Topics/DSA.md",
@@ -292,8 +282,6 @@
     "daily-notes/2024-06-10.md",
     "72-Edit distance.md",
     "516-Longest Palindromic Subsequence.md",
-    "1143-Longest common subsequence.md",
-    "3-Longest Substring Without Repeating Characters.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",

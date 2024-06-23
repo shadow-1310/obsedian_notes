@@ -4,7 +4,8 @@ topic:
 - source: 
 - serial no: #leetcode/200 
 - first_done: [[2023-09-26]]
-- last_revised: [[2023-10-17]]
+	- 1st_revised: [[2023-10-17]]
+- last_revised: [[2024-06-23]]
 - difficulty:
 	- [ ] easy
 	- [x] medium
