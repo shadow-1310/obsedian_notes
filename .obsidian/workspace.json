@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph.md"
+                "file": "daily-notes/2024-06-25.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graph.md",
+                "file": "daily-notes/2024-06-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,8 +255,9 @@
   },
   "active": "4c62dfe28b5d8bad",
   "lastOpenFiles": [
-    "daily-notes/2024-06-24.md",
     "Graph.md",
+    "daily-notes/2024-06-25.md",
+    "daily-notes/2024-06-24.md",
     "200-Number of islands.md",
     "daily-notes/2024-06-23.md",
     "String.md",
@@ -281,7 +282,6 @@
     "daily-notes/2024-06-13.md",
     "daily-notes/2024-06-11.md",
     "daily-notes/2024-06-10.md",
-    "72-Edit distance.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
