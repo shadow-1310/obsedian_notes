@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-06-25.md",
+                "file": "GNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dsa",
+                "query": "file:gnn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-06-25.md",
+                "file": "GNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-06-25.md",
+                "file": "GNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-06-25.md"
+                "file": "GNN.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-06-25.md",
+                "file": "GNN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,8 +255,8 @@
   },
   "active": "4c62dfe28b5d8bad",
   "lastOpenFiles": [
-    "Graph.md",
     "daily-notes/2024-06-25.md",
+    "Graph.md",
     "daily-notes/2024-06-24.md",
     "200-Number of islands.md",
     "daily-notes/2024-06-23.md",

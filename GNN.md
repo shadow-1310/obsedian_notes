@@ -78,3 +78,11 @@ Spectral Graph Theory
 	- interpretation is measure of smoothness
 - Eigen decomposition of Laplacian Graph
 	- fourier functions -> laplacian eigen vectors
+
+Steps
+- Transform
+	- use a MLP layer to enhance the node features 
+- Aggregation
+	- aggregate the neighbour node features using a function which is permutation invariant
+- Update
+	- Combine neighbour features with self feature to update each node's feature
