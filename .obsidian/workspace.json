@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027eecda318186ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git-Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:gnn",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNN.md",
+                "file": "Git-Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNN.md",
+                "file": "Git-Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNN.md"
+                "file": "Git-Github.md"
               }
             }
           },
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GNN.md",
+                "file": "Git-Github.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,8 +265,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c62dfe28b5d8bad",
+  "active": "027eecda318186ec",
   "lastOpenFiles": [
+    "daily-notes/2024-06-26.md",
     "daily-notes/2024-06-25.md",
     "Graph.md",
     "daily-notes/2024-06-24.md",
@@ -281,7 +294,6 @@
     "attachments/Pasted image 20240613135931.png",
     "daily-notes/2024-06-13.md",
     "daily-notes/2024-06-11.md",
-    "daily-notes/2024-06-10.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",
