@@ -29,6 +29,18 @@ Graph is defined by
 - Edges E
 - adjacency matrix A
 
+Graph Representations
+- Adjacency matrix
+- COO format(edge index)
+	- stores 3 list
+		- first list is x coordinate
+		- 2nd list is y coordinate
+		- 3 rd is value at the point 
+- Interaction Matrix (for Bipartite graph)
+	- since we have 2 types of nodes(U and V)
+	- row index represents node type U
+	- col index represents node type V
+
 Graph features
 - Node features
 	- atom type
@@ -96,3 +108,17 @@ Graph level predictions
 	- TopK Pooling
 	- Super/ dummy node
 - 
+
+## Rec System
+### Resources
+- [AI alchemy video](https://www.youtube.com/watch?v=h1zxhx815Fk)
+- 
+#### Types
+Supervised Learning
+- labels come from external sources
+- predicts ratings of an interaction
+Semi-supervised learning
+- signals come from graph itself
+- link prediction, predict if 2 nodes are connected
+- Loss function used is BPR - Bayesian Personalized Ranking
+	- 
