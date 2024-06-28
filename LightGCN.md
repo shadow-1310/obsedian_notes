@@ -1,3 +1,7 @@
+### References
+- [medium blog](https://medium.com/@jn2279/better-recommender-systems-with-lightgcn-a0e764af14f9)
+- 
+
 #### Modifications
 - removes ReLU non linearity
 	- normalized adjacency matrix doesnot include self loop like in the GCN paper
