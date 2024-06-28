@@ -120,5 +120,22 @@ Supervised Learning
 Semi-supervised learning
 - signals come from graph itself
 - link prediction, predict if 2 nodes are connected
-- Loss function used is BPR - Bayesian Personalized Ranking
-	- 
+
+Objective
+- maximize recall@k, but we cannot use it as loss function because it is not differentiable
+
+Loss functions
+- Binary Loss
+	- working
+		- it pushes scores of +ve edges higher than thos of -ve edges
+		- $\frac{1}{|E|} \sum_{(u,v) \in E} \log \left( \sigma ( f_{\theta} (u, v) ) \right) - \frac{1}{|E_{\text{neg}}|} \sum_{(u,v) \in E_{\text{neg}}} \log \left( 1 - \sigma ( f_{\theta} (u, v) ) \right)$
+	- Issue
+		- it is non personalized in the sense that +ve/-ve edges are considered across all users at once.
+		- but recall metric which we will evaluate the model is personalized
+- BPR - Bayesian Personalized Ranking
+	- working
+		- we calculate loss for each user separately and then sum it up 
+		- $\text{Loss}(u^*) = \frac{1}{|E(u^*)| \cdot |E_{\text{neg}}(u^*)|} \sum_{(u^*, v_{\text{pos}}) \in E(u^*)} \sum_{(u^*, v_{\text{neg}}) \in E_{\text{neg}}(u^*)} -\log \left( \sigma \left( f_{\theta}(u^*, v_{\text{pos}}) - f_{\theta}(u^*, v_{\text{neg}}) \right) \right)$
+### Popular methods
+- [[NGCF]]
+- [[LightGCN]]
