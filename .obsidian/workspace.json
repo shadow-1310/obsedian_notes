@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "027eecda318186ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: rust",
+                "query": "file: gnn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "GNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "GNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "GNN.md"
               }
             }
           },
@@ -218,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rust.md",
+                "file": "GNN.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,9 +253,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "027eecda318186ec",
+  "active": "4c62dfe28b5d8bad",
   "lastOpenFiles": [
     "Git-Github.md",
+    "Rust.md",
+    "daily-notes/2024-06-27.md",
     "daily-notes/2024-06-26.md",
     "daily-notes/2024-06-25.md",
     "Graph.md",
@@ -281,7 +271,6 @@
     "daily-notes/2024-06-22.md",
     "Linux.md",
     "templates/DSA_topics.md",
-    "Rust.md",
     "templates/DSA_problem.md",
     "IIT Campus Placements.md",
     "GNN.md",
@@ -293,7 +282,6 @@
     "daily-notes/2024-06-15.md",
     "daily-notes/2024-06-14.md",
     "attachments/Pasted image 20240613135931.png",
-    "daily-notes/2024-06-13.md",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
     "attachments/Pasted image 20240503224606.png",

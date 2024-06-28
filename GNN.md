@@ -65,7 +65,8 @@ Graph Shift Operator S
 - Hierarchical (multiscale)
 	- combination of low-level features make the high level features in images
 
-## GCN
+## GCN - motivated by spectral methods
+but it is not a spectral 
 - template matching for graphs
 	- no node ordering
 	- heterogeneous neighbourhood
@@ -86,3 +87,12 @@ Steps
 	- aggregate the neighbour node features using a function which is permutation invariant
 - Update
 	- Combine neighbour features with self feature to update each node's feature
+
+Graph level predictions
+- Naive global pooling
+	- gets naive features like mean, max, min for the whole graph and concatenate them into a vector
+- Hierarchical Pooling
+	- Differentiable Pooling
+	- TopK Pooling
+	- Super/ dummy node
+- 
