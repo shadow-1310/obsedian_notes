@@ -50,6 +50,11 @@ dbSNP, ClinVar, gnomAD
 	- Copy Number Variations
 	- alteration in number of copies of specific DNA segment
 - Structural Variants
+	- Insertion
+	- Inversion
+	- deletion
+	- duplication
+	- CNV - copy number variation
 
 #### Common File Types
 - FASTQ
@@ -77,3 +82,14 @@ Why splicing is required
 - Reusability ->Alternative Splicing
 - instead of having separate gene for each protein
 - cell leverage intro-exon mechanism to create multiple protein from same gene
+
+Homozygous and Heterozygous
+[youtube video explaining advantage of heterozygous](https://www.youtube.com/watch?v=DfRvbrtRFPY)
+[]
+- Normal Hb --> HbAA
+- Sickle cell trait --> HbAS
+	- heterozygous - codominance
+	- sickle in extreme conditions, like hypoxia, hypertonicity (occurs in medulla)
+	- protects against malaria
+- Sickle cell anemia --> HbSS
+	- homozygous
