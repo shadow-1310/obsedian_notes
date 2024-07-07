@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "eb1de61c75994e60",
+            "id": "a07424042881c170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-06-29.md",
+                "file": "Jobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2839ea0c83b8f3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StrandLS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-06-29.md",
+                "file": "StrandLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-06-29.md",
+                "file": "StrandLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-06-29.md"
+                "file": "StrandLS.md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024-06-29.md",
+                "file": "StrandLS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,11 +277,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb1de61c75994e60",
+  "active": "2839ea0c83b8f3c5",
   "lastOpenFiles": [
-    "LightGCN.md",
-    "daily-notes/2024-06-29.md",
+    "Jobs.md",
+    "StrandLS.md",
     "GNN.md",
+    "daily-notes/2024-06-29.md",
+    "daily-notes/2024-07-07.md",
+    "LightGCN.md",
     "daily-notes/2024-06-28.md",
     "Git-Github.md",
     "Rust.md",
@@ -290,9 +305,6 @@
     "templates/DSA_problem.md",
     "IIT Campus Placements.md",
     "438-Find all anagrams of a string.md",
-    "953-Verifying an alien dictionary.md",
-    "daily-notes/2024-06-21.md",
-    "daily-notes/2024-06-20.md",
     "attachments/Pasted image 20240613135931.png",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
