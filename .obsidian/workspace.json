@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0281b13dd18af8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "39-Combination_Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0126615c188defbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "39-Combination_Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "39-Combination_Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Topics/Backtracking.md"
+                "file": "39-Combination_Sum.md"
               }
             }
           },
@@ -218,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DSA/Topics/Backtracking.md",
+                "file": "39-Combination_Sum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,11 +289,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a07424042881c170",
+  "active": "b0281b13dd18af8d",
   "lastOpenFiles": [
-    "78-Subsets.md",
     "DSA/Topics/Backtracking.md",
     "90-Subsets-II.md",
+    "temp.md",
+    "78-Subsets.md",
+    "daily-notes/2024-07-11.md",
     "Jobs.md",
     "daily-notes/2024-07-09.md",
     "daily-notes/2024-07-08.md",
@@ -291,8 +317,6 @@
     "String.md",
     "DSA/Topics/DSA.md",
     "718-Max length of repeated subarray.md",
-    "28-find index of first occurance.md",
-    "daily-notes/2024-06-22.md",
     "attachments/Pasted image 20240613135931.png",
     "attachments/Pasted image 20240526115526.png",
     "attachments/Pasted image 20240526115446.png",
